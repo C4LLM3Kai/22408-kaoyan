@@ -5,8 +5,16 @@
 # ---- 内部工作目录（不上传）----
 .work/
 .work-english-reading/
-.dsh/
+.dsh/*
 .dsh-uninstall-backup/
+
+# 例外：github-sync skill 本身要纳入版本控制，
+# 否则换机器克隆仓库后这个上传工具就没了。
+# 注意：git 不会进入被排除的目录，所以要逐层放行再逐层收紧。
+!.dsh/skills/
+.dsh/skills/*
+!.dsh/skills/github-sync/
+!.dsh/skills/github-sync/**
 
 # ---- Python 虚拟环境与缓存（不上传）----
 .venv/
