@@ -1,0 +1,32 @@
+《考研数学线性代数基础讲义》 107 第六章 二次型
+6.1 二次型的定义及其表示
+ 含有n个变量x1,x2,,xn 的二次实齐次多项式
+  fx,x,,xa x22a xx 2a xx 1 2 n 11 1 12 1 2 1n 1 n
+a x22a xx 22 2 2n 2 n
+
+a x2 nn n
+1
+ 称为 n 元二次型, 简称二次型.
+注 1:考研中只讨论实数域上的 n 元二次型.
+注 2:二次型中所有项必须满足“二次齐次”. 例如 f x , x , x , x   3x2  x x  2x x  6x x  9x x 是一
+个 4 个变量的实二次型，而多项式 f (x, y)  x2  xy  2y2  3x 1则不是一个实二次型. 当ji时, 取aji aij , 则2aijxixj aijxixj ajixjxi, 于是1式可写成
+fx,x,,xa x2 a xx a xx 12n1111212 1n1n
+a x x a x2 a x x 21 2 1 22 2 2n 2 n
+
+1234312132434
+ 可简记为fx1,x2,,xn
+ i1 j1
+axx,其中a a,1i,jn. ijij jiij
+进一步，利用矩阵，2式可表示为
+nn
+a x x a x x a x2 n1 n 1 n2 n 2 nn n
+2
+fx,x,,xx(a xa x a x)x(a xa x a x)x(a xa x a x) 1 2 n 1 11 1 12 2 1n n 2 21 1 22 2 2n n n n1 1 n2 2 nn n
+ a11x1 a12x2 a1nxn  a x a x a x 
+x,x,,x21 1 22 2 2n n 12n
+a x a x a x   n1 1 n2 2 nn n 
+a11 a12  a1nx1 a a ax记作
+x,x,,x 21 22 2n 2xTAx 1 2 n    
+a a ax  n1 n2 nn  n 
+ 其中，矩阵 A 为实对称矩阵 A = AT . 此时矩阵 A 唯一，称 A 为该二次型的矩阵. 实对称矩阵 A 的秩
+ 称为实二次型 f x ,x ,,x  xT Ax 的秩. 12n

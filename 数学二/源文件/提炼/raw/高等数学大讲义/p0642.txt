@@ -1,0 +1,26 @@
+8.【冯建轩】求 (sin ,cos , )x
+F y z e= 沿曲面 z xy= （ 0 1,0 1 x y     ）上侧的流量
+sin cos ?x ydydz zdzdx e dxdy
+
+ = + + =
+
+9.【冯建轩】计算 ( , , ) F yz xz xy= 穿过环面
+( , ) ((2 cos )cos ,(2 cos )sin ,sin )       = + +
+r 外侧的流量
+?
+yzdydz xzdzdx xydxdy
+
+ = + + = 
+10.【冯建轩】求 2 ( ln(1 ), arctan , ) xy
+F x z y z e = + 沿双曲面 2 2 1
+z x y = + +
+（ 0 5 z   ）下侧的流量
+2 ln(1 ) arctan ?
+xy x z dydz y zdzdx e dxdy
+
+ = + + + =
+
+冯建轩
+冯建轩
+冯建轩《高等数学大讲义》 冯建轩 若有错误，请自行纠正
+版权所有，仅供交流学习 642 冯建轩

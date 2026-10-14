@@ -1,0 +1,34 @@
+27 喻老高数强化讲义 题型五 无穷小量的阶与参数问题
+例题 49 设 x → a 时 f(x) 与 g(x) 分别是 x − a 的 n 阶与 m 阶无穷小，则下列命题 (1)f(x)g(x) 是 x − a 的 n + m 阶无穷小.
+ (2)若n>m，则 f(x) 是x−a的n−m阶无穷小. g(x)
+(3)若 n ≤ m ，则 f(x) + g(x) 是 x − a 的 n 阶无穷小. 中，正确的个数是( ).
+ (A)0. (B)1. (C)2. (D)3.
+解 由题意有
+对于命题(1)，因
+g(x) (x − a)m+n
+要使 lim f(x)g(x) 存在且不为 0 ，则 k = m + n ，故 f(x)g(x) 是 x − a 的 n + m 阶无穷小，从而命题
+lim f(x) x→a (x−a)n
+̸= 0,
+lim g(x) x→a (x−a)m
+̸= 0.
+  f (x)g(x)
+lim =lim · · ,
+f (x)
+x→a (x−a)k x→a (x−a)n (x−a)m (x−a)k
+     x→a (x−a)k (1)正确.
+对于命题(2)，当 n > m 时，因 f(x)
+f (x) 要使 lim g(x)
+x→a (x − a)k
+f(x) + g(x) = 0 ，它不是 x − a 的 n 阶无穷小，故命题(3)不正确.应选(C).
+例题50 已知当x→0时，f(x)=3sinx−sin3x与cxk 是等价无穷小，则( ). (A)k = 1, c = 4
+(B)k = 1, c = −4 (C)k = 3, c = 4 (D)k = 3, c = −4
+lim g(x) x→a (x−a)k
+= lim f(x) x→a (x−a)n
+· (x − a) g(x)
+m
+n−m · (x − a) ,
+    (x−a)k
+存在但不为 0 ，则 k = n−m ，故 f(x) 是 x−a 的 n−m 阶无穷小，从而命题(2)正确.
+  g(x)
+对于命题(3)，若取 n = m ，且 f(x) = (x − a)n,g(x) = −(x − a)n ，则满足题目条件，但
+32

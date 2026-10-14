@@ -1,0 +1,16 @@
+一、导数定义式
+fx0lim fx0xfx0 x0 x
+fx0lim f(x)fx0 xx0 xx0
+二、基本求导公式
+第二章 一元函数微分学
+公众号:考研经验超市
+          三、高阶导常用公式
+(sinx)(n) sinxn 2
+ (cosx)(n) cosxn
+2 
+(uv)(n) u(n) v(n)
+(uv)(n) u(n)vC1u(n1)v C2u(n2)v Cn1uv(n1) uv(n)  n Cku(nk)v(k) nnnn
+k0
+1(n) nn n!
+axb (1) a (axb)n1 
+  9

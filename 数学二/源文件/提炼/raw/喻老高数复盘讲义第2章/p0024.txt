@@ -1,0 +1,46 @@
+
+27 喻老高数强化讲义 f x3 sin x1 , x ̸= 0,
+xxx
+当 x = 0 时，F(x) 为 f(u) 和 u = φ(x) 的复合，且 φ(0) = 0，由题设 f′(0) 存在，若 φ′(0) 存在，
+则由复合函数求导法知 F′(0) = f′(0)φ′(0)，而
+故 F′(0) = f′(0) × 0 = 0. 注 本题经典错误如下:
+ 
+解 F(x) = f(φ(x)) = 
+当x̸=0时，F′(x)=f′ x3sin1 3x2sin1−xcos1 ;
+f(0),
+x = 0. 
+x3 sin 1 − 0 1 φ′(0)= lim x = limx2sin =0.
+ F′(0) = lim F(x) − F(0) x→0 x−0 
+f x3sin1 −f(0) x
+x→0 x x→0 x
+ = lim
+x→0 x−0
+ = lim
+x→0
+= lim
+x→0 
+f x3sinx1 −f(0) x3sinx1 ·
+
+  x3 sin x1 
+f x3sinx1 −f(0) x3 sin x1
+x x3sin1
+· lim
+x→0 x
+x = f′(0) · 0 = 0.
+在 x = 0 的任何去心邻域内都有没定
+  原因是极限 lim x→0
+义的点x= 1. nπ
+不存在，因为 f
+x3 sin 1 x
+f x3sin1 −f(0) x
+x3 sin x1
+
+
+ 3. 隐函数
+例题24 设函数y=y(x)由方程xef(y) =ey 确定，其中f具有二阶导数，且f′ ̸=1，求 d2y. dx2
+解在方程两边对x求导有ef(y) +xef(y) ·f′(y)·y′ =ey ·y′.
+ef(y) 1
+解之得 y′ = ey − xef(y) · f′(y). 将 xef(y) = ey 代入并化简，得 y′ = x[1 − f′(y)]. 两边再对 x 求导有
+′′ −[1−f′(y)]+xf′′(y)·y′ −1 f′′(y)
+y = {x[1−f′(y)]}2 =x2[1−f′(y)]+x2[1−f′(y)]3.
+      24

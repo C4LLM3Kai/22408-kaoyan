@@ -1,0 +1,58 @@
+ 解 由 lim f(0) = 0.
+f(0)dt =
+f(x) x→0 x
+27 喻老高数强化讲义
+= A，可得 lim f(x) = 0.又因为 f(x) 连续，所以 f(0) = 0.于是，φ(0) =
+x→0
+Z
+Z
+0
+1
+ 当 x ̸= 0 时，φ(x) =
+1x10 f(xt)dt = f(u) · du =
+，故
+Z
+f(u)du xx
+f (u)du
+Z
+x
+ 00
+ZZ Z
+x′x x f(u)du · x − f(u)du xf(x) −
+f(u)du φ′(x)=0 0=0.
+  当 x = 0 时，
+x2
+x
+x2
+Z
+x
+φ(x)−φ(0) 0 −0 f(u)du f(x) A =lim x   =lim 0   =lim   = .
+Z
+ φ′(0)=lim
+x→0x−0x→0 x x→0x2 x→02x2
+ 因此，
+而
+Z  x
+0
+  A2 , ZZ
+xf(x) −
+φ (x) =  x2
+f(u)du
+′
+, x̸=0, x = 0 .
+ xx
+xf(x)− f(u)du f(x) f(u)du A A 0 = lim   − lim 0   = A − =
+lim φ′(x) = lim
+x→0 x→0 x2 x→0xx→0x2 22
+.
+ 由于 lim φ′(x) = φ′(0)，故 φ′(x) 在 x = 0 处连续. x→0
+题型三 导数的计算
+一、基本求导公式与求导法则
+1. 常数和基本初等函数的导数公式
+(1)(C)′ = 0.
+(2)(xu)′ = uxu−1.
+(3)(sin x)′ = cos x.
+(4)(cos x)′ = − sin x.
+(5)(tan x)′ = sec2 x.
+(6)(cot x)′ = − csc2 x. (7)(sec x)′ = tan x sec x. (8)(csc x)′ = − cot x csc x. (9)(ax)′ = ax lna(a > 0,a ̸= 1).
+20

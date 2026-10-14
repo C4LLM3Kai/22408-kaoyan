@@ -1,0 +1,8 @@
+27 喻老高数强化讲义
+解 设圆柱体的底面半径为 r(t)，高为 h(t)，则圆柱体的体积 V (t) = πr2(t)h(t)，表面积 S(t) = 2πr(t)h(t)+
+ 2πr2(t). 由链式法则，
+因此，应选(C).
+dV =∂V dr+∂V dh=2πrhdr+πr2 dh dt∂rdt∂hdt dt dt
+dS=∂S dr+∂S dh=(2πh+4πr)dr+2πrdh, dt ∂r dt ∂h dt dt dt
+代入 r = 10cm, h = 5cm, dr = 2cm/s, dh = −3cm/s，可得 dt dt
+dV 

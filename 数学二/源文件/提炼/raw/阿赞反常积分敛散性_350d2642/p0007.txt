@@ -1,0 +1,124 @@
+{
+"grid": true,
+"xAxis": { "domain": [0, 3] },
+"yAxis": { "domain": [0, 5] },
+"title": "例3.2 被积函数及其在奇点附近的等价函数"
+,
+"data": [
+{ "fn": "1/(exp(x)-1)"
+,
+"color": "#3b82f6"
+,
+"graphType": "polyline" },
+{ "fn": "1/x"
+,
+"color": "#ef4444"
+,
+"graphType": "polyline" },
+{ "fn": "exp(-x)"
+,
+"color": "#10b981"
+,
+"graphType": "polyline" }
+]
+}
+( 注：蓝线为原函数，红线为 时的等价函数，绿线为 时的等价函
+数)
+例 3.3. 判断积分 的敛散性。
+解： 该积分包含 (来自 在零点无界) 和 两个奇点，需要拆分来
+讨论。我们取 作为拆分点：
+对于 (奇点 )： 当 时，分母 。被积函数等价于：
+根据“形式一”的结论，积分 对任意 都收敛，故 收敛。
+对于 (奇点 )： 当 时，分母 。被积函数等价于：
+根据“形式二”的结论，考察 ，此处 。因为 ，积
+分收敛，故 收敛。
+由于 和 均收敛，所以原积分 收敛。
+例 3.4. 已知反常积分 收敛，求参数 的取值范围。
+解： 被积函数为 。该积分包含 和 两个奇点，其
+收敛的充要条件是拆分后的两部分均收敛。我们取 作为拆分点：
+x x → → 0 0+ + x x → → + +∞ ∞
+d dx x
+∫ ∫0 0
++ +∞ ∞
+1 1+ +x x2 2
+l ln n x x
+2 2
+x x = = 0 0 ln ln x x
+2 2 x x = = + +∞ ∞
+a a = = 1 1
+d dx x = =
+∫ ∫
+0 0
++ +∞ ∞
+1 1 + + x x2 2
+ln ln x x
+2 2
++ +
+I I
+1 1
+d dx x
+∫ ∫
+0 0
+1 1
+1 1 + + x x2 2
+ln ln x x
+2 2
+I I
+2 2
+d dx x
+∫ ∫
+1 1
++ +∞ ∞
+1 1 + + x x2 2
+ln ln x x
+2 2
+I I
+1 1 x x = = 0 0 x x → → 0 0+ + 1 1 + + x x → →
+2 2 1 1
+∼ ∼
+1 1 + + x x2 2
+ln ln x x
+2 2
+ln ln x x
+2 2
+ln ln x xd dx x
+∫ ∫0 0
+1 1 a a a a I I
+1 1
+I I
+2 2 + +∞ ∞ x x → → + +∞ ∞ 1 1 + + x x ∼ ∼
+2 2 x x2 2
+∼ ∼
+1 1 + + x x2 2
+ln ln x x
+2 2
+x x2 2
+ln ln x x
+2 2
+d dx x
+∫ ∫1 1
++ +∞ ∞
+x xp p
+l ln n x x
+a a
+p p = = 2 2, , a a = = 2 2 p p = = 2 2 > > 1 1
+I I
+2 2
+I I
+1 1
+I I
+2 2 d dx x
+∫ ∫0 0
++ +∞ ∞
+1 1+ +x x2 2
+l ln n x x
+2 2
+d dx x
+∫ ∫0 0
++ +∞ ∞
+x xp p
+a ar rc ct ta an n x x⋅ ⋅l ln n( (1 1+ +x x) ) p p
+f f( (x x) ) = =
+x xp p
+a ar rc ct ta an n x x⋅ ⋅l ln n( (1 1+ +x x) ) x x = = 0 0 x x = = + +∞ ∞
+a a = = 1 1

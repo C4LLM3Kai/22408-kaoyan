@@ -1,0 +1,64 @@
+27 喻老高数强化讲义 p
+设 lim xn =a，对递推式xn+1 = xn(3−xn)两端取极限: n→∞
+p3 a= a(3−a)=⇒a=2,
+(舍去 a = 0)，故极限为 32.
+例题32 (2006) 设数列{xn}满足0<x1 <π, xn+1 =sinxn (n=1,2,···).
+(1) 证明 lim xn 存在，并求该极限;
+n→∞ 1
+(2) 计算 lim xn+1 x2n . n→∞ xn
+解
+(1)当n=1时，0<x1 <π，假设n=k时，0<xk <π，则当n=k+1时，0<xk+1 = sin xk ⩽ 1 < π ，由数学归纳法知，数列 {xn} 有界.
+因当x>0时，sinx<x，又xn >0，故xn+1 =sinxn <xn ，从而数列{xn}单调递减.由单 调有界原理知， lim xn 存在.不妨设 lim xn = A .在 xn+1 = sin xn 两边同时取极限有 lim xn+1 =
+n→∞ n→∞ n→∞
+lim sin xn ，从而有 A = sin A . 因 y = x 与 y = sin x 只有 (0, 0) 一个交点，故只有 A = 0 满足方程.
+    n→∞
+即 lim xn = 0 .
+n→∞
+(2) 因为
+又
+sin t 1  1t−1
+sint t2 sint sint−1 =lim1+ −1t
+1 sint sint−1
+·
+  lim
+t2
+,
+  t→0 t t→0 t
+ lim1+−1t =e,
+ t→0 1
+=lim 由(1)知，当n→∞时，xn →0，故
+t
+1 sint t2
+sint−1 且lim t
+sint−t t→0 t3
+1
+6
+t→0 t2
+=− ，故lim
+6 t→0 t
+=e− . 111
+   xn+1 x2n n→∞ xn
+sin xn n→∞ xn
+x2n
+sin t t2 t→0 t
+− 1 =e 6.
+lim
+= lim
+=lim
+   r
+!
+ 例题33 数列{xn}定义如下:x1 =1, xn+1 = 1
+2 n2
+, n=1,2,...，证明:数列{xn}
+收敛. 解 由于
+r
+xn+1 − xn = 1
+2 n2
+所以数列 {xn} 单调递增. √ 下证数列有上界:x1 =1,x2 = 12(1+
+r!
+xn +
+x2n + 1 − xn 2)>1;设xn >1(n≥2)，则
+x2n + 1 !
+ > 0,
+ xn+1=1 xn+ x2n+1 >1(1+1)=1. 2 n22
+22

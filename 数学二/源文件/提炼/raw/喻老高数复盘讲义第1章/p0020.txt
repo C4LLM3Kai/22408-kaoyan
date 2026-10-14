@@ -1,0 +1,4 @@
+27 喻老高数强化讲义
+对于(B)选项，当 x → 0 时，|x| → 0+，令 t = |x| ，则 lim f(|x|) = lim f(t) = lim f(x),(B)
+x→0 对于(C)选项，当x→0时，x2→0+，令t=x2，则limfx2 =limf(t)=limf(x),(C)
+x→0 t→0+ x→0+

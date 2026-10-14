@@ -1,0 +1,4 @@
+27 喻老高数强化讲义
+ 解 由题意知，lim f(x) = 1 ，即 x→0 cxk
+lim 3sinx−sin3x = lim
+x→0 cxk x→0 

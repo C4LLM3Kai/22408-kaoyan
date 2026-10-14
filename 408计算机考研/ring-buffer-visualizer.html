@@ -1,0 +1,758 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>环形缓冲区可视化</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #1f2933;
+      --muted: #61707f;
+      --line: #d8e0e7;
+      --surface: #f6f8fa;
+      --paper: #ffffff;
+      --teal: #0f766e;
+      --teal-soft: #d9f1ed;
+      --orange: #c26b25;
+      --orange-soft: #fff0df;
+      --blue: #2463a6;
+      --blue-soft: #e6f0ff;
+      --green: #2e7d4f;
+      --red: #b33b3b;
+      --shadow: 0 12px 30px rgba(25, 41, 56, 0.08);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-width: 320px;
+      background: #eef2f5;
+      color: var(--ink);
+      font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif;
+      line-height: 1.55;
+    }
+
+    .page {
+      max-width: 1120px;
+      margin: 0 auto;
+      padding: 34px 22px 48px;
+    }
+
+    header {
+      display: grid;
+      gap: 8px;
+      margin-bottom: 24px;
+    }
+
+    .eyebrow {
+      color: var(--teal);
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+    }
+
+    h1, h2, p { margin: 0; }
+
+    h1 {
+      font-size: clamp(27px, 4vw, 42px);
+      line-height: 1.16;
+      letter-spacing: 0;
+    }
+
+    h2 {
+      font-size: 18px;
+      line-height: 1.3;
+    }
+
+    .lead {
+      max-width: 850px;
+      color: var(--muted);
+      font-size: 16px;
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: minmax(0, 1.6fr) minmax(285px, 0.8fr);
+      gap: 18px;
+      align-items: start;
+    }
+
+    .surface {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      box-shadow: var(--shadow);
+    }
+
+    .main-panel { padding: 22px; }
+
+    .side-panel {
+      display: grid;
+      gap: 16px;
+    }
+
+    .side-section { padding: 18px; }
+
+    .section-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 12px;
+      margin-bottom: 14px;
+    }
+
+    .caption, .muted { color: var(--muted); }
+    .caption { font-size: 13px; }
+
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 9px;
+      margin: 16px 0 22px;
+    }
+
+    button, select {
+      min-height: 40px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      padding: 8px 13px;
+      background: var(--paper);
+      color: var(--ink);
+      font: inherit;
+      cursor: pointer;
+    }
+
+    button:hover:not(:disabled), select:hover {
+      border-color: #9db1bf;
+    }
+
+    button:focus-visible, select:focus-visible {
+      outline: 3px solid rgba(36, 99, 166, 0.25);
+      outline-offset: 2px;
+    }
+
+    button:disabled {
+      cursor: not-allowed;
+      opacity: 0.48;
+    }
+
+    .primary {
+      border-color: var(--teal);
+      background: var(--teal);
+      color: white;
+    }
+
+    .secondary {
+      border-color: #bb752e;
+      background: var(--orange-soft);
+      color: #8a4d1e;
+    }
+
+    .quiet { background: var(--surface); }
+
+    .capacity-control {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-left: auto;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .capacity-control select { min-height: 36px; padding: 5px 9px; }
+
+    .queue-wrap {
+      overflow-x: auto;
+      padding: 34px 4px 18px;
+      border-top: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .queue {
+      display: grid;
+      grid-template-columns: repeat(var(--capacity), minmax(61px, 1fr));
+      gap: 9px;
+      min-width: 620px;
+      padding: 0 2px;
+    }
+
+    .slot-wrap {
+      position: relative;
+      min-width: 0;
+    }
+
+    .slot {
+      position: relative;
+      display: grid;
+      place-items: center;
+      aspect-ratio: 1 / 0.88;
+      min-height: 74px;
+      border: 1px solid #cbd5dc;
+      border-radius: 7px;
+      background: #fbfcfd;
+      transition: background 160ms ease, border-color 160ms ease, transform 160ms ease;
+    }
+
+    .slot.occupied {
+      border-color: #75bfb6;
+      background: var(--teal-soft);
+    }
+
+    .slot.just-changed { transform: translateY(-3px); }
+
+    .slot-index {
+      position: absolute;
+      top: 6px;
+      left: 8px;
+      color: var(--muted);
+      font-size: 11px;
+    }
+
+    .slot-value {
+      margin-top: 6px;
+      font-size: 16px;
+      font-weight: 700;
+    }
+
+    .slot-empty {
+      color: #99a6af;
+      font-size: 13px;
+    }
+
+    .pointer {
+      position: absolute;
+      z-index: 2;
+      left: 50%;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      transform: translateX(-50%);
+      padding: 2px 7px;
+      border-radius: 4px;
+      white-space: nowrap;
+      font-size: 11px;
+      font-weight: 700;
+    }
+
+    .pointer::after {
+      content: "";
+      position: absolute;
+      left: 50%;
+      width: 1px;
+      height: 9px;
+      background: currentColor;
+      transform: translateX(-50%);
+    }
+
+    .pointer.in {
+      top: -26px;
+      background: var(--orange-soft);
+      color: #9a541d;
+    }
+
+    .pointer.in::after { top: 100%; }
+
+    .pointer.out {
+      bottom: -26px;
+      background: var(--blue-soft);
+      color: var(--blue);
+    }
+
+    .pointer.out::after { bottom: 100%; }
+
+    .wrap-arrow {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      margin-top: 20px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .wrap-arrow strong { color: var(--ink); }
+
+    .metrics {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 10px;
+      margin: 18px 0;
+    }
+
+    .metric {
+      min-width: 0;
+      padding: 12px;
+      border: 1px solid var(--line);
+      border-radius: 7px;
+      background: var(--surface);
+    }
+
+    .metric-label { color: var(--muted); font-size: 12px; }
+    .metric-value { margin-top: 3px; font-size: 23px; font-variant-numeric: tabular-nums; }
+
+    .metric-value.teal { color: var(--teal); }
+    .metric-value.orange { color: var(--orange); }
+    .metric-value.blue { color: var(--blue); }
+
+    .progress-track {
+      height: 8px;
+      overflow: hidden;
+      border-radius: 4px;
+      background: #e5eaee;
+    }
+
+    .progress-bar {
+      height: 100%;
+      width: 0;
+      background: var(--teal);
+      transition: width 180ms ease;
+    }
+
+    .status {
+      min-height: 27px;
+      margin-top: 12px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .status strong { color: var(--ink); }
+    .status.waiting { color: var(--red); }
+
+    .explain {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+      margin-top: 22px;
+    }
+
+    .explain-item {
+      padding: 13px;
+      border-left: 3px solid var(--teal);
+      background: #f5fbfa;
+    }
+
+    .explain-item strong { display: block; margin-bottom: 3px; }
+    .explain-item span { color: var(--muted); font-size: 13px; }
+
+    .formula {
+      margin-top: 15px;
+      padding: 12px 13px;
+      border-radius: 6px;
+      background: var(--orange-soft);
+      color: #75441e;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 13px;
+    }
+
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 12px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .legend-item { display: inline-flex; align-items: center; gap: 5px; }
+    .swatch { width: 12px; height: 12px; border-radius: 3px; border: 1px solid var(--line); }
+    .swatch.product { border-color: #75bfb6; background: var(--teal-soft); }
+    .swatch.empty { background: #fbfcfd; }
+    .swatch.in { border-color: #d59d68; background: var(--orange-soft); }
+    .swatch.out { border-color: #84a9d1; background: var(--blue-soft); }
+
+    .definition {
+      display: grid;
+      gap: 10px;
+      margin-top: 13px;
+    }
+
+    .definition div {
+      display: grid;
+      grid-template-columns: 56px 1fr;
+      gap: 10px;
+      align-items: start;
+      font-size: 14px;
+    }
+
+    code {
+      padding: 2px 5px;
+      border-radius: 4px;
+      background: var(--surface);
+      color: var(--teal);
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 0.94em;
+    }
+
+    .log {
+      display: grid;
+      gap: 7px;
+      max-height: 280px;
+      overflow: auto;
+      margin-top: 12px;
+      padding-right: 2px;
+    }
+
+    .log-line {
+      display: grid;
+      grid-template-columns: 24px 1fr;
+      gap: 8px;
+      align-items: start;
+      padding: 8px 9px;
+      border-left: 3px solid #b9c5ce;
+      background: var(--surface);
+      color: #42515d;
+      font-size: 12px;
+    }
+
+    .log-line b { color: var(--teal); font-variant-numeric: tabular-nums; }
+    .log-line.waiting { border-left-color: var(--red); color: var(--red); }
+
+    .exam-note {
+      margin-top: 16px;
+      padding: 13px;
+      border: 1px solid #d8c5a9;
+      border-radius: 6px;
+      background: #fffaf2;
+      color: #71481f;
+      font-size: 13px;
+    }
+
+    @media (max-width: 850px) {
+      .layout { grid-template-columns: 1fr; }
+      .side-panel { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .side-panel .side-section:last-child { grid-column: 1 / -1; }
+    }
+
+    @media (max-width: 600px) {
+      .page { padding: 24px 14px 36px; }
+      .main-panel { padding: 16px; }
+      .side-panel { grid-template-columns: 1fr; }
+      .side-panel .side-section:last-child { grid-column: auto; }
+      .metrics { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .explain { grid-template-columns: 1fr; }
+      .capacity-control { width: 100%; margin-left: 0; }
+      .section-head { align-items: flex-start; flex-direction: column; }
+    }
+  </style>
+</head>
+<body>
+  <main class="page" id="app">
+    <header>
+      <div class="eyebrow">操作系统 · 有界缓冲区</div>
+      <h1>环形缓冲区到底是什么？</h1>
+      <p class="lead">它本质上还是一段固定长度的数组，只是数组最后一个槽位用完后，下标重新回到 0。这样，已经取走的槽位可以循环再利用。</p>
+    </header>
+
+    <div class="layout">
+      <section class="surface main-panel" aria-labelledby="visual-title">
+        <div class="section-head">
+          <div>
+            <h2 id="visual-title">把 1000 个槽位缩小成一排可观察的槽位</h2>
+            <p class="caption">演示容量可以调整；规则与题目中的容量 1000 完全相同。</p>
+          </div>
+          <label class="capacity-control" for="capacity">演示容量
+            <select id="capacity" aria-label="选择演示容量">
+              <option value="10" selected>10</option>
+              <option value="12">12</option>
+              <option value="16">16</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="toolbar" aria-label="缓冲区操作">
+          <button class="primary" id="produce" type="button">生产 1 件</button>
+          <button id="consume" type="button">消费 1 件</button>
+          <button class="secondary" id="consumeTen" type="button">连续消费 10 件</button>
+          <button class="quiet" id="auto" type="button">自动演示</button>
+          <button class="quiet" id="reset" type="button">重置</button>
+        </div>
+
+        <div class="queue-wrap">
+          <div class="queue" id="queue" aria-label="环形缓冲区槽位"></div>
+          <div class="wrap-arrow"><span>槽位顺序：<strong>0 → 1 → … → K−1</strong></span><span>到 K−1 后回到 <strong>0</strong></span></div>
+        </div>
+
+        <div class="metrics" aria-live="polite">
+          <div class="metric"><div class="metric-label">缓冲区产品数 · full</div><div class="metric-value teal" id="fullValue">0</div></div>
+          <div class="metric"><div class="metric-label">空槽数 · empty</div><div class="metric-value orange" id="emptyValue">12</div></div>
+          <div class="metric"><div class="metric-label">写指针 · in</div><div class="metric-value orange" id="inValue">0</div></div>
+          <div class="metric"><div class="metric-label">读指针 · out</div><div class="metric-value blue" id="outValue">0</div></div>
+        </div>
+        <div class="caption" id="syncState">同步状态：mutex=1（可进入临界区），batch=1（其他消费者可取）。</div>
+        <div class="progress-track" aria-label="缓冲区占用率" role="progressbar" aria-valuemin="0" aria-valuemax="12" aria-valuenow="0"><div class="progress-bar" id="progressBar"></div></div>
+        <div class="status" id="status" aria-live="polite"><strong>初始状态：</strong>缓冲区为空，生产者可以从 0 号槽位开始放入。</div>
+
+        <div class="explain">
+          <div class="explain-item"><strong>① 生产者看 empty</strong><span>有空槽才能放；放入后 empty 减 1，full 加 1。</span></div>
+          <div class="explain-item"><strong>② 消费者看 full</strong><span>有产品才能取；取出后 full 减 1，empty 加 1。</span></div>
+          <div class="explain-item"><strong>③ 指针只负责找位置</strong><span>in 找下一个写入位置，out 找下一个取出位置，二者都按模 K 移动。</span></div>
+        </div>
+        <div class="formula">in = (in + 1) % K　　out = (out + 1) % K　　empty + full = K</div>
+        <div class="legend" aria-label="图例">
+          <span class="legend-item"><i class="swatch product"></i>已有产品</span>
+          <span class="legend-item"><i class="swatch empty"></i>空槽</span>
+          <span class="legend-item"><i class="swatch in"></i>in：下一次写入</span>
+          <span class="legend-item"><i class="swatch out"></i>out：下一次取出</span>
+        </div>
+      </section>
+
+      <aside class="side-panel">
+        <section class="surface side-section" aria-labelledby="meaning-title">
+          <h2 id="meaning-title">三个词先记住</h2>
+          <div class="definition">
+            <div><code>槽位</code><span>数组中的一个位置，可以为空，也可以放一个产品。</span></div>
+            <div><code>in</code><span>下一次生产者要写入的位置。写完后向右移动。</span></div>
+            <div><code>out</code><span>下一次消费者要取出的位置。取完后向右移动。</span></div>
+          </div>
+          <div class="exam-note">题目容量是 1000，所以真实系统只需把这里的 K 换成 1000。网页缩小槽位，是为了让“回绕”和“复用”能看清。</div>
+        </section>
+
+        <section class="surface side-section" aria-labelledby="sync-title">
+          <h2 id="sync-title">题目中的同步量</h2>
+          <div class="definition">
+            <div><code>empty</code><span>空槽数量，初值为 1000。生产者执行 <code>P(empty)</code>。</span></div>
+            <div><code>full</code><span>产品数量，初值为 0。消费者执行 <code>P(full)</code>。</span></div>
+            <div><code>mutex</code><span>保护数组和指针，同一时刻只允许一个进程修改。</span></div>
+            <div><code>batch</code><span>让一个消费者连续取满 10 件后，其他消费者才可取。</span></div>
+          </div>
+        </section>
+
+        <section class="surface side-section" aria-labelledby="log-title">
+          <div class="section-head"><h2 id="log-title">最近的执行记录</h2><span class="caption">每次操作都对应一次 P/V</span></div>
+          <div class="log" id="log" aria-live="polite"></div>
+        </section>
+      </aside>
+    </div>
+  </main>
+
+  <script>
+    (() => {
+      const els = {
+        app: document.getElementById('app'),
+        queue: document.getElementById('queue'),
+        capacity: document.getElementById('capacity'),
+        produce: document.getElementById('produce'),
+        consume: document.getElementById('consume'),
+        consumeTen: document.getElementById('consumeTen'),
+        auto: document.getElementById('auto'),
+        reset: document.getElementById('reset'),
+        full: document.getElementById('fullValue'),
+        empty: document.getElementById('emptyValue'),
+        inValue: document.getElementById('inValue'),
+        outValue: document.getElementById('outValue'),
+        syncState: document.getElementById('syncState'),
+        progress: document.getElementById('progressBar'),
+        progressTrack: document.querySelector('.progress-track'),
+        status: document.getElementById('status'),
+        log: document.getElementById('log')
+      };
+
+      let capacity = Number(els.capacity.value);
+      let buffer = [];
+      let inPtr = 0;
+      let outPtr = 0;
+      let full = 0;
+      let nextProduct = 1;
+      let mutex = 1;
+      let batch = 1;
+      let busy = false;
+      let autoTimer = null;
+      let logLines = [];
+
+      const pause = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
+      function addLog(message, waiting = false) {
+        logLines.unshift({ message, waiting });
+        logLines = logLines.slice(0, 8);
+      }
+
+      function render() {
+        els.app.style.setProperty('--capacity', capacity);
+        els.queue.style.setProperty('--capacity', capacity);
+        els.queue.innerHTML = buffer.map((value, index) => {
+          const pointers = [];
+          if (index === inPtr) pointers.push('<span class="pointer in">in</span>');
+          if (index === outPtr) pointers.push('<span class="pointer out">out</span>');
+          const occupied = value !== null;
+          return `<div class="slot-wrap">
+            ${pointers.join('')}
+            <div class="slot ${occupied ? 'occupied' : ''}">
+              <span class="slot-index">${index}</span>
+              ${occupied ? `<span class="slot-value">${value}</span>` : '<span class="slot-empty">空</span>'}
+            </div>
+          </div>`;
+        }).join('');
+
+        const empty = capacity - full;
+        els.full.textContent = full;
+        els.empty.textContent = empty;
+        els.inValue.textContent = inPtr;
+        els.outValue.textContent = outPtr;
+        els.progress.style.width = `${(full / capacity) * 100}%`;
+        els.progressTrack.setAttribute('aria-valuemax', String(capacity));
+        els.progressTrack.setAttribute('aria-valuenow', String(full));
+        els.syncState.textContent = `同步状态：mutex=${mutex}（${mutex ? '可进入' : '正在'}临界区），batch=${batch}（${batch ? '其他消费者可取' : '其他消费者等待'}）。`;
+        els.produce.disabled = busy || full === capacity || Boolean(autoTimer);
+        els.consume.disabled = busy || full === 0 || Boolean(autoTimer);
+        els.consumeTen.disabled = busy || Boolean(autoTimer);
+        els.capacity.disabled = busy || Boolean(autoTimer);
+        els.auto.textContent = autoTimer ? '暂停自动演示' : '自动演示';
+        els.log.innerHTML = logLines.length
+          ? logLines.map((entry, index) => `<div class="log-line ${entry.waiting ? 'waiting' : ''}"><b>${logLines.length - index}</b><span>${entry.message}</span></div>`).join('')
+          : '<div class="caption">点击上方操作，记录会出现在这里。</div>';
+
+        if (mutex === 0) {
+          els.status.innerHTML = '<strong>临界区：</strong>正在修改数组或指针，其他进程暂时不能进入。';
+        }
+      }
+
+      function setStatus(html, waiting = false) {
+        els.status.className = `status${waiting ? ' waiting' : ''}`;
+        els.status.innerHTML = html;
+      }
+
+      async function produceOne() {
+        if (busy) return;
+        if (full === capacity) {
+          addLog('P(empty)：没有空槽，生产者等待。', true);
+          setStatus('<strong>生产者等待：</strong>缓冲区已满，必须先消费一个产品。', true);
+          render();
+          return;
+        }
+        busy = true;
+        render();
+        addLog('P(empty)：获得一个空槽。');
+        setStatus('<strong>P(empty)：</strong>生产者获得空槽，准备写入。');
+        await pause(170);
+        mutex = 0;
+        const position = inPtr;
+        const product = `P${nextProduct++}`;
+        buffer[position] = product;
+        inPtr = (inPtr + 1) % capacity;
+        full += 1;
+        addLog(`P(mutex) → 写入槽 ${position}（${product}）→ in: ${position} → ${inPtr}`);
+        setStatus(`<strong>写入完成：</strong>${product} 放入 ${position} 号槽位，in 已按模 ${capacity} 回绕。`);
+        render();
+        await pause(170);
+        mutex = 1;
+        addLog('V(mutex)，V(full)：释放临界区，产品数加 1。');
+        setStatus(`<strong>同步完成：</strong>V(mutex)，V(full)；当前 full=${full}，empty=${capacity - full}。`);
+        busy = false;
+        render();
+      }
+
+      async function consumeOne(options = {}) {
+        const internal = Boolean(options.internal);
+        if (busy && !internal) return;
+        if (full === 0) {
+          addLog('P(full)：没有产品，消费者等待。', true);
+          setStatus('<strong>消费者等待：</strong>缓冲区为空，必须先生产一个产品。', true);
+          render();
+          return false;
+        }
+        if (!internal) busy = true;
+        render();
+        addLog('P(full)：获得一个产品名额。');
+        setStatus('<strong>P(full)：</strong>消费者获得一个可取产品。');
+        await pause(170);
+        mutex = 0;
+        const position = outPtr;
+        const product = buffer[position];
+        buffer[position] = null;
+        outPtr = (outPtr + 1) % capacity;
+        full -= 1;
+        addLog(`P(mutex) → 取出槽 ${position}（${product}）→ out: ${position} → ${outPtr}`);
+        setStatus(`<strong>取出完成：</strong>${product} 从 ${position} 号槽位取走，槽位重新变空。`);
+        render();
+        await pause(170);
+        mutex = 1;
+        addLog('V(mutex)，V(empty)：释放临界区，空槽数加 1。');
+        if (!internal) {
+          setStatus(`<strong>同步完成：</strong>V(mutex)，V(empty)；当前 full=${full}，empty=${capacity - full}。`);
+          busy = false;
+          render();
+        }
+        return true;
+      }
+
+      async function consumeTen() {
+        if (busy) return;
+        if (full < 10) {
+          addLog(`P(full)：连续消费需要 10 件，目前只有 ${full} 件，消费者等待。`, true);
+          setStatus(`<strong>批次等待：</strong>当前只有 ${full} 件产品；真实进程会在 P(full) 处等待，其他消费者也不能插队。`, true);
+          render();
+          return;
+        }
+        busy = true;
+        batch = 0;
+        addLog('P(batch)：一个消费者获得连续取 10 件的权限。');
+        setStatus('<strong>批次开始：</strong>batch=0，其他消费者暂时不能取产品。');
+        render();
+        await pause(220);
+        for (let i = 0; i < 10; i += 1) {
+          await consumeOne({ internal: true });
+        }
+        batch = 1;
+        addLog('V(batch)：已连续取出 10 件，允许其他消费者。');
+        setStatus('<strong>批次完成：</strong>连续取出 10 件，batch 恢复为 1。');
+        busy = false;
+        render();
+      }
+
+      function reset() {
+        stopAuto();
+        buffer = Array(capacity).fill(null);
+        inPtr = 0;
+        outPtr = 0;
+        full = 0;
+        nextProduct = 1;
+        mutex = 1;
+        batch = 1;
+        busy = false;
+        logLines = [];
+        setStatus('<strong>初始状态：</strong>缓冲区为空，生产者可以从 0 号槽位开始放入。');
+        render();
+      }
+
+      function stopAuto() {
+        if (autoTimer) {
+          clearInterval(autoTimer);
+          autoTimer = null;
+        }
+      }
+
+      function toggleAuto() {
+        if (autoTimer) {
+          stopAuto();
+          setStatus('<strong>自动演示已暂停。</strong>你可以手动观察某一步。');
+          render();
+          return;
+        }
+        autoTimer = setInterval(async () => {
+          if (busy) return;
+          if (full === 0 || (full < capacity && Math.random() < 0.58)) {
+            await produceOne();
+          } else {
+            await consumeOne();
+          }
+        }, 900);
+        setStatus('<strong>自动演示中：</strong>观察 in 和 out 如何独立移动，并在末尾回到 0。');
+        render();
+      }
+
+      els.produce.addEventListener('click', produceOne);
+      els.consume.addEventListener('click', () => consumeOne());
+      els.consumeTen.addEventListener('click', consumeTen);
+      els.auto.addEventListener('click', toggleAuto);
+      els.reset.addEventListener('click', reset);
+      els.capacity.addEventListener('change', () => {
+        capacity = Number(els.capacity.value);
+        reset();
+      });
+
+      reset();
+    })();
+  </script>
+</body>
+</html>

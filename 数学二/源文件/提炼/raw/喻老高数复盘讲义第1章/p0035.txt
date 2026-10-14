@@ -1,0 +1,70 @@
+β
+√
+tan tdt x
+lim =lim 0√ Z
+x→0+ γ x→0+
+sin t3dt √
+27 喻老高数强化讲义
+ 且
+Z2 x
+ 0
+tan x2·2x
+|x|·2x
+=lim √=lim =0. 131
+  x→0+ √ ·sin( x) x→0+ x 2x2
+由高阶无穷小的定义知，x → 0+ 时，β 是 γ 的高阶无穷小，γ 是 α 的高阶无穷小. 故应选(B). 例题 53 当 x → 0+ 时，下列无穷小量中阶数最高的是( ).
+(C) (D)
+sin t2dt 1−cos x √
+Z
+x (A) et2 −1 dt
+Z0
+(B) ln 1+ t3 dt
+x√ Z0
+sin x 0
+Z
+sin t2dt 解因为x→0+ 时，ex2 −1∼x2 ，故
+Z
+ 0
+从而x→0+ 时，
+因为x→0+时，ln 1+ x3 ∼ x3=x32 ，故
+0
+√√ ZZ
+ZZ xx3
+et2−1 dt∼ t2dt=x, 003
+x
+et2 −1 dt是x的3阶无穷小;
+Z
+0
+因为x→0+ 时，sinx2 ∼x2 ，故
+x√5 从而x→0+时， ln 1+ t3 dt是x的 阶无穷小;
+从而x→0+ 时，
+x→0+ 时， sinx2 ∼x，故
+Z
+00 sint2dt是x的3阶无穷小;
+sin x √0
+x√x
+ln 1+ t3 dt∼ t32dt=2x52,
+00
+5
+ZZ
+sin x
+sint2dt ∼
+sin x
+(sin x)3 t2dt = ∼
+2
+x3 33
+,
+   Z√Z x22
+1−cosx 1−cosx (1−cosx)2 2 x4 sint2dt ∼ tdt = ∼   = ,
+  Z00 1−cos x √
+Z
+sin t2dt ，故应选(D).
+注 设 f(x),g(x) 连续，f(x) 与 g(x) 是 x → a 时的等价无穷小量，φ(x) 与 ψ(x) 也是 x → a 时的等价
+228
+ 
+从而x→0+ 时，
+综上，x → 0+ 时，无穷小量中阶数最高的是
+0
+1−cos x √ 0
+sint2dt是x的4阶无穷小.
+ 34

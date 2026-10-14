@@ -1,0 +1,11 @@
+
+
+27 喻老高数强化讲义
+当x̸=0时，f′(x)=2xsin1 −cos1，因此 lim f′(x)与 lim f′(x)都不存在，但f(x)在x=0处
+ 可导，故(2)错误.
+x x x→0+ x→0−
+f(x)−f(x0)  
+(3)若f(x)在点x0 处的左导数存在，即 lim x−x 存在⇒ lim f(x)−f(x0) =0⇒ −−
+ x→x0
+lim f(x) = f(x0);同理可得 lim f(x) = f(x0)，即 lim f(x) = lim f(x) = f(x0)，故 f(x) 在 x0
+x→x−0 x→x+0 x→x−0 x→x+0 处连续，(3)正确.

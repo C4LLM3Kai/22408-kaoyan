@@ -1,0 +1,37 @@
+27 喻老高数强化讲义
+ 题型二 极限的概念与性质
+例题 17 设有下列命题
+(1)数列 {xn} 收敛(即 ∃ 极限 lim xn)，则 xn 有界
+n→∞
+(2)数列极限 lim xn = a ⇔ lim xn+l = a，其中 l 为某个确定的正整数
+n→∞ n→∞
+(3)若 lim x3n = lim x3n+1 =a，则 lim xn =a
+n→∞ n→∞ n→∞ (4)数列极限 lim xn 存在 ⇔ lim xn+1 = 1
+n→∞ 则以上命题中正确的个数是(
+(A) 1 (B) 2 (C) 3 (D) 4
+解 对于命题(1)，收敛数列一定有界，故(1)正确.
+对于命题(2)，数列极限存在与否与数列前有限项无关，故(2)正确.
+对于命题(3)，令 x3n = x3n+1 = a,x3n+2 = n(n = 1,2,···) ，则 lim x3n+2 = ∞ ，故 lim xn 不
+ n→∞ xn )
+n→∞ n→∞ 对于命题(4)，若取 xn = 0 ，则 lim xn = 0 ，故 lim xn 存在，但 lim xn+1 不存在，从而(4)
+存在，故(3)错误.
+不正确.反之若取xn =n，则 lim xn+1 = lim n+1 =1，但 lim xn = lim n=∞，故 lim xn
+ n→∞ n→∞ n→∞ xn n→∞xnn→∞nn→∞n→∞ n→∞
+  
+不存在，所以对于命题(4)互相都不能推出.应选(B). 注 数列收敛的充要条件可拓展为:
+• lim xn = a ⇔ lim x3n = lim x3n+1 = lim x3n+2 = a ; n→∞ n→∞ n→∞ n→∞
+• limxn=a⇔ limx4n= limx4n+1= limx4n+2= limx4n+3=a. n→∞ n→∞ n→∞ n→∞ n→∞
+例题18 (2003) 设{an},{bn},{cn}均为非负数列，且 lim an =0, lim bn =1，lim cn =∞，则 n→∞ n→∞ n→∞
+必有( ).
+(A)an < bn 对任意 n 成立
+(B)bn < cn 对任意 n 成立
+(C)极限 lim ancn 不存在 n→∞
+(D)极限 lim bncn 不存在 n→∞
+解 对于(A)选项，由已知条件可得 lim (bn − an) = 1 ，又由极限的保号性可得，当 n 充分大时 n→∞
+bn −an > 0，但不能保证对任意n均成立.例如:取an = 2,bn = 1− 1 ，n = 1,2,...，则 nn
+lim an =0, lim bn =1，但a1 =2>0=b1 .选项(A)错误. n→∞ n→∞
+对于(B)选项，取bn = 1+ 1,cn = n,n = 1,2,3,··· ，则 lim bn = 1, lim cn = ∞，但
+b1 =2>1=c1 ，选项(B)错误.
+n
+n→∞ n→∞
+15

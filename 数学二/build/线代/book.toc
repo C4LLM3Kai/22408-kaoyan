@@ -1,0 +1,140 @@
+\contentsline {chapter}{使用说明}{i}{chapter*.1}%
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}行列式}{1}{chapter.1}%
+\contentsline {subsection}{本章考纲要求}{1}{subsection*.10}%
+\contentsline {subsection}{本章星级总表}{1}{subsection*.11}%
+\contentsline {section}{\numberline {一、}行列式的概念与基本性质}{1}{section.1.1}%
+\contentsline {subsection}{\numberline {（一）}行列式的定义与记号}{1}{subsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.}行列式的概念与基本性质 $\bigstar $$\bigstar $}{1}{subsubsection.1.1.1.1}%
+\contentsline {subsection}{\numberline {（二）}三角、对角与副对角行列式}{3}{subsection.1.1.2}%
+\contentsline {section}{\numberline {二、}数字型行列式的计算}{4}{section.1.2}%
+\contentsline {subsection}{\numberline {（一）}化三角形与降阶}{4}{subsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.}数字型行列式的计算（化三角形、降阶）$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{4}{subsubsection.1.2.1.1}%
+\contentsline {subsection}{\numberline {（二）}特殊结构的行列式}{6}{subsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.}特殊行列式：范德蒙德、爪型、"三对角"、两行（列）成比例 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{6}{subsubsection.1.2.2.1}%
+\contentsline {subsection}{\numberline {（三）}数字型行列式的计算流程总表}{11}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {（四）}用行列式判定方程组的解}{12}{subsection.1.2.4}%
+\contentsline {section}{\numberline {三、}按行（列）展开与代数余子式}{12}{section.1.3}%
+\contentsline {subsection}{\numberline {（一）}展开定理}{12}{subsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.}按行（列）展开定理与代数余子式 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{12}{subsubsection.1.3.1.1}%
+\contentsline {subsection}{\numberline {（二）}抽象行列式}{15}{subsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.}抽象行列式：$\vert kA\vert $、$\vert AB\vert $、$\vert A^*\vert $、$\vert A^{-1}\vert $、$\vert A^T\vert $ $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{15}{subsubsection.1.3.2.1}%
+\contentsline {subsubsection}{\numberline {2.}代数余子式的线性组合与行列式的构造 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{18}{subsubsection.1.3.2.2}%
+\contentsline {subsection}{本章易错清单}{20}{subsection*.12}%
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}矩阵}{21}{chapter.2}%
+\contentsline {subsection}{本章考纲要求}{21}{subsection*.13}%
+\contentsline {subsection}{本章星级总表}{21}{subsection*.14}%
+\contentsline {section}{\numberline {一、}矩阵的概念与运算}{22}{section.2.1}%
+\contentsline {subsection}{\numberline {（一）}矩阵与特殊矩阵}{22}{subsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {1.}矩阵的概念与特殊矩阵（单位、数量、对角、三角、对称、反对称、正交）$\bigstar $$\bigstar $}{22}{subsubsection.2.1.1.1}%
+\contentsline {subsection}{\numberline {（二）}矩阵的运算}{23}{subsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {1.}矩阵的线性运算、乘法、转置及其运算规律 $\bigstar $$\bigstar $$\bigstar $}{23}{subsubsection.2.1.2.1}%
+\contentsline {subsection}{\numberline {（三）}方阵的幂}{25}{subsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {1.}方阵的幂与方阵乘积的行列式 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{25}{subsubsection.2.1.3.1}%
+\contentsline {section}{\numberline {二、}逆矩阵与伴随矩阵}{27}{section.2.2}%
+\contentsline {subsection}{\numberline {（一）}可逆的判定}{27}{subsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {1.}逆矩阵的概念、性质与可逆的充分必要条件 $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{27}{subsubsection.2.2.1.1}%
+\contentsline {subsection}{\numberline {（二）}伴随矩阵}{30}{subsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {1.}伴随矩阵及其公式（$AA^*=\vert A\vert E$、$\vert A^*\vert $、$(A^*)^*$、秩的讨论）$\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{30}{subsubsection.2.2.2.1}%
+\contentsline {section}{\numberline {三、}初等变换与矩阵的秩}{32}{section.2.3}%
+\contentsline {subsection}{\numberline {（一）}初等变换与初等矩阵}{32}{subsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {1.}矩阵的初等变换与初等矩阵（左行右列）$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{32}{subsubsection.2.3.1.1}%
+\contentsline {subsection}{\numberline {（二）}矩阵的秩}{34}{subsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {1.}矩阵的秩（定义、求法、秩的不等式与常用结论）$\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{34}{subsubsection.2.3.2.1}%
+\contentsline {subsection}{\numberline {（三）}矩阵等价与分块矩阵}{36}{subsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {1.}矩阵等价与分块矩阵及其运算 $\bigstar $$\bigstar $}{36}{subsubsection.2.3.3.1}%
+\contentsline {section}{\numberline {四、}矩阵方程的求解}{39}{section.2.4}%
+\contentsline {subsection}{\numberline {（一）}三类矩阵方程}{39}{subsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {1.}矩阵方程 $AX=B$、$XA=B$、$AXB=C$ 的求解 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{39}{subsubsection.2.4.1.1}%
+\contentsline {subsection}{本章易错清单}{41}{subsection*.15}%
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}向量}{43}{chapter.3}%
+\contentsline {subsection}{本章考纲要求}{43}{subsection*.16}%
+\contentsline {subsection}{本章星级总表}{43}{subsection*.17}%
+\contentsline {paragraph}{学这一章要建立的两个直觉}{43}{paragraph*.18}%
+\contentsline {section}{\numberline {一、}向量的概念与线性运算}{44}{section.3.1}%
+\contentsline {subsection}{\numberline {（一）}向量的线性运算与内积}{44}{subsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {1.}n 维向量、线性组合与线性表示 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{44}{subsubsection.3.1.1.1}%
+\contentsline {paragraph}{施密特正交化的记忆方法与验算习惯}{46}{paragraph*.19}%
+\contentsline {subsubsection}{\numberline {2.}内积与施密特正交规范化 $\bigstar $$\bigstar $}{46}{subsubsection.3.1.1.2}%
+\contentsline {section}{\numberline {二、}向量组的线性表示与线性相关性}{47}{section.3.2}%
+\contentsline {subsection}{\numberline {（一）}线性相关与线性无关}{47}{subsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {1.}向量组线性相关与线性无关的概念、性质与判别法 $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{47}{subsubsection.3.2.1.1}%
+\contentsline {paragraph}{判别法一览与选择原则}{48}{paragraph*.20}%
+\contentsline {subsubsection}{\numberline {2.}线性相关、线性无关的证明（抽象向量组） $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{49}{subsubsection.3.2.1.2}%
+\contentsline {section}{\numberline {三、}向量组的秩与等价}{51}{section.3.3}%
+\contentsline {subsection}{\numberline {（一）}极大线性无关组与秩}{51}{subsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {1.}极大线性无关组与向量组的秩 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{51}{subsubsection.3.3.1.1}%
+\contentsline {paragraph}{为什么"秩"是向量组唯一的不变量}{52}{paragraph*.21}%
+\contentsline {subsubsection}{\numberline {2.}等价向量组、矩阵的秩与向量组的秩的关系 $\bigstar $$\bigstar $$\bigstar $}{53}{subsubsection.3.3.1.2}%
+\contentsline {paragraph}{专题：抽象向量组线性无关的证明套路（强化）}{54}{paragraph*.22}%
+\contentsline {subsection}{本章易错清单}{56}{subsection*.23}%
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}线性方程组}{58}{chapter.4}%
+\contentsline {subsection}{本章考纲要求}{58}{subsection*.24}%
+\contentsline {subsection}{本章星级总表}{58}{subsection*.25}%
+\contentsline {paragraph}{学这一章要建立的三个直觉}{58}{paragraph*.26}%
+\contentsline {section}{\numberline {一、}方程组有解的判定与克拉默法则}{59}{section.4.1}%
+\contentsline {subsection}{\numberline {（一）}基本概念与解的判定}{59}{subsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {1.}克拉默法则 $\bigstar $$\bigstar $}{59}{subsubsection.4.1.1.1}%
+\contentsline {subsection}{\numberline {（二）}齐次线性方程组的解的结构}{60}{subsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {1.}齐次线性方程组有非零解的充分必要条件、基础解系与通解 $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{60}{subsubsection.4.1.2.1}%
+\contentsline {subsection}{\numberline {（三）}非齐次线性方程组}{62}{subsection.4.1.3}%
+\contentsline {subsubsection}{\numberline {1.}非齐次线性方程组有解的充分必要条件、解的结构与通解 $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{62}{subsubsection.4.1.3.1}%
+\contentsline {section}{\numberline {二、}含参数方程组、同解与公共解}{64}{section.4.2}%
+\contentsline {subsection}{\numberline {（一）}方程组的求解与参数讨论}{64}{subsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {1.}用初等行变换求解方程组（含参数讨论） $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{64}{subsubsection.4.2.1.1}%
+\contentsline {subsection}{\numberline {（二）}同解与公共解}{67}{subsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {1.}同解方程组、公共解与解的反求 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{67}{subsubsection.4.2.2.1}%
+\contentsline {paragraph}{解的反求与抽象的秩信息（补强）}{69}{paragraph*.27}%
+\contentsline {subsubsection}{\numberline {2.}方程组解的性质与线性组合（系数和为 1/0 的判据） $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{70}{subsubsection.4.2.2.2}%
+\contentsline {subsection}{本章易错清单}{71}{subsection*.28}%
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}特征值和特征向量}{73}{chapter.5}%
+\contentsline {subsection}{本章考纲要求}{73}{subsection*.29}%
+\contentsline {subsection}{本章星级总表}{73}{subsection*.30}%
+\contentsline {section}{\numberline {一、}特征值与特征向量的概念与计算}{73}{section.5.1}%
+\contentsline {subsection}{\numberline {（一）}特征值与特征向量的定义与求法}{73}{subsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {1.}特征值与特征向量的概念、性质与求法 $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{73}{subsubsection.5.1.1.1}%
+\contentsline {subsection}{\numberline {（二）}特征值的性质}{77}{subsection.5.1.2}%
+\contentsline {subsubsection}{\numberline {1.}特征多项式与特征值的性质（$\DOTSB \sum@ \slimits@ \lambda _i=\mathrm {tr}A$、$\DOTSB \prod@ \slimits@ \lambda _i=\vert A\vert $、与秩的关系）$\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{77}{subsubsection.5.1.2.1}%
+\contentsline {section}{\numberline {二、}相似矩阵与相似对角化}{79}{section.5.2}%
+\contentsline {subsection}{\numberline {（一）}相似矩阵}{79}{subsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {1.}相似矩阵的概念与性质 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{79}{subsubsection.5.2.1.1}%
+\contentsline {subsection}{\numberline {（二）}相似对角化}{81}{subsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {1.}矩阵可相似对角化的充分必要条件与判定 $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{81}{subsubsection.5.2.2.1}%
+\contentsline {section}{\numberline {三、}实对称矩阵与反求问题}{83}{section.5.3}%
+\contentsline {subsection}{\numberline {（一）}实对称矩阵的正交相似对角化}{83}{subsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {1.}实对称矩阵的特征值、特征向量及正交相似对角化 $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{83}{subsubsection.5.3.1.1}%
+\contentsline {subsection}{\numberline {（二）}反求矩阵}{86}{subsection.5.3.2}%
+\contentsline {subsubsection}{\numberline {1.}由特征值、特征向量反求矩阵或参数 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{86}{subsubsection.5.3.2.1}%
+\contentsline {subsection}{本章易错清单}{88}{subsection*.31}%
+\contentsline {chapter}{\numberline {第六章\hspace {.3em}}二次型}{89}{chapter.6}%
+\contentsline {subsection}{本章考纲要求}{89}{subsection*.32}%
+\contentsline {subsection}{本章星级总表}{89}{subsection*.33}%
+\contentsline {section}{\numberline {一、}二次型的表示与合同关系}{89}{section.6.1}%
+\contentsline {subsection}{\numberline {（一）}二次型及其矩阵}{89}{subsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {1.}二次型及其矩阵表示、二次型的秩 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{89}{subsubsection.6.1.1.1}%
+\contentsline {subsection}{\numberline {（二）}合同变换与惯性定理}{91}{subsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {1.}合同变换与合同矩阵、惯性定理 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{91}{subsubsection.6.1.2.1}%
+\contentsline {section}{\numberline {二、}化二次型为标准形}{94}{section.6.2}%
+\contentsline {subsection}{\numberline {（一）}正交变换法}{94}{subsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {1.}用正交变换化二次型为标准形 $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{94}{subsubsection.6.2.1.1}%
+\contentsline {subsection}{\numberline {（二）}配方法}{96}{subsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {1.}用配方法化二次型为标准形与规范形 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{96}{subsubsection.6.2.2.1}%
+\contentsline {section}{\numberline {三、}正定性与二次型的最值}{98}{section.6.3}%
+\contentsline {subsection}{\numberline {（一）}正定二次型}{98}{subsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {1.}正定二次型、正定矩阵的概念与判别法 $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{98}{subsubsection.6.3.1.1}%
+\contentsline {subsection}{\numberline {（二）}二次型的最值}{100}{subsection.6.3.2}%
+\contentsline {subsubsection}{\numberline {1.}二次型的最值、瑞利商与特征值的应用 $\bigstar $$\bigstar $$\bigstar $}{100}{subsubsection.6.3.2.1}%
+\contentsline {subsection}{本章易错清单}{102}{subsection*.34}%
+\contentsline {chapter}{附录一 五星考点冲刺路线}{104}{chapter*.35}%
+\contentsline {subsection}{\numberline {（三）}这份路线怎么用}{104}{subsection.6.3.3}%
+\contentsline {subsection}{\numberline {（四）}冲刺优先级总表}{104}{subsection.6.3.4}%
+\contentsline {subsection}{\numberline {（五）}三轮时间表（以 90 天为例）}{105}{subsection.6.3.5}%
+\contentsline {subsection}{\numberline {（六）}考前 7 天清单}{105}{subsection.6.3.6}%
+\contentsline {chapter}{附录二 结论速查与易混对照}{107}{chapter*.36}%
+\contentsline {subsection}{\numberline {（七）}行列式公式表}{107}{subsection.6.3.7}%
+\contentsline {subsection}{\numberline {（八）}伴随矩阵公式表}{107}{subsection.6.3.8}%
+\contentsline {subsection}{\numberline {（九）}秩的不等式与常用结论}{108}{subsection.6.3.9}%
+\contentsline {subsection}{\numberline {（十）}可逆矩阵的等价条件（$A$ 为 $n$ 阶方阵）}{108}{subsection.6.3.10}%
+\contentsline {subsection}{\numberline {（十一）}等价、相似、合同对照表}{108}{subsection.6.3.11}%
+\contentsline {subsection}{\numberline {（十二）}特征值的性质}{109}{subsection.6.3.12}%
+\contentsline {subsection}{\numberline {（十三）}二次型与正定性}{109}{subsection.6.3.13}%
+\contentsline {subsection}{\numberline {（十四）}高频秒杀结论与易混对照}{109}{subsection.6.3.14}%

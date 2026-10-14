@@ -1,0 +1,74 @@
+主題 日期
+星期
+哈哈遊樂場
+目錄 模板-中 模板-英
+日赐。希孟年十八，
+昔在画学为生徒，召
+入禁中文书库，数以
+画献，未甚工。上知
+其性可教，就诲谕之
+亲授其法，不逾半年
+乃以此画进。上嘉
+之，因以赐臣京，谓天
+下士在作之而已
+10、 中值极限类型
+将设展全的展全即可。 注意余项的选择条件强→ {0
+条件弱 → 00 )”
+例题 q2.若函数fx) 在点 a处洲阶可导,且f 品)#0,记f (ath)= f(a) thflajt
+fia)"
++
+-
+…
+-+fu"
+( athθlh1)
+,
+θ<θ( h )< 1 ,则有 l
+。
+θ(h )= n
+i证 :flath)=fianthfitfia"
++
+.+"
+f" (ath θ(n))
+{fiath)= fla ) thfiatfi+-
+t情:
+f(a
+" tflam" tolhh)
+( m)
+两式相等, 有 limflat"
+nθ )- fia) limo nflaj+
+" toch 舞h →0…θ= 但立是用0( )
+ho 不
+1 适用性更强
+⇒l。
+θ( hk → 条件强, 可用乡
+A、
+例题9.六设f)在( x0-8 ,x+8)上 n阶连续可微 ,
+已知 f衫 ==f*=0
+,
+但 (x 0 )
+"
+±O
+, 当 0<lh <8时, 存在 θε(0.( ) , 有tot)-
+=f(xotohy
+叶
+证明 lm θ=机
+W → 0
+证明; {ttoth)= flw) thfixotolxoth )=fN)thfyjt- - + hMf :
+to(hy
+两式相等,有 hfixotohy=
+hfixojthnfito(h)
+取极限,
+hM Notomf= lio
+”
+tol 箭>o
+上次展#
+, fixotoy=fix)+-
+-
++
+f器:)+ oc )y
+H
+回代 , 有 H “ 凹二”→
+。
+θ= 届
+nH)
+C ! 业

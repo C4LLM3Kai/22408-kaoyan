@@ -1,0 +1,80 @@
+\section*{一、这本手册是什么}
+
+这是一本\emph{严格按《考研数学二考试大纲》顺序}编排的线性代数知识点手册。它不替代教材与习题册，
+解决的是三件事：
+
+\begin{enumerate}
+  \item \textbf{对照考纲查漏}：行列式、矩阵、向量、线性方程组、特征值与特征向量、二次型六章，
+        大纲上出现的每一条本册都写到；考纲外的线性空间、线性变换、若尔当标准形等一律不收。
+  \item \textbf{按星级分配精力}：线性代数只有约 20\% 的分值，但题型固定、套路清晰，
+        把$\bigstar\bigstar\bigstar\bigstar$以上的考点练熟，是整张卷子里最稳的得分点。
+  \item \textbf{考前快速回顾}：线性代数的失分绝大多数不是"不会"，而是"记错结论"（秩的不等式、
+        可逆的充要条件、相似与合同的区别）。本册把这些结论集中成块，便于考前扫读。
+\end{enumerate}
+
+\section*{二、五星分级标准}
+
+星标取\textbf{考频 $\times$ 难度 $\times$ 分值}的综合：
+
+\begin{center}
+\begin{tabular}{@{}clll@{}}
+\toprule
+\textbf{星标} & \textbf{名称} & \textbf{含义} & \textbf{复习要求} \\
+\midrule
+$\bigstar\bigstar\bigstar\bigstar\bigstar$ & 决胜考点 & 几乎年年必考，且是难题/易错点 & 闭卷默写 + 限时算对 \\
+$\bigstar\bigstar\bigstar\bigstar$ & 高频重点 & 反复考，套路固定但计算量不小 & 熟练到条件反射 \\
+$\bigstar\bigstar\bigstar$ & 常考点 & 隔年出现或以小题形式考 & 理解 + 会用 \\
+$\bigstar\bigstar$ & 一般考点 & 低频，或只是解题的基础工具 & 会算即可 \\
+$\bigstar$ & 了解性考点 & 大纲要求"了解"，考到即送分 & 记住结论 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\section*{三、线性代数的三条主线}
+
+线性代数看起来零散，实际上是三条主线贯穿六章。复习时始终问自己"这道题在考哪条线"：
+
+\begin{enumerate}
+  \item \textbf{秩的主线}：矩阵的秩 $=$ 行向量组的秩 $=$ 列向量组的秩 $=$ 非零子式的最高阶数；
+        $r(AB)\le\min\{r(A),r(B)\}$，可逆矩阵相乘秩不变；$Ax=0$ 的解空间维数 $=n-r(A)$。
+  \item \textbf{方程组的主线}：$Ax=0$ 只有零解 $\iff r(A)=n$ $\iff$ 列向量组线性无关 $\iff |A|\ne0$
+        $\iff A$ 可逆；非齐次有解 $\iff r(A)=r(\overline A)$。这条线把矩阵、向量、方程组三章串成一处。
+  \item \textbf{特征值的主线}：$|\lambda E-A|=0$ $\Rightarrow$ 特征值与迹、行列式的关系 $\Rightarrow$
+        相似对角化的条件 $\Rightarrow$ 实对称矩阵正交对角化 $\Rightarrow$ 二次型的标准形与正定性。
+\end{enumerate}
+
+\section*{四、试卷结构与线代的分值}
+
+数学二满分 150 分，考试时间 180 分钟；内容结构为\textbf{高等数学约 80\%}、\textbf{线性代数约 20\%}
+（不考概率统计）。题型为：单项选择题 10 小题共 50 分、填空题 6 小题共 30 分、解答题 6 小题共 70 分。
+线性代数通常占 2 个选择/填空加 1 个解答题，\textbf{分值不大但几乎不丢分}，性价比极高。
+
+\section*{五、数学二线代不考什么}
+
+\begin{itemize}
+  \item 线性空间、向量空间的定义与判定，基变换与坐标变换
+  \item 线性变换及其矩阵表示
+  \item 若尔当（Jordan）标准形与 $\lambda$-矩阵
+  \item 广义特征向量、最小多项式等更深的内容
+  \item 概率论与数理统计（数学二完全不考）
+\end{itemize}
+
+\section*{六、怎么用：三轮法}
+
+\begin{enumerate}
+  \item \textbf{第一轮}：按行列式 $\to$ 矩阵 $\to$ 向量 $\to$ 方程组 $\to$ 特征值 $\to$ 二次型的顺序通读，
+        把"结论/公式"抄成一张 A4 速查表（矩阵的秩、可逆的充要条件、相似与合同、正定的判别）。
+  \item \textbf{第二轮}：集中攻$\bigstar\bigstar\bigstar\bigstar\bigstar$四类题——抽象行列式与伴随矩阵、
+        向量组线性相关性的证明、含参数方程组的解的讨论、相似对角化与二次型标准化。
+  \item \textbf{第三轮}：只看每章"易错清单"，重点核对：$|kA|=k^n|A|$、$|A^*|=|A|^{n-1}$、
+        $A$ 与 $A^T$ 特征值相同但特征向量不同、相似必合同（实对称）而合同未必相似。
+\end{enumerate}
+
+\section*{七、使用提醒}
+
+\begin{itemize}
+  \item 本册按大纲顺序编排，章号即大纲条目号（一、行列式 $\dots$ 六、二次型）。
+  \item "真题考法"只描述出题角度，不编造年份与题号。
+  \item 手册中所有结论都写明了\textbf{前提}（如"$A$ 可逆时""$A$ 为实对称矩阵时"），
+        请务必连前提一起记，这是线性代数最常见的失分原因。
+\end{itemize}

@@ -1,0 +1,4 @@
+x→0
+例题41 计算limln sin2x+ex −x. x→0 ln(e2x −x2)−2x
+解
+例题 42 解

@@ -1,0 +1,52 @@
+n→∞ n→∞
+lim lnxn+ 1 ⩽1⩽lim lnxn+1
+少，故0<an <bn <
+ π
+n=1 时，cosx > 1−
+n→∞ ，从而−cosx <
+n→∞
+(1)lim x→0 x
+= 1
+sin x
+sin □ □
+.又级数
+27 喻老高数强化讲义
+ xn+1 > xn ，即数列 {xn} 单调递增.
+因lnxn+ 1 <1,xn+1 >0，故lnxn <1，从而xn <e，所以数列{xn}有上界，由单调有界
+ xn+1
+原理知 lim xn 存在.设 lim xn =A，因lnxn + 1 <1⩽lnxn + 1 ，故
+ xn+1 xn 
+ n→∞ xn+1 n→∞ xn
+即lnA+ 1 ⩽1⩽lnA+ 1 ，从而lnA+ 1 =1，可得A=1.故 lim xn =1.
+A A A n→∞
+例题 36 (数一、数三) 设数列 {an},{bn} 满足 0 < an < π2, 0 < bn < π2，cosan − an = cosbn，且级
+数
+X∞ n=1
+bn 收敛，证明: lim an = 0. n→∞
+解法一:由于0<an <
+π
+2
+π2，0<bn < π2，cosbn =cosan −an <cosan .且cosx在 0,π2 上单调减 X∞
+
+bn 收敛，故 lim bn =0，从而由夹逼准则知 lim an =0.
+x2
+x2
+ π
+−1.由于bn ∈ 0, ，故 2 2 ∞2 2
+法二:当x ∈ 0,
+an =cosan −cosbn <1+ n −1= n ，即0<an < n .又级数
+2 2 由夹逼准则知 lim an = 0 .
+n→∞
+题型四 函数极限的计算 一、两个重要极限
+= 1，一般地:lim□ = 0(□ ̸= 0) ⇒ lim
+2 n=1
+b2 b2 b2 X
+bn 收敛，故 lim bn =0，从而 n→∞
+  
+1n11 (2) lim 1+ =e; lim(1+x)x =e，一般地:lim□=0(□̸=0)⇒lim(1+□)□ =e
+二、常见的等价无穷小(当 x → 0 时)
+sinx∼x, tanx∼x, arcsinx∼x, arctanx∼x, ex −1∼x, ln(1+x)∼x,
+1−cosx∼ 1x2, x−ln(1+x)∼ 1x2, (1+x)α −1∼αx, ax −1∼xlna, 22
+x−sinx∼ 1x3 ∼arcsinx−x, tanx−x∼ 1x3 ∼x−arctanx. 63
+n→∞ n x→0
+24

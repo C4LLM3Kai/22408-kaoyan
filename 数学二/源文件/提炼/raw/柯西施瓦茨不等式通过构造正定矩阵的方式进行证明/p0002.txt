@@ -1,0 +1,40 @@
+n
+Det(∑a a )= ik ij
+i=1
+⩾0. (2)
+i=1
+i=1 i2
+i=1
+i=1
+i=1
+i=1 im
+nnn
+2
+∑a∑aa⋯∑aa
+i=1 i1 i=1
+i=1
+nnn
+2
+i1 i2
+i1 im
+∑aa ∑a ⋯∑aa
+i2 i1
+i2 im
+⋮⋮⋱⋮
+nnn
+∑aa∑aa⋯∑a
+2
+im i1
+im i2
+(a ,a ,⋯,a ),(a ,a ,⋯,a ),⋯,(a ,a ,⋯,a )
+∃
+11 21
+x ,⋯,x 1m
+.
+n1 12 22 n2 1m 2m nm
+a x +a x +⋯+a x =0 (i=1,2,⋯,n)] i1 1 i2 2 im m
+∣∣
+全不 :即 关相性线
+立成时
+得使 数常的零为
+当仅且当号等

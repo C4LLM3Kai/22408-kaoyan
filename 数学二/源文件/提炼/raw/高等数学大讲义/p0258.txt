@@ -1,0 +1,71 @@
+当出现 1
+sin cos a x b x +
+时，用辅助角公式优先化简
+当仅含 2 2 sin ,cos ,sin cos x x x x 时，用 tan t x = 更高效
+2.【冯建轩】奇偶性判定法则
+若 ( sin ,cos ) (sin ,cos ) R x x R x x −  − ，必可令 cos t x =
+例：
+3 2
+2 2
+sin (1 )( )
+cos
+x t dx dt
+x t
+−
+= −  
+3.【冯建轩】降幂公式组合技
+2
+cos xdx=dsin x
+sin cos sin cos
+1-cos 2x
+, sin x= 2
+m n
+n
+x xdx m xdx d x
+m n
+  
+= −
+   
+
+奇，
+奇，
+均为偶，
+4.【冯建轩】倒代换技巧
+对 4 2 sin cos
+dx
+x x
+ ，令 1
+tan
+t
+x
+= 可简化为 2 4 ( ) t t dt +
+
+6.【冯建轩】例题（覆盖考研核心题型）
+1.【冯建轩】 2 sin
+dx
+x
++
+
+2.【冯建轩】 2
+cos
+1 sin
+x dx
+x
++
+
+3.【冯建轩】
+3
+5
+sin
+cos
+x dx
+x
+
+4.【冯建轩】 3 sin cos
+dx
+x x
+
+冯建轩
+冯建轩
+冯建轩《高等数学大讲义》 冯建轩 若有错误，请自行纠正
+版权所有，仅供交流学习 258 冯建轩

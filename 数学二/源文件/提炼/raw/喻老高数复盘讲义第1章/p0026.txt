@@ -1,0 +1,8 @@
+x x2x3 xn n
+e =1+x+2+3!+···+n!+o(x),
+x3 x5 sinx=x− + −···+
+x3 3 arcsinx=x+ 3! +o(x ),
+x2 x4 cosx=1− + −···+
+x3 3 tanx=x+ 3 +o(x ),
+(−1)nx2n+1 (2n+1)!
+(−1)nx2n (2n)!

@@ -1,0 +1,10 @@
+《26 考研数学线性代数强化讲义》 第二组:借助向量、方程组理解
+32
+ (11)设A为mn矩阵, B为ms矩阵，那么 max{r(A), r(B)}r(A, B)r(A)r(B). (12)设A,B均为mn矩阵,那么 r(AB)r(A,B)r(A)r(B). (13)设A为mn矩阵, B为ns矩阵,那么 r(AB)min{r(A), r(B)}. (14)若A是mn矩阵, B是ns矩阵, ABO,则 r(A)r(B)n. (15)若A是mn矩阵, B是ns矩阵,则 r(AB)r(A)r(B)n.
+n, 若r(A)n (16)rA*1, 若r(A)n1.
+0, 若r(A)n1 
+(17)r(A)  rAT  rAT A rAAT .
+(18)rA OrO Ar(A)r(B). O B B O
+ 
+(19)rA CrA Or(A)r(B).
+O B C B 

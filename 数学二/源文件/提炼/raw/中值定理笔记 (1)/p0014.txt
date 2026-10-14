@@ -1,0 +1,76 @@
+主題 日期
+星期
+哈哈遊樂場
+目錄 模板-中 模板-英
+日赐。希孟年十八，
+昔在画学为生徒，召
+入禁中文书库，数以
+画献，未甚工。上知
+其性可教，就诲谕之
+亲授其法，不逾半年
+乃以此画进。上嘉
+之，因以赐臣京，谓天
+下士在作之而已
+补充题:设函数f( x )
+, g ( x )ε {a
+,
+b]
+,
+,
+gx)tofi=fla)=f(b )= 0
+证明: aε (a
+.b )stfi)
+"
+g 13 )= fi)g )
+证: ff(xgx) dx=ffxgdx
+→ fixjg)- ffixgidx=fixgi)- fxgdxtc
+二次构造罗尔
+⇒令 )= f (x )gx)- f)gx)
+,
+有 fHa)=0 {I弓
+注意到题中g/x ) ±0.FHx )= g ( ) [f(x-fex )- gix马
+个 D
+令 G( X )=fex ) e
+xd
+-fix
+) g
+有 G(a)=G(b) =
+0,故 ≡ε(a
+.b).stG③= F(3 )=0
+.
+又 Fla)=0
+我们完成了证明
+例题 3, 设函数fx)具有= 阶导数 ,且f(0 )= 0
+,证明= 存在t(*
+π ),使得 fi=f)[ 1+ 2 tan]
+分析:两边同乘@ s 分 ,有拗ω ss=f()[as+ asin ],写不出来
+两边同乘sec乡,
+有 fisec }= f3)[secst2 tansses ]
+'
+secs= secstan) ≤ses )"
+发现secgtztans
+fxx
+故可令 gx)= secx
+,
+G( X)=
+x )= sexfx)=osxfx)
+有 G(π)= G()= G(0)= 0,故 z,stG涨 =G= 0
+,
+1
+积tGl=0证明完华 ← 注意这里并不是直接 F(X ),而是分子部分
+证日明:冷F (x) =ωsxf (x ) ,有i)=F(0) =F(π)
+=
+0,由罗尔定理 ,台红化F 别=F( ☆=0
+1
+fexmecx二
+1
+故FN
+=
+t
+secxtanx ) 令G(X )= fx )secx-secxtanxf ( x
+) ,有 G 1 )= 0
+secx),
+"
+secxtflxjsecxtanx- sextauxf( x)- secxf( x )-secxtanxfxj=0
+即fx)
+我们完成了证明 θ

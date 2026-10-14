@@ -1,0 +1,194 @@
+\contentsline {chapter}{使用说明}{i}{chapter*.1}%
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}函数极限连续}{1}{chapter.1}%
+\contentsline {subsection}{本章考纲要求}{1}{subsection*.9}%
+\contentsline {subsection}{本章星级总表}{1}{subsection*.10}%
+\contentsline {section}{\numberline {一、}函数}{2}{section.1.1}%
+\contentsline {subsection}{\numberline {（一）}函数的概念与表示}{2}{subsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.}函数的概念、表示法与函数关系的建立 $\bigstar $}{2}{subsubsection.1.1.1.1}%
+\contentsline {subsection}{\numberline {（二）}函数的四大特性}{3}{subsection.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.}函数的有界性、单调性、周期性、奇偶性 $\bigstar $$\bigstar $}{3}{subsubsection.1.1.2.1}%
+\contentsline {subsubsection}{\numberline {2.}复合函数、反函数、分段函数、隐函数 $\bigstar $$\bigstar $}{5}{subsubsection.1.1.2.2}%
+\contentsline {subsection}{\numberline {（三）}基本初等函数与初等函数}{5}{subsection.1.1.3}%
+\contentsline {subsubsection}{\numberline {1.}基本初等函数的性质与图形、初等函数 $\bigstar $$\bigstar $}{5}{subsubsection.1.1.3.1}%
+\contentsline {section}{\numberline {二、}极限}{6}{section.1.2}%
+\contentsline {subsection}{\numberline {（一）}极限的概念与性质}{6}{subsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.}数列极限的定义与性质 $\bigstar $$\bigstar $$\bigstar $}{6}{subsubsection.1.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.}函数极限的定义、左极限与右极限、极限存在的充要条件 $\bigstar $$\bigstar $}{7}{subsubsection.1.2.1.2}%
+\contentsline {subsubsection}{\numberline {3.}极限的性质、四则运算与"存在性传播"规律 $\bigstar $$\bigstar $$\bigstar $}{8}{subsubsection.1.2.1.3}%
+\contentsline {subsection}{\numberline {（二）}无穷小与无穷大}{9}{subsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.}无穷小与无穷大的概念及关系 $\bigstar $$\bigstar $$\bigstar $}{9}{subsubsection.1.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.}无穷小阶的比较与确定（含求参数）$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{10}{subsubsection.1.2.2.2}%
+\contentsline {subsection}{\numberline {（三）}极限的计算工具}{11}{subsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.}等价无穷小替换及其适用条件 $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{11}{subsubsection.1.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.}极限存在的两个准则：夹逼准则与单调有界准则 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{13}{subsubsection.1.2.3.2}%
+\contentsline {subsubsection}{\numberline {3.}两个重要极限 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{14}{subsubsection.1.2.3.3}%
+\contentsline {subsubsection}{\numberline {4.}七类未定式与极限计算总思路 $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{15}{subsubsection.1.2.3.4}%
+\contentsline {subsubsection}{\numberline {5.}泰勒/等价无穷小在极限中的联合运用 $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{16}{subsubsection.1.2.3.5}%
+\contentsline {subsubsection}{\numberline {6.}已知极限确定参数、求函数表达式 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{17}{subsubsection.1.2.3.6}%
+\contentsline {subsection}{\numberline {（四）}数列极限的计算}{18}{subsection.1.2.4}%
+\contentsline {subsubsection}{\numberline {1.}数列极限的计算：n 项和与 n 项积、递推数列 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{18}{subsubsection.1.2.4.1}%
+\contentsline {section}{\numberline {三、}连续}{20}{section.1.3}%
+\contentsline {subsection}{\numberline {（一）}连续与间断}{20}{subsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.}函数的连续性与左、右连续 $\bigstar $$\bigstar $$\bigstar $}{20}{subsubsection.1.3.1.1}%
+\contentsline {subsubsection}{\numberline {2.}间断点及其类型（第一类/第二类）$\bigstar $$\bigstar $$\bigstar $}{21}{subsubsection.1.3.1.2}%
+\contentsline {subsection}{\numberline {（二）}连续函数的性质}{22}{subsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.}连续函数的性质与初等函数的连续性 $\bigstar $$\bigstar $}{22}{subsubsection.1.3.2.1}%
+\contentsline {subsubsection}{\numberline {2.}闭区间上连续函数的性质 $\bigstar $$\bigstar $$\bigstar $}{23}{subsubsection.1.3.2.2}%
+\contentsline {subsection}{本章易错清单}{24}{subsection*.11}%
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}一元函数微分学}{26}{chapter.2}%
+\contentsline {subsection}{本章考纲要求}{26}{subsection*.12}%
+\contentsline {subsection}{本章星级总表}{27}{subsection*.13}%
+\contentsline {section}{\numberline {一、}导数与微分的概念}{27}{section.2.1}%
+\contentsline {subsection}{\numberline {（一）}导数的定义与可导性判定}{27}{subsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {1.}导数的定义与用定义判定可导性（分段点、绝对值、抽象函数） $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{27}{subsubsection.2.1.1.1}%
+\contentsline {subsubsection}{\numberline {2.}可导与连续的关系、左导数与右导数 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{29}{subsubsection.2.1.1.2}%
+\contentsline {subsection}{\numberline {（二）}导数与微分的几何、物理意义}{30}{subsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {1.}导数的几何意义、切线与法线；导数的物理意义 $\bigstar $$\bigstar $}{30}{subsubsection.2.1.2.1}%
+\contentsline {subsubsection}{\numberline {2.}微分的概念、微分的四则运算与一阶微分形式不变性 $\bigstar $$\bigstar $}{31}{subsubsection.2.1.2.2}%
+\contentsline {subsubsection}{\numberline {3.}可微与可导的关系、微分概念题 $\bigstar $$\bigstar $$\bigstar $}{32}{subsubsection.2.1.2.3}%
+\contentsline {subsubsection}{\numberline {4.}分段函数的导数与可导性综合 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{33}{subsubsection.2.1.2.4}%
+\contentsline {section}{\numberline {二、}求导方法与高阶导数}{34}{section.2.2}%
+\contentsline {subsection}{\numberline {（一）}基本求导法则}{34}{subsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {1.}导数的四则运算与基本初等函数导数公式 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{34}{subsubsection.2.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.}复合函数、反函数、隐函数、参数方程求导 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{35}{subsubsection.2.2.1.2}%
+\contentsline {subsection}{\numberline {（二）}高阶导数}{37}{subsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {1.}高阶导数与莱布尼茨公式 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{37}{subsubsection.2.2.2.1}%
+\contentsline {section}{\numberline {三、}微分中值定理与证明题}{38}{section.2.3}%
+\contentsline {subsection}{\numberline {（一）}中值定理基础}{38}{subsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {1.}罗尔定理、拉格朗日中值定理及其应用 $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{38}{subsubsection.2.3.1.1}%
+\contentsline {subsubsection}{\numberline {2.}柯西中值定理（了解并会用） $\bigstar $$\bigstar $$\bigstar $}{40}{subsubsection.2.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.}泰勒定理与泰勒公式的应用（含中值定理证明中的泰勒法） $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{42}{subsubsection.2.3.1.3}%
+\contentsline {subsection}{\numberline {（二）}证明题的套路}{44}{subsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {1.}中值定理证明题的辅助函数构造 $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{44}{subsubsection.2.3.2.1}%
+\contentsline {subsubsection}{\numberline {2.}不等式证明与放缩技巧 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{47}{subsubsection.2.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.}方程根的个数与零点存在性讨论 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{48}{subsubsection.2.3.2.3}%
+\contentsline {section}{\numberline {四、}导数的应用}{49}{section.2.4}%
+\contentsline {subsection}{\numberline {（一）}洛必达法则}{49}{subsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {1.}洛必达法则及其适用条件与失效情形 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{49}{subsubsection.2.4.1.1}%
+\contentsline {subsection}{\numberline {（二）}单调性、极值与最值}{51}{subsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {1.}函数单调性的判别 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{51}{subsubsection.2.4.2.1}%
+\contentsline {subsubsection}{\numberline {2.}函数的极值（含不可导点、驻点判定） $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{52}{subsubsection.2.4.2.2}%
+\contentsline {subsubsection}{\numberline {3.}最大值、最小值及其应用 $\bigstar $$\bigstar $$\bigstar $}{53}{subsubsection.2.4.2.3}%
+\contentsline {subsection}{\numberline {（三）}图形、渐近线与曲率}{54}{subsection.2.4.3}%
+\contentsline {subsubsection}{\numberline {1.}凹凸性、拐点、渐近线 $\bigstar $$\bigstar $$\bigstar $}{54}{subsubsection.2.4.3.1}%
+\contentsline {subsubsection}{\numberline {2.}函数图形的描绘 $\bigstar $$\bigstar $}{56}{subsubsection.2.4.3.2}%
+\contentsline {subsubsection}{\numberline {3.}曲率、曲率圆与曲率半径的概念与计算 $\bigstar $$\bigstar $}{57}{subsubsection.2.4.3.3}%
+\contentsline {subsection}{本章易错清单}{59}{subsection*.14}%
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}一元函数积分学}{60}{chapter.3}%
+\contentsline {subsection}{本章考纲要求}{60}{subsection*.15}%
+\contentsline {subsection}{本章星级总表}{60}{subsection*.16}%
+\contentsline {section}{\numberline {一、}不定积分}{61}{section.3.1}%
+\contentsline {subsection}{\numberline {（一）}原函数与基本积分表}{61}{subsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {1.}原函数与不定积分的概念、基本积分公式表 $\bigstar $$\bigstar $$\bigstar $}{61}{subsubsection.3.1.1.1}%
+\contentsline {subsection}{\numberline {（二）}换元积分法}{64}{subsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {1.}不定积分的性质与换元积分法（第一类、第二类） $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{64}{subsubsection.3.1.2.1}%
+\contentsline {subsection}{\numberline {（三）}分部积分法}{66}{subsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {1.}分部积分法及其推广 $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{66}{subsubsection.3.1.3.1}%
+\contentsline {subsection}{\numberline {（四）}特殊类型函数的积分}{67}{subsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {1.}有理函数的积分（部分分式） $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{67}{subsubsection.3.1.4.1}%
+\contentsline {subsubsection}{\numberline {2.}三角函数有理式与简单无理函数的积分 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{69}{subsubsection.3.1.4.2}%
+\contentsline {section}{\numberline {二、}定积分的概念与性质}{70}{section.3.2}%
+\contentsline {subsection}{\numberline {（一）}定积分的定义与性质}{70}{subsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {1.}定积分的概念（黎曼和定义）与几何意义 $\bigstar $$\bigstar $$\bigstar $}{70}{subsubsection.3.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.}定积分的基本性质、积分中值定理与估值 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{72}{subsubsection.3.2.1.2}%
+\contentsline {subsection}{\numberline {（二）}微积分基本定理}{73}{subsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {1.}变限积分函数及其导数 $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{73}{subsubsection.3.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.}牛顿-莱布尼茨公式 $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{75}{subsubsection.3.2.2.2}%
+\contentsline {section}{\numberline {三、}定积分的计算}{76}{section.3.3}%
+\contentsline {subsection}{\numberline {（一）}定积分的换元与分部}{76}{subsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {1.}定积分的换元法与分部积分法 $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{76}{subsubsection.3.3.1.1}%
+\contentsline {subsection}{\numberline {（二）}定积分的计算技巧}{77}{subsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {1.}对称区间奇偶性、周期性、区间再现等化简技巧 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{77}{subsubsection.3.3.2.1}%
+\contentsline {subsubsection}{\numberline {2.}分段函数与含绝对值、含根号的积分 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{78}{subsubsection.3.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.}定积分计算综合（递推公式、Wallis 公式类） $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{79}{subsubsection.3.3.2.3}%
+\contentsline {section}{\numberline {四、}反常积分}{81}{section.3.4}%
+\contentsline {subsection}{\numberline {（一）}反常积分的概念与计算}{81}{subsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {1.}反常（广义）积分的概念与计算 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{81}{subsubsection.3.4.1.1}%
+\contentsline {subsection}{\numberline {（二）}敛散性判别}{83}{subsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {1.}反常积分敛散性的判别（比较判别法、p 积分） $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{83}{subsubsection.3.4.2.1}%
+\contentsline {section}{\numberline {五、}定积分的应用与积分证明}{84}{section.3.5}%
+\contentsline {subsection}{\numberline {（一）}几何应用}{84}{subsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {1.}定积分的几何应用：平面图形面积 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{84}{subsubsection.3.5.1.1}%
+\contentsline {subsubsection}{\numberline {2.}定积分的几何应用：旋转体体积与平行截面面积已知的立体体积 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{86}{subsubsection.3.5.1.2}%
+\contentsline {subsubsection}{\numberline {3.}定积分的几何应用：平面曲线弧长、旋转体侧面积 $\bigstar $$\bigstar $$\bigstar $}{87}{subsubsection.3.5.1.3}%
+\contentsline {subsection}{\numberline {（二）}物理应用与平均值}{88}{subsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {1.}定积分的物理应用：功、引力、压力 $\bigstar $$\bigstar $$\bigstar $}{88}{subsubsection.3.5.2.1}%
+\contentsline {subsubsection}{\numberline {2.}质心、形心与函数平均值 $\bigstar $$\bigstar $$\bigstar $}{90}{subsubsection.3.5.2.2}%
+\contentsline {subsection}{\numberline {（三）}积分等式与不等式}{91}{subsection.3.5.3}%
+\contentsline {subsubsection}{\numberline {1.}积分中值问题与积分等式证明 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{91}{subsubsection.3.5.3.1}%
+\contentsline {subsubsection}{\numberline {2.}积分不等式与积分放缩 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{92}{subsubsection.3.5.3.2}%
+\contentsline {subsection}{本章易错清单}{94}{subsection*.17}%
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}多元函数微积分学}{95}{chapter.4}%
+\contentsline {subsection}{本章考纲要求}{95}{subsection*.18}%
+\contentsline {subsection}{本章星级总表}{95}{subsection*.19}%
+\contentsline {section}{\numberline {一、}多元函数的基本概念}{96}{section.4.1}%
+\contentsline {subsection}{\numberline {（一）}多元函数的概念与几何意义}{96}{subsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {1.}多元函数的概念、二元函数的几何意义 $\bigstar $}{96}{subsubsection.4.1.1.1}%
+\contentsline {subsection}{\numberline {（二）}二元函数的极限与连续}{97}{subsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {1.}二元函数的极限与连续、有界闭区域上连续函数性质 $\bigstar $$\bigstar $}{97}{subsubsection.4.1.2.1}%
+\contentsline {subsection}{\numberline {（三）}偏导数与全微分}{99}{subsection.4.1.3}%
+\contentsline {subsubsection}{\numberline {1.}偏导数与全微分的概念、可微的判定 $\bigstar $$\bigstar $$\bigstar $}{99}{subsubsection.4.1.3.1}%
+\contentsline {section}{\numberline {二、}多元函数的微分法}{101}{section.4.2}%
+\contentsline {subsection}{\numberline {（一）}复合函数与隐函数的求导}{101}{subsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {1.}多元复合函数的求导法（链式法则、抽象函数） $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{101}{subsubsection.4.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.}多元隐函数的求导法（含隐函数存在定理） $\bigstar $$\bigstar $$\bigstar $}{103}{subsubsection.4.2.1.2}%
+\contentsline {subsection}{\numberline {（二）}高阶偏导数}{104}{subsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {1.}二阶偏导数与混合偏导相等的条件 $\bigstar $$\bigstar $$\bigstar $}{104}{subsubsection.4.2.2.1}%
+\contentsline {section}{\numberline {三、}多元函数的极值与最值}{105}{section.4.3}%
+\contentsline {subsection}{\numberline {（一）}极值与条件极值}{106}{subsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {1.}多元函数的极值、条件极值与拉格朗日乘数法 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{106}{subsubsection.4.3.1.1}%
+\contentsline {paragraph}{无条件极值}{106}{paragraph*.20}%
+\contentsline {paragraph}{条件极值与拉格朗日乘数法}{106}{paragraph*.21}%
+\contentsline {subsection}{\numberline {（二）}最大值与最小值}{108}{subsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {1.}多元函数的最大值、最小值及简单应用 $\bigstar $$\bigstar $$\bigstar $}{108}{subsubsection.4.3.2.1}%
+\contentsline {section}{\numberline {四、}二重积分}{109}{section.4.4}%
+\contentsline {subsection}{\numberline {（一）}二重积分的概念与性质}{109}{subsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {1.}二重积分的概念、基本性质与中值定理 $\bigstar $$\bigstar $$\bigstar $}{109}{subsubsection.4.4.1.1}%
+\contentsline {subsection}{\numberline {（二）}二重积分的计算}{110}{subsection.4.4.2}%
+\contentsline {subsubsection}{\numberline {1.}二重积分的计算：直角坐标、交换积分次序 $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{110}{subsubsection.4.4.2.1}%
+\contentsline {subsubsection}{\numberline {2.}二重积分的计算：极坐标 $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{112}{subsubsection.4.4.2.2}%
+\contentsline {subsection}{\numberline {（三）}二重积分的化简与分块}{114}{subsection.4.4.3}%
+\contentsline {subsubsection}{\numberline {1.}二重积分的对称性、奇偶性与轮换对称性化简 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{114}{subsubsection.4.4.3.1}%
+\contentsline {subsubsection}{\numberline {2.}分区域积分、含绝对值与最值函数的二重积分 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{115}{subsubsection.4.4.3.2}%
+\contentsline {subsection}{本章易错清单}{117}{subsection*.22}%
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}常微分方程}{118}{chapter.5}%
+\contentsline {subsection}{本章考纲要求}{118}{subsection*.23}%
+\contentsline {subsection}{本章星级总表}{118}{subsection*.24}%
+\contentsline {section}{\numberline {一、}基本概念与一阶微分方程}{119}{section.5.1}%
+\contentsline {subsection}{\numberline {（一）}微分方程的概念与解}{119}{subsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {1.}微分方程的基本概念（阶、通解、特解、初始条件） $\bigstar $$\bigstar $}{119}{subsubsection.5.1.1.1}%
+\contentsline {subsection}{\numberline {（二）}一阶微分方程}{121}{subsection.5.1.2}%
+\contentsline {subsubsection}{\numberline {1.}变量可分离的微分方程 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{121}{subsubsection.5.1.2.1}%
+\contentsline {subsubsection}{\numberline {2.}齐次微分方程 $\bigstar $$\bigstar $$\bigstar $}{122}{subsubsection.5.1.2.2}%
+\contentsline {subsubsection}{\numberline {3.}一阶线性微分方程（公式法与常数变易法） $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{124}{subsubsection.5.1.2.3}%
+\contentsline {section}{\numberline {二、}可降阶的高阶微分方程}{127}{section.5.2}%
+\contentsline {subsection}{\numberline {（一）}降阶法}{127}{subsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {1.}可降阶的高阶微分方程（$y^{(n)}=f(x)$、$y''=f(x,y')$、$y''=f(y,y')$） $\bigstar $$\bigstar $$\bigstar $}{127}{subsubsection.5.2.1.1}%
+\contentsline {section}{\numberline {三、}线性微分方程解的性质与解的结构}{129}{section.5.3}%
+\contentsline {subsection}{\numberline {（一）}解的性质与结构定理}{129}{subsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {1.}线性微分方程解的性质与解的结构 $\bigstar $$\bigstar $$\bigstar $$\bigstar $}{129}{subsubsection.5.3.1.1}%
+\contentsline {section}{\numberline {四、}常系数线性微分方程及其应用}{131}{section.5.4}%
+\contentsline {subsection}{\numberline {（一）}常系数齐次线性方程}{131}{subsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {1.}二阶常系数齐次线性微分方程（特征方程三种情形） $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{131}{subsubsection.5.4.1.1}%
+\contentsline {subsubsection}{\numberline {2.}高于二阶的某些常系数齐次线性微分方程 $\bigstar $$\bigstar $}{133}{subsubsection.5.4.1.2}%
+\contentsline {subsection}{\numberline {（二）}常系数非齐次线性方程}{135}{subsection.5.4.2}%
+\contentsline {subsubsection}{\numberline {1.}二阶常系数非齐次线性微分方程（待定系数法，含和与积型自由项） $\bigstar $$\bigstar $$\bigstar $$\bigstar $$\bigstar $}{135}{subsubsection.5.4.2.1}%
+\contentsline {subsubsection}{\numberline {2.}已知解反求微分方程或参数 $\bigstar $$\bigstar $$\bigstar $}{138}{subsubsection.5.4.2.2}%
+\contentsline {subsection}{\numberline {（三）}微分方程的应用}{139}{subsection.5.4.3}%
+\contentsline {subsubsection}{\numberline {1.}微分方程的简单应用（几何、物理、变化率） $\bigstar $$\bigstar $$\bigstar $}{139}{subsubsection.5.4.3.1}%
+\contentsline {subsection}{本章易错清单}{142}{subsection*.25}%
+\contentsline {chapter}{附录一 五星考点冲刺路线}{143}{chapter*.26}%
+\contentsline {subsection}{\numberline {（四）}这份路线怎么用}{143}{subsection.5.4.4}%
+\contentsline {subsection}{\numberline {（五）}冲刺优先级总表}{143}{subsection.5.4.5}%
+\contentsline {subsection}{\numberline {（六）}三轮时间表（以 90 天为例，可按比例缩放）}{144}{subsection.5.4.6}%
+\contentsline {subsection}{\numberline {（七）}考前 7 天清单}{145}{subsection.5.4.7}%
+\contentsline {chapter}{附录二 必背公式与结论速查}{146}{chapter*.27}%
+\contentsline {subsection}{\numberline {（八）}等价无穷小（$x\to 0$ 时必须写清前提）}{146}{subsection.5.4.8}%
+\contentsline {subsection}{\numberline {（九）}泰勒公式常用展开（皮亚诺余项）}{146}{subsection.5.4.9}%
+\contentsline {subsection}{\numberline {（十）}求导公式}{146}{subsection.5.4.10}%
+\contentsline {subsection}{\numberline {（十一）}常用不定积分}{147}{subsection.5.4.11}%
+\contentsline {subsection}{\numberline {（十二）}定积分常用结论}{147}{subsection.5.4.12}%
+\contentsline {subsection}{\numberline {（十三）}反常积分的敛散结论}{147}{subsection.5.4.13}%
+\contentsline {subsection}{\numberline {（十四）}定积分的应用公式}{148}{subsection.5.4.14}%
+\contentsline {subsection}{\numberline {（十五）}常用不等式与放缩}{148}{subsection.5.4.15}%
+\contentsline {subsection}{\numberline {（十六）}微分方程解的形式}{149}{subsection.5.4.16}%

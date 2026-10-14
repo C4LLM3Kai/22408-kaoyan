@@ -1,0 +1,33 @@
+一、三角函数重要公式
+1.基本关系
+sin2 xcos2 x1
+1cot2 xcsc2 x tan x  sin x
+cos x secx 1
+高等数学部分
+第零章 常用基础预备知识
+1tan2 xsec2 x arcsinxarccosx 
+cot x  cos x sin x
+cscx 1 sin x
+2
+公众号:考研经验超市
+     cos x
+2.倍角公式
+cos2 x1cos2x
+2 sin2 x1cos2x
+2
+3.诱导公式 sin(  x)  sin x
+cos(  x)  cos x sin xcosx
+cos2x2cos2 x1cos2 xsin2 x sin2x2sinxcosx
+sin(  x)  sin x cos(  x)  cos x
+  sin xcosx 2 2
+ 
+cos xsinx cos xsinx
+2 2  
+sin xcosx, 2
+
+sin(  x)  sin x,
+总结:  
+cos  x  sin x
+2
+cos(  x)  cos x 
+2

@@ -1,0 +1,90 @@
+min
+≤ min
+≤ max
+≤ max
+x Ax x Bx
++ min
+x (A+B)x
+x (A+B)x
+x Ax x Bx
++ max ,
+x≠0 xx
+A ∈ Cn×n
+A
+x≠0 xx x≠0 xx x≠0 xx x≠0 xx x≠0 xx
+λ (A)+λ (B)≤λ (A+B)≤λ (A+B)≤λ (A)+λ (B), min min min max max max
+S. ##
+| T | < 1 ⇒ −1 < T TT
+< 1 ⇒A
+-1, 1
+T TT TT
+x Ax
+y T ATy y T ATy
+∑λy
+i ∑ y
+Hermite
+λ (A) = k
+max min x Ax = min max
+nn
+x Ax,
+===⎨
+n2 TTTT2∑λ
+n
+xx yTTy yy ∑y i=1i ⎩
+i=1i ≥ λ(A) n 2 min
+∑y
+i=1 i
+TTTTTT
+TTTTTT
+k = 1, 2, ⋯ , n
+λ (A)⩾λ (A)⩾⋯⩾λ (A) 12n
+SC ,dimS=kx∈S,||x∣=1
+SC ,dimS=n−k+1x∈S,||x∣=1
+n
+n2 ∑λ
+⎧ i=1 i
+2≤ λ(A) n max
+i=1i i=1i
+∗∗
+2
+⎪ ⎪
+                7. A 2
+[ ] [ + ] [ ] ( C)
+,
+, 2 X, |T|<|T|, , 2 12
+T
+11
+− 22
+A.y2 +y2 −y2 −y2. 1234
+B.y2 +y2 +y2 −y2. 1234
+C.y2 +y2 +y2 +y2. 1234
+D. −y2 −y2 −y2 −y2. 1234
+为形范规的 型次二则
+量向列维 为均 有都 量向列零非维 的意任对若 阵矩称对实阶 是 设
+定正型范规得易后然， 于小
+于大都值征特有所的
+立成
+一例
+题问 数代性线
+商利瑞
+间空子是 里这
+对则，值征特的 是
+，阵矩 是 设
+为广推以可还后然
+知式等不本基用运外此
+二例
+ f(x,x)=x −4xx +4x ,g(x,x) 121212
+B=[1 −1] −1 2
+22
+12
+(1) D, B=DTD? f(x) 1
+,
+D, ,
+.
+(2) max , x=[x] g(x)
+x≠0
+x
+2
+中其 求
+由理明说 在存不若 阵矩出求 在存若 使 阵矩逆可在存否是
+为阵矩型次二的 型次二设

@@ -1,0 +1,32 @@
+公众号:考研经验超市
+ 4.两角和公式
+sin(A  B)  sin Acos B  cos Asin B sin(A  B)  sin Acos B  cos Asin B cos(A  B)  cos Acos B  sin Asin B cos(A  B)  cos Acos B  sin Asin B
+tan(AB) tanAtanB 1  tan A tan B
+二、一元二次方程基础
+ 一元二次方程:ax2 bxc0(a0). 根的公式:x1,2b b24ac.
+  2a 根与系数的关系(韦达定理):x1 x2 b, x1x2  c .
+aa
+判别式:   b2  4ac .   0 ，方程有两个不等的实根;   0 ，方程有两个相等的实根;   0 ，方程有两个共轭的复根.
+三、因式分解公式
+(ab)2 a2 2abb2
+(ab)2 a2 2abb2.
+(ab)3 a3 3a2b3ab2 b3.
+(ab)3 a3 3a2b3ab2 b3.
+a2 b2 (ab)(ab). 3322
+ab(ab)aabb . 3322
+ab(ab)aabb . 二项式定理:
+n
+n knkk n n1
+n(n 1)
+(ab) Ca bana b 2! a b k!
+n k0
+nkk
+a bnab b.
+四、常用不等式
+(1) |ab||a||b|; ||a||b|||ab|
+(2) abab a2 b2 (a,b0); 3 abcabc a2 b2 c2 (a,b,c0).
+n22
+n(n 1)(n  k 1)
+n1 n
+      2233
+3

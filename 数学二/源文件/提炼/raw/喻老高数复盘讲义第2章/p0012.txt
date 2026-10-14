@@ -1,0 +1,13 @@
+分段函数
+例题6 (1995) 设
+x0 试讨论 f(x) 在 x = 0 处的连续性和可导性.
+x2
+ x 2 f (x) = 1, Z
+x<0,
+x = 0, cos t2 dt, x>0,
+Z
+2 2· 1x cosx2 解 lim (1−cosx)= lim 2 =1， lim cost2 dt= lim
+27 喻老高数强化讲义
+ 
+ 2 (1−cosx),
+1x 

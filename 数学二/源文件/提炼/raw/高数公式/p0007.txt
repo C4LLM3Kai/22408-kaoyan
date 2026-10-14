@@ -1,0 +1,28 @@
+公众号:考研经验超市
+  二、常用的等价无穷小
+1.普通函数型 当 x  0 时:
+sinx~ x, tanx~ x, arcsinx~ x, arctanx~ x, ex 1~ x, ln(1x)~x, lnx 1x2~x,
+ ax 1exlna 1~xlna(a0且a1), 1cosx~1x2, 1cosx~x2,
+22
+(1x) 1~x(0), (1x)x1exln(1x)1~x2
+2.差函数型 当 x  0 时:
+xsinx~ 1x3, xarcsinx~1x3 66
+xtanx ~ 1x3, xarctanx ~ 1x3 33
+xln(1x)~1x2, ex1x~1x2 22
+三、常用的基本极限
+1 lim(1x)x e,
+ 1x
+x0
+limn n1,
+x  
+limn a1,(a0)
+an, nm, bm
+n
+n
+lim 1 e x
+n n1
+lim anx an1x a1xa0 0, nm,
+xb xm b xm1bxb 
+m m1 1 0 , nm;
+
+ 7

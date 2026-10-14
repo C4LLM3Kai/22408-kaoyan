@@ -1,0 +1,76 @@
+ 例题 48
+27 喻老高数强化讲义 cos(sin x) − cos x
+计算 lim x→0
+Z . x −(x−t)2
+ tanx· e dt−x 0
+解法一:对积分做变量替换u=x−t，则dt=−du, ZZ
+xx e−(x−t)2 dt=
+e−u2 du.于是
+xx e−(x−t)2 dt−x
+e−u2 du−x
+x→0 x3Z x→0 x3 x→03x2 3
+lim 0 因此，当x→0时，tanx·
+接下来处理分子.令 f(t) = cos t ，则 f′(t) = − sin t ，由拉格朗日中值定理: cos(sin x) − cos x = f(sin x) − f(x) = f′(ξ)(sin x − x) = − sin ξ · (sin x − x)
+其中 ξ 介于 x 与 sin x 之间. 则
+=lim 0
+x −(x−t)2 1 4
+=lim
+ZZ
+00
+e−x2 −1
+1 =− .
+   lim
+ = −3 lim 
+= 3 lim · x→0 x3
+0
+e dt−x ∼− x . 3
+cos(sinx)−cosx Z
+x 已知limsinx−x=−1，故3· −1 limsinξ=−1limsinξ.又因为ξ介于x与sinx之间，
+当 x → 0 时，ξ ∼ x ，故 lim sin ξ = lim sin ξ · ξ = 1 · 1 = 1 . x→0 x x→0 ξ x
+x −(x−t)2
+tanx· e dt−x
+0
+x→0 x3 6 6 x→0 x 2x→0 x
+x→0
+cos(sinx)−cosx x→0 x4
+sinx−x sinξ
+         因此lim x→0
+cos(sin x) − cos x Z
+1 =− .
+ 又
+e−(x−t)2 dt = e−u2 du，则 00
+x −(x−t)2
+tanx· e dt−x
+2
+法二:利用和差化积公式，有 cos(sin x) − cos x = −2 sin sin x + x sin sin x − x .
+lim
+x→0
+Z 
+0
+  ZZ22 xx
+cos(sin x) − cos x Z
+ = lim x→0
+−2 sin sin x + x sin sin x − x 22
+x −u2
+x e du−x
+    x −(x−t)2
+tanx e dt−x
+00
+1 (sinx+x)(sinx−x) =− lim Z 
+ 2x→0 x −u2
+x e du−x
+Z
+0 2x· −x3
+=−1limZ 6
+ 2 x→0
+= −1 lim 2x→0
+x −u2
+x e du−x
+0 −x3
+3
+x −u2
+e du−x
+0
+ 1 −x2 1 −x2 1 =− lim −x2 =− lim 2 =− .
+  2 x→0 e − 1 2 x→0 −x 2
+31

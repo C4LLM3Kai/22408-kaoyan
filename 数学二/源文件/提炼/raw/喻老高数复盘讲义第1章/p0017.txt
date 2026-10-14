@@ -1,0 +1,21 @@
+
+27 喻老高数强化讲义
+对于(C)选项，极限 lim ancn 为 0·∞ 型未定式，可能存在也可能不存在. 例如取 an = 1 , cn = n ，
+ n→∞ n 则 lim ancn =1;取an = 1,cn =n2 时，lim ancn =∞，(C)错误.
+n→∞ n n→∞
+对于(D)选项，假设 lim bncn 存在，令 bncn = dn . 由于 lim bn = 1 ，故由极限的保号性可
+n→∞ n→∞
+知，当 n 充分大时 bn > 0 ，于是，当 n 充分大时，dn 有定义，由极限的四则运算法则可得 lim cn =
+d lim dn
+因此， lim bncn 不存在，选项(D)正确. n→∞
+注
+• 无穷大×无穷小=未定式;
+• 0×无穷大=0(此处0为常数0); • 无穷大×无穷大=无穷大.
+例题 19 设数列 {xn} 收敛，则( ). (A)当 lim sinxn =0时，lim xn =0
+n = n→∞ = lim dn ，这与 lim cn = ∞ 矛盾. n→∞
+lim
+n→∞ bn lim bn n→∞ n→∞
+bn n→∞
+ n→∞
+(B)当lim xn+ |xn| =0时，limxn=0
+p 

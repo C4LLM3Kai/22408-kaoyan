@@ -1,0 +1,73 @@
+\documentclass[12pt,a4paper]{ctexart}
+\input{/Users/shaoyikai/Desktop/考研/22408-notes-skill/assets/note-preamble.tex}
+\renewcommand{\NoteFooter}{22408 一页纸笔记 · 数学二}
+\linespread{1.14}
+\begin{document}
+\notetitle{弧长公式}{数学二}{高等数学 · 定积分应用}
+\sechead{一、母公式与四种形式}
+
+一切弧长公式都来自同一个母公式（把曲线切成小段，每段近似为直线）：
+
+\[
+\mathrm{d}s=\sqrt{\mathrm{d}x^{2}+\mathrm{d}y^{2}}
+\]
+
+\begin{center}\small
+\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X@{}}
+\toprule
+曲线形式 & 参数范围 & 弧长 $s$ & 弧微分 $\mathrm{d}s$ \\
+\midrule
+直角坐标 $y=f(x)$ & $a\le x\le b$ & $\displaystyle\int_a^b\sqrt{1+y'^{2}}\,\mathrm{d}x$ & $\sqrt{1+y'^{2}}\,\mathrm{d}x$ \\
+参数方程 $x(t),\,y(t)$ & $\alpha\le t\le\beta$ & $\displaystyle\int_\alpha^\beta\sqrt{x'^{2}+y'^{2}}\,\mathrm{d}t$ & $\sqrt{x'^{2}+y'^{2}}\,\mathrm{d}t$ \\
+极坐标 $r=r(\theta)$ & $\alpha\le\theta\le\beta$ & $\displaystyle\int_\alpha^\beta\sqrt{r^{2}+r'^{2}}\,\mathrm{d}\theta$ & $\sqrt{r^{2}+r'^{2}}\,\mathrm{d}\theta$ \\
+\bottomrule
+\end{tabularx}
+\end{center}
+
+\sechead{二、三条常用变形}
+
+\notebox{极坐标的等价写法：$s=\displaystyle\int_\alpha^\beta\sqrt{r^{2}+\left(\frac{\mathrm{d}r}{\mathrm{d}\theta}\right)^{2}}\,\mathrm{d}\theta$，其中 $r'$ 是对 $\theta$ 求导。}
+
+\begin{itemize}
+
+\item 直角坐标：由 $\mathrm{d}s=\sqrt{1+y'^{2}}\,\mathrm{d}x$，把 $x$ 当自变量直接积分。
+
+\item 参数方程：$\mathrm{d}x=x'\,\mathrm{d}t,\ \mathrm{d}y=y'\,\mathrm{d}t$，代入母公式即得。
+
+\item 极坐标：$x=r\cos\theta,\ y=r\sin\theta$，代入母公式化简得 $\sqrt{r^{2}+r'^{2}}\,\mathrm{d}\theta$。
+
+\end{itemize}
+
+\sechead{三、配套结论}
+
+\notebox{旋转体侧面积（绕 $x$ 轴）：$\displaystyle S=2\pi\int_a^b|y|\sqrt{1+y'^{2}}\,\mathrm{d}x=2\pi\int|y|\,\mathrm{d}s$。}
+
+\notebox{曲率与曲率半径：$\displaystyle K=\frac{|y''|}{\left(1+y'^{2}\right)^{3/2}},\qquad \rho=\frac{1}{K}$。}
+
+\sechead{四、典型例题}
+
+\textbf{例} 求心形线 $r=a(1+\cos\theta)\ (a>0)$ 的全长。
+
+解 $r'=-a\sin\theta$，故
+
+\[
+r^{2}+r'^{2}=a^{2}\left[(1+\cos\theta)^{2}+\sin^{2}\theta\right]=2a^{2}(1+\cos\theta)=4a^{2}\cos^{2}\frac{\theta}{2}
+\]
+
+\[
+s=\int_0^{2\pi}2a\left|\cos\frac{\theta}{2}\right|\mathrm{d}\theta =2a\left(\int_0^{\pi}\cos\frac{\theta}{2}\,\mathrm{d}\theta-\int_{\pi}^{2\pi}\cos\frac{\theta}{2}\,\mathrm{d}\theta\right)=8a
+\]
+
+\sechead{五、易错点}
+
+\warnline{① 极坐标勿漏平方：是 $\sqrt{r^{2}+r'^{2}}$，不是 $\sqrt{r+r'}$；这是本考点第一大错源。}
+
+\warnline{② 参数方程中 $x',y'$ 是对 $t$ 求导，不是对 $x$ 求导；先把两个导数都算成 $t$ 的函数再代入。}
+
+\warnline{③ 曲线分段给出时（如 $|x|$、分段函数、闭合曲线的不同弧段）必须分段积分后相加，不能整体套一个表达式。}
+
+\warnline{④ 定限与走向一致：$\alpha$ 是起点参数、$\beta$ 是终点参数；若曲线反向，积分上下限随参数变化，不要机械地写 $0$ 到 $2\pi$。}
+
+\warnline{⑤ 带根号化简时注意 $|{\cdot}|$：如 $\sqrt{4a^{2}\cos^{2}\frac{\theta}{2}}=2a\left|\cos\frac{\theta}{2}\right|$，去绝对值要按区间讨论。}
+
+\end{document}

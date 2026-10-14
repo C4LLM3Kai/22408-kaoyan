@@ -1,0 +1,11 @@
+27 喻老高数强化讲义 例题37 求 lim 1+tanx− 1+sinx.
+    解
+√√ x→0 xln(1+x)−x2
+√√√√√√ 1+tanx− 1+sinx ( 1+tanx− 1+sinx)( 1+tanx+ 1+sinx)
+      lim 2=lim √√
+  x→0 xln(1+x)−x
+x→0 x[ln(1+x)−x]( 1+tanx+ 1+sinx)
+  tanx−sinx tanx(1−cosx) =lim=lim 3
+  x→0x· −1x2 ·2 x→0 −x 2
+21 x 3 1 =−lim 3 =−
+ 例题38 计算limln 1+x+x2 −x. x→0 x2

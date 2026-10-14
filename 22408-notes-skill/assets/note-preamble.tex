@@ -1,0 +1,107 @@
+% =====================================================================
+% 22408 一页纸笔记 · 共享导言区（由 build_note.py 自动注入，请勿手改生成物）
+% 目标：A4 单页、黑白简约、中文宋体 + 西文 Times、公式由 XeLaTeX 排版
+% 依赖：ctexart / amsmath / amssymb / array / booktabs / tabularx /
+%       xcolor / enumitem / needspace / fancyhdr / multicol / graphicx
+% =====================================================================
+\usepackage[top=1.15cm,bottom=1.05cm,left=1.25cm,right=1.25cm,footskip=0.45cm]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{array,booktabs,tabularx}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{needspace}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{fancyvrb}
+\usepackage[hidelinks]{hyperref}
+
+% ---------- 字体：正文宋体、标题黑体、西文 Times ----------
+\setCJKmainfont{Songti SC}[BoldFont=Heiti SC]
+\setCJKsansfont{Heiti SC}
+\setCJKmonofont{Songti SC}
+\setmainfont{Times New Roman}
+
+% 把常被误分到西文字体的符号强制交给中文字体，避免静默缺字
+% （圈码、星标、不等号、箭头、希腊字母等）
+\xeCJKDeclareCharClass{CJK}{%
+  "2460 -> "24FF,   % ①②③④⑤
+  "2605 -> "2606,   % ★☆
+  "2264 -> "2265,   % ≤ ≥
+  "2260, "2248,     % ≠ ≈
+  "2190 -> "2199,   % 箭头
+  "221A, "221E, "222B, "2211, "2208, "2209, "2205, "2200, "2203, "2225, "22A5,
+  "00B1, "00D7, "00F7, "2032, "2033, "2103, "2109,
+  "03B1 -> "03C9    % 希腊字母
+}
+
+% ---------- 克制的黑白灰配色 ----------
+\definecolor{accent}{HTML}{1F4E79}   % 标题条、页眉
+\definecolor{warnc}{HTML}{9C2A20}    % 易错点
+\definecolor{soft}{HTML}{F2F5F8}     % 结论底色
+\definecolor{line}{HTML}{C8CDD3}     % 分隔线
+\definecolor{rule}{HTML}{8A9099}     % 表格线
+
+% ---------- 版式参数 ----------
+\linespread{1.12}
+\setlength{\parskip}{2.4pt}
+\setlength{\parindent}{0pt}
+\renewcommand{\arraystretch}{1.22}
+\setlist[itemize]{topsep=2pt,itemsep=1pt,parsep=0pt,leftmargin=1.35em}
+\setlist[enumerate]{topsep=2pt,itemsep=1pt,parsep=0pt,leftmargin=1.6em}
+\setlength{\columnsep}{0.72cm}
+\setlength{\columnseprule}{0.25pt}
+\def\columnseprulecolor{\color{line}}
+\raggedbottom
+
+% ---------- 页眉页脚 ----------
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancyfoot[L]{\scriptsize\color{rule}\NoteFooter}
+\fancyfoot[R]{\scriptsize\color{rule}\thepage}
+
+% ---------- 标题区（一页纸的题头，不进目录） ----------
+\newcommand{\notetitle}[3]{%
+  \begin{center}
+    {\bfseries\Large #1}\\[2pt]
+    {\small\color{accent}#2\hspace{0.7em}\textbar\hspace{0.7em}#3}
+  \end{center}
+  \vspace{-4pt}{\color{accent}\hrule height 1.1pt}\vspace{2pt}}
+
+% ---------- 小节标题：竖条 + 黑体 + 细分隔线 ----------
+\newcommand{\sechead}[1]{%
+  \par\addvspace{6pt}\needspace{2.4\baselineskip}\noindent
+  {\color{accent}\rule[-0.12em]{2.6pt}{0.95em}}\hspace{0.42em}%
+  {\bfseries\color{accent}#1}\par\nobreak
+  \vspace{-0.12em}{\color{line}\hrule height 0.5pt}\nobreak\vspace{3pt}}
+
+% ---------- 结论条（浅底、可跨页、无框线） ----------
+\newcommand{\notebox}[1]{%
+  \par\addvspace{2pt}\noindent
+  \colorbox{soft}{\parbox{\dimexpr\linewidth-2\fboxsep\relax}{#1}}%
+  \par\addvspace{3pt}}
+
+% ---------- 易错点/提醒：左侧色条 ----------
+\newcommand{\warnline}[1]{%
+  \par\addvspace{2pt}\noindent
+  {\color{warnc}\rule[-0.1em]{2.2pt}{0.9em}}\hspace{0.4em}%
+  \begingroup\small\setlength{\parindent}{0pt}\leftskip=1.1em\noindent
+  \ignorespaces #1\par\endgroup\addvspace{2pt}}
+
+% ---------- 表格：三线表，避免竖线 ----------
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\setlength{\tabcolsep}{4pt}
+
+% ---------- 代码块（408 常用伪代码/C 代码） ----------
+\DefineVerbatimEnvironment{codebox}{Verbatim}%
+  {frame=single,framerule=0.3pt,rulecolor=\color{line},%
+   framesep=4pt,fontsize=\small,baselinestretch=0.96,%
+   xleftmargin=2pt,xrightmargin=2pt}
+\newcommand{\codecaption}[1]{%
+  \par\addvspace{2pt}\noindent{\small\bfseries #1}\par\vspace{1pt}}
+
+% ---------- 由 build_note.py 注入的元信息（留空可独立编译） ----------
+\providecommand{\NoteFooter}{22408 一页纸笔记}

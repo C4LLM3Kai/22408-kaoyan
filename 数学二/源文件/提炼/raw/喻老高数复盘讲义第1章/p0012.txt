@@ -1,0 +1,56 @@
+
+
+g(x)=
+sin x 0
+et2 dt为奇函数.因此选(C).
+(A) (B) (C) (D)
+Z0 Za
+xu
+du tf (t)dt Za
+xu
+du f(t)dt Z0
+xu
+du f(t)dt 0a
+ZZ
+xu
+du tf (t)dt a0
+27 喻老高数强化讲义
+ 解 答案:(C).
+因为 f′(x) = ecos x 为偶函数，故 f(x) =
+Z
+注 若 f (x) 是连续函数，F (x) 是 f (x) 的一个原函数:
+• 当f(x)是奇函数时，F(x)必是偶函数;
+• 当f(x)是偶函数时，当且仅当F(0)=0时，F(x)是奇函数.
+例题 8 设 f (x) 在 (−∞, +∞) 内为连续的奇函数，a 为常数，则必为偶函数的是( ). ZZ
+Z
+0
+x
+ecos t dt 为奇函数;g′(x) = esin2 x · cos x 为偶函数，故
+解(A)因 x, f (x) 都是奇函数，则 tf (t) 为偶函数，令 F (u) = Z
+故
+法判断 F (x) 的奇偶性，故(B)错误.
+Z ZZZZ
+(C)f (t) 为奇函数， f (t)dt 为偶函数，令 F (x) = du f (t)dt = f (t)dt du，有 a0a0a
+F (0) = 0，故 F (x) 为奇函数，(C)错误.
+Z ZZZZ
+u a
+tf (t)dt，F (u) 不一定满足 F (0) = 0， Z ZZZZ
+tf(t)dt 无法判断奇偶性，(A)错误.
+(D)x, f (x) 是奇函数，tf (t) 为偶函数，
+为偶函数，(D)正确. 注
+• 奇×奇=偶
+• 奇×偶=奇
+• 偶×偶=偶
+uxuxu
+tf (t)dt 为奇函数， du tf (t)dt = tf (t)dt du 0a0a0
+uxuxu
+(B)f (t) 为奇函数， f (t)dt 为偶函数，令 F (x) = du f (t)dt = f (t)dt du，无 0a0a0
+uxuxu
+(2)有界性
+例题 9 函数 f(x) = x(x − 1)(x − 2)2 在下列哪个区间内有界( ).
+(A) (−1, 0) (B) (0, 1)
+(C) (1, 2) (D) (2, 3)
+|x| sin(x − 2)
+Z
+u a
+ 11

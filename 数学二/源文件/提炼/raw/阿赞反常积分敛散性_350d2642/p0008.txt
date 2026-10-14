@@ -1,0 +1,57 @@
+对于 (分析 时的敛散性)： 当 时，我们使用等价无穷小替换：
+所以，被积函数：
+根据 -积分在零点的判别法， 收敛的条件是分母的幂次小于 ，即：
+对于 (分析 时的敛散性)： 当 时，我们考察各部分的趋
+势：
+所以，被积函数 (忽略常数 )：
+根据“形式二”的结论 (其中 )，该积分在无穷区间收敛的条件是 。
+综合 和 的收敛条件，解得 的取值范围是 。是 。
+由 SrbillHub Transcript Assistant 生成 · srbill.icu
+📎 原始来源：https://srbill.icu/doc/27考研/大观知识点/阿赞反常积分敛散性
+f f( (x x) )d dx x = =
+∫ ∫
+0 0
++ +∞ ∞
++ +
+I I
+1 1
+f f( (x x) )d dx x
+∫ ∫
+0 0
+1 1
+I I
+2 2
+f f( (x x) )d dx x
+∫ ∫
+1 1
++ +∞ ∞
+I I
+1 1 x x → → 0 0+ + x x → → 0 0+ +
+arctan
+arctan x x ∼ ∼ x x, , ln ln( (1 1 + + x x) ) ∼ ∼ x x
+f f( (x x) ) ∼ ∼ = =
+x xp p
+x x ⋅ ⋅ x x
+= =
+x xp p
+x x2 2
+x xp p− −2 2
+1 1
+p p I I
+1 1 1 1
+p p − − 2 2 < < 1 1 ⟹ ⟹ p p < < 3 3
+I I
+2 2 x x → → + +∞ ∞ x x → → + +∞ ∞
+arctan
+arctan x x → → , , ln ln( (1 1 + +
+2 2
+π π x x) ) ∼ ∼ ln ln x x
+π π /2 /2
+f f( (x x) ) ∼ ∼
+x xp p
+ln ln x x
+a a = = 1 1 p p > > 1 1
+I I
+1 1
+I I
+2 2 p p 1 1 < < p p < < 3 3 1 1 < < p p < < 3 3

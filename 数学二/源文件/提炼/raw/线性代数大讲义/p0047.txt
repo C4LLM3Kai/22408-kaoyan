@@ -1,0 +1,27 @@
+3.【冯建轩】知识点详解
+设 A 为 m n  矩阵：
+1.【冯建轩】定义：
+行秩=列秩= rank( ) A （核心定理）
+等价描述：
+非零子式的最高阶数
+行阶梯形非零行数
+标准形r      
+I 0
+0 0 中的 r
+2.【冯建轩】基本性质：
+0 rank( ) min{ , } m n
+  A
+rank( ) rank( )= A A
+rank( ) rank( )= A A A
+3.【冯建轩】重要不等式：
+rank( ) rank( ) rank( ) +  + A B A B
+rank( ) min{rank( ), rank( )} 
+AB A B
+Sylvester 秩不等式：
+rank( ) rank( ) rank( ) n + −  A B AB
+Frobenius 秩不等式：
+rank( ) rank( ) rank( ) rank( )  + − ABC AB BC B
+冯建轩《线性代数大讲义》 冯建轩 若有错误，请自行纠正
+版权所有，仅供学习交流 47 冯建轩
+冯建轩
+冯建轩

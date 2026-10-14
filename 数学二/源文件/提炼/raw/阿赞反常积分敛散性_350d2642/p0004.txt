@@ -1,0 +1,113 @@
+{
+"grid": true,
+"xAxis": { "domain": [0.01, 1.2] },
+"yAxis": { "domain": [-0.5, 5] },
+"data": [
+{ "fn": "abs(log(x))"
+,
+"color": "#3b82f6"
+,
+"graphType": "polyline" },
+{ "fn": "1/x"
+,
+"color": "#10b981"
+,
+"graphType": "polyline" }
+]
+}
+( 注：图中蓝线为 ，绿线为 ，直观展示了 时 趋于无穷大的速度远快
+于 )
+3.1.8 三种幂对数积分形式总结
+形式一：纯对数形式
+其敛散性不依赖于对数的幂次 。
+对于足够大的 有 ，即 。由于“小”积分 发散，根据比
+较判别法，此积分必然发散。（对数函数衰减太慢，无法围成有限面积）
+对于足够接近 的 有 。由于“大”积分 收敛，根据比较判别
+法，此积分（的绝对值）必然收敛，故原积分收敛。
+形式二：对数在分子
+此积分的敛散性与不含对数项的 -积分 完全相同。对数的幂次 不影响敛散
+性。
+在 附近：与 同敛散。即当 时收敛，当 时发散。
+在 附近：与 同敛散。即当 时收敛，当 时发散。
+证明形式二
+1. 在 附近（考察 ）
+- (收敛)： （取 足够小使得 ）
+- (发散)： 。
+∣ ∣ ln ln x x∣ ∣
+x x
+1 1 x x → → 0 0+ +
+x x
+1 1
+∣ ∣ ln ln x x∣ ∣
+a a
+d dx x
+∫ ∫2 2
++ +∞ ∞
+l ln n x x
+a a
+1 1
+x x x x > > ln ln x x
+a a
+> >
+l ln n x x
+a a
+1 1
+x x
+1 1
+∫ ∫2 2
++ +∞ ∞
+x x
+d dx x
+ln ln x xd dx x
+∫ ∫0 0
+1/2
+1/2 a a
+0 0 x x ∣ ∣ ln ln x x∣ ∣ < <
+a a
+x x
+1 1
+∫ ∫0 0
+1/2
+1/2
+x x
+d dx x
+d dx x
+∫ ∫ x xp p
+l ln n x x
+a a
+p p d dx x
+∫ ∫ x xp p
+1 1 a a
+x x → → + +∞ ∞ d dx x
+∫ ∫ x xp p
+1 1 p p > > 1 1 p p ≤ ≤ 1 1
+x x → → 0 0+ +
+d dx x
+∫ ∫ x xp p
+1 1 p p < < 1 1 p p ≥ ≥ 1 1
+d dx x
+∫ ∫ x xp p
+l ln n x x
+a a
+x x → → + +∞ ∞ d dx x
+∫ ∫2 2
++ +∞ ∞
+x xp p
+l ln n x x
+a a
+p p > > 1 1 0 0 < < < <
+x xp p
+l ln n x x
+a a
+= =
+x xp p
+x xε ε
+x xp p− −ε ε
+1 1 ε ε p p − − ε ε> > 1 1
+p p ≤ ≤ 1 1 ≥ ≥
+x xp p
+l ln n x x
+a a
+> >
+x xp p
+1 1 0 0
