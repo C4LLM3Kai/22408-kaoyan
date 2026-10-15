@@ -1,0 +1,92 @@
+% =====================================================================
+% 考研政治 · 重点总结手册
+% 编译：xelatex zz-main.tex （跑两遍，生成目录与页码）
+% =====================================================================
+\documentclass[11pt,a4paper]{ctexart}
+
+\usepackage[top=1.6cm,bottom=1.5cm,left=1.5cm,right=1.5cm,footskip=0.7cm]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{array,booktabs,tabularx,longtable}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{needspace}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{etoolbox}
+\usepackage[hidelinks,bookmarksnumbered]{hyperref}
+
+\input{zz-style.tex}
+
+% ---------- 页眉页脚 ----------
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancyhead[L]{\small\color{rule}考研政治 · 重点总结}
+\fancyhead[R]{\small\color{rule}\leftmark}
+\fancyfoot[C]{\small\color{rule}\thepage}
+
+\renewcommand{\sectionmark}[1]{\markboth{#1}{}}
+
+% 目录样式（不依赖 tocloft，用 ctex 默认 + 轻量微调）
+\renewcommand{\contentsname}{目\quad 录}
+\setcounter{tocdepth}{2}
+\setcounter{secnumdepth}{0}
+
+% 一级标题：深蓝横幅 + 进目录
+\newcommand{\zzchapter}[1]{%
+  \par\addvspace{12pt}\needspace{4\baselineskip}%
+  \phantomsection\addcontentsline{toc}{section}{#1}%
+  \zzpart{#1}}
+
+% 二级标题：竖条小标题 + 进目录
+\newcommand{\zzsection}[1]{%
+  \phantomsection\addcontentsline{toc}{subsection}{#1}%
+  \zzsec{#1}}
+
+\begin{document}
+
+% ===================== 封面 =====================
+\begin{titlepage}
+\centering
+\vspace*{3.2cm}
+{\Huge\bfseries\color{accent} 考研政治}\\[0.5cm]
+{\Huge\bfseries\color{accent} 重点总结手册}\\[1.2cm]
+{\large\color{rule} 马原 · 史纲 · 新思想}\\[0.35cm]
+{\large\color{rule} 核心考点 · 易混辨析 · 必背结论}\\[3.2cm]
+
+\begin{minipage}{0.78\linewidth}
+\centering
+\small\color{rule}
+本手册依据《考研政治一页纸—知识点手册》（澄潇宇、αβγδ \& 南门朔 编）整理重排，\\
+按 马原 → 史纲 → 新思想 三大板块重组，突出考点层次与易混辨析，\\
+适合冲刺阶段快速回看与打印背诵。
+\end{minipage}
+
+\vfill
+{\small\color{rule} 22408 备考资料 · 政治}\\[0.2cm]
+{\small\color{rule} \today}
+\end{titlepage}
+
+% ===================== 目录 =====================
+\newpage
+\pagenumbering{roman}
+\setcounter{page}{1}
+\phantomsection
+{\centering\bfseries\Large\color{accent} 目\quad 录\par}
+\vspace{0.6cm}
+\makeatletter
+\@starttoc{toc}
+\makeatother
+
+\newpage
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+% ===================== 正文 =====================
+\input{zz-part1-mayuan.tex}
+\input{zz-part2-shigang.tex}
+\input{zz-part3-xinsixiang.tex}
+
+\end{document}

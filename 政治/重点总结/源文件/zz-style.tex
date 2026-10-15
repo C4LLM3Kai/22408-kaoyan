@@ -1,0 +1,228 @@
+% =====================================================================
+% 考研政治 · 重点总结手册  排版样式
+% 目标：A4 多页、层次分明、重点突出、可直接打印
+% 依赖：ctexart / xeCJK / fontspec / geometry / xcolor / enumitem /
+%       tabularx / booktabs / longtable / fancyhdr / hyperref /
+%       needspace / multicol / etoolbox
+% =====================================================================
+
+% ---------- 字体 ----------
+\setCJKmainfont{Songti SC}[BoldFont=Heiti SC]
+\setCJKsansfont{Heiti SC}
+\setCJKmonofont{Songti SC}
+\setmainfont{Times New Roman}
+
+% 符号归属中文字体，避免静默缺字
+\xeCJKDeclareCharClass{CJK}{%
+  "2460 -> "24FF,   % ①②③④⑤
+  "2605 -> "2606,   % ★☆
+  "2264 -> "2265,   % ≤ ≥
+  "2260, "2248,     % ≠ ≈
+  "2190 -> "2199,   % 箭头
+  "221A, "221E, "222B, "2211, "2208, "2209, "2205, "2200, "2203,
+  "2225, "22A5, "00B1, "00D7, "00F7, "2032, "2033, "2103, "2109,
+  "25A0 -> "25FF,   % ■□▲△●○◆◇
+  "2713, "2714, "2717, "2718, "26A0, "2728, "2B50, "2B06, "2B07,
+  "2794, "27A1, "27A4, "FF0B, "FF0D, "FF1D,
+  "03B1 -> "03C9    % 希腊字母
+}
+
+% ---------- 配色 ----------
+\definecolor{accent}{HTML}{1F4E79}    % 主色：章节标题
+\definecolor{accent2}{HTML}{2E75B6}   % 次色：小节标题
+\definecolor{warnc}{HTML}{9C2A20}     % 易错点
+\definecolor{keyc}{HTML}{C00000}      % 关键结论
+\definecolor{soft}{HTML}{F2F5F8}      % 结论底色
+\definecolor{soft2}{HTML}{EAF1F8}     % 卡片标题底色
+\definecolor{line}{HTML}{C8CDD3}      % 分隔线
+\definecolor{rule}{HTML}{8A9099}      % 表格线
+
+% ---------- 版式 ----------
+\linespread{1.16}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{2.2pt}
+\renewcommand{\arraystretch}{1.24}
+\setlist[itemize]{topsep=1.5pt,itemsep=0.8pt,parsep=0pt,leftmargin=1.25em}
+\setlist[enumerate]{topsep=1.5pt,itemsep=0.8pt,parsep=0pt,leftmargin=1.6em}
+\setlength{\columnsep}{0.7cm}
+\setlength{\columnseprule}{0.25pt}
+\def\columnseprulecolor{\color{line}}
+\raggedbottom
+
+% =====================================================================
+% 卡片：标题条 + 浅色内容区（用 \fbox 系手搓，无 tcolorbox 依赖）
+% =====================================================================
+% \zzcard{标题}{内容}
+\newcommand{\zzcard}[2]{%
+  \par\addvspace{4pt}\noindent
+  \begin{minipage}{\linewidth}%
+    \setlength{\fboxsep}{0pt}%
+    \colorbox{soft2}{%
+      \parbox{\dimexpr\linewidth-2\fboxsep\relax}{%
+        \vspace{1.4pt}%
+        {\bfseries\color{accent}\hspace{0.45em}#1}%
+        \vspace{1.4pt}}%
+    }\\[0.6pt]%
+    \colorbox{soft}{%
+      \parbox{\dimexpr\linewidth-2\fboxsep\relax}{%
+        \vspace{1.8pt}%
+        \hspace{0.45em}\parbox{\dimexpr\linewidth-0.9em-2\fboxsep\relax}{#2}%
+        \vspace{1.8pt}}%
+    }%
+  \end{minipage}%
+  \par\addvspace{4pt}%
+}
+
+% 无标题的浅底块
+\newcommand{\zzbox}[1]{%
+  \par\addvspace{2pt}\noindent
+  \colorbox{soft}{\parbox{\dimexpr\linewidth-2\fboxsep\relax}{%
+    \vspace{1.5pt}\hspace{0.4em}%
+    \parbox{\dimexpr\linewidth-0.8em-2\fboxsep\relax}{#1}%
+    \vspace{1.5pt}}}%
+  \par\addvspace{3pt}}
+
+% ---------- 可跨页卡片：长内容用，避免整块被挤到下一页留下大片空白 ----------
+% 结构：彩色标题条 + 左侧细竖线（竖线随页面断开，不追求跨页闭合）
+% \zzlongcard{标题}{内容}
+\newcommand{\zzlongcard}[2]{%
+  \par\addvspace{4pt}\needspace{3\baselineskip}\noindent
+  \begin{minipage}{\linewidth}%
+    \setlength{\fboxsep}{0pt}%
+    \colorbox{soft2}{%
+      \parbox{\dimexpr\linewidth-2\fboxsep\relax}{%
+        \vspace{1.4pt}%
+        {\bfseries\color{accent}\hspace{0.45em}#1}%
+        \vspace{1.4pt}}%
+    }%
+  \end{minipage}\par\nobreak\vspace{1.5pt}%
+  \begingroup
+    \setlength{\parindent}{0pt}%
+    \leftskip=0.75em\rightskip=0.25em%
+    \noindent{\color{accent2}\rule[-0.15em]{2.2pt}{0.92em}}\hspace{0.4em}%
+    \ignorespaces #2\par
+  \endgroup
+  \par\addvspace{5pt}%
+}
+
+% 必背结论条：左侧深蓝竖条 + 浅底
+\newcommand{\zzkey}[1]{%
+  \par\addvspace{2.5pt}\noindent
+  \colorbox{soft}{%
+    \parbox{\dimexpr\linewidth-2\fboxsep\relax}{%
+      \vspace{1.6pt}%
+      \hspace{0.45em}%
+      {\color{accent}\vrule width 3pt}\hspace{0.5em}%
+      \parbox{\dimexpr\linewidth-0.95em-3pt-0.5em-2\fboxsep\relax}{%
+        \bfseries #1}%
+      \vspace{1.6pt}}}%
+  \par\addvspace{3pt}}
+
+% 易错/辨析：砖红竖条
+\newcommand{\zzwarn}[1]{%
+  \par\addvspace{1.5pt}\noindent
+  \hspace{0pt}{\color{warnc}\rule[-0.1em]{2.4pt}{0.95em}}\hspace{0.42em}%
+  \begingroup\small\setlength{\parindent}{0pt}\leftskip=1.0em\noindent
+  \ignorespaces #1\par\endgroup\addvspace{1.5pt}}
+
+% 关键字内联强调
+\newcommand{\kw}[1]{{\bfseries\color{keyc}#1}}
+\newcommand{\bk}[1]{{\bfseries #1}}
+
+% =====================================================================
+% 章节标题
+% =====================================================================
+\newcommand{\zzpart}[1]{%
+  \par\addvspace{10pt}\needspace{3\baselineskip}\noindent
+  \begin{minipage}{\linewidth}%
+    \colorbox{accent}{%
+      \parbox{\dimexpr\linewidth-2\fboxsep\relax}{%
+        \vspace{3pt}%
+        {\hspace{0.5em}\bfseries\large\color{white}#1}%
+        \vspace{3pt}}}%
+  \end{minipage}\par\addvspace{5pt}}
+
+\newcommand{\zzsec}[1]{%
+  \par\addvspace{7pt}\needspace{2.6\baselineskip}\noindent
+  {\color{accent2}\rule[-0.12em]{2.8pt}{1.0em}}\hspace{0.42em}%
+  {\bfseries\color{accent}\large #1}\par\nobreak
+  \vspace{-0.05em}{\color{accent2}\hrule height 0.7pt}\nobreak\vspace{3.5pt}}
+
+\newcommand{\zzsub}[1]{%
+  \par\addvspace{3pt}\needspace{2\baselineskip}\noindent
+  {\bfseries\color{accent2}#1}\par\addvspace{1.5pt}}
+
+% =====================================================================
+% 表格：三线表
+% =====================================================================
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\setlength{\tabcolsep}{4.5pt}
+
+% 统一三线表环境（窄体小字）
+% 注意：tabularx 需在展开后看到字面 \end{tabularx}，故用 xparse 的 b 型参数
+% 先把表体收为 #1，再显式拼进 tabularx，避免“File ended while scanning”。
+\NewDocumentEnvironment{zztable}{b}{%
+  \par\addvspace{3pt}\begin{center}\small
+  \begin{tabularx}{\linewidth}{@{}%
+    >{\raggedright\arraybackslash}X%
+    >{\raggedright\arraybackslash}X%
+    >{\raggedright\arraybackslash}X%
+    >{\raggedright\arraybackslash}X@{}}
+  \toprule
+  #1
+  \bottomrule
+  \end{tabularx}\end{center}\par\addvspace{3pt}%
+}{}
+
+% 两列对照表
+\NewDocumentEnvironment{zztable2}{b}{%
+  \par\addvspace{3pt}\begin{center}\small
+  \begin{tabularx}{\linewidth}{@{}%
+    >{\raggedright\arraybackslash}X%
+    >{\raggedright\arraybackslash}X@{}}
+  \toprule
+  #1
+  \bottomrule
+  \end{tabularx}\end{center}\par\addvspace{3pt}%
+}{}
+
+% 三列对照表
+\NewDocumentEnvironment{zztable3}{b}{%
+  \par\addvspace{3pt}\begin{center}\small
+  \begin{tabularx}{\linewidth}{@{}%
+    >{\raggedright\arraybackslash}X%
+    >{\raggedright\arraybackslash}X%
+    >{\raggedright\arraybackslash}X@{}}
+  \toprule
+  #1
+  \bottomrule
+  \end{tabularx}\end{center}\par\addvspace{3pt}%
+}{}
+
+
+% =====================================================================
+% 可跨页长表：用于行数多的表格（避免整表被挤到下一页、留下孤立标题）
+% longtable 不能放进 parbox/minipage，故与卡片标题分离使用：
+%   \zzsub{标题}  +  \begin{zzltable2} ... \end{zzltable2}
+% =====================================================================
+\NewDocumentEnvironment{zzltable2}{b}{%
+  \par\addvspace{2pt}\small
+  \begin{longtable}{@{}>{\raggedright\arraybackslash}p{0.30\linewidth}%
+                      >{\raggedright\arraybackslash}p{0.66\linewidth}@{}}
+  \toprule
+  #1
+  \bottomrule
+  \end{longtable}\par\addvspace{3pt}%
+}{}
+
+\NewDocumentEnvironment{zzltable3}{b}{%
+  \par\addvspace{2pt}\small
+  \begin{longtable}{@{}>{\raggedright\arraybackslash}p{0.22\linewidth}%
+                      >{\raggedright\arraybackslash}p{0.37\linewidth}%
+                      >{\raggedright\arraybackslash}p{0.37\linewidth}@{}}
+  \toprule
+  #1
+  \bottomrule
+  \end{longtable}\par\addvspace{3pt}%
+}{}
