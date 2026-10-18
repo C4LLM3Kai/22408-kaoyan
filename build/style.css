@@ -1,0 +1,122 @@
+@page { size: A4; margin: 20mm 18mm 18mm 18mm; }
+
+:root{
+  --ink:#1a1a1a; --sub:#5b6673; --line:#d8dee6; --accent:#1a4d8f;
+  --accent-soft:#eef3fa; --warn:#b4451a; --warn-soft:#fdf1ec;
+  --tip:#0f6b52; --tip-soft:#eaf6f2; --gold:#8a6d1f; --gold-soft:#fbf6e7;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{
+  font-family:"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+  font-size:10.5pt; line-height:1.72; color:var(--ink);
+  text-align:justify; -webkit-font-smoothing:antialiased;
+}
+h1,h2,h3,h4{font-weight:700;line-height:1.35;margin:0}
+p{margin:.45em 0}
+.katex{font-size:1.02em}
+.katex-display{margin:.5em 0}
+.katex-display>.katex{text-align:left}
+
+/* ---------- cover ---------- */
+.cover{height:250mm;display:flex;flex-direction:column;justify-content:center;page-break-after:always}
+.cover .kicker{font-size:10pt;letter-spacing:.28em;color:var(--accent);font-weight:600;margin-bottom:14mm}
+.cover h1{font-size:30pt;line-height:1.28;letter-spacing:-.5px}
+.cover .sub{font-size:13pt;color:var(--sub);margin-top:7mm;font-weight:400;line-height:1.7}
+.cover .meta{margin-top:16mm;font-size:9.5pt;color:var(--sub);border-top:1px solid var(--line);padding-top:6mm}
+.cover .meta div{margin:2.2mm 0}
+.cover .badge{display:inline-block;background:var(--accent);color:#fff;font-size:9pt;
+  padding:2.2mm 5mm;border-radius:2mm;letter-spacing:.1em;margin-bottom:10mm}
+
+/* ---------- toc ---------- */
+.toc{page-break-after:always}
+.toc h2{font-size:17pt;color:var(--accent);border-bottom:2px solid var(--accent);padding-bottom:3mm;margin-bottom:7mm}
+.toc ol{list-style:none;padding:0;margin:0;counter-reset:t}
+.toc li.c1{counter-increment:t;padding:2.1mm 0;border-bottom:1px dotted var(--line);font-size:10.5pt}
+.toc li.c1::before{content:counter(t,decimal-leading-zero);color:var(--accent);font-weight:700;
+  margin-right:4mm;font-family:"Times New Roman",serif;font-size:10pt}
+.toc .pg{float:right;color:var(--sub);font-family:"Times New Roman",serif}
+.toc .l2{padding-left:11mm;font-size:9.8pt;color:var(--sub);border-bottom:none;padding-top:1mm;padding-bottom:1mm}
+.toc .l2::before{content:"";margin:0}
+
+/* ---------- headings ---------- */
+h2.chap{
+  font-size:16.5pt;color:#fff;background:var(--accent);
+  padding:3.6mm 5mm;border-radius:1.5mm;margin:0 0 6mm;
+  page-break-before:always;page-break-after:avoid;
+}
+h2.chap .n{font-family:"Times New Roman",serif;opacity:.75;margin-right:3.5mm;font-size:14pt}
+h3.sec{
+  font-size:12.8pt;color:var(--accent);margin:7mm 0 3mm;
+  padding-left:3.2mm;border-left:4px solid var(--accent);
+  page-break-after:avoid;
+}
+h4.sub{font-size:11pt;margin:5mm 0 2mm;color:#243447;page-break-after:avoid}
+h4.sub::before{content:"▸ ";color:var(--accent)}
+
+/* ---------- boxes ---------- */
+.box{border-radius:1.6mm;padding:3.6mm 4.4mm;margin:3.4mm 0;page-break-inside:avoid;font-size:10.2pt}
+.box.long{page-break-inside:auto}
+.box .t{font-weight:700;font-size:10pt;letter-spacing:.06em;margin-bottom:1.6mm;display:block}
+.thm{background:var(--accent-soft);border-left:3.5px solid var(--accent)}
+.thm .t{color:var(--accent)}
+.tip{background:var(--tip-soft);border-left:3.5px solid var(--tip)}
+.tip .t{color:var(--tip)}
+.warn{background:var(--warn-soft);border-left:3.5px solid var(--warn)}
+.warn .t{color:var(--warn)}
+.gold{background:var(--gold-soft);border-left:3.5px solid var(--gold)}
+.gold .t{color:var(--gold)}
+.plain{background:#f7f9fb;border-left:3.5px solid #b9c4d1}
+.plain .t{color:#465468}
+
+/* ---------- example ---------- */
+.ex{margin:4.5mm 0 5.5mm;page-break-inside:auto}
+.ex .h{font-weight:700;font-size:10.6pt;color:#12233a;margin-bottom:2mm;
+  display:flex;align-items:baseline;gap:2.5mm}
+.ex .h .tag{background:#12233a;color:#fff;font-size:8.4pt;padding:.7mm 2.4mm;border-radius:1mm;
+  letter-spacing:.05em;font-weight:600;white-space:nowrap}
+.ex .q{background:#fbfcfd;border:1px solid var(--line);border-radius:1.4mm;padding:3mm 3.6mm;margin-bottom:2.6mm}
+.sol{margin:0}
+.sol .lbl{font-weight:700;color:var(--accent);font-size:9.6pt;letter-spacing:.08em;display:block;margin:2.4mm 0 1mm}
+.step{margin:1.6mm 0 1.6mm 0;padding-left:0}
+.step b{color:#12233a}
+.hl{background:#fff3cd;padding:0 .6mm;border-radius:.6mm}
+.ans{background:var(--tip-soft);border-radius:1.4mm;padding:2.6mm 3.4mm;margin-top:2.6mm;font-size:10.2pt}
+.ans .t{color:var(--tip);font-weight:700;font-size:9.6pt;letter-spacing:.06em;display:block;margin-bottom:.8mm}
+
+/* ---------- table ---------- */
+table{width:100%;border-collapse:collapse;margin:3mm 0;font-size:9.6pt}
+tr{page-break-inside:avoid}
+thead{display:table-header-group}
+th{background:var(--accent);color:#fff;font-weight:600;padding:2.2mm 2.6mm;text-align:left;font-size:9.4pt}
+td{padding:2mm 2.6mm;border-bottom:1px solid var(--line);vertical-align:top;text-align:left}
+tr:nth-child(even) td{background:#fafbfd}
+td.c,th.c{text-align:center}
+
+/* ---------- misc ---------- */
+ul,ol{margin:2mm 0;padding-left:6mm}
+li{margin:1.1mm 0}
+.small{font-size:9.4pt;color:var(--sub)}
+.kv{display:flex;gap:3mm;margin:2mm 0}
+.kv .k{font-weight:700;color:var(--accent);min-width:22mm}
+hr{border:none;border-top:1px solid var(--line);margin:5mm 0}
+.chap-end{page-break-after:always}
+.pb{page-break-before:always}
+.nobreak{page-break-inside:avoid}
+code{font-family:"SF Mono",Menlo,monospace;font-size:.92em;background:#f0f3f7;padding:.3mm 1.2mm;border-radius:.8mm}
+
+/* steps */
+.steps-wrap{margin:3.4mm 0}
+.step-card{display:flex;gap:3.4mm;margin:2.6mm 0;page-break-inside:avoid}
+.step-card .num{flex:0 0 7.5mm;height:7.5mm;border-radius:50%;background:var(--accent);color:#fff;
+  font-weight:700;font-size:10pt;display:flex;align-items:center;justify-content:center;
+  font-family:"Times New Roman",serif}
+.step-card .txt{flex:1;padding-top:.6mm}
+
+/* page numbers via @page counters */
+@page{ @bottom-center{ content:""; } }
+.pgno{position:fixed;bottom:-14mm;right:0;font-family:"Times New Roman",serif;font-size:9pt;color:#8a949f}
+
+.math-display{display:block;margin:2.6mm 0 3mm;text-align:left;page-break-inside:avoid}
+.math-display .katex{font-size:1.05em}
+.math-display .katex-display{margin:0}

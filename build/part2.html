@@ -1,0 +1,290 @@
+<!-- ============ PART 1 ============ -->
+<h2 class="chap" id="t1"><span class="n">01</span>第一篇　四大基本定理及其证明</h2>
+
+<p>这一篇解决的是"地基"问题。四个定理的证明都必须会写——不是为了背，而是因为<b>证明过程中用到的构造手法，就是后面所有例题的手法</b>。你会发现：拉格朗日的辅助函数是"结论积分积出来的"，柯西的辅助函数也是，后面 18 道例题还是同一件事。</p>
+
+<h3 class="sec" id="s11">1.1　罗尔定理：一切微分中值定理的地基</h3>
+
+<div class="ex">
+  <div class="h"><span class="tag">例题 1</span>叙述并证明罗尔定理</div>
+
+  <div class="q">
+    <p><b>罗尔定理</b>　设 $f(x)$ 满足：（1）在 $[a,b]$ 上连续；（2）在 $(a,b)$ 内可导；（3）$f(a)=f(b)$。则存在 $\xi\in(a,b)$，使得 $f'(\xi)=0$。</p>
+  </div>
+
+  <div class="sol">
+    <span class="lbl">先看图：为什么它是对的</span>
+    <p>$f(a)=f(b)$ 意味着曲线左右两端<b>等高</b>。既然等高，又要一笔画完（连续），那么从 $A$ 出发到 $B$，中间必然要"先上后下"或者"先下后上"。无论是哪种，最高点或最低点处的切线一定是水平的——这就是 $f'(\xi)=0$。</p>
+
+    <div class="box tip">
+      <span class="t">顺带一个观察</span>
+      <p>罗尔定理只说"<b>存在</b>"，不说"唯一"。若曲线先上后下再上，则最高点和最低点各给一个 $\xi$，$\xi$ 就有两个。做题时不要假设唯一。</p>
+    </div>
+
+    <span class="lbl">证明（分两种情况）</span>
+    <p>因为 $f$ 在闭区间 $[a,b]$ 上连续，所以由<b>最值定理</b>，$f$ 在 $[a,b]$ 上必取得最大值 $M$ 与最小值 $m$。</p>
+
+    <p class="step"><b>情形一：$M=m$。</b>此时 $f$ 恒等于常数，图像被"压扁"成一条水平线，于是对任意 $x\in(a,b)$ 都有 $f'(x)=0$。任取一点作 $\xi$ 即可。</p>
+
+    <p class="step"><b>情形二：$M>m$。</b>由 $f(a)=f(b)$ 知：<b>$M$ 与 $m$ 之中至少有一个在开区间 $(a,b)$ 内取得</b>。理由如下——若两者都在端点取得，则端点值既等于 $M$ 又等于 $m$，就有 $M=m$，与假设矛盾。</p>
+
+    <p class="step">不妨设 $M$ 在内部取得，即存在 $\xi\in(a,b)$ 使 $f(\xi)=M$。由于 $\xi$ 是开区间内部的<b>最大值</b>，它自然也是<b>极大值</b>（最值是全局的，极值是局部的，全局最值必是局部极值）。又由条件（2），$f$ 在 $\xi$ 处可导，故由<b>费马引理</b>（可导的极值点导数为零）得 $f'(\xi)=0$。</p>
+
+    <p>两种情形都找到了 $\xi$，证毕。<span class="small">∎</span></p>
+
+    <div class="box plain">
+      <span class="t">费马引理（这里要用到，必须会背）</span>
+      <p>若 $f$ 在 $x_0$ 处<b>取得极值</b>，且 $f$ 在 $x_0$ 处<b>可导</b>，则 $f'(x_0)=0$。</p>
+    </div>
+  </div>
+</div>
+
+<h4 class="sub">三个条件缺一不可（反例要会画）</h4>
+
+<p>这是考试里最爱考的"概念辨析"：把任一条件拿掉，结论就不成立。三个反例都靠画图就能说清。</p>
+
+<table>
+  <tr><th style="width:16%">破坏的条件</th><th style="width:38%">反例构造</th><th>为什么失效</th></tr>
+  <tr>
+    <td><b>不闭区间连续</b></td>
+    <td>$[a,b]$ 上除两端点外取一条斜率 $&lt;0$ 的直线，两端点处取跳跃间断（空心点抬高到与另一端等高）</td>
+    <td>开区间内导数恒为负，处处不为 $0$；端点处不可导</td>
+  </tr>
+  <tr>
+    <td><b>不开区间可导</b></td>
+    <td>$f(x)=|x|$ 型的"尖点"函数，在增减性改变处出现尖点</td>
+    <td>尖点左侧导数 $&gt;0$，右侧导数 $&lt;0$，中间那点本身不可导，没有导数等于 $0$ 的点</td>
+  </tr>
+  <tr>
+    <td><b>无 $f(a)=f(b)$</b></td>
+    <td>取一条斜率 $&gt;0$ 的直线段</td>
+    <td>每一点导数都为正，不存在导数为 $0$ 的点</td>
+  </tr>
+</table>
+
+<div class="box warn">
+  <span class="t">最常见的错误理解</span>
+  <p>罗尔定理的第三个条件<b>不是</b> $f(a)=f(b)=0$，而是 $f(a)=f(b)$。<span class="hl">两端点的函数值只要相等即可，不必等于零。</span>很多同学一上手就默认端点值是 $0$，遇到 $f(a)=f(b)=1$ 的题就卡住。</p>
+</div>
+
+<h3 class="sec" id="s12">1.2　拉格朗日中值定理：把"割线斜率"变成"切线斜率"</h3>
+
+<div class="ex">
+  <div class="h"><span class="tag">例题 2</span>叙述并证明拉格朗日中值定理<span class="tag" style="background:#8a6d1f">2009 真题</span></div>
+
+  <div class="q">
+    <p><b>拉格朗日中值定理</b>　设 $f(x)$ 在 $[a,b]$ 上连续，在 $(a,b)$ 内可导。则存在 $\xi\in(a,b)$，使得
+    $$f(b)-f(a)=f'(\xi)(b-a).$$</p>
+  </div>
+
+  <div class="sol">
+    <span class="lbl">几何意义（先看懂再证）</span>
+    <p>把上式两边除以 $b-a$：$\dfrac{f(b)-f(a)}{b-a}=f'(\xi)$。左边是连接 $A(a,f(a))$、$B(b,f(b))$ 的<b>割线（弦）的斜率</b>，右边是某点<b>切线的斜率</b>。</p>
+    <p>所以定理在说：<b>把割线 $AB$ 平行地向曲线上方平移，当它第一次与曲线相切时，切点处的切线斜率恰好等于割线斜率</b>。平移不改变斜率，所以两者相等——$\xi$ 就是那个切点的横坐标。</p>
+
+    <span class="lbl">怎么想到辅助函数（这是全课最重要的思路）</span>
+    <p>已知罗尔定理能推出它，所以一定是"构造某个 $F(x)$，对 $F$ 用罗尔定理"。罗尔定理的结论是 $F'(\xi)=0$，也就是<b>对一个函数求导</b>。既然罗尔的输出是"求导"，那么我要找的 $F$ 就应该由"对结论积分"得到——<span class="hl">求导与积分互为逆运算</span>。</p>
+
+    <p>把结论移项成 $\;(b-a)f'(\xi)-\big[f(b)-f(a)\big]=0$，然后对 $\xi$ 积分（把 $\xi$ 看作 $x$）：</p>
+    <ul>
+      <li>$(b-a)f'(x)$ 积分 $\Rightarrow (b-a)f(x)$</li>
+      <li>$-\big[f(b)-f(a)\big]$ 是常数，积分 $\Rightarrow -\big[f(b)-f(a)\big]x$</li>
+    </ul>
+    <p>于是</p>
+    $$F(x)=(b-a)f(x)-\big[f(b)-f(a)\big]x.$$
+
+    <span class="lbl">验证 $F(a)=F(b)$</span>
+    <p>把 $x=a$ 代入：</p>
+    $$F(a)=(b-a)f(a)-a\big[f(b)-f(a)\big]=bf(a)-af(a)-af(b)+af(a)=bf(a)-af(b).$$
+    <p>把 $x=b$ 代入：</p>
+    $$F(b)=(b-a)f(b)-b\big[f(b)-f(a)\big]=bf(b)-af(b)-bf(b)+bf(a)=bf(a)-af(b).$$
+    <p>两者相等，$F(a)=F(b)$。</p>
+
+    <span class="lbl">收尾</span>
+    <p>$F$ 在 $[a,b]$ 连续、在 $(a,b)$ 可导（由 $f$ 的性质），且 $F(a)=F(b)$，故由<b>罗尔定理</b>，存在 $\xi\in(a,b)$ 使 $F'(\xi)=0$，即</p>
+    $$(b-a)f'(\xi)-\big[f(b)-f(a)\big]=0\;\Longrightarrow\;f(b)-f(a)=f'(\xi)(b-a).$$
+    <p>证毕。<span class="small">∎</span></p>
+  </div>
+</div>
+
+<div class="ex">
+  <div class="h"><span class="tag">类题</span>同一个套路，换一个结论</div>
+  <div class="q">
+    <p>设 $f$ 在 $[a,b]$ 上连续、在 $(a,b)$ 内可导。证明：存在 $\xi\in(a,b)$，使得
+    $$2\xi\big[f(b)-f(a)\big]=(b^2-a^2)f'(\xi).$$</p>
+  </div>
+  <div class="sol">
+    <span class="lbl">倒推</span>
+    <p>移项：$2\xi\big[f(b)-f(a)\big]-(b^2-a^2)f'(\xi)=0$。逐项积分（$\xi\to x$）：</p>
+    <ul>
+      <li>$2x\big[f(b)-f(a)\big]$ 积分 $\Rightarrow x^2\big[f(b)-f(a)\big]$</li>
+      <li>$-(b^2-a^2)f'(x)$ 积分 $\Rightarrow -(b^2-a^2)f(x)$</li>
+    </ul>
+    <p>取 $F(x)=(b^2-a^2)f(x)-x^2\big[f(b)-f(a)\big]$。</p>
+
+    <span class="lbl">验证等值</span>
+    $$F(a)=(b^2-a^2)f(a)-a^2f(b)+a^2f(a)=b^2f(a)-a^2f(b),$$
+    $$F(b)=(b^2-a^2)f(b)-b^2f(b)+b^2f(a)=b^2f(a)-a^2f(b).$$
+    <p>两者相等，由罗尔定理得 $F'(\xi)=0$，即 $(b^2-a^2)f'(\xi)-2\xi[f(b)-f(a)]=0$，移项即得结论。<span class="small">∎</span></p>
+
+    <div class="box warn">
+      <span class="t">这个题为什么不能用柯西中值定理（用了是零分）</span>
+      <p>看起来很像柯西：$\dfrac{f(b)-f(a)}{b^2-a^2}=\dfrac{f'(\xi)}{2\xi}$，取 $g(x)=x^2$ 即可。但柯西要求分母 $g'(\xi)=2\xi\neq 0$，而<b>题目没有保证 $\xi\neq 0$</b>。若 $a<0<b$，区间内就含有 $0$，$\xi$ 完全可能取到 $0$，此时不能作分母。</p>
+      <p>这类题必须用拉格朗日（罗尔）做——因为罗尔定理对 $\xi$ 的取值没有额外限制。</p>
+    </div>
+  </div>
+</div>
+
+<div class="box thm">
+  <span class="t">拉格朗日的三个常用变形（后面反复用）</span>
+  <p>（1）$f(b)-f(a)=f'(\xi)(b-a)$　——标准形式；</p>
+  <p>（2）$\dfrac{f(b)-f(a)}{b-a}=f'(\xi)$　——"平均变化率 = 某点瞬时变化率"；</p>
+  <p>（3）<b>同名函数相减</b>的识别信号：看到 $f(\text{甲})-f(\text{乙})$，立刻想到拉格朗日。特别地，若出现 $\ln$、$e^x$、$\arctan$ 等，可写成 $\dfrac{f(b)-f(a)}{g(b)-g(a)}$ 的形式。</p>
+</div>
+
+<h3 class="sec" id="s13">1.3　积分中值定理：开区间版本为什么更好用</h3>
+
+<div class="ex">
+  <div class="h"><span class="tag">例题 3</span>叙述并证明积分中值定理<span class="tag" style="background:#8a6d1f">2008 真题</span></div>
+  <div class="q">
+    <p><b>积分中值定理</b>　设 $f(x)$ 在 $[a,b]$ 上连续。则存在 $\xi\in[a,b]$，使得
+    $$\int_a^b f(x)\,dx=f(\xi)(b-a).$$</p>
+  </div>
+
+  <div class="sol">
+    <span class="lbl">思路判断：结论里有没有导数？</span>
+    <p>没有。结论是 $f(\xi)=\dfrac{1}{b-a}\displaystyle\int_a^b f(x)\,dx$，右边是<b>一个常数</b>（记为 $K$）。而题干只给了"$f$ 在 $[a,b]$ 连续"。<span class="hl">要证"存在 $\xi$ 使 $f(\xi)=K$"，标准工具是介值定理。</span></p>
+
+    <div class="box plain">
+      <span class="t">介值定理（说人话版）</span>
+      <p>闭区间上的连续函数，一定取到最大值 $M$ 与最小值 $m$ 之间的<b>任何</b>一个值。也就是说：只要 $m\le K\le M$，就存在 $\xi$ 使 $f(\xi)=K$。</p>
+    </div>
+
+    <span class="lbl">证法一：介值定理（$\xi$ 得闭区间）</span>
+    <p>设 $f$ 在 $[a,b]$ 上的最大值为 $M$、最小值为 $m$，则对一切 $x\in[a,b]$ 有 $m\le f(x)\le M$。对这个不等式在 $[a,b]$ 上积分（$m,M$ 是常数，可直接提出）：</p>
+    $$m(b-a)\le\int_a^b f(x)\,dx\le M(b-a).$$
+    <p>两边同除以 $b-a>0$：</p>
+    $$m\le\frac{1}{b-a}\int_a^b f(x)\,dx\le M.$$
+    <p>即 $K=\dfrac{1}{b-a}\displaystyle\int_a^b f$ 介于最小值与最大值之间。由介值定理，存在 $\xi\in[a,b]$ 使 $f(\xi)=K$，即 $\displaystyle\int_a^b f=f(\xi)(b-a)$。<span class="small">∎</span></p>
+
+    <span class="lbl">证法二：拉格朗日（$\xi$ 得开区间，更精确）</span>
+    <p>构造变上限积分 $F(x)=\displaystyle\int_a^x f(t)\,dt$。它有两个好性质：</p>
+    <ul>
+      <li>$F(a)=\displaystyle\int_a^a f=0$（区间长度为 $0$，积分为 $0$）；</li>
+      <li>$F'(x)=f(x)$（变上限积分求导公式）。</li>
+    </ul>
+    <p>于是 $F(b)-F(a)=F(b)-0=F(b)=\displaystyle\int_a^b f$。对 $F$ 在 $[a,b]$ 上用拉格朗日中值定理：存在 $\xi\in(a,b)$ 使</p>
+    $$F(b)-F(a)=F'(\xi)(b-a)=f(\xi)(b-a).$$
+    <p>左边就是 $\displaystyle\int_a^b f$，证毕。<span class="small">∎</span></p>
+
+    <div class="box tip">
+      <span class="t">两个版本都是对的，但开区间更精确</span>
+      <p>同样证出积分中值定理，介值定理版只能得到 $\xi\in[a,b]$（闭），拉格朗日版能得到 $\xi\in(a,b)$（开）。开区间范围更小、信息更强。</p>
+      <p>打个比方：别人问你是哪里人，你可以答"中国人"，也可以答"成都人"。两个都没错，但成都更精确——<b>能说精确的就别说模糊的</b>。所以本书此后凡用积分中值定理，一律默认 $\xi$ 在开区间。</p>
+    </div>
+
+    <div class="box warn">
+      <span class="t">这个区别什么时候会致命</span>
+      <p>就在下面这道 2010 年真题里。当两个区间<b>接壤</b>（如 $(0,2)$ 与 $[2,3]$ 共享端点 $2$）时，闭区间版本可能让两个 $\xi$ 撞成同一个点，导致"三个不同的点"坍缩成两个，整个证明链条断裂。详见 1.5 节。</p>
+    </div>
+  </div>
+</div>
+
+<h3 class="sec" id="s14">1.4　柯西中值定理：两个函数的"比值版"拉格朗日</h3>
+
+<div class="ex">
+  <div class="h"><span class="tag">例题 4</span>叙述并证明柯西中值定理</div>
+  <div class="q">
+    <p><b>柯西中值定理</b>　设 $f,g$ 在 $[a,b]$ 上连续、在 $(a,b)$ 内可导，且 $g'(x)\neq 0$。则存在 $\xi\in(a,b)$，使得
+    $$\frac{f(b)-f(a)}{g(b)-g(a)}=\frac{f'(\xi)}{g'(\xi)}.$$</p>
+  </div>
+
+  <div class="sol">
+    <span class="lbl">第一步：有分母就先去分母</span>
+    <p>含分母的式子不好积分，所以先把分母乘过去，等价于证明</p>
+    $$\big[f(b)-f(a)\big]g'(\xi)-\big[g(b)-g(a)\big]f'(\xi)=0.$$
+    <p>逐项积分（$\xi\to x$）：</p>
+    $$F(x)=\big[f(b)-f(a)\big]g(x)-\big[g(b)-g(a)\big]f(x).$$
+
+    <span class="lbl">第二步：验证 $F(a)=F(b)$</span>
+    $$F(a)=\big[f(b)-f(a)\big]g(a)-\big[g(b)-g(a)\big]f(a)=f(b)g(a)-f(a)g(b),$$
+    $$F(b)=\big[f(b)-f(a)\big]g(b)-\big[g(b)-g(a)\big]f(b)=f(b)g(a)-f(a)g(b).$$
+    <p>相等。由罗尔定理，存在 $\xi\in(a,b)$ 使 $F'(\xi)=0$，即</p>
+    $$\big[f(b)-f(a)\big]g'(\xi)-\big[g(b)-g(a)\big]f'(\xi)=0. \tag{$\ast$}$$
+
+    <span class="lbl">第三步：这一步不做要扣分——制造分母</span>
+    <p>注意 $(\ast)$ 式还不是柯西定理的最终形式，它<b>没有分母</b>。而题干给的 $g'(x)\neq 0$ 这个条件，到目前<b>一次都没用上</b>。凡是"条件没用完就写证毕"，都要扣分。</p>
+    <p>要把 $(\ast)$ 变成带分母的形式，需要两个分母都不为零：</p>
+    <ul>
+      <li>$g'(\xi)\neq 0$：这是题干直接给的；</li>
+      <li>$g(b)-g(a)\neq 0$：题干<b>没有</b>直接说，必须自己证。</li>
+    </ul>
+
+    <div class="box gold">
+      <span class="t">为什么 $g(b)\neq g(a)$（两种说法都对）</span>
+      <p><b>说法一（用单调性）：</b>由 $g'(x)\neq 0$ 且 $g'$ 有介值性（达布定理），$g'$ 要么恒正、要么恒负。恒正则 $g$ 严格递增，恒负则严格递减，无论哪种都有 $g(b)\neq g(a)$。</p>
+      <p><b>说法二（反证）：</b>若 $g(a)=g(b)$，则 $g$ 满足罗尔定理的全部条件，存在 $\eta\in(a,b)$ 使 $g'(\eta)=0$，与 $g'(x)\neq 0$ 矛盾。故 $g(b)\neq g(a)$。</p>
+    </div>
+
+    <p>两个分母都不为零，于是可以把 $(\ast)$ 两边分别除以它们：</p>
+    $$\frac{f(b)-f(a)}{g(b)-g(a)}=\frac{f'(\xi)}{g'(\xi)}.$$
+    <p>证毕。<span class="small">∎</span></p>
+
+    <div class="box tip">
+      <span class="t">一个体会</span>
+      <p>数学家写条件一个都不多写。题干只写 $g'(x)\neq 0$ 却敢在结论里用 $g(b)-g(a)$ 作分母，是因为前者<b>已经蕴含</b>了后者。看懂这一点，你就知道考试里"条件不够"的错觉，多半是自己没推到底。</p>
+    </div>
+  </div>
+</div>
+
+<h3 class="sec" id="s15">1.5　第一篇综合：2010 年"三个等值点"真题</h3>
+
+<div class="ex">
+  <div class="h"><span class="tag">类题</span>三个等值点 + 两次罗尔<span class="tag" style="background:#8a6d1f">2010 真题</span></div>
+  <div class="q">
+    <p>设 $f(x)$ 在 $[0,3]$ 上二阶可导，且
+    $$2f(0)=\int_0^2 f(x)\,dx=f(2)+f(3).$$
+    证明：存在 $\xi\in(0,3)$，使得 $f''(\xi)=0$。</p>
+  </div>
+
+  <div class="sol">
+    <span class="lbl">思路：二阶导 = 罗尔定理用两次</span>
+    <p>要证 $f''(\xi)=0$，就是把罗尔定理"升一阶"。罗尔定理一次给 $f'(\xi)=0$，那么：</p>
+    <ul>
+      <li>若 $f$ 有<b>三个</b>点的函数值相等，设为 $x_1&lt;x_2&lt;x_3$；</li>
+      <li>在 $[x_1,x_2]$ 上用罗尔 $\Rightarrow f'(\eta_1)=0$；在 $[x_2,x_3]$ 上用罗尔 $\Rightarrow f'(\eta_2)=0$；</li>
+      <li>再对 $f'$ 在 $[\eta_1,\eta_2]$ 上用罗尔 $\Rightarrow f''(\xi)=0$。</li>
+    </ul>
+    <p>所以任务变成：<b>从题干那个连等式里，挖出三个函数值相等的点</b>。</p>
+
+    <span class="lbl">第一步：把连等式拆成三个"单点函数值"</span>
+    <p>三处同除以 $2$：</p>
+    $$f(0)=\frac{1}{2}\int_0^2 f(x)\,dx=\frac{f(2)+f(3)}{2}.$$
+
+    <span class="lbl">第二步：中间那个积分 → 积分中值定理</span>
+    <p>$\dfrac{1}{2}\displaystyle\int_0^2 f=\frac{1}{2-0}\int_0^2 f$，正是积分中值定理的形式。故存在 $\xi_1\in(0,2)$，使</p>
+    $$f(\xi_1)=\frac{1}{2}\int_0^2 f(x)\,dx.$$
+    <p class="small">注意：$\xi_1$ 必须落在<b>开区间</b> $(0,2)$，理由见后面的"致命细节"。</p>
+
+    <span class="lbl">第三步：$\dfrac{f(2)+f(3)}{2}$ → 介值定理</span>
+    <p>看到"<b>不同点函数值之和除以 2</b>"，就要想到介值定理（注意：是"和"，"差"不行）。在 $[2,3]$ 上设 $f$ 的最大值为 $M$、最小值 $m$，则</p>
+    $$m=\frac{m+m}{2}\le\frac{f(2)+f(3)}{2}\le\frac{M+M}{2}=M.$$
+    <p>故由介值定理，存在 $\xi_2\in[2,3]$，使 $f(\xi_2)=\dfrac{f(2)+f(3)}{2}$。</p>
+
+    <span class="lbl">第四步：三点齐了，连续两次罗尔</span>
+    <p>现在有</p>
+    $$f(0)=f(\xi_1)=f(\xi_2),$$
+    <p>且 $0&lt;\xi_1&lt;2\le\xi_2\le3$。由第二步的开区间结论，$\xi_1&lt;2$；而 $\xi_2\ge2$，所以 $\xi_1\neq\xi_2$，三个点确实互不相同。</p>
+    <p>在 $[0,\xi_1]$ 上用罗尔定理：存在 $\eta_1\in(0,\xi_1)$ 使 $f'(\eta_1)=0$。<br>
+    在 $[\xi_1,\xi_2]$ 上用罗尔定理：存在 $\eta_2\in(\xi_1,\xi_2)$ 使 $f'(\eta_2)=0$。<br>
+    再对 $f'$ 在 $[\eta_1,\eta_2]$ 上用罗尔定理：存在 $\xi\in(\eta_1,\eta_2)\subset(0,3)$ 使 $f''(\xi)=0$。</p>
+    <p>证毕。<span class="small">∎</span></p>
+
+    <div class="box warn">
+      <span class="t">致命细节：第一步为什么必须用开区间</span>
+      <p>假如此处用了<b>闭区间</b>版本，则 $\xi_1\in[0,2]$，可能取到 $\xi_1=2$；而第三步的介值定理<b>天然只能给闭区间</b>，$\xi_2\in[2,3]$ 也可能取到 $\xi_2=2$。两个 $\xi$ 都撞在 $2$ 这一点上，于是"三个等值点"退化成"两个"（$0$ 和 $2$），只够用一次罗尔，只能得到 $f'=0$，证不出 $f''=0$。</p>
+      <p><b>所以这个题即使思路全对，只要第一步写了闭区间，就要扣 1～2 分。</b>接壤区间的题目，一律用开区间版本。</p>
+      <p style="margin-top:2mm"><b>方法沉淀（三条通用规则）：</b>① 看到 $\displaystyle\int$ → 积分中值定理（默认开区间）；② 看到 $\dfrac{f(\text{甲})+f(\text{乙})}{2}$ → 介值定理，在"甲、乙所在区间"上用；③ 要 $n$ 阶导为零 → 需 $n+1$ 个等值点，罗尔用 $n$ 次。</p>
+    </div>
+  </div>
+</div>

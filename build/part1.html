@@ -1,0 +1,130 @@
+<!-- ============ COVER ============ -->
+<section class="cover">
+  <div class="badge">考研数学 · 中值定理专题</div>
+  <div class="kicker">MEAN VALUE THEOREM</div>
+  <h1>中值定理证明题<br>完整讲义</h1>
+  <div class="sub">
+    从四大基本定理的严格证明，到辅助函数构造的三大方法<br>
+    一套可以一直用到考前的完整解题体系
+  </div>
+  <div class="meta">
+    <div><b>课程来源</b>　B 站 BV1zGZ3Y2EnK《全网最强：中值定理证明题，5 小时，彻底拿下！》</div>
+    <div><b>覆盖范围</b>　P2「解题课（上）」157 分 32 秒 ＋ P3「解题课（下）」191 分 23 秒，共 5 小时 49 分</div>
+    <div><b>主讲</b>　考研竞赛凯哥</div>
+    <div><b>整理</b>　按「定理 → 方法 → 例题 → 易错」四层重排，含全部例题的完整解答与动机分析</div>
+  </div>
+</section>
+
+<!-- ============ TOC ============ -->
+<section class="toc">
+  <h2>目　录</h2>
+  <ol>
+    <li class="c1"><span class="pg" data-toc="t0">00</span>写在前面：这门课到底在解决什么问题</li>
+    <li class="c1"><span class="pg" data-toc="t1">00</span>第一篇　四大基本定理及其证明</li>
+    <li class="l2"><span class="pg" data-toc="s11">00</span>1.1　罗尔定理：一切微分中值定理的地基</li>
+    <li class="l2"><span class="pg" data-toc="s12">00</span>1.2　拉格朗日中值定理：把"割线斜率"变成"切线斜率"</li>
+    <li class="l2"><span class="pg" data-toc="s13">00</span>1.3　积分中值定理：开区间版本为什么更好用</li>
+    <li class="l2"><span class="pg" data-toc="s14">00</span>1.4　柯西中值定理：两个函数的"比值版"拉格朗日</li>
+    <li class="l2"><span class="pg" data-toc="s15">00</span>1.5　第一篇综合：2010 年"三个等值点"真题</li>
+    <li class="c1"><span class="pg" data-toc="t2">00</span>第二篇　构造辅助函数的三大方法</li>
+    <li class="l2"><span class="pg" data-toc="s21">00</span>2.1　总纲：为什么"倒推 + 积分"能造出辅助函数</li>
+    <li class="l2"><span class="pg" data-toc="s22">00</span>2.2　方法一　观察法（凑微分）</li>
+    <li class="l2"><span class="pg" data-toc="s23">00</span>2.3　方法二　公式法（积分因子）</li>
+    <li class="l2"><span class="pg" data-toc="s24">00</span>2.4　整体思想：当结论横跨"祖孙三代"</li>
+    <li class="l2"><span class="pg" data-toc="s25">00</span>2.5　方法三　微分方程反解常数 C</li>
+    <li class="l2"><span class="pg" data-toc="s26">00</span>2.6　找不到两个等值点怎么办</li>
+    <li class="c1"><span class="pg" data-toc="t3">00</span>第三篇　多中值定理与泰勒展开</li>
+    <li class="l2"><span class="pg" data-toc="s31">00</span>3.1　泰勒展开：两种余项与选点原则</li>
+    <li class="l2"><span class="pg" data-toc="s32">00</span>3.2　泰勒展开的六种典型题</li>
+    <li class="l2"><span class="pg" data-toc="s33">00</span>3.3　考法五：中值参数 θ 的极限</li>
+    <li class="l2"><span class="pg" data-toc="s34">00</span>3.4　双中值定理（一）：不要求两个中值不同</li>
+    <li class="l2"><span class="pg" data-toc="s35">00</span>3.5　双中值定理（二）：要求两个中值不同</li>
+    <li class="l2"><span class="pg" data-toc="s36">00</span>3.6　三中值问题：分段点本身就是中值</li>
+    <li class="c1"><span class="pg" data-toc="t4">00</span>附录　一页纸速查表</li>
+  </ol>
+</section>
+
+<!-- ============ 前言 ============ -->
+<h2 class="chap" id="t0"><span class="n">00</span>写在前面：这门课到底在解决什么问题</h2>
+
+<p>中值定理这一章，几乎所有考生的感受都是分裂的：<b>定理本身三行字，一看就懂；题目一上手，第一行就写不出来。</b>原因不在定理，而在于——中值定理的题目，<span class="hl">题干永远只有两句废话，全部的难度都压在结论上</span>。</p>
+
+<p>你看任何一道中值定理证明题，题干长这样：</p>
+
+<div class="box plain">
+  <span class="t">题干的标准长相</span>
+  <p>设 $f(x)$ 在 $[a,b]$ 上连续，在 $(a,b)$ 内可导（或二阶、$n$ 阶可导），且告诉你若干个点的函数值。<br>
+  证明：存在 $\xi\in(a,b)$，使得……（一个看起来很复杂的、含 $\xi$ 与导数的等式）。</p>
+</div>
+
+<p>前半句是<span class="hl">雷打不动的套话</span>，给不出任何信息；真正决定解法的，是后半句那个<b>含 $\xi$ 的结论</b>。所以这门课的全部方法论可以浓缩成一句话：</p>
+
+<div class="box thm">
+  <span class="t">全课总纲</span>
+  <p style="font-size:11.2pt"><b>不要从条件出发，要从结论出发。</b>把要证的结论"倒着推"回去——什么函数求导之后会等于它？那个函数就是辅助函数 $F(x)$。然后对 $F(x)$ 用罗尔定理。</p>
+</div>
+
+<h3 class="sec">课程的知识地图</h3>
+
+<p>讲义把中值定理拆成七种考法，其中最后两种因真题从未考过而列为选学。本次课程（P2 + P3）覆盖的是<b>考法一、考法二、考法三</b>，也即真题命中率最高的部分。</p>
+
+<table>
+  <tr><th style="width:22%">考法</th><th style="width:40%">核心内容</th><th>对应本讲义</th></tr>
+  <tr><td><b>考法一</b></td><td>基本定理及其证明（罗尔、拉格朗日、积分、柯西）</td><td>第一篇（P2 前半）</td></tr>
+  <tr><td><b>考法二</b></td><td>构造辅助函数，证明含 $\xi$ 的等式</td><td>第二篇（P2 后半，18 例）</td></tr>
+  <tr><td><b>考法三</b></td><td>多中值定理（$\xi,\eta$ 同时出现）、泰勒展开证高阶导</td><td>第三篇（P3）</td></tr>
+  <tr><td>考法四～五</td><td>不等式与估值类应用</td><td>第三篇（P3 收尾）</td></tr>
+  <tr><td>考法六～七</td><td>真题未考，选学</td><td>—</td></tr>
+</table>
+
+<h3 class="sec">四大基本定理速查</h3>
+
+<p>这四个定理是整章的砖块。请注意最后一列：<b>后面 20 多道例题里，接近 20 道最终都要落到罗尔定理上</b>。罗尔定理是地基，其余三个都是用罗尔定理证出来的。</p>
+
+<table>
+  <tr>
+    <th style="width:16%">定理</th><th style="width:34%">条件</th><th style="width:32%">结论</th><th>$\xi$ 的范围</th>
+  </tr>
+  <tr>
+    <td><b>罗尔</b></td>
+    <td>$[a,b]$ 连续，$(a,b)$ 可导，$f(a)=f(b)$</td>
+    <td>$f'(\xi)=0$</td>
+    <td>开区间 $(a,b)$</td>
+  </tr>
+  <tr>
+    <td><b>拉格朗日</b></td>
+    <td>$[a,b]$ 连续，$(a,b)$ 可导</td>
+    <td>$f(b)-f(a)=f'(\xi)(b-a)$</td>
+    <td>开区间 $(a,b)$</td>
+  </tr>
+  <tr>
+    <td><b>柯西</b></td>
+    <td>$f,g$ 均连续可导，且 $g'(x)\neq 0$</td>
+    <td>$\dfrac{f(b)-f(a)}{g(b)-g(a)}=\dfrac{f'(\xi)}{g'(\xi)}$</td>
+    <td>开区间 $(a,b)$</td>
+  </tr>
+  <tr>
+    <td><b>积分</b></td>
+    <td>$f$ 在 $[a,b]$ 连续</td>
+    <td>$\displaystyle\int_a^b f(x)\,dx=f(\xi)(b-a)$</td>
+    <td>拉格朗日版 $(a,b)$<br>介值定理版 $[a,b]$</td>
+  </tr>
+</table>
+
+<div class="box warn">
+  <span class="t">最容易记错的一条</span>
+  <p>凡是<b>微分</b>中值定理（罗尔、拉格朗日、柯西），$\xi$ 一定在<b>开区间</b>；只有用<b>介值定理</b>证出来的积分中值定理，$\xi$ 才在<b>闭区间</b>。而闭区间意味着 $\xi$ 可能取到端点——这一点在 2010 年那道真题里会直接决定你能不能拿到满分。</p>
+</div>
+
+<h3 class="sec">全书解题总纲：三步走</h3>
+
+<div class="steps-wrap">
+  <div class="step-card"><div class="num">1</div><div class="txt"><b>看结论</b>　结论里有没有导数？有 → 走微分中值定理；没有 → 走介值定理或积分中值定理。</div></div>
+  <div class="step-card"><div class="num">2</div><div class="txt"><b>倒推辅助函数</b>　把结论整理成"某个式子 $=0$"的形式，问自己：什么函数求导等于它？三种手段依次尝试：观察法 → 公式法 → 微分方程法。</div></div>
+  <div class="step-card"><div class="num">3</div><div class="txt"><b>找两个等值点</b>　对 $F$ 用罗尔定理的前提是 $F$ 在两点的值相等。等值点通常来自：端点、题干给的点、零点定理造出来的点、上一问的结论。</div></div>
+</div>
+
+<div class="box tip">
+  <span class="t">关于"我想不到怎么办"</span>
+  <p>这个问题等价于"我没背过单词，怎么写出作文"。所有的方法都是<b>模式识别</b>：先记住最简单的几类结构长什么样，再往新题上套。没有人第一次就能想到，但把 $0\to1$ 的过程讲透之后，$1\to99$ 是你自己能完成的。</p>
+</div>

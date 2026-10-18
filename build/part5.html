@@ -1,0 +1,112 @@
+<!-- ============ APPENDIX ============ -->
+<h2 class="chap" id="t4"><span class="n">04</span>附录　一页纸速查表</h2>
+
+<h3 class="sec">A. 定理与条件</h3>
+
+<table>
+  <tr><th style="width:14%">定理</th><th style="width:30%">条件（缺一不可）</th><th style="width:30%">结论</th><th>$\xi$ 范围</th></tr>
+  <tr><td><b>罗尔</b></td><td>$[a,b]$ 连续；$(a,b)$ 可导；$f(a)=f(b)$</td><td>$f'(\xi)=0$</td><td>开</td></tr>
+  <tr><td><b>拉格朗日</b></td><td>$[a,b]$ 连续；$(a,b)$ 可导</td><td>$f(b)-f(a)=f'(\xi)(b-a)$</td><td>开</td></tr>
+  <tr><td><b>柯西</b></td><td>同上，且 $g'(x)\neq0$</td><td>$\dfrac{f(b)-f(a)}{g(b)-g(a)}=\dfrac{f'(\xi)}{g'(\xi)}$</td><td>开</td></tr>
+  <tr><td><b>积分</b></td><td>$[a,b]$ 连续</td><td>$\displaystyle\int_a^b f=f(\xi)(b-a)$</td><td>介值版闭<br>拉氏版开</td></tr>
+  <tr><td><b>泰勒（拉氏余项）</b></td><td>$x_0$ 邻域内 $n+1$ 阶可导</td><td>$\displaystyle f(x)=\sum_{k=0}^{n}\frac{f^{(k)}(x_0)}{k!}(x-x_0)^k+\frac{f^{(n+1)}(\xi)}{(n+1)!}(x-x_0)^{n+1}$</td><td>介于 $x_0,x$</td></tr>
+</table>
+
+<h3 class="sec">B. 判断信号 → 对应方法</h3>
+
+<table>
+  <tr><th style="width:38%">看到什么</th><th>想到什么</th></tr>
+  <tr><td>结论里<b>没有导数</b>，只有 $f(\xi)=$ 常数</td><td>介值定理 / 零点定理</td></tr>
+  <tr><td>结论里有 $\displaystyle\int_a^b f$</td><td>积分中值定理（默认开区间）</td></tr>
+  <tr><td>$f(\text{甲})-f(\text{乙})$ 同名函数相减</td><td>拉格朗日</td></tr>
+  <tr><td>$\dfrac{f(\text{甲})-f(\text{乙})}{g(\text{甲})-g(\text{乙})}$，分子分母各是导数</td><td>柯西</td></tr>
+  <tr><td>结论形如 $f'(\xi)+f(\xi)g(\xi)=0$</td><td>积分因子 $e^{\int g}$</td></tr>
+  <tr><td>$\dfrac{1}{1+u^2}$、$\dfrac{u'}{1+u^2}$</td><td>$\arctan$</td></tr>
+  <tr><td>$\dfrac{f'}{f}$</td><td>$(\ln f)'$</td></tr>
+  <tr><td>结论里出现<b>二阶及以上</b>导数</td><td>泰勒展开</td></tr>
+  <tr><td>结论跨过中间某阶（只有 $f$ 与 $f''$）</td><td>补上缺失的那阶</td></tr>
+  <tr><td>$f(0)f(1)&lt;0$ 或两端异号</td><td>零点定理</td></tr>
+  <tr><td>$\dfrac{f(\text{甲})+f(\text{乙})}{2}$</td><td>介值定理（<b>和</b>可以，差不行）</td></tr>
+  <tr><td>结论要求 $\xi\neq\eta$</td><td>分割区间（找分段点）</td></tr>
+  <tr><td>结论里有"极其简单"的那个中值</td><td>它本身就是分段点（三中值）</td></tr>
+  <tr><td>题干出现"最大值""最小值"</td><td>费马引理（该点导数为零）→ 可作展开中心</td></tr>
+</table>
+
+<h3 class="sec">C. 辅助函数构造速查</h3>
+
+<table>
+  <tr><th style="width:44%">要证的结论</th><th>辅助函数 $F(x)$</th></tr>
+  <tr><td>$f'(\xi)=0$</td><td>$f(x)$</td></tr>
+  <tr><td>$f'(\xi)+f(\xi)=0$</td><td>$e^{x}f(x)$</td></tr>
+  <tr><td>$f'(\xi)-f(\xi)=0$</td><td>$e^{-x}f(x)$</td></tr>
+  <tr><td>$\xi f'(\xi)+2f(\xi)=0$</td><td>$x^2f(x)$</td></tr>
+  <tr><td>$f'(\xi)+f(\xi)g(\xi)=0$</td><td>$f(x)e^{\int g}$</td></tr>
+  <tr><td>$f'(\xi)+f^2(\xi)=0$</td><td>$f(x)e^{\int_a^x f}$</td></tr>
+  <tr><td>$f'(\xi)f(1-\xi)-f(\xi)f'(1-\xi)=0$</td><td>$f(x)f(1-x)$</td></tr>
+  <tr><td>$\dfrac{f'(\xi)}{1+f^2(\xi)}=1$ 型</td><td>$\arctan f(x)-x$</td></tr>
+  <tr><td>$f(\xi)g''(\xi)-f''(\xi)g(\xi)=0$</td><td>$f g'-f'g$</td></tr>
+  <tr><td>$f'(\xi)-1=\lambda[f(\xi)-\xi]$</td><td>$[f(x)-x]e^{-\lambda x}$</td></tr>
+  <tr><td>$f''(\xi)-3f'(\xi)+2f(\xi)=0$</td><td>$[f'(x)-f(x)]e^{-2x}$</td></tr>
+  <tr><td>$f^{(n+1)}(\xi)=f(\xi)$</td><td>$\big[f+f'+\cdots+f^{(n)}\big]e^{-x}$</td></tr>
+  <tr><td>$f(\xi)=\dfrac{a}{b-\xi}f'(\xi)$</td><td>$f(x)(b-x)^a$</td></tr>
+</table>
+
+<h3 class="sec">D. 泰勒展开选点决策表</h3>
+
+<table>
+  <tr><th style="width:32%">题干给的信息</th><th>展开方式</th></tr>
+  <tr><td>某点的导数（其余点只有函数值）</td><td>其余点在<b>该点</b>展开</td></tr>
+  <tr><td>两端点的导数，结论含中点</td><td>中点在<b>两端点</b>展开</td></tr>
+  <tr><td>中点的导数，结论含 $f(b)-f(a)$</td><td>端点在<b>中点</b>展开</td></tr>
+  <tr><td>某点取最值（且可导）</td><td>各点在<b>该极值点</b>展开</td></tr>
+  <tr><td>结论对任意 $x$ 成立</td><td>在<b>任意 $x$</b> 处展开（其余点为端点）</td></tr>
+  <tr><td>只给了函数 $f$ 与 $f''$ 的界，要估 $f'$</td><td>把端点<b>在任意点 $x$</b> 处展开（$x$ 当中心）</td></tr>
+</table>
+
+<h3 class="sec">E. 十大易错点</h3>
+
+<div class="box warn">
+  <span class="t">考场上最容易丢分的地方</span>
+  <p><b>1.</b> 罗尔定理的条件是 $f(a)=f(b)$，<b>不是</b> $f(a)=f(b)=0$。</p>
+  <p><b>2.</b> 结论有分母就必须论证分母非零，否则扣分（"条件没用完"）。</p>
+  <p><b>3.</b> 接壤区间（如 $(0,2)$ 与 $[2,3]$）必须用<b>开区间</b>版本，否则两个中值可能撞成一点。</p>
+  <p><b>4.</b> "最高阶留给余项"：题目说 $n$ 阶可导，就不能写出 $n+1$ 阶的显式项。</p>
+  <p><b>5.</b> 不同点的函数值之<b>和</b>可用介值定理，<b>差</b>不行（除非加绝对值做放缩）。</p>
+  <p><b>6.</b> 写完两个泰勒展开式，<b>先检查有没有必须消掉的未知量</b>，不要形成"必须加减"的肌肉记忆。</p>
+  <p><b>7.</b> 用积分因子时：$f'$ 的系数要先整理成 $1$；积分不加 $C$、$\ln$ 内不加绝对值；$g=f$ 时把 $\int f$ 写成变上限积分才能代值。</p>
+  <p><b>8.</b> 约掉一个因子（如 $\xi$）前，必须确认它不为零（常需补条件 $a&gt;0$）。</p>
+  <p><b>9.</b> 要求 $\xi\neq\eta$ 时，两个中值必须来自<b>不相交的开区间</b>。</p>
+  <p><b>10.</b> 证明"不等于"用反证法；证明"存在"才用构造法。</p>
+</div>
+
+<h3 class="sec">F. 全课方法总图</h3>
+
+<div class="box thm">
+  <span class="t">拿到一道中值定理证明题，按这个顺序想</span>
+  <p><b>第 1 步　看结论有没有导数。</b><br>
+  　没有 → 介值定理 / 零点定理，构造 $F$ 后直接找零点。<br>
+  　有 → 进入第 2 步。</p>
+  <p><b>第 2 步　看导数的阶数。</b><br>
+  　只有一阶 → 罗尔 / 拉格朗日 / 柯西 + 辅助函数。<br>
+  　有二阶及以上 → 泰勒展开（带拉格朗日余项）。</p>
+  <p><b>第 3 步　（一阶情形）倒推辅助函数。</b><br>
+  　能一眼看出是谁的导数 → 观察法；<br>
+  　形如 $f'+fg=0$ → 公式法（积分因子）；<br>
+  　看不出 → 微分方程法，或"把约掉的因子乘回去"。</p>
+  <p><b>第 4 步　找两个等值点（或两个零点）。</b><br>
+  　来源：端点、题干给的点、上一问的结论、零点定理、$f'-f$ 这类结构的另一层辅助函数。</p>
+  <p><b>第 5 步　（泰勒情形）选点 + 组合。</b><br>
+  　导数信息多的点当 $x_0$；有最值就设出最值点用费马引理；<br>
+  　组合方式看"要消掉什么"，或直接照抄结论的系数；<br>
+  　收尾：两个余项之和 → 介值定理；差值 → 加绝对值放缩 / 取最大。</p>
+  <p><b>第 6 步　检查分母。</b>结论里有几个分母，就证几个不为零。</p>
+</div>
+
+<hr>
+
+<div class="box plain">
+  <span class="t">关于本讲义</span>
+  <p>本讲义依据 B 站课程 <b>BV1zGZ3Y2EnK</b>《全网最强：中值定理证明题，5 小时，彻底拿下！》的 P2（157 分 32 秒）与 P3（191 分 23 秒）整理，覆盖考法一至考法五的全部内容。</p>
+  <p>整理原则：保留课程的<b>全部例题与解法动机</b>，删去口语填充；对课程中口述的公式与推导做了符号规范化与严谨性校对；对个别口述中条件表述不完整之处，已按数学正确性补注说明。</p>
+  <p>课程中列为选学的考法六、考法七（真题未考）未纳入本讲义。</p>
+</div>
