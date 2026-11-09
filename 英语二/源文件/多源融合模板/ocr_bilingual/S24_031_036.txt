@@ -1,0 +1,203 @@
+===== PAGE 31 =====
+公众号：牛南山，整理更新
+例1：
+2013-2015年我国博物馆数量和参观人数
+10000.
+8000.
+7811.
+6000
+06378
+-4510
+4697
+4000
+2000
+o
+2013年.
+2014年|
+一博物馆故量（蒙）
+2015年
+参观人數（十万人次）
+人次：直译 people times 较生硬，可以直接写 “people" 或"visitors”"，并在上下文中体现数量级。
+Number：用于可数名词复数（如 the number of museums, the number of visitors）。
+Amount：用于不可数名词（如 amount of money, amount of time）。
+注意：人数是可数的，必须用 Number，不能用 Amount。
+例2：
+15%
+9%
+6%
+欣賞风景
+口緩馨压力
+口交朋友
+口培养独立能力
+口共官
+33%
+某高校学生旅行目的调查
+高校：College / University（单数指代某一所，复数泛指）。目的：Purpose / Reason / Goal。
+压力：Pressure / Stress。缓解：Reduce / Relieve / Release / Relax（动词）。
+放松：Relaxation（名词）/ Relax（动词）。
+若不会准确动词，可用〝make people feel relaxed"等解释性短语。
+例 3：
+满意度
+年龄组
+≤40岁
+41~50岁
+>50岁
+某公司员工工作满意度调查
+满意
+16.7%
+0.0%
+40.0%
+不清楚
+50.0%
+36.0%
+50.0%
+不满意
+33.3%
+64.0%
+10.0%
+31
+===== PAGE 32 =====
+公众号：牛南山，整理更新
+调查：Investigation：通常指警方或官方对事故/案件的调查，不适用于间卷。
+Survey：适用于民意/间卷调查。
+注意：图表标题中的“调查”二字在正文描述中通常不需要翻译。
+МФЛ: This chart shows the survey of students' travel purposes.
+正确示范：This chart shows the travel purposes of students.（反映的是“目的”，不是“调查”本身）。
+满意度：Satisfaction 最常用；Level 也可用（Job satisfaction level）；避免 Degree（较少用，略显生硬）。
+比较级与范围表达
+大于/超过：Above / More than / Over / Exceed。
+#F: Below / Under / Less than.
+等于：Equal to / As much as（通常直接用数字即可，无需特意强调“等于”）。
+年龄组：Age group / Age category。
+分类：Classification。
+建议：使用简单准确的词汇，避免生僻词导致拼写错误。
+（四）三大从句及其省略形式
+从句类型：
+1.定语从句
+2.名词从句（主从、宾从、表从、同从）
+3.状语从句
+从句基本结构：
+1.引导词（只能使用一个）＋主谓结构
+2.使用陈述句语序，但引导词要前置
+定语从句
+定语从句的结构：名词结构/句子+引导词
+1.引导词：
+• That:that
+32
+===== PAGE 33 =====
+公众号：牛南山，整理更新
+•
+Wh-: which/ who/ whom/ whose/ when/ where/ why
+2.作后置定语
+定语从句的特点：
+1.引导词指代被修饰的名词结构，甚至句子
+2.引导词在定语从句中充当成分，但无意义
+定语从句的简化形式：
+1.条件：引导词作从句的主语
+2.方法：省略引导词，改谓语动词为非谓语动词。
+3.非谓语动词的三种基本形式：doing：表主动、正在进行
+done：被动、已经完成
+to do：表将来、目的
+定语从句的练习：
+1.我找到了导致这场意外的原因。
+解題步骤
+1）提炼主干：找出主谓宾结构。—— 主干：Ihave found the reason。
+2）分析定语：“导致这场意外的”是修饰 reason 的定语。
+3）构建从句：独立句子：The reason led to the accident.
+确定引导词：指代 reason（物），且在从句中作主语，选用that 或 which。
+4) A/47: I have found the reason that led to the accident.
+进阶写法 1：分词简化
+“非谓语简化”，省略 that/which，将 led 改为现在分词 leading
+Rita: I have found the reason leading to the accident.
+进阶写法 2：使用副词引导词
+for which 在从句中作原因状语，可直接用副词 why 替代。
+RiM: I have found the reason why the accident happened.
+33
+===== PAGE 34 =====
+公众号：牛南山，整理更新
+2.这座房子就是他出生的地方。
+解题步骤
+1）提炼主干：This house is the place.
+2） 构建从句：独立句子：He was born in this place.
+确定引导词：指代 place（物），且在从句中作地点状语。
+3）合并句子：方式 A（介词+which）：The house is the place in which he was born.
+HI B (Mil where) : The house is the place where he was born.
+3.所有的家人都团聚了。老人感到十分高兴。
+解题步骤
+1）两句话间寻找重复名词：后句“老人感到高兴”是因为前句“家人团聚”这件事。
+2）构建从句：独立句子：It makes the old man happy. 或 The old man feels happy about it.
+确定引导词：指代前面整句话，只能用 which，且前面必须有逗号。
+3） 合并句子：方式 A（直接 which）：The whole family get together, which makes the old man happy.
+He B (Nil+which) : The whole family get together, about which the old man feels
+happy.
+进阶写法：表达因果关系。强调“因为家人团聚，所以老人高兴”。
+错误示范：使用so（连词，构成并列句）或 because of（单独使用）。
+正确用法：使用介词短语+ which 引导非限制性定语从句，如：because of which、due to which、as
+a result of which
+Wt: The whole family get together, which pleases the old man greatly.
+The whole family are reunited, as a result of which the old man is considerably
+delighted.
+4.虽然他偷了我的钱包，但我不想报警。
+解题步骤
+1）两句间寻找重复名词/逻辑连接点：“不想报警”的对象是“他偷钱包”这件事。
+2) 14/7: I don't want to call the police for this.
+3) A47: #ШН: He stole my wallet, which I had no intention to report to the police.
+34
+===== PAGE 35 =====
+公众号：牛南山，整理更新
+介词+which 结构：He stole my wallet, in spite of which I had no intention to call the police.
+插入语结构：I had no intention to report him, who stole my wallet, to the police.
+名词从句
+名词从句的基本结构：
+1.引导词：
+That: that
+• Wh-: which(ever), who(ever), whom(ever), what(ever),whose(ever), how, when, where, why,
+whether
+• 其他：because/ as it/ as though（表从），迁（宾从）
+2.充当主语、宾语、表语、同位语
+名词从句的特点：
+1.句子结构和语意均完整
+2.that 无意义，不充当成分；wh-有意义、充当成分
+名词从句——主语从句
+• Itis 观点类形容词 for sb to do sth
+It is possible/ impossible/ obvious/ unclear for sb to do sth
+• Itis 观点类形容词 that..
+It is incredible that..
+• Itis 观点类名词 that...
+It is a fact that...
+• Itis 观点动词-ed that..
+It is said/ reported/ predicted/ estimated/ supposed/ believed/ thought/ assumed that..
+It is widely believed that...
+It is universally believed that..
+• It 情态动词 be 观点动词-ed that.
+It may / can/ should/ must be said / admitted that...
+35
+===== PAGE 36 =====
+公众号：牛南山，整理更新
+It can't be denied that..
+练习：
+1.中国贏得2010年世博会举办权靠的是国际社会的支持。
+mK: China won the right to host 2010 World Expo depended on the support of the
+international society. 一主两谓，China 是主语，won 和 depended 都是谓语动词，导致句子结构崩
+塌，属于“零分句”。
+修正思路：前半部分“中国赢得.”是陈述句内容，作主语时必须加引导词 that。
+E it 54: That China successfully bid for 2010 World Expo depended on the international
+society's support.
+如果句子的主语是一个陈述句，开头务必加 that。
+如果主语包含疑问意味（如“如何”、“是否”），则使用对应的 wh- 词（how, whether 等）
+2.中国坚持和平发展是基于中国国情的必然选择。
+结构拆解：
+谓语：是is
+主语：中国坚持和平发展（陈述句，用 That 引导主语从句）That China insists on peaceful development
+表语：基于中国国情的必然选择
+核心词：a necessary choice / an inevitable option
+后置定语：based on China's situation（过去分词短语作定语，修饰 choice/option）
+名词从句：That China insists on peaceful development is a necessary/an unavoidable/ an
+inevitable choice/ option based on China's situation.
+I That China insists on peaceful development is a necessary choice based on China's
+condition.
+"¿ It is an inevitable option based on China's condition that China insists on peaceful
+development.
+3.很多人都认为粉丝文化对青少年有害。
+#willa: It is widely believed that the fan culture can do harm to teenagers.
+36

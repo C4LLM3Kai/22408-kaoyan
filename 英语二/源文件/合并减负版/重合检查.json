@@ -1,0 +1,2515 @@
+{
+  "method": "normalized English exact 4-token coverage; candidate-word denominator; 5-token auxiliary; original 40 source PDFs only",
+  "max4": 17.65,
+  "max5": 11.63,
+  "rows": [
+    {
+      "label": "M1固定模板",
+      "tokens": 43,
+      "max4": 11.63,
+      "max5": 11.63,
+      "source": "S22",
+      "all": [
+        {
+          "source": "S01",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S02",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S03",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S04",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S05",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S06",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S07",
+          "coverage4": 9.3,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S08",
+          "coverage4": 9.3,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S09",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S10",
+          "coverage4": 9.3,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S11",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S12",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S13",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S14",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S15",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S16",
+          "coverage4": 9.3,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S17",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S18",
+          "coverage4": 9.3,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S19",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S20",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S21",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S22",
+          "coverage4": 11.63,
+          "coverage5": 11.63
+        },
+        {
+          "source": "S23",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S24",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S25",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S26",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S27",
+          "coverage4": 11.63,
+          "coverage5": 11.63
+        },
+        {
+          "source": "S28",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S29",
+          "coverage4": 9.3,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S30",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S31",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S32",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S33",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S34",
+          "coverage4": 9.3,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S35",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S36",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S37",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S38",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S39",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S40",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        }
+      ]
+    },
+    {
+      "label": "M1完整示例",
+      "tokens": 99,
+      "max4": 9.09,
+      "max5": 5.05,
+      "source": "S27",
+      "all": [
+        {
+          "source": "S01",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S02",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S03",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S04",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S05",
+          "coverage4": 4.04,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S06",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S07",
+          "coverage4": 4.04,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S08",
+          "coverage4": 4.04,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S09",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S10",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S11",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S12",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S13",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S14",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S15",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S16",
+          "coverage4": 4.04,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S17",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S18",
+          "coverage4": 4.04,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S19",
+          "coverage4": 4.04,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S20",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S21",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S22",
+          "coverage4": 5.05,
+          "coverage5": 5.05
+        },
+        {
+          "source": "S23",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S24",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S25",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S26",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S27",
+          "coverage4": 9.09,
+          "coverage5": 5.05
+        },
+        {
+          "source": "S28",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S29",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S30",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S31",
+          "coverage4": 4.04,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S32",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S33",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S34",
+          "coverage4": 8.08,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S35",
+          "coverage4": 4.04,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S36",
+          "coverage4": 4.04,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S37",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S38",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S39",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S40",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        }
+      ]
+    },
+    {
+      "label": "M2固定模板",
+      "tokens": 34,
+      "max4": 0.0,
+      "max5": 0.0,
+      "source": "S01",
+      "all": [
+        {
+          "source": "S01",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S02",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S03",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S04",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S05",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S06",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S07",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S08",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S09",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S10",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S11",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S12",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S13",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S14",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S15",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S16",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S17",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S18",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S19",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S20",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S21",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S22",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S23",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S24",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S25",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S26",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S27",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S28",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S29",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S30",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S31",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S32",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S33",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S34",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S35",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S36",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S37",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S38",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S39",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S40",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        }
+      ]
+    },
+    {
+      "label": "M2完整示例",
+      "tokens": 103,
+      "max4": 4.85,
+      "max5": 4.85,
+      "source": "S24",
+      "all": [
+        {
+          "source": "S01",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S02",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S03",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S04",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S05",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S06",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S07",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S08",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S09",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S10",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S11",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S12",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S13",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S14",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S15",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S16",
+          "coverage4": 3.88,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S17",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S18",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S19",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S20",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S21",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S22",
+          "coverage4": 3.88,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S23",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S24",
+          "coverage4": 4.85,
+          "coverage5": 4.85
+        },
+        {
+          "source": "S25",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S26",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S27",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S28",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S29",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S30",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S31",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S32",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S33",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S34",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S35",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S36",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S37",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S38",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S39",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S40",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        }
+      ]
+    },
+    {
+      "label": "M3固定模板",
+      "tokens": 36,
+      "max4": 11.11,
+      "max5": 0.0,
+      "source": "S16",
+      "all": [
+        {
+          "source": "S01",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S02",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S03",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S04",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S05",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S06",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S07",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S08",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S09",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S10",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S11",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S12",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S13",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S14",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S15",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S16",
+          "coverage4": 11.11,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S17",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S18",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S19",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S20",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S21",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S22",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S23",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S24",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S25",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S26",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S27",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S28",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S29",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S30",
+          "coverage4": 11.11,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S31",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S32",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S33",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S34",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S35",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S36",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S37",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S38",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S39",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S40",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        }
+      ]
+    },
+    {
+      "label": "M3完整示例",
+      "tokens": 103,
+      "max4": 3.88,
+      "max5": 0.0,
+      "source": "S16",
+      "all": [
+        {
+          "source": "S01",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S02",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S03",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S04",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S05",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S06",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S07",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S08",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S09",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S10",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S11",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S12",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S13",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S14",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S15",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S16",
+          "coverage4": 3.88,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S17",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S18",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S19",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S20",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S21",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S22",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S23",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S24",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S25",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S26",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S27",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S28",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S29",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S30",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S31",
+          "coverage4": 3.88,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S32",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S33",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S34",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S35",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S36",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S37",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S38",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S39",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S40",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        }
+      ]
+    },
+    {
+      "label": "M4固定模板",
+      "tokens": 19,
+      "max4": 0.0,
+      "max5": 0.0,
+      "source": "S01",
+      "all": [
+        {
+          "source": "S01",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S02",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S03",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S04",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S05",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S06",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S07",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S08",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S09",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S10",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S11",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S12",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S13",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S14",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S15",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S16",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S17",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S18",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S19",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S20",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S21",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S22",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S23",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S24",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S25",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S26",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S27",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S28",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S29",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S30",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S31",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S32",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S33",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S34",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S35",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S36",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S37",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S38",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S39",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S40",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        }
+      ]
+    },
+    {
+      "label": "M4完整示例",
+      "tokens": 103,
+      "max4": 8.74,
+      "max5": 0.0,
+      "source": "S19",
+      "all": [
+        {
+          "source": "S01",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S02",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S03",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S04",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S05",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S06",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S07",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S08",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S09",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S10",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S11",
+          "coverage4": 3.88,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S12",
+          "coverage4": 3.88,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S13",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S14",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S15",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S16",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S17",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S18",
+          "coverage4": 3.88,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S19",
+          "coverage4": 8.74,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S20",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S21",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S22",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S23",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S24",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S25",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S26",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S27",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S28",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S29",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S30",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S31",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S32",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S33",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S34",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S35",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S36",
+          "coverage4": 7.77,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S37",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S38",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S39",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S40",
+          "coverage4": 3.88,
+          "coverage5": 0.0
+        }
+      ]
+    },
+    {
+      "label": "M5静态固定模板",
+      "tokens": 56,
+      "max4": 14.29,
+      "max5": 0.0,
+      "source": "S15",
+      "all": [
+        {
+          "source": "S01",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S02",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S03",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S04",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S05",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S06",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S07",
+          "coverage4": 7.14,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S08",
+          "coverage4": 7.14,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S09",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S10",
+          "coverage4": 7.14,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S11",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S12",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S13",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S14",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S15",
+          "coverage4": 14.29,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S16",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S17",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S18",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S19",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S20",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S21",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S22",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S23",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S24",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S25",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S26",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S27",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S28",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S29",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S30",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S31",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S32",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S33",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S34",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S35",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S36",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S37",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S38",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S39",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S40",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        }
+      ]
+    },
+    {
+      "label": "M5动态固定模板",
+      "tokens": 51,
+      "max4": 7.84,
+      "max5": 0.0,
+      "source": "S07",
+      "all": [
+        {
+          "source": "S01",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S02",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S03",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S04",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S05",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S06",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S07",
+          "coverage4": 7.84,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S08",
+          "coverage4": 7.84,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S09",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S10",
+          "coverage4": 7.84,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S11",
+          "coverage4": 7.84,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S12",
+          "coverage4": 7.84,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S13",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S14",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S15",
+          "coverage4": 7.84,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S16",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S17",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S18",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S19",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S20",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S21",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S22",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S23",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S24",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S25",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S26",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S27",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S28",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S29",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S30",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S31",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S32",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S33",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S34",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S35",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S36",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S37",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S38",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S39",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S40",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        }
+      ]
+    },
+    {
+      "label": "M5完整示例",
+      "tokens": 138,
+      "max4": 5.8,
+      "max5": 0.0,
+      "source": "S01",
+      "all": [
+        {
+          "source": "S01",
+          "coverage4": 5.8,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S02",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S03",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S04",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S05",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S06",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S07",
+          "coverage4": 2.9,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S08",
+          "coverage4": 2.9,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S09",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S10",
+          "coverage4": 5.8,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S11",
+          "coverage4": 2.9,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S12",
+          "coverage4": 2.9,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S13",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S14",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S15",
+          "coverage4": 2.9,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S16",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S17",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S18",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S19",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S20",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S21",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S22",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S23",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S24",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S25",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S26",
+          "coverage4": 2.9,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S27",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S28",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S29",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S30",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S31",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S32",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S33",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S34",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S35",
+          "coverage4": 2.9,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S36",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S37",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S38",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S39",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S40",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        }
+      ]
+    },
+    {
+      "label": "功能卡英文合并",
+      "tokens": 68,
+      "max4": 17.65,
+      "max5": 8.82,
+      "source": "S19",
+      "all": [
+        {
+          "source": "S01",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S02",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S03",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S04",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S05",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S06",
+          "coverage4": 5.88,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S07",
+          "coverage4": 14.71,
+          "coverage5": 8.82
+        },
+        {
+          "source": "S08",
+          "coverage4": 14.71,
+          "coverage5": 8.82
+        },
+        {
+          "source": "S09",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S10",
+          "coverage4": 14.71,
+          "coverage5": 8.82
+        },
+        {
+          "source": "S11",
+          "coverage4": 11.76,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S12",
+          "coverage4": 11.76,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S13",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S14",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S15",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S16",
+          "coverage4": 8.82,
+          "coverage5": 8.82
+        },
+        {
+          "source": "S17",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S18",
+          "coverage4": 11.76,
+          "coverage5": 7.35
+        },
+        {
+          "source": "S19",
+          "coverage4": 17.65,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S20",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S21",
+          "coverage4": 5.88,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S22",
+          "coverage4": 5.88,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S23",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S24",
+          "coverage4": 5.88,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S25",
+          "coverage4": 5.88,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S26",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S27",
+          "coverage4": 5.88,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S28",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S29",
+          "coverage4": 5.88,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S30",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S31",
+          "coverage4": 5.88,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S32",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S33",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S34",
+          "coverage4": 5.88,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S35",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S36",
+          "coverage4": 11.76,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S37",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S38",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S39",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        },
+        {
+          "source": "S40",
+          "coverage4": 0.0,
+          "coverage5": 0.0
+        }
+      ]
+    }
+  ]
+}

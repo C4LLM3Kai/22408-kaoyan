@@ -1,0 +1,332 @@
+===== PAGE 19 =====
+公众号：牛南山，整理更新
+【图表作文】第段第一句：引人图表（选一句）
+①点先明题目给出的图表属于哪一类型的图表（柱状图/饼状图/折线图/表格）；
+②接着说明图表所展示的主题是什么（可以通过图表下方的题目把握主题）+时间+地点；
+柱状图：bar chart /column chart
+饼状图：pie chart
+图表类型
+折线图：line graph / line chart
+表格：table
+(1) show/illustrate the changes in...the percentage of..in...
+动词
+(2) show the differences between...in...
+(3) compare... in terms of...
+（1） in +年份 从.到....from ...to .../between ..and ..
+直到：by/until
+（2）多个时间：in three.different.years/.separate years
+时间
+(3) #Jit: during the period 1880 to 2000. during/throughout the (same) period, during
+a twenty-year period, over a span of two years
+(1) in Asia/ in a university
+地点
+（2） 多个地点：in three different regions
+The
+图表类型 above clearly
+动词+地点+时间
+The pie charts above clearly compare the factors that students considered
+when choosing a university in China in two different years.
+上述⋯清楚地…
+上述饼状图清楚地对比了近两年
+中国学生选择大学所考虑的因素。
+What the 1
+# $ A provided is the reasons/purpose/choices/elements
+lof+（主题词）/that+（主题句）］
+What the pie chart provided is the purpose of mobile reading for students in a
+certain university.
+According to the above
+图表类型，the percentages of..in... underwent an
+enormous change+时间
+According to the above bar chart, the percentages of graduates' choices after
+graduation in a certain university underwent an enormous change from 2013
+to 2018.
+（图表类型）提供了.调查结果
+该饼状图提供了某高校学生手机
+阅读目的调查数据
+根据上面⋯.所示，⋯的百分比在⋯.
+发生了巨大的变化。
+根据上面饼图所示，某高校毕业生
+去向的百分比在2013年至2018
+年间发生了巨大的变化。
+78
+===== PAGE 20 =====
+公众号：牛南山，整理更新
+【图表作文】第段第二三句：描述数据（选1-2句）
+第二三句的区别在于描述动态图或是静态图。
+（一）动态图表
+动态图表包含两个或两个以上的时间点，重点是描述数据随时间发生的变化。
+• 常见形式有：数量逐年增加或减少、占比不断上升或下降、某项数据先升后降、两组数据变化趋势不
+同、不同年份之间的明显差异。
+• 审题重点：图表主题＋时间范围+起点数据+终点数据+变化趋势
+• 描述重点：
+动态图表不需要机械地写出每一年的数据，重点是抓住：起点和终点，最高点和最低点、变化幅度最
+太的阶段、整体上升或下隆趋势.两组数据的不同变化。
+25.40%
+23.15%
+图表主题：我国居民健康素养水平
+19.179
+时间范围：2012—2021年
+17.06%
+14.18%
+起点与终点：10年间从 8.8%增加到 25.4%
+11.58%
+8,80%
+9.48%
+9.79%
+10.25%
+核心趋势：我国居民健康素养水平持续增长。
+【完整思路】
+该折线图呈现了 2012 至 2021 年我国居民健康
+2012
+2013
+2014
+2018
+2019
+2015
+2016
+2017
+2012-2021年我国居民健康素养水平
+2020
+2021
+素养水平的变化。数据显示，这一指标在 10年间
+由 8.8% 上升至 25.4%，整体体现出我国居民健
+康素养水平呈持续增长的态势。
+图表主题：农村快递业务量的变动情况
+90 1
+80
+70
+83
+时间范围：2018—2020年
+64
+起点与终点：农村快递业务量在3年间从120亿增
+60
+51
+加到300亿
+50
+¼总体
+40
+核心趋势：快递业务总量持续增长，农村快递业务
+30
+滋衣村
+30
+量增量较大
+20
+15
+12
+【完整思路】
+10
+该图表展示了 2018 到 2020 年我国农村快递业
+2020年
+2018年
+2019年
+2018-2020年我国快递业务量变动情况（单位：十亿件）
+务量的变动。在这3年间，农村快递业务量从120
+亿增长到300亿。不难看出，快递业务总量持续增
+长，农村快递业务量实现了较大增量。
+*英语二：2010、2011、2014、2017、2019、2022、2023年真题适用
+79
+===== PAGE 21 =====
+公众号：牛南山，整理更新
+• 动态图表模板句
+There islare/was a noticeable/remarkable + （increase/rise/drop/decline 等）
+tin +对象词+数字+时间
+There was a noticeable rise occurred in urban dwellers from 300 million to
+660 million between 1990 and 2010. By contrast, there was also a
+remarkable decline in the rural population from 820 million to 670 million
+during the same period.
+对象词+ rose/ increased/dropped/fell/stood at +数字+时间
+The volume of goods transported by rail increased to 40 million tons in
+2002, and then it stood at this level in the rest of the period.
+During this period, the amount number/ volumes/ proportion/percentage
+of + 对象 who+定语，has declined/increased sharply firom A to B，
+whereas those doing sth and doing sth declined/increased markedly from
+Al and A2 to B1 and B2 respectively.
+During this period, the percentage of students who are seeking
+employment has declined sharply from 68.1% to 60.7%, whereas those
+choosing further education and running their own business increased
+markedly from 26.3% and 1.3% to 34% and 2.6% respectively.
+动态图描述完整示例
+英语二2012-2021 年我国居民健康素养水平（折线图）：
+There was a remarkable increase in the health literacy level among
+Chinese residents, from 8.80% in 2012 to 25.40% in 2021. The figure rose
+gradually to 11.58% in 2016, then increased more rapidly, reaching
+19.17% in 2019.
+英语二 2018-2020年我国快递业务量变动情况（柱状图）
+During this period, the volume of China's express delivery business has
+increased sharply from 51 billion pieces in 2018 to 83 billion pieces in
+2020, whereas that of rural-area express delivery business increased
+markedly from 12 billion pieces to 30 billion pieces respectively.
+80
+在.时间内（对象）方面出现了显
+著的增长/上升/下降/减少，
+自 1990到2010年，城镇人口从3
+亿急剧上升到6.6亿。相反，同一时
+期，乡村人口的数量发生了急剧下
+降、以8.2化減少到6.71。
+描述对象在某一时间（上升/增长/
+下降/跌至/达到）数值
+铁路运输货物的数量2002年增加到
+了4000万吨，之后就一直保持不变。
+在此期间，…（对象）中•（特征）
+的数量从 A急剧下降/显著增长至
+B；而那些.和⋯的群体则分别从
+Al.A2 急剧下降/显著增长到 BI.
+B2.
+在此期间，就业学生的数量从 68.1%
+急剧下降到 60.7%，而选择升学和创
+业的学生分别从 26.3% 和 1.3%
+上升到 34% 和 2.6%。
+2012年至2021年，我国居民健康素
+养水平显著提高，从8.80%升至
+25.40%。这一比例先缓慢升至 2016
+年的11.58%，随后增速加快，2019
+年达到 19.17%。
+在此期间，我国快递业务总量从 2018
+年的510亿件大幅增长至2020年的
+830亿件；同期农村地区快递业务量
+也从120亿件显著增长至300亿件。
+===== PAGE 22 =====
+公众号：牛南山，整理更新
+（二）静态图表
+静态图表展示的是同一时间点或同一调查中的数据差异，重点不是变化过程，而是比较不同对象的数
+量，比例或受欢迎程度。
+• 常见形式有：不同类别的占比，不同群体的选择，不同项目的数量，同一年中多个对象的数据对比。
+• 审题重点：图表主题+最高项+次高项+最低项+核心结论
+• 描述重点：
+静态图表不需要逐个罗列所有数字，应优先选择：最高数据、最低数据、排名靠前的数据、差距明显
+的数据、可以共同归类的数据
+获取信息
+其他2.2%
+17.0%
+消磨时间
+/21.3%
+学习知识59.5%
+某高校学生手机阅读目的调查
+54.6%
+54.5%
+37.2%
+33.2%
+满足好奇心
+促进观察力
+强身健体
+某项关于儿童户外活动看法的调查
+增强亲子互动
+图表主题：高校学生手机阅读目的调查
+最高项：学习知识
+次高项：消磨时间
+最低项：其他
+核心结论：学习知识和获取信息占了绝大部分，学生使用手
+机阅读的目的是正向的。
+【完整思路】该饼图展示了高校学生手机阅读目的的调查结
+果。其中，学习知识占比最高，消磨时间位居其次，选择其
+他的占比最低。总体来看，以学习知识、获取信息为目的的
+学生占绝大部分，说明高校学生手机阅读的目的整体是正向
+的。
+图表主题：关于儿童参加户外活动看法
+最高项和次高项：满足好奇心和提高观察力
+最低项：增进亲子互动
+核心结论：更关注户外活动对儿童好奇心和观察能力的培养
+【完整思路】该调查反映了人们对于儿童参加户外活动的看
+法。受访者最看重的两项是满足好奇心和提高观察力，而选
+择增进亲子互动的占比最低。由此可见，大众更关注户外活
+动对儿童好奇心与观察能力的培养。
+*#i#=: 2012. 2013. 2015. 2016. 2018, 2020. 2021. 2024. 2025. 2026 FH*iE#
+81
+===== PAGE 23 =====
+公众号：牛南山，整理更新
+• 静态图描述模板句：
+The proportion of A is higher than /lower than /the same as /equal to B,
+A 的占比高于/低于/和⋯一样/持
+while/whereas/but ...
+平于B，而…。
+The proportion of spending on New Year gifts is higher than that on dinners,
+新年礼物的花销占比高于聚餐.
+transportation and other items, whereas the percentages of the latter three
+交通以及其他项目，而后三者的
+categories are equal to one another.
+占比持平。
+A 的数据相比/相较于/形成对比
+The percentuge of A,comparedwith/.compared tolin.contrast.to+B 的数字
+与B的数据
+The percentage of males choosing computer science stands at 10%, compared
+with 4% of females.
+The figure of A be similar to/ the same as / as the same level as B
+选择计算机专业的男生占 10%，
+然而选择计算机的女生仅占 4%
+A 的数据和 B 组相近。
+A 与B之间存在很大差异/巨大
+There is/was a big difference /a huge change /a huge gap between A and B.
+变化/巨大差距。
+There was a huge gap between the proportions of males and females choosing
+medicine: about 4% for males and 15% for females.
+选择医学专业的男女比例有巨
+大差异，大约有15%女，4%男生
+静态图描述完整示例
+英语二2015年真题：某市居民春节假期花销比例（饼图）
+The proportion of spending on New Year gifts is higher than that on dinners,
+transportation and other items, whereas the percentages of the latter three
+categories are equal to one another.
+新年礼物的花销占比高于聚餐、
+交通以及其他项目，而后三者的
+占比持平。
+英语二2018年真题：消费者选择餐厅的关注因素（饼图）
+The proportion of consumers who value a restaurant's distinctive features, at
+36.3%, is higher than that of those who prioritize service, at 26.8%, while the
+figure for the dining environment stands at 23.8%.
+看重餐厅特色的消费者占比
+（36.3%）高于重视服务的消费者
+（26.8%）；而关注就餐环境的消费
+者占比（23.8%）则略低于重视服
+务的消费者。
+英语二2021 年真题：某市居民锻炼方式调查（柱状图）
+The proportion of people exercising alone is higher than that of those
+exercising with friends, at 54.3% versus 47.7%, while the percentages for
+exercising with family members and taking part in group activities stand at
+23.9% and 15.8% respectively.
+独自锻炼的受访者占比为 54.3%
+，高于和朋友一同锻炼的47.7%
+；而与家人锻炼以及参与集体活
+动的占比分别为 23.9%和 15.8%
+82
+===== PAGE 24 =====
+公众号：牛南山，整理更新
+三、图表复合作文第一段
+（一）中文思路
+46.3%
+39.3%
+完全接受
+27.9%
+不接受
+24.9%
+10.7%
+32.8%
+部分接受
+安全
+价格
+-项关于养老机器人的消费者接受度和首要关注点的调查
+• 第一句：介绍共同主题—两幅图共同展示，反映了。
+• 第二句：分别概括两部分信息—左边图片/图表…，右边图片/图表.
+• 第三句：揭示二者联系—综合来看，这些数据说明.
+（二）模版句
+【图表复合作文】第一段第一句
+• 介绍共同主题（选一句）：
+The two charts above jointly present the results of a survey
+concerning...
+The two charts above jointly present the results of a survey concerning
+consumers' acceptance of elderly-care robots and their primary concerns
+about such products.
+What is illustrated in the two charts is a public opinion survey about...
+便利
+What is illustrated in the two charts is a public opinion survey about public
+attitudes towards elderly-care robots and their key considerations.
+上述两幅图表共同呈现了一项关于
+…的调查结果
+上述两幅图表共同呈现了一项关于
+消费者对养老机器人的接受度及对
+此类产品首要关注点的调查结果。
+两幅图表所展示的是一项关于.的
+民意调查。
+两幅图表所展示的是一项关于公众
+对养老机器人的态度及其核心考量
+因素的民意调查。
+83

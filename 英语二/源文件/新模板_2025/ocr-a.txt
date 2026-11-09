@@ -1,0 +1,17 @@
+[y=0.0646 x=0.0145] Dear
+[y=0.0671 x=0.0683] 【称呼】，
+[y=0.1340 x=0.0167] 第一段：lam writing with regard to【事项】. The purpose of this letter is to【核心任务】.
+[y=0.2027 x=0.0125] 第二段：讲事情 To be specific，【核心信息】.【事项】is scheduled for【时间】at【地点】.It will begin
+[y=0.2734 x=0.0145] with
+[y=0.2734 x=0.0552] 【环节一】，followed by【环节二】.By taking part, you will be able to【直接收获】.
+[y=0.3426 x=0.0144] 第二段：讲观点 Among the available options，
+[y=0.3431 x=0.4288] 【对象】 would be particularly suitable for【对象或目的】.It
+[y=0.4154 x=0.0131] closely matches the need for【需求】.More importantly，【独特优势】，which will help【受益者】
+[y=0.4124 x=0.9142] 【实际
+[y=0.4810 x=0.0144] 结果】.
+[y=0.5506 x=0.0125] 第二段：解决问题 I am afraid that【问题】. This resulted from【原因】 and has affected【影响】.To make
+[y=0.6196 x=0.0167] up for the inconvenience, 1 will【补救行动】by【期限】.1 would appreciate it if you could【请求】.
+[y=0.6900 x=0.0145] #=*: Thank you for [considering my request / your understanding / your help]. I [look forward to your reply
+[y=0.7606 x=0.0116] I hope the information will be useful / wish you every success ) .
+[y=0.8319 x=0.8358] Yours sincerely,
+[y=0.9027 x=0.9026] Li Ming

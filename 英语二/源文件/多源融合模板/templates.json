@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "A01",
+    "title": "邀请信",
+    "kind": "书信",
+    "task": "新编题：作为英语社团组织者，邀请 Smith 教授参加阅读交流会；交代活动内容、时间地点和希望对方承担的任务。",
+    "body": [
+      "Our English Society is arranging a reading workshop, and we would be delighted to have you as our guest speaker.",
+      "We will meet in Room 203 at two on Friday afternoon. Students will first discuss a short story in small groups. We hope you can then explain how to read beyond the plot and answer a few questions. Your experience would help beginners approach English fiction with greater confidence. The session should take about an hour, and we can adjust the speaking time to suit your schedule.",
+      "Could you let me know by Wednesday whether you can join us?"
+    ],
+    "template": [
+      "【主办方】 is arranging 【活动名称，含冠词】, and we would be delighted to have you as 【受邀身份】.",
+      "We will meet 【地点＋具体时间】. Students will first 【参加者要做的事，动词原形】. We hope you can then 【希望对方承担的任务，动词原形】. Your experience would help beginners 【对参加者的具体帮助，动词原形】. The session should take 【预计时长】, and we can adjust the speaking time to suit your schedule.",
+      "Could you let me know by 【回复期限】 whether you can join us?"
+    ],
+    "logic": "邀请及身份 → 时间地点、流程及作用 → 确认是否出席",
+    "check": "邀请谁做什么必须明确；to suit your schedule 只表示可协商，不要擅自修改题干已定时间。",
+    "phrases": [
+      [
+        "have you as our guest speaker",
+        "邀请您担任嘉宾；as 后接角色"
+      ],
+      [
+        "read beyond the plot",
+        "读懂情节背后的含义；适合阅读活动"
+      ],
+      [
+        "adjust ... to suit ...",
+        "调整……以适应……"
+      ]
+    ],
+    "header": "Dear Professor Smith,",
+    "footer": "Yours sincerely,\nLi Ming",
+    "source": "S16、S18、S19；功能与格式综合重写"
+  },
+  {
+    "id": "A02",
+    "title": "推荐信：书籍／活动／地点",
+    "kind": "书信",
+    "task": "新编题：朋友 David 想了解本地文化，向他推荐一处周末可去的地方，说明两条理由并给出游览建议。",
+    "body": [
+      "For your weekend visit, I would choose the City History Museum. It seems a good match for your interest in everyday life in China.",
+      "The displays explain how local families lived, worked and celebrated festivals. Short English descriptions make the stories easy to follow, even without much background knowledge. There is also a workshop where visitors can try traditional printing. You could therefore learn about the past while making something yourself. I suggest going early, since this would leave you enough time for both the exhibition and the workshop.",
+      "Tell me if you decide to go; I would enjoy joining you."
+    ],
+    "template": [
+      "For 【对方安排】, I would choose 【推荐对象】. It seems a good match for your interest in 【兴趣领域】.",
+      "One attractive feature is 【特点一，名词短语】. This would allow you to 【具体收获，动词原形】 without 【可避免的困难，动名词】. Another reason to consider it is 【特点二，名词短语】, which would be especially useful when you 【具体场景，动词短语】. To get the most out of the experience, I suggest 【准备或使用建议，动名词】. That should leave you enough time to 【进一步安排，动词原形】.",
+      "Tell me if you decide to 【采纳推荐的行动，动词原形】; I would be happy to help with the arrangements."
+    ],
+    "logic": "推荐对象 → 两个可核实特点与需求匹配 → 实用提示",
+    "check": "推荐对象可以换成书、课程或展览，但理由也要随之改写；不要保留与新对象无关的 museum/workshop。",
+    "phrases": [
+      [
+        "a good match for",
+        "与……很合适"
+      ],
+      [
+        "background knowledge",
+        "背景知识，不可数"
+      ],
+      [
+        "leave ... enough time for ...",
+        "给……留出足够时间"
+      ]
+    ],
+    "header": "Dear David,",
+    "footer": "Best wishes,\nLi Ming",
+    "source": "S16、S18、S19；功能与格式综合重写"
+  },
+  {
+    "id": "A03",
+    "title": "推荐信：推荐他人",
+    "kind": "书信",
+    "task": "新编题：向项目负责人推荐同学 Chen Yu 担任博物馆志愿讲解员，交代关系、能力及具体经历。",
+    "body": [
+      "May I recommend Chen Yu for the museum guide position? We worked together on a campus history project last term, so I have seen how carefully she prepares and communicates.",
+      "She can explain unfamiliar ideas in clear English and is patient with questions. During our project, she turned several difficult historical accounts into short stories that visitors could easily understand. She also checked every date against the original records. These habits would be useful when guiding groups with different levels of knowledge.",
+      "I believe she could make a reliable addition to your team. I can provide further details about our work if needed."
+    ],
+    "template": [
+      "May I recommend 【姓名】 for 【职位】? We worked together on 【共同项目】, so I have seen how carefully 【he/she】 prepares and communicates.",
+      "During that project, 【he/she】 took responsibility for 【具体任务】 and managed to 【可观察成果，动词原形】. What impressed me most was 【表现，名词短语】: when 【具体情境，完整分句】, 【he/she】 【应对行为，过去式动词短语】. This experience showed both 【能力一】 and 【能力二】, which would be useful in the role you are offering.",
+      "I believe 【he/she】 could make a reliable addition to your team. I can provide further details about our work if needed."
+    ],
+    "logic": "推荐及关系 → 能力与可观察证据 → 明确推荐",
+    "check": "she/her 应随人物一致替换；推荐人只能声称自己有依据的经历，不能只堆 excellent、outstanding。",
+    "phrases": [
+      [
+        "check ... against ...",
+        "对照……核查……"
+      ],
+      [
+        "a reliable addition to your team",
+        "团队中可靠的新成员"
+      ],
+      [
+        "if needed",
+        "如有需要"
+      ]
+    ],
+    "header": "Dear Project Coordinator,",
+    "footer": "Yours sincerely,\nLi Ming",
+    "source": "S06、S18、S29；推荐功能与证据表达综合重写"
+  },
+  {
+    "id": "A04",
+    "title": "建议信",
+    "kind": "书信",
+    "task": "新编题：朋友 Jack 要做英语口头报告，给出准备建议并说明这些做法有什么帮助。",
+    "body": [
+      "Your presentation sounds interesting, and a few simple steps may make the preparation easier.",
+      "Start by choosing one question that you want your audience to understand. Collect two or three examples to answer it, instead of including every fact you find. Next, practise aloud with a timer. This will show you which parts need shortening and help you speak at a comfortable pace. You could also ask a classmate to listen and point out anything unclear. Keep the slides brief so that people can focus on what you say.",
+      "I would be happy to listen to a practice run this weekend."
+    ],
+    "template": [
+      "Your 【任务】 sounds interesting, and a few simple steps may make the preparation easier.",
+      "Start by 【第一步，动名词】. This will help you identify 【需要明确的内容】 before you spend too much time on details. Next, 【第二步，动词原形】 so that you can 【具体效果，动词原形】. You could also ask 【合适的人】 to 【反馈行为，动词原形】 and point out anything unclear. If 【可能困难，完整分句】, try 【应对办法，动名词】. Keep your attention on 【核心目标】, since this is what the task requires.",
+      "I would be happy to 【愿意提供的帮助，动词原形】 when you are ready."
+    ],
+    "logic": "回应困难 → 可执行步骤及理由 → 后续支持",
+    "check": "建议必须与来信中的困难对应；suggest 后用 doing 或 that 从句，不能写 suggest you to do。",
+    "phrases": [
+      [
+        "practise aloud with a timer",
+        "计时大声练习"
+      ],
+      [
+        "at a comfortable pace",
+        "以舒适的速度"
+      ],
+      [
+        "point out anything unclear",
+        "指出不清楚的地方"
+      ]
+    ],
+    "header": "Dear Jack,",
+    "footer": "Best wishes,\nLi Ming",
+    "source": "S16、S18、S19；功能与格式综合重写"
+  },
+  {
+    "id": "A05",
+    "title": "计划信：提出方案并征求意见",
+    "kind": "书信",
+    "task": "新编题：你和 Jack 准备调查校园旧物再利用情况；提出调查计划并询问他的意见。",
+    "body": [
+      "For our survey on the reuse of unwanted items, I suggest starting with the student residences. This would let us reach people who regularly exchange books and household goods.",
+      "We could prepare five short questions about what students exchange and what difficulties they encounter. I can draft the questions, while you arrange interviews with a few residents. After collecting the answers, we could group the main problems and discuss possible improvements. Saturday morning would work for me, but we should check when the residents are available.",
+      "Does this approach sound reasonable to you? Please suggest any changes before we begin contacting people."
+    ],
+    "template": [
+      "For our survey on 【调查主题】, I suggest starting with 【对象或地点】. This would let us reach people with direct experience of the issue.",
+      "We could prepare 【数量】 short questions about 【调查方面一】 and 【调查方面二】. I can 【我的任务，动词原形】, while you 【对方任务，动词原形】. After collecting the answers, we could group the main findings and discuss 【后续分析内容】. 【拟定时间】 would work for me, but we should check when the participants are available. A brief visit beforehand could help us avoid unnecessary delays.",
+      "Does this approach sound reasonable to you? Please suggest any changes before we begin contacting people."
+    ],
+    "logic": "提出计划 → 方法、分工和时间 → 征求修改意见",
+    "check": "共同计划用 could 表示提议；征求意见必须明写，不要只用期待回信收尾。",
+    "phrases": [
+      [
+        "group the main problems",
+        "归类主要问题"
+      ],
+      [
+        "check when ... are available",
+        "确认……何时有空"
+      ],
+      [
+        "Does this approach sound reasonable to you?",
+        "明确征求意见"
+      ]
+    ],
+    "header": "Dear Jack,",
+    "footer": "Best wishes,\nLi Ming",
+    "source": "S16、S18、S19；功能与格式综合重写"
+  },
+  {
+    "id": "A06",
+    "title": "介绍信：介绍项目并邀请参与",
+    "kind": "书信",
+    "task": "新编题：向国际学生介绍校园故事展，并邀请他们分享家乡故事、说明参与方式。",
+    "body": [
+      "Our campus storytelling exhibition will open next month, and I hope you will contribute a story from your hometown.",
+      "The exhibition will explore how ordinary places become part of people's memories. Each participant will provide one photograph and a short English description explaining its personal meaning. We will display the contributions in the student centre and hold a discussion on the opening afternoon. No special writing experience is required; a clear and honest account is enough. Your stories would give other students a chance to discover places through the people who know them.",
+      "Please send your contribution to the exhibition team by Friday."
+    ],
+    "template": [
+      "Our 【项目名称】 will begin 【时间介词短语】, and I hope you will 【邀请参与的动作，动词原形】.",
+      "The project will explore 【主题】 through 【具体形式】. Each participant will 【具体任务，动词原形】, and we will provide 【主办方支持】 to help with the preparation. The main activity will take place 【地点介词短语】, where everyone can 【交流或实践的动作，动词原形】. No special experience is required; 【最基本条件，名词短语】 is enough. Your contribution would give others a chance to learn about 【相应内容】 from a different perspective.",
+      "Please send 【报名信息或作品】 to 【接收方】 by 【期限】. I hope you can join us."
+    ],
+    "logic": "是什么 → 怎么参与、有什么价值 → 明确邀请与提交方式",
+    "check": "介绍与邀请是两个任务，都要有具体内容；若题目要求邮箱或报名地点，应补全。",
+    "phrases": [
+      [
+        "contribute a story",
+        "提供／分享一则故事"
+      ],
+      [
+        "a clear and honest account",
+        "清楚真实的叙述"
+      ],
+      [
+        "No special ... is required",
+        "不要求专门的……"
+      ]
+    ],
+    "header": "Dear International Students,",
+    "footer": "Best wishes,\nLi Ming",
+    "source": "S16、S18、S19；功能与格式综合重写"
+  },
+  {
+    "id": "A07",
+    "title": "答复信：回复咨询",
+    "kind": "书信",
+    "task": "新编题：Anna 来信询问志愿教学项目的工作、安排和准备事项，逐项回复。",
+    "body": [
+      "You asked about our weekend teaching project. I am glad you are considering joining us, and here are the details you need.",
+      "Volunteers help local children practise basic English through games and short conversations. Sessions take place at the community centre on Saturday mornings, with each volunteer working alongside an experienced teacher. You do not need to prepare a full lesson alone. Before your first visit, please read the activity guide and bring one simple game idea. The coordinator will explain the children's needs and help you adapt your materials.",
+      "If this arrangement suits you, I can introduce you to the coordinator."
+    ],
+    "template": [
+      "You asked about 【项目】. I am glad you are considering joining us, and here are the details you need.",
+      "The main task is to 【工作内容，动词原形】, with support from 【协助者】. Activities take place 【时间地点介词短语】 and normally last 【时长】. As for 【来信中的第二个问题】, you will need to 【对应答案，动词原形】. Before your first visit, please 【准备事项，动词原形】. This will help us 【准备的作用，动词原形】 and make the arrangements easier for everyone. The coordinator can explain any remaining details when you arrive.",
+      "If this arrangement suits you, I can introduce you to the coordinator."
+    ],
+    "logic": "回应来信 → 按问题顺序逐项回答 → 后续联系",
+    "check": "先圈出来信里的每个问句，再检查是否一一作答；不要用笼统的活动意义代替答案。",
+    "phrases": [
+      [
+        "work alongside",
+        "与……一起工作"
+      ],
+      [
+        "adapt your materials",
+        "调整你的材料以适应需要"
+      ],
+      [
+        "If this arrangement suits you",
+        "如果这样的安排适合你"
+      ]
+    ],
+    "header": "Dear Anna,",
+    "footer": "Best wishes,\nLi Ming",
+    "source": "S16、S18、S19；功能与格式综合重写"
+  },
+  {
+    "id": "A08",
+    "title": "交流信：表达感受并询问详情",
+    "kind": "书信",
+    "task": "新编题：朋友 Jack 分享了家庭旅行视频；表达具体感受，并询问希望进一步了解的旅行细节。",
+    "body": [
+      "I watched your travel video yesterday and especially enjoyed the scene where your family learned to make noodles. The laughter made the experience feel warm and personal.",
+      "It was interesting to see how a simple meal brought you together with local people. Your video also made me curious about the rest of the journey. How did you find the cooking workshop, and which place surprised you most? I would also love to know whether travelling with your parents changed the way you planned each day.",
+      "When you have time, please share a few more stories. I would really enjoy hearing them."
+    ],
+    "template": [
+      "I watched your 【分享内容】 and especially enjoyed the part where 【具体情节，完整分句】. It made the experience feel 【感受形容词】.",
+      "It was interesting to see how 【具体观察，完整分句】. Your 【分享内容】 also made me curious about 【进一步想了解的方面】. How did you 【具体经历，动词原形】, and what did you enjoy most about 【相关活动】? I would also love to know whether 【希望确认的信息，完整分句】. These details would help me understand the experience more fully, especially since I am interested in 【共同兴趣】 myself.",
+      "When you have time, please share a few more stories. I would really enjoy hearing them."
+    ],
+    "logic": "具体感受及细节 → 两个相关追问 → 友好收尾",
+    "check": "不是写一封正式咨询公函；询问必须落到旅行或视频细节，不能只说 tell me more。",
+    "phrases": [
+      [
+        "made me curious about",
+        "使我想进一步了解……"
+      ],
+      [
+        "which place surprised you most",
+        "哪个地方最让你意外"
+      ],
+      [
+        "warm and personal",
+        "温暖且有亲近感"
+      ]
+    ],
+    "header": "Dear Jack,",
+    "footer": "Best wishes,\nLi Ming",
+    "source": "S19、S36、S40；交流任务据所给题干改编，措辞与情节新编"
+  },
+  {
+    "id": "A09",
+    "title": "感谢信",
+    "kind": "书信",
+    "task": "新编题：感谢 Smith 教授在你准备学术报告时给予的具体帮助，说明帮助带来的变化。",
+    "body": [
+      "Now that my presentation is over, I want to thank you for helping me prepare it. Your advice made a real difference to how I explained my ideas.",
+      "When my first draft was too broad, you helped me choose a clear question and remove unrelated material. You also showed me how to use examples instead of reading directly from my notes. As a result, I felt more confident and could respond calmly to the audience's questions. More than the presentation itself, I value the careful way of thinking that you encouraged.",
+      "I will use what I learned in future work. Thank you again for your time and patience."
+    ],
+    "template": [
+      "Now that 【受助事项完成，完整分句】, I want to thank you for 【具体帮助，动名词】. Your advice made a real difference to 【改进方面，名词或动名词】.",
+      "When I struggled with 【遇到的困难】, you helped me 【帮助一，动词原形】. You also showed me how to 【帮助二，动词原形】, which made the next stage much easier. As a result, I was able to 【具体成果，动词原形】 with greater confidence. More than the result itself, I value the 【长期收获】 that your support helped me develop.",
+      "I will use what I learned in future work. Thank you again for your time and patience."
+    ],
+    "logic": "感谢具体事项 → 帮助及其效果 → 延伸收获、再次致谢",
+    "check": "感谢信需要“你做了什么＋这对我有什么用”；不用频繁重复 heartfelt/sincere 来凑词。",
+    "phrases": [
+      [
+        "make a real difference to",
+        "对……有切实影响"
+      ],
+      [
+        "respond calmly to",
+        "冷静回应……"
+      ],
+      [
+        "your time and patience",
+        "您付出的时间和耐心"
+      ]
+    ],
+    "header": "Dear Professor Smith,",
+    "footer": "Yours sincerely,\nLi Ming",
+    "source": "S16、S18、S19；功能与格式综合重写"
+  },
+  {
+    "id": "A10",
+    "title": "道歉信",
+    "kind": "书信",
+    "task": "新编题：借用朋友 Alex 的书后不慎损坏，致歉、说明经过并提出具体补救方案。",
+    "body": [
+      "I owe you an apology for damaging the book you lent me. I accidentally spilled water on it yesterday, and several pages are now stained.",
+      "I should have kept it away from my desk while I was drinking. I understand that you need the book for your course, so I have ordered a replacement of the same edition. It should arrive on Thursday. Until then, you are welcome to use my copy, which covers the same material. If this arrangement causes any difficulty, please tell me and I will find another solution.",
+      "I am sorry for being careless and for disrupting your study plans."
+    ],
+    "template": [
+      "I owe you an apology for 【过失，动名词】. Unfortunately, 【事件经过，完整分句】, which caused 【对方受到的影响】.",
+      "I should have 【本应采取的行动，过去分词短语】, and I take responsibility for the inconvenience. Since you need 【对方实际需要】, I have arranged to 【补救动作，动词原形】 by 【完成期限】. Until then, I can 【临时解决办法，动词原形】 so that you can continue with your plans. If this arrangement causes any difficulty, please tell me and I will find another solution.",
+      "I am sorry for the trouble this has caused. I will be more careful about 【需注意的事项】 in future."
+    ],
+    "logic": "具体道歉 → 经过、承担责任、可行补救 → 再次致歉",
+    "check": "解释原因不能替代承担责任；不要只说以后注意而不给对方可执行的解决办法。",
+    "phrases": [
+      [
+        "owe you an apology for",
+        "应为……向你道歉"
+      ],
+      [
+        "a replacement of the same edition",
+        "同一版本的替换本"
+      ],
+      [
+        "disrupt your study plans",
+        "打乱你的学习计划"
+      ]
+    ],
+    "header": "Dear Alex,",
+    "footer": "Best wishes,\nLi Ming",
+    "source": "S16、S18、S19；功能与格式综合重写"
+  },
+  {
+    "id": "A11",
+    "title": "投诉信",
+    "kind": "书信",
+    "task": "新编题：从商店购买的台灯无法正常使用；说明问题、影响和要求，语气坚定而礼貌。",
+    "body": [
+      "The desk lamp I bought from your store on Monday stopped working after two evenings. I am contacting you to request a replacement.",
+      "Although I followed the instructions, the light now switches off whenever I adjust its angle. This makes it unsuitable for reading and has interrupted my evening study. I have checked the power supply, so the problem appears to be with the lamp itself. The receipt and photographs of the item are available if you need them.",
+      "Please let me know how to return it and when a replacement can be provided. I would appreciate a reply within the next few days."
+    ],
+    "template": [
+      "The 【物品】 I bought from your store 【购买时间】 developed a problem 【问题出现时间】. I am contacting you to request 【合理诉求】.",
+      "Although I followed the instructions, 【具体故障，完整分句】. This has made it difficult for me to 【正常用途，动词原形】. I have already tried 【排查措施，动名词】, but the problem remains. I can provide the receipt and 【其他证据】 if they would help you assess the situation. I would prefer 【具体处理方案】, provided it can be arranged promptly.",
+      "Please explain the return procedure and tell me when I can expect a solution. A reply by 【期限】 would be appreciated."
+    ],
+    "logic": "交易及诉求 → 问题、影响与证据 → 处理方式和期限",
+    "check": "事实与要求应清楚；没有题干依据，不写人身攻击、威胁或夸大的损失。",
+    "phrases": [
+      [
+        "request a replacement",
+        "请求换货"
+      ],
+      [
+        "appears to be with ...",
+        "看来出在……上"
+      ],
+      [
+        "The receipt ... is available",
+        "可提供收据；注意主谓一致"
+      ]
+    ],
+    "header": "Dear Customer Service Team,",
+    "footer": "Yours sincerely,\nLi Ming",
+    "source": "S16、S18、S19；功能与格式综合重写"
+  },
+  {
+    "id": "A12",
+    "title": "咨询信",
+    "kind": "书信",
+    "task": "新编题：准备参加暑期语言课程，向负责人询问课程安排、费用和报名条件。",
+    "body": [
+      "I am considering your summer language course and would like to clarify a few points before applying. My main aim is to become more confident in academic discussions.",
+      "Could you tell me how many hours of speaking practice are included each week? I would also like to know whether the fee covers learning materials or whether these must be purchased separately. As I will be travelling from another city, information about nearby accommodation would be useful. Finally, is an entrance test required, and when should applicants submit their results?",
+      "These details would help me plan my stay. Thank you for taking the time to answer my questions."
+    ],
+    "template": [
+      "I am considering 【项目】 and would like to clarify a few points before applying. My main aim is to 【个人目标，动词原形】.",
+      "Could you tell me 【问题一，陈述语序的疑问词从句】? I would also like to know whether 【问题二，完整分句】. As I will be 【相关背景，动名词或状态】, information about 【额外信息】 would be useful. Finally, please explain 【问题三，名词或疑问词从句】 and let me know if any supporting documents are needed. I hope to make the necessary arrangements 【时间介词短语】.",
+      "These details would help me plan ahead. Thank you for taking the time to answer my questions."
+    ],
+    "logic": "背景与目的 → 三个相关问题 → 说明信息用途并致谢",
+    "check": "Could you tell me 后用陈述语序：how many hours are included；不是 are how many hours。题目已有信息不重复问。",
+    "phrases": [
+      [
+        "clarify a few points",
+        "澄清几个问题"
+      ],
+      [
+        "be purchased separately",
+        "需要另行购买"
+      ],
+      [
+        "submit their results",
+        "提交成绩／结果"
+      ]
+    ],
+    "header": "Dear Course Coordinator,",
+    "footer": "Yours sincerely,\nLi Ming",
+    "source": "S16、S18、S19；功能与格式综合重写"
+  },
+  {
+    "id": "A13",
+    "title": "请求信：请求帮助",
+    "kind": "书信",
+    "task": "新编题：希望 Smith 教授审阅调查问卷，说明请求内容、困难和时间安排。",
+    "body": [
+      "Could you spare some time to review the questionnaire for our student reading survey? I would value your advice before we distribute it next week.",
+      "Our team has drafted eight questions, but we are unsure whether two of them might lead respondents towards a particular answer. Your experience in survey design would help us make the wording more balanced. I can send you the draft today, together with a short explanation of our research aim. Comments on those two questions would be enough, so a detailed review of the whole project is unnecessary.",
+      "Please let me know whether this would fit your schedule. Thank you for considering the request."
+    ],
+    "template": [
+      "Could you spare some time to 【请求事项，动词原形】? I would value your advice before 【相关期限或事件】.",
+      "I have already 【已完成工作，过去分词短语】, but I am unsure about 【具体困难】. Your experience in 【专长领域】 would help me 【希望达成的效果，动词原形】. I can send you 【材料】 today, together with a short explanation of 【背景】. Comments on 【请求范围】 would be enough, so there is no need to review the whole project. I would be happy to adjust the timing if necessary.",
+      "Please let me know whether this would fit your schedule. Thank you for considering the request."
+    ],
+    "logic": "明确请求 → 为什么需要帮助、准备了什么 → 尊重对方时间",
+    "check": "求助要说明具体任务和截止时间；不能把对方同意当作既成事实。",
+    "phrases": [
+      [
+        "spare some time to do",
+        "抽时间做……"
+      ],
+      [
+        "lead respondents towards a particular answer",
+        "诱导受访者选择特定答案"
+      ],
+      [
+        "fit your schedule",
+        "符合您的时间安排"
+      ]
+    ],
+    "header": "Dear Professor Smith,",
+    "footer": "Yours sincerely,\nLi Ming",
+    "source": "S16、S18、S19；功能与格式综合重写"
+  },
+  {
+    "id": "A14",
+    "title": "申请信：项目／志愿者",
+    "kind": "书信",
+    "task": "新编题：申请担任校园文化节志愿者；说明动机、相关经历和可服务时间。",
+    "body": [
+      "Please consider my application to volunteer at the campus cultural festival. I would enjoy helping visitors explore the exhibition and feel welcome on campus.",
+      "Last semester, I helped organise a student art show, where I answered questions and guided visitors between rooms. That experience taught me to give clear directions and remain patient when plans changed. I can communicate comfortably in English and am willing to learn the background of each display before the festival begins. I will be available throughout both days of the event.",
+      "I would welcome a brief interview to discuss how I could contribute. Thank you for reviewing my application."
+    ],
+    "template": [
+      "Please consider my application for 【项目或志愿岗位】. I would enjoy 【具体服务，动名词】 and contributing to 【服务目标】.",
+      "During 【相关经历】, I helped 【具体工作，动词原形】 and learned to 【相关能力，动词原形】. When 【实际困难，完整分句】, I 【应对行为，过去式动词短语】. This experience would be useful when carrying out the duties you described. I can also 【其他能力，动词原形】 and am willing to complete any training required. I will be available 【服务时间介词短语】.",
+      "I would welcome a brief interview to discuss how I could contribute. Thank you for reviewing my application."
+    ],
+    "logic": "申请及动机 → 经历证据、能力和时间 → 面谈意愿",
+    "check": "按申请要求选经历，不编造题目相冲突的身份；如申请奖学金或交换项目，要改成对应资格。",
+    "phrases": [
+      [
+        "Please consider my application to ...",
+        "请考虑我申请……"
+      ],
+      [
+        "remain patient when plans changed",
+        "安排变化时仍保持耐心"
+      ],
+      [
+        "be available throughout ...",
+        "在……全程有空"
+      ]
+    ],
+    "header": "Dear Festival Coordinator,",
+    "footer": "Yours sincerely,\nLi Ming",
+    "source": "S16、S18、S19；功能与格式综合重写"
+  },
+  {
+    "id": "A15",
+    "title": "求职信",
+    "kind": "书信",
+    "task": "新编题：申请校报编辑助理；写明申请岗位、与工作匹配的技能和可到岗时间。",
+    "body": [
+      "Your advertisement for an editorial assistant caught my attention because the role combines writing with careful fact checking. I would like to apply for the position.",
+      "As an English major, I have edited articles for our student newsletter and worked with writers to improve clarity. I also maintain a simple checklist for names, dates and sources, which helps me catch mistakes before publication. These experiences would allow me to support your editors with both language and accuracy. I can start after the current term ends.",
+      "My resume provides further details of my experience. I would appreciate an opportunity to discuss the role in an interview."
+    ],
+    "template": [
+      "Your advertisement for 【岗位】 caught my attention because the role involves 【相关工作，动名词】. I would like to apply for the position.",
+      "As 【身份，含冠词】, I have gained experience in 【相关领域】 through 【实际经历】. My responsibilities included 【具体职责，动名词】, which taught me to 【匹配能力，动词原形】. I also 【另一项技能，动词短语】, so I could support the team with 【岗位需要】. I can start 【到岗时间】 and would be willing to discuss a suitable schedule.",
+      "My resume provides further details of my experience. I would appreciate an opportunity to discuss the role in an interview."
+    ],
+    "logic": "申请岗位 → 经历与职责匹配 → 到岗时间和面试",
+    "check": "简历若未要求随附，可写 provides details；考试允许合理补细节，但不能用真实姓名或违反题干身份。",
+    "phrases": [
+      [
+        "careful fact checking",
+        "仔细核查事实"
+      ],
+      [
+        "improve clarity",
+        "提升表达清晰度"
+      ],
+      [
+        "before publication",
+        "发表之前"
+      ]
+    ],
+    "header": "Dear Hiring Manager,",
+    "footer": "Yours sincerely,\nLi Ming",
+    "source": "S05、S18、S29；岗位申请功能综合重写"
+  },
+  {
+    "id": "A16",
+    "title": "祝贺信",
+    "kind": "书信",
+    "task": "新编题：朋友 Anna 获得演讲比赛奖项，向她祝贺并谈及你观察到的努力。",
+    "body": [
+      "What wonderful news that you won the university speaking competition! You have every reason to feel proud, and I am very happy for you.",
+      "I still remember how carefully you revised your speech and practised the opening until it sounded natural. You also listened seriously to other people's suggestions, even when making changes took extra time. The award recognises that effort as well as your ability to connect with an audience. I hope the experience encourages you to take on further speaking opportunities.",
+      "When you are free, let us celebrate over lunch. I would love to hear which part of the final round you enjoyed most."
+    ],
+    "template": [
+      "What wonderful news that 【获奖或喜讯，完整分句】! You have every reason to feel proud, and I am very happy for you.",
+      "I still remember 【见证过的努力，名词性从句】. 【另一项具体努力，完整句】 The award recognises that effort as well as your ability to 【相关能力，动词原形】. I hope the experience encourages you to 【未来祝愿，动词原形】.",
+      "When you are free, let us celebrate over lunch. I would love to hear which part of 【对应活动阶段】 you enjoyed most."
+    ],
+    "logic": "直接祝贺 → 努力细节与成绩相连 → 祝愿或庆祝",
+    "check": "祝贺 on an achievement；不要写 congratulate you for。对方的努力应与所获成绩相关。",
+    "phrases": [
+      [
+        "have every reason to feel proud",
+        "完全有理由为自己自豪"
+      ],
+      [
+        "connect with an audience",
+        "与听众建立交流"
+      ],
+      [
+        "recognise that effort",
+        "肯定这份努力"
+      ]
+    ],
+    "header": "Dear Anna,",
+    "footer": "Best wishes,\nLi Ming",
+    "source": "S16、S18、S19；功能与格式综合重写"
+  },
+  {
+    "id": "A17",
+    "title": "欢迎信",
+    "kind": "书信",
+    "task": "新编题：以校园伙伴身份欢迎新来的国际学生，介绍报到安排并提供帮助。",
+    "body": [
+      "Welcome to our university! As your student buddy, I look forward to helping you settle into campus life during your first week.",
+      "We will meet at the international office at nine on Monday morning. After registration, I can show you the library, dining hall and student service centre. Please bring your passport and admission letter, as the staff will need them to complete the paperwork. There will also be an informal gathering where you can meet other new students and ask questions about daily life.",
+      "If your arrival time changes, send me a message. I hope your first days here will be comfortable and enjoyable."
+    ],
+    "template": [
+      "Welcome to 【欢迎加入的单位】! As 【你的身份】, I look forward to helping you settle into campus life 【协助时段】.",
+      "We will meet 【见面地点和时间】. 【具体安排，完整句】 Please bring 【要准备的材料】, as the staff will need them to 【材料用途，动词原形】. There will also be 【后续活动，含冠词】 where you can meet other new students and ask questions about daily life.",
+      "If 【可能需要协调的事项】 changes, send me a message. I hope your first days here will be comfortable and enjoyable."
+    ],
+    "logic": "欢迎及身份 → 报到、材料和适应安排 → 联系帮助",
+    "check": "welcome to 后接地点或机构；welcome you to 后才可接动词。欢迎信要有帮助新人落地的信息。",
+    "phrases": [
+      [
+        "settle into campus life",
+        "适应校园生活"
+      ],
+      [
+        "complete the paperwork",
+        "完成手续"
+      ],
+      [
+        "an informal gathering",
+        "轻松的聚会"
+      ]
+    ],
+    "header": "Dear New Students,",
+    "footer": "Best wishes,\nLi Ming",
+    "source": "S16、S18、S19；功能与格式综合重写"
+  },
+  {
+    "id": "A18",
+    "title": "辞职信",
+    "kind": "书信",
+    "task": "新编题：兼职编辑工作与毕业研究冲突，向 Wang 先生说明辞职决定、原因和交接办法。",
+    "body": [
+      "After careful consideration, I have decided to leave my position as a part-time editor at the end of this month. I am grateful for the guidance you have given me.",
+      "My final research project now requires more time than I expected, and I cannot give both responsibilities the attention they deserve. Rather than let unfinished work affect the team, I would like to arrange a smooth handover. I will complete my current articles and prepare notes on all outstanding tasks. I can also explain our editing process to whoever takes over.",
+      "Thank you for your understanding. Working with the team has been a valuable learning experience."
+    ],
+    "template": [
+      "After careful consideration, I have decided to leave my position as 【当前岗位，含冠词】 【离职时间】. I am grateful for the guidance you have given me.",
+      "【辞职原因，完整句】 Rather than let unfinished work affect the team, I would like to arrange a smooth handover. I will 【交接措施，动词原形】. I can also 【补充协助，动词原形】 to whoever takes over.",
+      "Thank you for your understanding. Working with the team has been a valuable learning experience."
+    ],
+    "logic": "明确决定与离职日期 → 合理原因、交接安排 → 感谢",
+    "check": "不要只说抱歉而不说辞职；outstanding tasks 在此指未完成事项，不是优秀任务。",
+    "phrases": [
+      [
+        "arrange a smooth handover",
+        "安排顺利交接"
+      ],
+      [
+        "outstanding tasks",
+        "尚未完成的工作"
+      ],
+      [
+        "whoever takes over",
+        "接手的人"
+      ]
+    ],
+    "header": "Dear Mr. Wang,",
+    "footer": "Yours sincerely,\nLi Ming",
+    "source": "S05、S18、S31；辞职功能与交接思路综合重写"
+  },
+  {
+    "id": "A19",
+    "title": "婉拒信",
+    "kind": "书信",
+    "task": "新编题：感谢朋友邀请参加周六活动，解释不能出席的原因并提出其他参与方式。",
+    "body": [
+      "Thank you for inviting me to help at the community book fair. I would have enjoyed taking part, but I cannot attend this Saturday.",
+      "I have already agreed to accompany my grandfather to a medical appointment that morning, and it cannot easily be rearranged. I am sorry to miss an event that brings books to more families. If it would help, I could sort the donated books on Friday evening or prepare labels before the fair. That way, I could still support the team without disrupting the arrangements.",
+      "I hope the day goes well. Please tell me whether either of these alternatives would be useful."
+    ],
+    "template": [
+      "Thank you for inviting me to 【对方邀请的活动，动词原形】. I would have enjoyed taking part, but I cannot attend 【无法出席的时间】.",
+      "【无法出席的原因，完整句】 I am sorry to miss 【对活动价值的认可】. If it would help, I could 【两个替代协助方案，动词原形】. That way, I could still support the team without disrupting the arrangements.",
+      "I hope the day goes well. Please tell me whether either of these alternatives would be useful."
+    ],
+    "logic": "感谢并婉拒 → 合理原因与替代办法 → 祝愿及确认",
+    "check": "未承诺参加时主要是婉拒；已答应却失约时改用 A10 道歉逻辑，不虚构很严重的事故作借口。",
+    "phrases": [
+      [
+        "cannot easily be rearranged",
+        "不容易改期"
+      ],
+      [
+        "without disrupting the arrangements",
+        "不打乱已有安排"
+      ],
+      [
+        "either of these alternatives",
+        "这两个替代方案中的任何一个"
+      ]
+    ],
+    "header": "Dear Alex,",
+    "footer": "Best wishes,\nLi Ming",
+    "source": "S16、S18、S19；功能与格式综合重写"
+  },
+  {
+    "id": "A20",
+    "title": "活动通知",
+    "kind": "通知",
+    "task": "新编题：学生会发布旧物修理工作坊通知，介绍活动、参加要求及报名办法。",
+    "body": [
+      "A repair workshop will take place in the student centre from two to four on Friday afternoon. All students interested in giving old items a second life are welcome.",
+      "Experienced volunteers will demonstrate basic repairs and guide participants through simple tasks. Please bring one small item, such as a bag or a piece of clothing, that needs attention. Electrical appliances cannot be accepted because specialist equipment is unavailable. Tools and basic materials will be provided at the venue.",
+      "To reserve a place, register at the student service desk by Wednesday. Places are limited, so early registration is recommended. Come and discover what you can repair yourself."
+    ],
+    "template": [
+      "【活动名称，含冠词】 will take place 【时间地点介词短语】. All 【目标人群】 interested in 【相关兴趣，动名词】 are welcome.",
+      "The session will begin with 【环节一】, followed by 【环节二】. Participants will be able to 【实践机会，动词原形】 with help from 【指导者】. Please bring 【所需用品】 and arrive 【提前量】 before the starting time. 【主办方提供的用品，复数】 will be available at the venue. To keep the activity running smoothly, everyone should 【具体要求，动词原形】.",
+      "To reserve a place, register 【报名方式及期限】. Places are limited, so early registration is recommended. Come and try something useful."
+    ],
+    "logic": "活动及对象 → 内容、要求和保障 → 报名行动",
+    "check": "通知有标题和发布者，不写 Dear 或 Yours。落款与日期服从题目，不必擅加个人身份。",
+    "phrases": [
+      [
+        "give old items a second life",
+        "让旧物重新发挥用途"
+      ],
+      [
+        "at the venue",
+        "在活动场地"
+      ],
+      [
+        "reserve a place",
+        "预约名额"
+      ]
+    ],
+    "header": "NOTICE\nRepair Workshop",
+    "footer": "Students' Union",
+    "source": "S16、S18、S19、S31；通知结构与活动信息综合重写"
+  },
+  {
+    "id": "A21",
+    "title": "招募通知",
+    "kind": "通知",
+    "task": "新编题：为口述历史项目招募四名学生志愿者，写清职责、要求、培训与申请方式。",
+    "body": [
+      "Four student volunteers are needed for a community oral history project next month. The team will record residents' memories and prepare short written summaries.",
+      "Volunteers will help arrange interviews, check recordings and organise photographs. Applicants should be patient listeners, write clearly in English and be available on two Saturday mornings. Previous interviewing experience would be helpful, but training will be provided. All participants must respect residents' privacy and ask permission before recording or sharing their stories.",
+      "Please submit a short statement of interest to the student service desk by Friday. Include your available times and any relevant experience. Selected applicants will be contacted for a brief meeting."
+    ],
+    "template": [
+      "【人数】 student volunteers are needed for 【项目】 【时间介词短语】. The team will work with 【服务对象】 to 【目标，动词原形】.",
+      "Volunteers will help 【职责一，动词原形】 and 【职责二，动词原形】. Applicants should be able to 【能力要求，动词原形】 and be available 【时间要求】. Experience in 【相关领域】 would be helpful, but training will be provided. Everyone must 【特别要求，动词原形】 when working with the team. These arrangements will help ensure that 【工作标准，完整分句】.",
+      "Please submit 【申请材料】 to 【接收方】 by 【期限】. Include your available times and any relevant experience. Selected applicants will be contacted for a brief meeting."
+    ],
+    "logic": "招募岗位 → 职责、条件和培训 → 如何申请",
+    "check": "duties 和 requirements 必须分别写到；不能只介绍活动意义或罗列性格词。",
+    "phrases": [
+      [
+        "a statement of interest",
+        "简短的申请意向说明"
+      ],
+      [
+        "relevant experience",
+        "相关经验"
+      ],
+      [
+        "Selected applicants will be contacted",
+        "将联系入选的申请者"
+      ]
+    ],
+    "header": "NOTICE\nVolunteers Wanted",
+    "footer": "Project Team",
+    "source": "S16、S18、S19、S29；招募任务综合重写"
+  },
+  {
+    "id": "A22",
+    "title": "寻物启事",
+    "kind": "告示",
+    "task": "新编题：你在图书馆丢失蓝色笔记本，发布启事，给出特征、可能遗失地点和联系方式。",
+    "body": [
+      "I am looking for a blue notebook that I lost in the university library on Tuesday afternoon. I last used it at a desk near the second-floor windows.",
+      "The notebook has a plain cover and a small white label on the back. It contains handwritten notes for my final research project, so it is particularly important to me. My name is written inside the front cover. If you have found it or handed it to a member of staff, please let me know where it can be collected.",
+      "You can leave a message for Li Ming at the library service desk. Any help would be greatly appreciated."
+    ],
+    "template": [
+      "I am looking for 【丢失物品，含冠词】 that I lost 【丢失地点及时间】. I last used it 【最后使用地点】.",
+      "【外观特征，完整句】 It contains 【物品内容或用途】, so it is particularly important to me. 【辨认线索，完整句】 If you have found it or handed it to a member of staff, please let me know where it can be collected.",
+      "You can leave a message for Li Ming 【联系方式或联系地点】. Any help would be greatly appreciated."
+    ],
+    "logic": "丢失物品、时间地点 → 特征及用途 → 联系与致谢",
+    "check": "不必虚构高额酬金；考试中的姓名与联系方式须服从题目。此处联系地点为新编情境。",
+    "phrases": [
+      [
+        "a plain cover",
+        "素色封面"
+      ],
+      [
+        "hand it to a member of staff",
+        "把它交给工作人员"
+      ],
+      [
+        "where it can be collected",
+        "到哪里领取"
+      ]
+    ],
+    "header": "LOST\nA Blue Notebook",
+    "footer": "Li Ming",
+    "source": "S05、S18、S19；告示信息功能综合重写"
+  },
+  {
+    "id": "A23",
+    "title": "招领启事",
+    "kind": "告示",
+    "task": "新编题：活动结束后捡到背包，写招领启事，说明发现地点、领取方式和认领核实要求。",
+    "body": [
+      "A backpack was found beside the entrance to the student centre after yesterday's music workshop. It has been handed to the service desk for safekeeping.",
+      "The bag contains study materials and a few personal items. To make sure it is returned to the right person, the owner should describe its colour and identify at least two things inside. Please bring a student card or another form of identification when collecting it. The desk is open from nine in the morning to five in the afternoon on weekdays.",
+      "If you know someone who is missing a backpack, please pass on this message. Thank you for your help."
+    ],
+    "template": [
+      "【拾得物品，含冠词】 was found 【拾得地点】 after 【拾得时间或活动】. It has been handed to 【保管与领取地点】 for safekeeping.",
+      "【概括物品内容，完整句】 To make sure it is returned to the right person, the owner should 【核实方式，动词原形】. Please bring 【领取凭证】 when collecting it. The desk is open 【领取时间】.",
+      "If you know someone who is missing 【相应物品，含冠词】, please pass on this message. Thank you for your help."
+    ],
+    "logic": "物品与地点 → 保管、核实及领取要求 → 帮助转告",
+    "check": "标题用 FOUND；不把所有可核实细节都公开，也不要把招领写成自己在找失物。",
+    "phrases": [
+      [
+        "for safekeeping",
+        "为妥善保管"
+      ],
+      [
+        "a form of identification",
+        "一种身份证明"
+      ],
+      [
+        "pass on this message",
+        "转告此消息"
+      ]
+    ],
+    "header": "FOUND\nBackpack at the Student Centre",
+    "footer": "Student Service Centre",
+    "source": "S05、S18、S19；告示功能迁移重写"
+  },
+  {
+    "id": "A24",
+    "title": "倡议书",
+    "kind": "倡议",
+    "task": "新编题：学生会倡议同学减少食堂食物浪费，说明问题并提出可执行的行动。",
+    "body": [
+      "Too much food is left on trays after meals in our dining hall. We invite everyone to help reduce this waste through a few manageable changes.",
+      "Choose a smaller portion when you are unsure how much you can finish, and return for more if necessary. When eating with friends, discuss quantities before ordering shared dishes. Students can also tell the dining hall which portion sizes would better suit their needs. These actions save food without requiring anyone to skip a meal or eat less than they need.",
+      "Let us begin with our next meal and encourage one another to make careful choices. Every finished portion is a useful step."
+    ],
+    "template": [
+      "【问题现象，完整句】 We invite everyone to help improve the situation through a few manageable changes.",
+      "Start by 【行动一，动名词】 whenever you 【具体场景，动词短语】. This can reduce 【直接问题】 without 【不必要的负担，动名词】. You can also 【行动二，动词原形】 and encourage friends to do the same. If you notice 【具体障碍】, share your suggestions with 【合适的组织】 so that practical improvements can be made. Even a small change is useful when it becomes a regular habit.",
+      "Let us begin with 【明确起步行动】. By making careful choices in everyday situations, we can help 【共同目标，动词原形】."
+    ],
+    "logic": "问题 → 个人与集体可行行动 → 呼吁参与",
+    "check": "倡议要让读者知道现在能做什么；区别于报名通知，不能只写时间地点。若题目指定信件格式，另加称呼。",
+    "phrases": [
+      [
+        "manageable changes",
+        "容易实行的改变"
+      ],
+      [
+        "portion sizes",
+        "每份食物的分量"
+      ],
+      [
+        "make careful choices",
+        "认真作出选择"
+      ]
+    ],
+    "header": "A Call to Reduce Food Waste",
+    "footer": "Students' Union",
+    "source": "S18、S19；行动与意义功能综合重写"
+  },
+  {
+    "id": "A25",
+    "title": "会议纪要",
+    "kind": "纪要",
+    "task": "新编题：记录读书会会议：讨论场地，决定使用图书馆；Chen 负责海报、Wang 负责报名，下周一前完成，周三复核。",
+    "body": [
+      "The committee met to finalise arrangements for the campus reading event. Members discussed the venue, registration process and publicity materials.",
+      "After comparing two available rooms, the group agreed to use the library seminar room because it offered enough seating and a quiet setting. Chen will prepare the poster, while Wang will collect registrations and check participant numbers. Both tasks must be completed by next Monday. Members also agreed that each discussion group should have a student facilitator to keep the conversation focused.",
+      "The chair will review progress at a short meeting on Wednesday. Any difficulties should be reported in advance so that the arrangements can be adjusted."
+    ],
+    "template": [
+      "The committee met to finalise arrangements for 【事项】. Members discussed 【议题一】, 【议题二】 and 【议题三】.",
+      "After considering 【备选内容】, the group agreed to 【决议，动词原形】 because 【理由，完整分句】. 【负责人一】 will 【任务一，动词原形】, while 【负责人二】 will 【任务二，动词原形】. Both tasks must be completed by 【期限】. Members also agreed that 【另一决议，完整分句】. 【指定人员】 will collect the necessary information and circulate it to the team before work begins.",
+      "The chair will review progress 【检查时间】. Any difficulties should be reported in advance so that the arrangements can be adjusted."
+    ],
+    "logic": "会议事实 → 决议、负责人和期限 → 后续跟进",
+    "check": "讨论用过去时；待办可用 will。纪要记录已形成的决议，不写邀请、个人感想或未在会议中决定的内容。",
+    "phrases": [
+      [
+        "finalise arrangements",
+        "确定最终安排"
+      ],
+      [
+        "a student facilitator",
+        "学生讨论引导员"
+      ],
+      [
+        "review progress",
+        "检查进展"
+      ]
+    ],
+    "header": "Minutes of the Reading Club Meeting\nDate: 12 May 2026\nPlace: Room 201\nPresent: Li Ming, Chen and Wang",
+    "footer": "Recorded by: Li Ming",
+    "source": "S08、S16、S18、S19、S29；纪要结构重写"
+  },
+  {
+    "id": "A26",
+    "title": "备忘录",
+    "kind": "备忘录",
+    "task": "新编题：向活动团队说明房间更换，列出需要完成的工作、负责人和确认期限。",
+    "body": [
+      "The reading workshop has been moved to Room 305 because the original room is undergoing repairs. The date and starting time remain unchanged.",
+      "Please update the registration page and replace the signs at the building entrance. Chen should check that the new room has enough chairs, while Wang should test the projector before Thursday afternoon. We also need to email registered participants with the new location and a simple map. Anyone who cannot receive email should be contacted by phone.",
+      "Please confirm completion of your tasks by four on Thursday. Let me know immediately if anything may delay the preparations, so we can arrange additional help."
+    ],
+    "template": [
+      "【活动名称】 has been moved to 【新地点】 because 【变动原因，完整分句】. The date and starting time remain unchanged.",
+      "Please 【需要完成的工作，动词原形】. 【明确分工，完整句】 We also need to 【通知办法，动词原形】. Anyone who cannot receive email should be contacted by phone.",
+      "Please confirm completion of your tasks by 【确认期限】. Let me know immediately if anything may delay the preparations, so we can arrange additional help."
+    ],
+    "logic": "变更事实 → 操作要求和分工 → 确认时限",
+    "check": "To／From／Date／Subject 四项醒目；备忘录通常不加 Dear 和 Yours，与记录过去会议的 minutes 区分。",
+    "phrases": [
+      [
+        "remain unchanged",
+        "保持不变"
+      ],
+      [
+        "registered participants",
+        "已报名参加者"
+      ],
+      [
+        "confirm completion",
+        "确认已完成"
+      ]
+    ],
+    "header": "MEMO\nTo: Workshop Team\nFrom: Li Ming\nDate: 12 May 2026\nSubject: Room Change",
+    "footer": "",
+    "source": "S19 第9页、S29；备忘录体裁与安排功能综合新编"
+  },
+  {
+    "id": "B01",
+    "title": "静态构成：饼图／单选比例",
+    "kind": "大作文",
+    "task": "新编数据：某校学生最偏好的阅读方式（单选）：纸质书 45%，电子书 35%，有声书 20%。要求概述数据并评论。",
+    "body": [
+      "Reading preferences are divided among three formats in the pie chart. Printed books lead with 45% of the students surveyed, compared with 35% for electronic books and 20% for audiobooks. Print is the largest category, although digital formats together attract more than half of the respondents.",
+      "The pattern may reflect the different situations in which people read. A printed book can offer a focused experience away from screen notifications. Electronic books, meanwhile, are easy to carry and search, while audio allows reading to fit around other activities. These advantages help explain why no single format attracts everyone. Preference may depend on the task as much as on the reader.",
+      "Libraries could respond by offering a balanced collection and helping students choose suitable formats. The aim should be to make useful reading easier, with different resources supporting different needs. A popular format is valuable when it serves a clear reading purpose."
+    ],
+    "template": [
+      "The 【图表类型】 presents how 【调查对象】 are distributed across 【类别】. 【最大项】 has the largest share, at 【数值】, followed by 【第二项及数值】. The figure for 【较小项】 is 【数值】. These differences show a clear preference for 【主要特征】 within the group surveyed.",
+      "One possible reason is that 【原因一，完整分句】. For people who 【特定需要，动词短语】, this can make 【选择】 easier or more useful. Another consideration is 【因素二】, since 【作用机制，完整分句】. The smaller categories may still meet needs that the leading option cannot satisfy. Their shares should therefore be understood in relation to 【具体情境】, rather than treated as evidence that they have little value.",
+      "【行动主体】 could respond by 【具体措施，动名词】. Giving people access to 【相关资源】 would help them make choices that fit their circumstances. The practical aim is to 【贴题目标，动词原形】."
+    ],
+    "logic": "对象与构成 → 最大项及关键对比 → 用途差异解释 → 多样化供给",
+    "check": "45% 是最大项，不是 majority；只有互斥且同一总体的类别才能相加。这里电子书与有声书合计55%。",
+    "phrases": [
+      [
+        "the students surveyed",
+        "受调查的学生；不要写全部大学生"
+      ],
+      [
+        "a focused experience",
+        "专注的体验"
+      ],
+      [
+        "a balanced collection",
+        "均衡配置的馆藏"
+      ]
+    ],
+    "header": "",
+    "footer": "",
+    "source": "S01、S04、S11、S17、S35；静态对比与需求分析综合重写"
+  },
+  {
+    "id": "B02",
+    "title": "静态多选：柱状图／调查动机",
+    "kind": "大作文",
+    "task": "新编数据：居民选择社区课程时的考虑因素，可多选：时间方便 68%，实用内容 56%，低费用 42%，结交朋友 27%。要求描述并评论。",
+    "body": [
+      "Convenient timing is the most frequently selected reason for choosing community courses, mentioned by 68% of respondents. Practical content follows at 56%, while low fees and opportunities to meet people receive 42% and 27%. Since respondents could select several reasons, the percentages describe overlapping preferences rather than parts of a single total.",
+      "These results suggest that a course must first fit into people's daily lives. An interesting class may still be difficult to attend if it conflicts with work or family duties. Practical content can provide an additional reason to participate because learners can use what they learn outside the classroom. Price also matters, though it is selected less often than timing or content.",
+      "Organisers could therefore offer several time slots and explain the practical value of each course. Keeping fees reasonable would further improve access. Such arrangements would address the concerns actually reported in the survey."
+    ],
+    "template": [
+      "The bar chart reports the factors that 【调查对象】 consider when 【行为，动名词】. 【最高项】 is selected most often, at 【数值】, followed by 【第二项及数值】. 【另外的因素及数据，完整句】 Since respondents could give more than one answer, the percentages refer to overlapping choices.",
+      "The leading factor may be important because 【原因一，完整分句】. Even when 【某种优势存在，完整分句】, people may hesitate if 【具体阻碍，完整分句】. The second factor adds a different consideration: 【原因二，完整分句】. Together, these concerns suggest that people assess 【决策对象】 through several practical needs. A lower selection rate does not make a factor irrelevant to every respondent.",
+      "To respond to these needs, 【主体】 could 【措施一，动词原形】 and 【措施二，动词原形】. Such changes would focus resources on the concerns that appear most often in the survey, while leaving room for individual differences."
+    ],
+    "logic": "按选择率排序 → 说明多选口径 → 解释主要因素 → 对应措施",
+    "check": "多选合计193%并非数据错；不能写剩余比例，也不能把68%与56%相加后称为124%的人。",
+    "phrases": [
+      [
+        "overlapping preferences",
+        "可重叠的偏好"
+      ],
+      [
+        "conflict with work or family duties",
+        "与工作或家庭责任冲突"
+      ],
+      [
+        "offer several time slots",
+        "提供多个时段"
+      ]
+    ],
+    "header": "",
+    "footer": "",
+    "source": "S09 第5页、S17、S35；静态多选口径综合新编"
+  },
+  {
+    "id": "B03",
+    "title": "静态表格：不同群体的对比",
+    "kind": "大作文",
+    "task": "新编数据：三个年龄组对某社区服务满意／一般／不满意的比例：18—29岁为65／25／10%，30—49岁为50／30／20%，50岁及以上为70／20／10%。要求描述并评论。",
+    "body": [
+      "Satisfaction with the community service varies across the three age groups in the table. The figure is highest among residents aged fifty and above, at 70%, and lowest among those aged thirty to forty-nine, at 50%. The youngest group records 65%. Dissatisfaction reaches 20% in the middle group, twice the level in either of the other groups.",
+      "Different needs may help explain this contrast. Residents balancing employment and family care may find standard service hours less convenient. Older users may value regular personal assistance, while younger adults may prefer quick online access. These are possible explanations, and further feedback would be needed to identify the actual problems. The figures alone do not reveal individual experiences.",
+      "A useful response would be to ask each group what needs improvement and test flexible service hours. Improvements should address specific difficulties while preserving features that users already value, rather than treating all residents alike."
+    ],
+    "template": [
+      "The table compares 【指标】 among 【群体】. 【最高组】 records the highest figure, at 【数值】, while 【最低组】 has the lowest, at 【数值】. A further contrast concerns 【另一指标】: 【关键数据对比，完整句】. This is a comparison between groups, rather than a record of change over time.",
+      "Different circumstances may explain part of the gap. People in 【群体一】 may need 【具体需要】, whereas those in 【群体二】 may place more value on 【另一需要】. For example, 【与群体差异相关的情境，完整分句】. These considerations could affect how people assess 【调查事项】. Further feedback would be needed to determine which explanation matters most; group averages do not describe every individual.",
+      "A useful response would be to 【具体措施，动词原形】. By asking what each group needs, 【主体】 could improve 【相关服务】 while preserving features that users already value."
+    ],
+    "logic": "横向比较主要指标 → 纵向补充另一指标 → 群体需求差异 → 精准改善",
+    "check": "年龄组之间的比较不代表同一批人随年龄增长的变化；不同分母的百分比不可直接相加为整体满意率。",
+    "phrases": [
+      [
+        "twice the level in ...",
+        "是……水平的两倍"
+      ],
+      [
+        "preserving features that users already value",
+        "保留使用者已经认可的特点"
+      ],
+      [
+        "treating all residents alike",
+        "以同一方式对待所有居民"
+      ]
+    ],
+    "header": "",
+    "footer": "",
+    "source": "S01、S09、S17、S35；表格与群体对比综合重写"
+  },
+  {
+    "id": "B04",
+    "title": "动态单指标：上升／下降",
+    "kind": "大作文",
+    "task": "新编数据：某市公共交通出行占比，2020年30%，2022年36%，2024年45%。要求概述趋势并评论。",
+    "body": [
+      "Public transport accounted for a growing share of journeys in the city between 2020 and 2024. The proportion increased from 30% to 36% in 2022 and reached 45% by 2024, a total gain of fifteen percentage points. The increase was larger in the second half of the period.",
+      "Several practical factors may have encouraged this shift. More convenient routes could make public transport a realistic choice for journeys that once required a car. Reliable arrival information may also reduce uncertainty and make transfers easier to plan. Lower travel costs would provide another incentive, especially for people who commute regularly. These possibilities link the trend to everyday decisions, although the chart itself does not establish the causes.",
+      "To sustain the improvement, the city should focus on reliability, connections and access for people with limited mobility. A service that works well in ordinary situations is more likely to remain useful over time."
+    ],
+    "template": [
+      "The 【图表类型】 records a clear change in 【指标】 from 【起年】 to 【止年】. The figure 【rose/fell】 from 【起点数据】 to 【终点数据】, with 【关键中点或阶段，名词短语】. Overall, the data indicate 【主要趋势，名词短语】 during the period shown.",
+      "One possible explanation is that 【原因一，完整分句】. This could make it easier for 【群体】 to 【行为，动词原形】, particularly when 【具体情境，完整分句】. Another relevant factor may be 【因素二】. By 【作用方式，动名词】, it can influence the choices people make in everyday life. These mechanisms offer a plausible interpretation, although the chart itself does not establish which factor caused the change.",
+      "The practical response should be to 【对应措施，动词原形】. If 【必要条件，完整分句】, 【合理预期，完整分句】. Attention to these conditions would be more useful than assuming that the same pattern must continue indefinitely."
+    ],
+    "logic": "时间、指标和增量 → 两个解释机制 → 持续改善条件",
+    "check": "30%到45%是上升15个百分点，也相当于相对增长50%；下降题须同步改首句 growing、第二段 shift 与结尾 improvement 的评价。",
+    "phrases": [
+      [
+        "a total gain of ... percentage points",
+        "共增加……个百分点"
+      ],
+      [
+        "provide another incentive",
+        "提供另一种动力"
+      ],
+      [
+        "people with limited mobility",
+        "行动不便者"
+      ]
+    ],
+    "header": "",
+    "footer": "",
+    "source": "S01、S04、S17、S26、S30；动态描述与机制分析综合重写"
+  },
+  {
+    "id": "B05",
+    "title": "动态多指标：升降对照／结构变化",
+    "kind": "大作文",
+    "task": "新编数据：某校毕业去向，2020年直接就业60%、继续升学25%、其他15%；2025年分别为45%、40%、15%。要求描述并评论。",
+    "body": [
+      "The chart shows a change in graduates' plans between 2020 and 2025. Direct employment fell from 60% to 45%, while further study rose from 25% to 40%. Other choices remained at 15%. Employment was still the largest category in 2025, but its lead over further study narrowed from thirty-five to five percentage points.",
+      "One possible explanation is that more graduates see additional education as useful preparation for specialised work. They may also want time to explore their interests before committing to a career. Meanwhile, direct employment continues to offer immediate income and practical experience. The changing shares therefore need not mean that one route is suitable for everyone. Costs, interests and career requirements can lead to different reasonable choices.",
+      "Universities should provide information on both employment and further study, including their demands and likely benefits. Advice based on individual circumstances would help students choose a route they can realistically pursue."
+    ],
+    "template": [
+      "The chart compares 【多个指标】 in 【起年】 and 【止年】. The share of 【A】 fell from 【数值】 to 【数值】, while that of 【B】 rose from 【数值】 to 【数值】. 【C】 remained at 【数值】. The gap between 【A】 and 【B】 therefore 【narrowed/widened】 over the period.",
+      "The shift may reflect changes in 【具体需求】. 【B】 can offer 【优势】, which matters to people who 【相关情境，动词短语】. At the same time, 【A】 remains useful because 【原因，完整分句】. Different costs and benefits can lead people towards different options, so a larger share does not necessarily make one choice best for everyone. The figures describe the distribution of choices, rather than the reasons for each decision.",
+      "【主体】 should help people compare 【相关选项】 using clear information about 【比较标准】. Advice based on individual circumstances would make these choices more informed and realistic."
+    ],
+    "logic": "分别写升降和不变 → 概括差距缩小 → 解释选择差异 → 给出分情境建议",
+    "check": "占比下降不能推出就业人数下降；没有毕业生总人数，就只讨论份额。最大类别与增长最快类别也不是一回事。",
+    "phrases": [
+      [
+        "its lead ... narrowed",
+        "其领先幅度缩小"
+      ],
+      [
+        "commit to a career",
+        "确定职业方向"
+      ],
+      [
+        "individual circumstances",
+        "个人具体情况"
+      ]
+    ],
+    "header": "",
+    "footer": "",
+    "source": "S01、S04、S17、S26、S30、S35；多指标对比综合重写"
+  },
+  {
+    "id": "B06",
+    "title": "波动趋势：先升后降／转折",
+    "kind": "大作文",
+    "task": "新编数据：某公共图书馆年度到访人次，2021年12万、2022年18万、2023年16万、2024年20万。要求概述并评论。",
+    "body": [
+      "Annual visits to the public library followed an uneven upward path from 2021 to 2024. They rose from 120,000 to 180,000, slipped to 160,000 in 2023, and then reached 200,000 in the final year. Despite the temporary decline, the final figure was well above the starting level and was the highest recorded.",
+      "This pattern may reflect both growing demand and changes in how easily people could use the library. Attractive events can bring in more visitors, while opening hours and access conditions may affect attendance from year to year. A temporary fall should therefore be interpreted alongside the longer pattern. It does not by itself show that residents have lost interest in reading.",
+      "The library could compare attendance with its programme schedule and collect visitors' feedback before making changes. Maintaining dependable services and offering useful activities would be a sensible response. The priority is to understand the variation and improve the experience behind the numbers."
+    ],
+    "template": [
+      "The figure for 【指标】 changed unevenly between 【起年】 and 【止年】. It first 【rose/fell】 from 【数据】 to 【数据】, then 【转折动词短语】, before reaching 【最终值】. Despite the temporary 【rise/decline】, the final level was 【higher/lower】 than the starting point.",
+      "Both longer trends and short-term conditions may have shaped this pattern. 【具体因素】 could affect whether people 【行为，动词短语】 in a particular year. Meanwhile, 【另一因素】 may influence demand over a longer period. A single turning point should therefore be interpreted alongside the whole series. It does not by itself show that 【过度推断的判断，完整分句】. Looking at the context would help distinguish a temporary interruption from a more lasting change.",
+      "【主体】 could compare the figures with 【相关记录】 and gather feedback before adjusting 【相关安排】. The priority should be to understand the variation and improve 【贴题目标】."
+    ],
+    "logic": "按时间写关键转折 → 概括总趋势 → 谨慎解释 → 用反馈改善",
+    "check": "有中途下降就不能写 rose steadily。此处统计到访人次，不是独立访客人数，不能把 visits 换成 visitors。",
+    "phrases": [
+      [
+        "an uneven upward path",
+        "有波动的上升过程"
+      ],
+      [
+        "slipped to",
+        "小幅回落至"
+      ],
+      [
+        "the highest recorded",
+        "图中记录的最高值"
+      ]
+    ],
+    "header": "",
+    "footer": "",
+    "source": "S01、S17、S26；转折与统计对象辨别综合新编"
+  },
+  {
+    "id": "B07",
+    "title": "双图表：规模与使用情况",
+    "kind": "大作文",
+    "task": "新编数据：图一，某市公园数量2019年40个、2024年60个；图二，2024年居民每周去公园次数，至少3次50%、1—2次35%、不足1次15%。要求概述两图并评论。",
+    "body": [
+      "The two charts describe the provision and use of public parks in a city. Park numbers increased from forty in 2019 to sixty in 2024. In the survey for 2024, half of residents reported visiting a park at least three times a week, while only 15% went less than once a week.",
+      "Together, the charts show expanded provision alongside frequent use. More nearby parks may make outdoor activity easier to fit into everyday routines. Safe paths, comfortable seating and space for exercise can also make visits appealing to different age groups. However, the data do not establish that the increase in park numbers caused the reported visiting pattern. Location and service quality may matter as much as the total number.",
+      "Future planning should therefore consider where parks are needed and how existing spaces are used. Listening to residents would help turn additional facilities into accessible places that support regular activity."
+    ],
+    "template": [
+      "The two charts examine 【共同主题】 from different angles. The first shows that 【图一关键数据，完整分句】. In the second, 【图二关键数据，完整分句】. Together, they present 【并列概括，名词短语】 within the periods and groups shown.",
+      "A possible link is that 【合理机制，完整分句】. When 【具体条件，完整分句】, people may find it easier to 【行为，动词原形】. 【补充因素】 can also shape their experience, so the number of 【相关事物】 is only part of the picture. The charts do not by themselves establish that one pattern caused the other. Differences in 【统计范围或相关条件】 should be considered before drawing a stronger conclusion.",
+      "【行动主体】 could use these findings to 【具体行动，动词原形】. Attention to both 【供给或规模方面】 and 【使用或质量方面】 would help turn the observed changes into practical benefits for the people concerned."
+    ],
+    "logic": "每幅图各取核心信息 → 并列联系 → 可能机制与条件 → 具体措施",
+    "check": "第二幅图只有2024年，不能写居民访问频率“上升”。两图相关不能直接证明因果；先读清各图年份与单位。",
+    "phrases": [
+      [
+        "provision and use",
+        "设施供给与使用情况"
+      ],
+      [
+        "alongside frequent use",
+        "与频繁使用并存"
+      ],
+      [
+        "as much as the total number",
+        "与总数量同样重要"
+      ]
+    ],
+    "header": "",
+    "footer": "",
+    "source": "S01、S15、S17；双图综合与谨慎联系重写"
+  },
+  {
+    "id": "B08",
+    "title": "图画材料：行为对比与寓意",
+    "kind": "大作文",
+    "task": "新编图画题：两名学生准备同一份报告。一人只复制屏幕文字，另一人边阅读边记问题，并与同伴讨论。要求简述画面、解释寓意并评论。",
+    "body": [
+      "Two students are preparing the same report in different ways. One simply copies words from a screen, while the other writes down questions and discusses them with a classmate. Their contrasting actions draw attention to the difference between collecting information and understanding it.",
+      "Easy access to material can make learning faster, but speed alone does not ensure understanding. A student who asks why an explanation works is more likely to notice gaps and connect ideas. Discussion adds another useful step: explaining a point to someone else can reveal whether it is actually clear. Copying may produce a finished page, yet it offers little help when the learner must solve an unfamiliar problem.",
+      "A practical response is to turn reading into an active process. Students can summarise ideas in their own words, test them with examples and ask questions about unclear parts. These habits give the information a purpose beyond completing an assignment."
+    ],
+    "template": [
+      "The picture shows 【人物】 【动作，动名词】. Nearby, 【另一人物】 【另一动作，动词短语】. The contrast between their actions highlights 【主题】 and invites us to consider what produces a useful result.",
+      "【正向行为，动名词】 matters because it enables people to 【直接作用，动词原形】. For example, when 【具体情境，完整分句】, a person who 【积极做法，动词短语】 can 【可解释的结果，动词原形】. By contrast, relying only on 【反面做法，动名词】 may leave 【未解决的问题】. The difference is not simply one of effort: it also concerns how that effort is directed. A sensible approach connects 【行为】 with 【目标】 and makes improvement possible through practice.",
+      "We can apply this idea by 【具体行动，动名词】. Starting with 【小步骤】 and checking the result would turn an abstract lesson into a habit that is useful in everyday study and work."
+    ],
+    "logic": "画面事实 → 行为差异与主题 → 机制论证 → 行动",
+    "check": "只在题目实际给图画时使用；不用英语一20分、160—200词口径。画面未出现的心理和身份不要写成事实。",
+    "phrases": [
+      [
+        "notice gaps and connect ideas",
+        "发现缺口并联系知识"
+      ],
+      [
+        "in their own words",
+        "用自己的话"
+      ],
+      [
+        "beyond completing an assignment",
+        "不止用于完成作业"
+      ]
+    ],
+    "header": "",
+    "footer": "",
+    "source": "S01、S03、S11、S15、S21、S28；图画写法按英语二篇幅重写"
+  },
+  {
+    "id": "B09",
+    "title": "文字材料：评述观点",
+    "kind": "大作文",
+    "task": "新编材料观点：“Online learning should replace classroom teaching because it is more convenient.” 要求解释你是否同意，并用理由和例子支撑。",
+    "body": [
+      "The passage argues that online learning should replace classroom teaching because it offers greater convenience. I agree that flexibility is valuable, but I do not think convenience alone justifies replacing one form of education with another.",
+      "Online lessons allow students to revisit explanations and study when travel is difficult. These benefits can widen access to learning. However, a classroom also provides immediate discussion, shared practice and opportunities for teachers to notice confusion. For example, a student conducting a simple experiment may need direct guidance that a recorded video cannot provide. Different subjects and learners therefore call for different arrangements. The quality of teaching matters alongside the method of delivery.",
+      "A better approach is to combine the strengths of both forms where appropriate. Schools can use online resources for preparation and review while keeping classroom time for interaction and practical work. The choice should follow learning needs rather than a general preference for convenience."
+    ],
+    "template": [
+      "The passage presents the view that 【作者核心主张，完整分句】. I accept its emphasis on 【合理点】, but I would limit the argument where 【限制条件，完整分句】.",
+      "The proposal has a clear benefit: it can 【好处，动词原形】, especially for people who 【具体需要，动词短语】. However, this benefit does not settle the whole question. 【另一考虑因素】 also matters because 【原因，完整分句】. For example, 【贴题例子，完整分句】. In such a situation, 【自己的判断，完整分句】. The example suggests that we should assess the proposal against its purpose and the circumstances in which it is used.",
+      "A reasonable approach would be to 【结合立场的做法，动词原形】 while 【兼顾的事项，动名词】. This preserves the useful part of the author's idea without extending it beyond what the reasoning supports. The final choice should serve 【核心目标】."
+    ],
+    "logic": "概括原观点与立场 → 承认合理点 → 理由与例子 → 回扣判断标准",
+    "check": "必须回应材料真正的主张；如果题目问同意程度，要明说。不要把所有文字题都强套“问题—原因—措施”。",
+    "phrases": [
+      [
+        "justify replacing ...",
+        "构成替换……的充分理由"
+      ],
+      [
+        "where appropriate",
+        "在适宜的情况下"
+      ],
+      [
+        "the method of delivery",
+        "教学内容的传递方式"
+      ]
+    ],
+    "header": "",
+    "footer": "",
+    "source": "S01、S11、S15、S17、S21、S28；材料观点与有限同意论证重写"
+  },
+  {
+    "id": "B10",
+    "title": "图画＋图表：复合材料",
+    "kind": "大作文",
+    "task": "新编复合材料：图画中志愿者帮助老人使用医院自助机；图表显示某社区60岁以上居民预约方式，手机应用55%、电话30%、现场15%。要求描述材料并评论。",
+    "body": [
+      "In the drawing, a volunteer helps an older patient use a hospital self-service machine. The accompanying chart shows how residents aged over sixty book appointments: 55% use an app, 30% telephone the service and 15% visit in person. Together, the materials highlight both the reach of digital services and the continuing need for support.",
+      "An app can save travel and waiting time, especially for people who use smartphones confidently. Yet some residents may find unfamiliar instructions or small text difficult to follow. The volunteer's assistance illustrates one way to bridge that gap. The booking figures show that a substantial minority still choose other channels, although they do not tell us why each person makes that choice.",
+      "Hospitals should improve digital interfaces while keeping telephone and personal assistance available. Clear guidance and patient support would allow more people to benefit from convenient services without making a particular technology a condition for receiving care."
+    ],
+    "template": [
+      "The drawing depicts 【人物】 【动作，动名词】, while the chart provides figures on 【相关主题】. 【核心数据一，完整句】 【核心数据二，完整句】 Read together, the materials bring attention to 【共同问题】.",
+      "The scene illustrates how 【具体机制，完整分句】. This can benefit 【相关人群】 by 【作用方式，动名词】. The figures, however, also suggest that 【另一项合理观察，完整分句】. People may face different needs or practical barriers, including 【具体障碍】. The materials help identify the issue, but they do not reveal every person's motivation. Any explanation should therefore remain consistent with what is actually shown.",
+      "【行动主体】 should combine 【措施一，名词或动名词】 with 【措施二，名词或动名词】. This would make 【目标】 easier to achieve while preserving 【需要兼顾的价值】. Good arrangements should work for people in different circumstances, including those who require additional support."
+    ],
+    "logic": "画面与数据分别概括 → 共同主题 → 价值和障碍 → 保留多渠道",
+    "check": "app占55%可称 majority；选择电话或现场合计45%，不能由此断定45%的人不会用手机。画面与统计样本范围要分清。",
+    "phrases": [
+      [
+        "the accompanying chart",
+        "随附图表"
+      ],
+      [
+        "bridge that gap",
+        "弥合这一差距"
+      ],
+      [
+        "a substantial minority",
+        "占比不小的少数群体"
+      ]
+    ],
+    "header": "",
+    "footer": "",
+    "source": "S01、S15、S17；图画与图表联系综合新编"
+  }
+]

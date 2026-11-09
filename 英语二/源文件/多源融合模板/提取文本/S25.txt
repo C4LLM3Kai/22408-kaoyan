@@ -1,0 +1,1088 @@
+===== PAGE 1 =====
+公众号：牛南山，整理更新
+27 周思成考研英语写作零基础
+一、书写规范
+如何练字：
+1.不写连笔，不写花体，不带尾巴和圈圈；
+2.尽量写正！！不要歪七扭八；
+3.字母之间独立，词之间只有一个字母宽度
+4.大写字母是普通小写的两倍高（0.7倍），有下面部分的字母要下去，如：Hey
+5.特别注意的字母：ailrtv 不可以花！！
+无需大量时间，每天利用碎片时间（如换脑子休息时）练习15分钟，坚持20天即可看到明显效果。
+标点符号：
+1.紧接着前面的词打标点，打完标点要空一格字符！
+2.句首的字母要大写！
+3.英文没有句号只有句点.
+4.英文没有书名号！书名每个词首字母大写即可。
+二、五种基本句型
+五种基本句型其实只有两类：主系表、主谓X
+要重点区分系动词和谓语动词
+【南山笔记】
+实义动词：具有实在意义的动词，表示具体的动作、状态，看得见摸得着。
+判断方法：看中文解释是否有具体动作感。例如ggo在 go to school 中表示“去”的动作。
+系动词：起连接作用，连接主语和表语（描述主语的状态或性质），本身意义虚化。
+典型例子：be 动词 （am/is/are）。例如 I am happy.（am 无实际动作意义，仅连接）。
+半系动词：某些词既可以是实义动词，也可以是系动词，取决于语境；
+1
+===== PAGE 2 =====
+公众号：牛南山，整理更新
+以go为例：实义用法：Go to school.（去学校，有动作感）。
+系动词用法：The girl went crazy.（女孩疯了）/The company went bankrupt. （公司破产）。
+此时 go不表示“去”，而是表示“变得/进入某种状态”，连接主语和形容词/名词。
+主语
+造句练习：
+1.如果努力，就会成功。
+If you work hard, you will succeed.
+中文喜欢省略主语，英文除了祈使句和有省略的句，99%都要有主语！要想：动作是谁做的？
+2.建设和谐的社会需要我们共同努力。
+Building/To build a harmonious society requires us to make joint efforts.
+听上去是动词为主语，要用 ing/to do 形式。ing是常理，to do 是去做，常可以互换。
+它们一定是单数！要主语谓语+s/es
+3.请你给我一个回复。
+Please give me a prompt reply.
+祈使句：主语是 you，要求、命令、指示 you 做某事。尽量少用！
+Could you give me a reply at your earliest convenience?
+多用 Could you/would you..？很礼貌
+注意：除了投诉信，不要使用 as soon as possible
+4.长沙下雨了。
+It is raining in Changsha.
+时间和地点大多是状语，+介词，放在后面！
+5.如果不采取行动，会发生很多不好的结果。
+If we don't take action, many bad consequences will take place.
+If no action is to be taken, a lot of bad outcomes may follow.
+中文句子里不少宾语，是英文句子的主语。
+根据它和动作的关系，决定用主动/被动。特别是：主语不明确、不知道时，多被动。
+当强调人去执行动作时，用 have sb.do。
+2
+===== PAGE 3 =====
+公众号：牛南山，整理更新
+当强调物承受动作，且动作由他人完成时，用 have sth.done。
+注意：助动词是帮一句话变成否定句、疑问句和复杂时态的小词。
+如：Ilike youv
+I not like you. X
+I do not like you
+You like him? * Do you like him? V
+6.我长一脸的痘。
+Pimples have erupted all over my face.
+中文的很多主语，并不能“做出”谓语的动作。
+例如：“那里有很多美食和有意思的小店子。容易误译为 There have delicious food。
+7#2*4: There are delicious foods and interesting shops there.
+因为 There be 是倒装句，真正的主语是后面的名词（foods/shops）。There 本身没有实义，不能支配 have。
+7.我很难听懂你说的话。
+It is difficult for me to follow you.
+难/容易/可能/不可能一般用形式主语
+因为是那个动作难，而不是人难。
+关于主语最重要的事：
+1.要有主语，且主语要能做出这个动作；
+2.动作为主语，要用 ing/to do，句子要有别的动作；
+3.中文中没主语的句子，想想被动/反客为主。
+作业练习：
+1.河岸上站着两个老人。
+2.多练习，更熟练。
+3.暑假有很多时间可以运动。
+4.再偷懒，就不可能成功了。
+5.逃避问题只能让事情更糟糕。
+6.图左边有棵树，树上写着：“XX到此一游”。
+===== PAGE 4 =====
+公众号：牛南山，整理更新
+练习答案：
+1.中文中“站着两个老人”没有明确主语，用的是倒装结构。
+英语必须还原为主语＋动词：Two old men are standing on the riverbank.
+也可以强调地点（倒装，但主语仍然明确）：On the riverbank stand two old men.
+注意：old man虽可用，但在正式写作中显得随意和没礼貌
+2.中文是省略主语+并列句，意思完整但英文不能直接模仿。
+英文表达要补出主语：The more you practice, the more fluent you become.
+结构是 “the 比较级…，the 比较级…”，英文固定搭配。
+3. 〝暑假〞是不能“有时间”的，人可以。
+英文要表达“我们/你有时间”，否则句子缺主语：You have plenty of time to exercise during the summer
+vacation. There is plenty of time for exercise in the summer.
+4.中文主语完全省略，英语不能。
+必须加主语，表达逻辑因果关系：If you keep being lazy, it will be impossible to succeed.
+#Пі: If you keep slacking off, you won't be able to succeed.
+5.“逃避问题”要用动词的 ing形式。
+英语需要主语（动作作为主语）：Avoiding problems will only make things worse.
+结构是〝动名词+will make.”
+，典型的主语行为句型。
+6.中文是图画描述，主语经常省略。
+英语表达应清晰画面：There is a tree on the left side of the picture, and on the tree, it says "XX was here."
+EASt: On the left side of the picture stands a tree, with the words "XX was here" carved into it.
+【南山笔记】
+• Plenty of / A great deal of / An amount of
+Plenty of 通常接不可数名词（如 time, money）。虽然口语中偶见接可数，但标准用法倾向于不可数。
+A great deal of 只接不可数名词。
+An amount of 只接不可数名词（如 an amount of time/money/information）。
+易错点：虽然 amount意为“数量”，看似可数，但在英语习惯中仅修饰不可数名词。
+Exercise 不可数：指“运动、锻炼”。例：do exercise；可数：指“练习题、习题”。例：do many exercises。
+其他绝对不可数名词：information, money
+4
+===== PAGE 5 =====
+公众号：牛南山，整理更新
+> 三个最重要的实义动词：let, make,have
+have 的特殊用法（使役动词）：have somebody/something done 让/使某事被做。
+注意：在考研阅读中常出现，翻译和理解时需快速识别为“让”。
+主系表
+系动词：be 动词、感官动词、
+半系动词（保持、变得、结果）
+表语：系动词后面就是表语
+表语是在讲主语的状况、身份、特点
+除了动词原形的词性，都可以做表语
+中文现象
+无主语
+动作作主语
+省略式状语
+地点倒装
+英语表达要求
+英文必须补出“谁”
+动词要用动名词作主语
+补全时间/地点结构
+恢复为“谁+在哪里”
+类别
+状态类（等于）
+感官类（看起来\感觉像）
+变化类（变得）
+半系
+动词
+保持类（继续是）
+结果类（最后变成）
+代表动词
+be
+look, feel, sound, smell, taste
+become, get, grow, turn, go, fall
+stay, remain, keep
+prove, turn out, come out
+系动词+表语类型表
+表语类型
+形容词
+名词
+代词
+常见程度
+V最常见
+V常见
+V可用
+示例
+smart, tired
+student, teacher
+例句
+mine, yours
+She is smart.
+He is a student.
+That is mine.
+5
+示例
+再偷懒就失败 If you keep being lazy..
+逃避问题
+Avoiding problems
+暑假有时间
+We have time during summer
+河岸上站着两个老人 Two men are standing.
+示例
+She is tired.
+He looks angry. It smells good.
+He became famous./ She got sick.
+He remained silent.
+The plan proved successful
+中文含义
+她很聪明。
+他是一名学生。
+那是我的。
+===== PAGE 6 =====
+公众号：牛南山，整理更新
+介词短语
+动名词
+不定式
+名词性从句
+副词
+V常见
+V 可用
+V可用
+V可用
+！较少见
+in the room
+reading
+to wait
+that he forgot
+here, now
+He is in the room.
+His hobby is reading.
+The best choice is to wait.
+The problem is that he forgot.
+The meeting is now./She is here.
+他在房间里。
+他的爱好是阅读。
+最好的选择是等待。
+问题是他忘了。
+会议是现在。/她在这里。
+造句练习：
+1.拥抱全球化是一个明智的举动。
+Embracing globalization is a wise move.
+正常的中文的“是”，对应的就是be 动词
+但是要记得区分单复数与时态 am/is/are/was/were
+2.妈妈的头发白了。
+My mom's hair has turned grey.
+有很多半系动词表示“变得”；
+become偏正式+famous, popular, successful，也可以+名词作表语~a doctor
+turn ＋颜色 pale（惨白）yellow（树叶变黄）
+go + 不好的事情 crazy/mad/blind
+易错点：white 指“雪白/纯白”，形容老人头发变白不准确。pale 指“苍白/脸色不好”，不用于形容头发。
+3.找到高薪工作的竞争日趋激烈。
+The competition for high-paying jobs has become increasingly intense.
+文章讲某个趋势变化，一般用 has become
+4.我给你写回信来给些我的建议。
+I am writing this email to make some suggestions.
+要分辨出时态里的be动词使用，中文里很多时候是没有体现的。
+5.现代人拥有了更多的财富。
+6
+===== PAGE 7 =====
+公众号：牛南山，整理更新
+Modern people are in possession of more wealth.
+介词短语作表语时，一定要有系动词！中文中也无体现
+FAR: in favor of/ in need of/ in want of/ in pursuit of
+6.很多人的梦想是创业。
+Many people's dream is to start businesses of their own.
+be to do 表示“要去做”或者非常近的将来要做。
+I am to meet him in ten minutes.
+7.一直保持乐观是很难的。
+It is hard to stay positive all the time.
+不要一想到保持就是“keep”；
+stay+情绪心理
+calm, happy, optimistic, quiet, healthy
+keep+具体采取行动的状态 fit, clean, warm, safe, busy, in touch
+系表的作业练习。
+1.牛奶变酸了。
+2.他们的意图是帮助这个社区。
+3.我的愿望是看到你们成功。
+4.现代人需要更多的理解。
+5.我支持作者的观点。
+6.，许多措施即将采纳来避免情况恶化。
+练习答案：
+1.The milk has gone sour.
+2.Their intention is to help the community.
+3.My wish is to see you succeed.
+4. What modern people need is more understanding.
+5.I am in favor of the writer's opinion.
+6.Many measures are about to be adopted to prevent the situation from getting worse.
+7
+===== PAGE 8 =====
+公众号：牛南山，整理更新
+不定式作后置定语的常见名词
+不定式（to do）不仅可以作表语、状语，还可以作后置定语。当它修饰特定名词时，表示该名词具有“去做
+某事”的属性或功能。由于动作尚未发生或具有目的性，这类名词后通常接不定式而非介词短语（如 of doing）。
+高频搭配词汇：
+Ability （能力）：the ability to do sth.y
+ability of facing..×
+Chance / Opportunity (‡Л#): a chance/opportunity to do sth.
+Plan (it t): the plan to do sth.
+不定式的成分取决于它修饰的对象，而非其自身形态：
+修饰动词/句子-目的状语，例：I came here to improve my English. （"To improve"修饰"came”，表目的）
+修饰名词 - 后置定语，例：The way to solve the problem.（"To solve”"修饰"way"）
+主谓
+英语中的实义动词分为及物动词（vt.）和不及物动词（vi.）。
+不及物动词：不能直接接宾语，动作无法直接作用于对象。后面必须加介词才能接宾语，或句子直接结束。
+例：I cooperate youx I cooperate with youv
+I listen music. ×
+I listen to music.V （listen 为不及物，需加 to）
+I agree you.×
+I agree with you.V （agree 为不及物，需加 with）
+及物动词：必须直接接宾语，动作直接作用于对象。后面紧跟名词或代词作宾语，无需介词。
+【南山笔记】
+> Conduct（开展/实施/传导）
+用法：conduct + 名词。常用于学术或正式场合，如“开展调研”。
+例：conduct a survey. According to the survey conducted by the Student Union.. 这里 conducted 是过去分词作
+后置定语，修饰 survey，表示被动关系（调研被开展）。
+中式思维陷阱：
+Water can conduct.错误，conduct 后缺宾语；Water can conduct electricity. 才对。
+> Commit（犯/做/承诺-使）
+用法：commit+ 名词
+例：commit a crime、commit suicide— 注意：不是“自杀”这个动作本身，而是“实施了自杀这一行为”
+8
+===== PAGE 9 =====
+公众号：牛南山，整理更新
+常见错误：He committed.缺少宾语，句意不完整；He committed many crimes. 或 He committed suicide.才对。
+> Commit （使承诺/致力于）：〝be committed to do sth. / be committed to doing sth.（致力于做某事）
+什么是“使动”动词？
+许多英语动词在中文里翻译成单个字（如“上瘾”、“担忧”、“适应”），但在英文逻辑中，这些动作往往隐含
+“外力致使”的含义。这类动词称为使动动词
+及物时：主语是“施力者”，宾语是“受力者”。结构为 A makes B do/be sth.
+不及物时：通常用于被动语态，因为人通常是“受力者”。
+例：Addict（使上瘾）
+中文思维：我对原神上瘾。
+Iaddict YS.（错误）
+英文逻辑：原神使我上瘾。YS addicts me.（正确，主动语态）
+常用表达：由于人们习惯以“人”为主语描述状态，因此常使用被动语态：Iam addicted to YS. （我对原神
+上瘾。）— be addicted to 是固定搭配。
+分类：
+主谓 不及物动词（直接结尾或+介词＋宾语）
+主谓宾 及物动词（必须要有宾语）
+主谓宾双宾 双宾及物动词（先人后物，先间后直）
+双谓宾宾补 复杂及物动词（去掉宾补句意不成立）
+> 主谓—直接结尾，或+介词+宾语
+1.很期待与你合作。
+I really expect us to cooperate.
+I really look forward to cooperating with you.
+不及物：直接句子结尾（当然可以带副词）
+or +相应介词+宾语
+既不能 Please wait me.， 也不能Iwill wait for.若有宾语，需说 wait for sb.；若无宾语，直接用 wait。
+2.暑假有很多时间学英语，你可以多听歌，多聊天。
+You have plenty of time during your summer vacation to learn English. Listening to more English songs and
+===== PAGE 10 =====
+公众号：牛南山，整理更新
+chatting more with your friends in English are both good ways to improve your English.
+如果直接对应中文的动词＋名词，会有非常炸裂的错误感：I agree you.
+判断下列句子中横线处是否需要填入介词；
+I am seeking
+a job.
+The number finally reached
+_its peak.
+You need to contact
+him.
+You should face
+the challenges.
+(People) should devote their time to serving
+_ people.
+上述所有划线处的动词均为及物动词。及物动词后直接接宾语，不需要也不可以加介词。所以，全部不填。
+常见的不及物动词+介词+宾语：
+participate in the event
+参加这个活动
+believe in yourself 相信自己
+specialize in English 擅长英语
+laugh/smile at the boy
+对着那个男孩大笑/微笑
+hunt for jobs 找工作
+recover from the wound 伤口恢复
+apologize for my mistake
+为我的错误道歉
+succeed in the race 在比赛中成功
+shout at me 吼我
+complain about the service
+抱怨这个服务
+graduate from college 大学毕业
+apply for this post 申请这个职位
+depend on young people
+依靠年轻人
+hope for the best 往好处想
+belong to the group 属于这个集体
+consist of many aspects
+包括很多方面
+result in bad outcomes 导致坏结果
+approve of the plan 批准该计划
+常见被误解的及物动词（不需要介词）：
+discuss about the topic一discuss the topic（讨论话题）
+reach to the destination —>reach the destination（到达目的地）
+enter into the room —> enter the room（进入房间）
+answer to your question answer your question（回答问题）
+attend to the meeting attend the meeting（参加会议）（attend to 意为“照料/处理”，此处指参加）
+mention about the issue —> mention the issue（提到问题）
+consider about the proposal — consider the proposal（考虑该提议）
+face with challenges -> face challenges（面对挑战）（be faced with 为被动/形容词短语，主动语态直接用 face）
+10
+===== PAGE 11 =====
+公众号：牛南山，整理更新
+seek for help一seek help（寻求帮助）（seck for 多指抽象的追求，如 seek for truth）
+influence on younger generations —> influence younger generations（影响年轻人）（名词可）
+join in the group —> join the group（加入团体）（join in +具体活动）
+contact with me - contact me（联系我）（名词可）
+consult with a doctor -> consult a doctor（咨询医生）
+resist to the temptation —>resist the temptation（抵制诱惑）
+oppose to the plan — oppose the plan（反对这个计划）
+3.人们的想法很不一样。
+People's ideas differ greatly. Everyone's thoughts differ vastly.
+4.你是否知道答案不重要，重要的是你愿意学习。
+It doesn't matter whether you know the answer; what matters is your willingness to learn.
+-i It does not matter if you know the answer, but it matters a lot whether you are willing to study.
+＞ 及物动词—必有宾语，可被动语态
+1.Tell me what to do and how to do. (?)
+2. There are several reasons that can explain. (?)
+3.I grew up in a small town where people like. (?)
+1.do 在此处意为“做”，是及物动词。what 作do的宾语（即 dowhat），但how 是副词，不能作do 的宾语修
+E: Tell me what to do and how to do it.
+2.explain 后缺少宾语。explain 是及物动词，必须解释某个对象。定语从句 that can explain 修饰 reasons，但
+explain 自身需要宾语来指代被解释的现象。
+*IE: There are several reasons that can explain this phenomenon.
+3.like 后缺少宾语。like是及物动词，不能说“人们喜欢”，必须说“喜欢什么”。
+1IE: I grew up in a small town where people like it / the lifestyle.
+及物动词造句练习
+1.他的一生都在为人民服务。
+2.很多家长缺乏正确的教育方式。
+11
+===== PAGE 12 =====
+公众号：牛南山，整理更新
+3.活在社交媒体影响很大的时代，越来越多年轻人热衷于追星。
+练习答案：
+1.He devoted his lifetime to serving the people.
+错误：serve for the people（除非 for 引导目的状语，但 serve 本身及物）
+空中填什么？
+I am seeking_ a job.
+If you have any questions, please contact_ me.
+You should face__the challenges.
+In the final year, the number reached_
+its peak.
+答：全都不填。
+2.Many parents lack proper parental education. Ee Many parents lack correct parenting skills.
+3.Living in an age when social media platforms influence people heavily, an increasing number of young people
+are passionate about idolizing celebrities.
+a.有时中文意思里没有宾语，及物动词则要补上宾语；
+b.很多动词表面中文是那个意思，实际不能+那个宾语，平常一定要多积累动宾搭配！（比如不能 aspire
+star/aspire after star)
+＞ 双宾动词—先人后物，先间再直
+给予、带来、传递、告知：
+give me a chance
+teach us a lesson
+buy her a gift
+write her a letter
+offer me this opportunity
+show him the way
+bring me a cup of coffee
+send you a letter
+make the boy a cake
+tell her a joke
+双宾 vs.宾补：
+双宾语的两个成分必须是不同的事物（如：我机会）。双宾动词指同时接两个宾语（间接宾语＋直
+接宾语）的动词，先人后物（先间再直）：间接宾语通常是人，表示动作的接收方；直接宾语通常是物或
+抽象概念，表示动作的直接承受者。
+12
+===== PAGE 13 =====
+公众号：牛南山，整理更新
+若两个成分指代同一对象（如：He made me a hero/ He made me happy），则为“主谓宾+宾补”结构，而
+非双宾。
+EZ/): He gave me the opportunity to deliver the speech.
+7&Z: I was given the opportunity to...... The opportunity was given to me to......
+＞ 主谓宾宾补——对应复杂及物动词
+宾补虽然是在补充宾语的状态、特点，但是是谓语做出的动作的影响的延伸，所以带宾补的时候的及物动
+词，有了新的身份：复杂及物动词。
+“复杂”的含义：在语法中，“复杂”意味着成分大于一（不止一个词或一个简单结构）。它接宾语后，还
+需通过宾补对宾语进行补充说明，结构更丰富，故称“复杂”。例：现在进行时 be doing、完成时 have done，
+包含助动词＋买义动词，故为复杂。
+很多词，特别是常见词，都是斜杠青年。
+He made a cake.（及物动词）
+He made me a cake.（双宾动词）
+He made me eat that cake.（复杂及物动词）
+宾补其实和表语一样（因为表语就是主补）：
+除了动词原形都能做宾补，形容词、名词、现在/过去分词、不定式、介词短语
+1.He made me happy.
+形容词作宾补
+2.He made me a hero.
+名词作宾补
+3.He made me practice more.
+4. The event made her known to everyone.
+5. The campaign made her into a public figure.
+省略 to 的不定式作宾补
+过去分词作宾补
+介词短语作宾补
+【南山笔记】主补：
+1.主系表
+系动词后的表语即为主补。成分同前：形容词、名词、分词等。
+2.部分不及物动词后
+13
+===== PAGE 14 =====
+公众号：牛南山，整理更新
+部分不及物动词后可接名词作主补，说明主语的身份或作用。如：act as、serve as。
+逻辑：后面的名词直接修饰/定义主语的行为角色，构成主补关系。
+3.双宾/宾补结构的被动转化
+当带有宾补的句子变为被动语态时，原宾语变为主语，原宾补随之转化为主补。
+转换示例：主动：He made me a hero.（他使我成为英雄。）被动：Iwas made a hero.（我被塑造成了英雄。）
+此时 a hero 即为1的主补。
+注意：并非所有双宾动词都能这样转换，需确保语义通顺且符合被动语态逻辑。
++省略to的不定式（即看上去是原型动词）的复杂及物动词：
+一感 feel
+I felt him touch my shoulder.
+二听 hear/listen to
+I heard her sing a song.
+三使 make/let/have
+I will have him call you.
+147 see/watch/notice/observe
+My wish is to see you succeed.
+0.5 73 EJ help sb do/to do
+Help children grow up happily.
++省略to的不定式的复杂及物动词，不代表只能+do.
+I will have him call you.
+The news have us worried.
+Let him be free.
+She made herself heard.
+I feel the wind blowing.
+作文中常见的复杂及物动词：使得、觉得、认为、导致：
+动词
+常见结构
+make
+make+ 宾 +adj./v.
+原形/分词
+find
+find + 宾 +adj
+consider
+consider +宾+n./adj
+含义
+使得；让（使役结
+构）
+觉得（不是“找
+到”）
+认为；视为
+示例句
+Technology makes our imagination come true.
+The internet makes it possible for us to talk with anyone.
+I find this idea reasonable.
+Many people find it hard to accept their weaknesses.
+I consider him responsible for the failure.
+14
+===== PAGE 15 =====
+公众号：牛南山，整理更新
+deem
+deem + 宾+n.（不加
+as)
+认为（正式）
+We should consider failures important lessons.
+People deem travel an important part of their lives.
+The event was deemed a success.
+view
+/regard
+/perceive
+动词 +宾 +as+n.
+/ adj.
+把…视为（客观
+看待）
+We regard this issue as a chance.
+People perceive climate change as a threat.
+leave
+enable
+让…保持某状态；
+使.
+enable + 宾 +to do
+cause
+expect
+cause + # + to do
+expect + # + to do
+leave+宾+
+adj. / to do /doing
+使..能够做某事
+导致.做某事
+期待.做某事
+Please leave the door open.
+Leave him to do it himself.
+Optimism enables us to stay positive.
+Stress causes people to lose focus.
+The father expects his son to be brave.
+写作实用建议：
+• make/find/eave等动词后宾补多为形容词或原形动词，用于表达状态或结果。
+• consider/deem/view/regard 等强调“认为/视为”，表达主观看法时常见。
+•
+enable/cause/expect 等动词可用于逻辑因果、观点论证中，常引导to do 结构。
+高频使役动词（常见于口语和写作）：
+动词
+结构（主动）
+含义
+宾补类型
+被动结构
+示例（主动）
+示例（被动）
+make
+make + 0 +
+V原形
+使役
+（强制）
+V原形/
+V-ing /
+V-ed
+be made +
+to do
+His jokes made us laugh.
+The scene made me cry.
+We were made
+to leave.
+be let + to
+do
+let
+let + O + VH
+形
+允许
+V 原形
+She let me drive her car.
+（不常
+用）
+（不用被动，常
+改写：I was
+allowed to drive.)
+have
+have + 0 + V
+原形
+让
+（安排、
+命令）
+V原形/
+V-ing /
+V-ed
+have + 0+
+V-ed（被动
+含义）
+I had him fix my computer.
+I had them working all night.
+I had my hair
+cut. (= someone
+cut it for me)
+15
+===== PAGE 16 =====
+公众号：牛南山，整理更新
+要点整理：
+• make/let/have 是最核心的三大使役动词。
+•
+make/let/have + O+ do： 不带to，是不定式省略to 的形式。
+• 被动结构中，make 要加 to，let 的被动常用别的动词（如 allow），have 用“have+O+V-ed”。
+中频使役动词：
+动词
+结构（主动）
+get
+get + 0 + to
+do
+含义
+设法让
+某人做
+某事
+宾补类型
+被动结构
+示例（主动）
+to do
+help
+et+0+
+to do /get +
+O + V-ed
+不常用被
+动
+I got him to help me.
+leave
+help + 0+
+(to) do
+leave + 0+
+adj. / V-ing/
+V-ed
+帮助
+do / to do
+（均可）
+She helped me (to) finish the
+task.
+让…处
+于某状
+态
+adj. / V-ing
+/V-ed
+be left +
+adj. / V-ed
+He left the door open.
+She left me crying.
+要点整理：
+• get 常用于“说服/设法让人做事”，要加to。
+• help 可加 to 也可省，意思相同。
+•
+leave 更强调状态结果，后可接形容词、V-ing 或 V-ed（被动含义）。
+低频或书面语常见使役动词
+动词
+结构（主动）
+cause + 0+
+cause
+to do
+allow/permit
++ O + to do
+含义
+宾补类型
+导致
+to do
+allow/
+permit
+force /
+compel
+允许
+to do
+force/compe
+1 + 0 + to do
+强迫
+to do
+encourage
+encourage/p
+鼓励/
+to do
+被动结构
+be caused + to
+do
+be allowed /
+permitted to do
+be forced /
+compelled to do
+be encouraged /
+示例（主动）
+Stress caused him to
+quit.
+They allowed me to
+leave early.
+They forced him to
+confess.
+She persuaded him
+16
+示例（被动）
+I got my car
+fixed.
+（通常改写）
+The door was left
+open.
+示例（被动）
+He was caused to
+quit by stress.
+I was allowed to
+leave.
+He was forced to
+confess.
+He was persuaded
+===== PAGE 17 =====
+公众号：牛南山，整理更新
+/ persuade
+ersuade + 0
++ to do
+说服
+persuaded to do
+to stay.
+to stay.
+要点整理：
+• 这些多为书面语或正式语境。
+• 通常加todo，且主动被动转换灵活。
+• 常用于表达因果关系或劝说/允许类行为。
+总结归类：使役动词结构一览表
+类别
+动词
+不带 to
+带to
+状态类
+make / let / have
+get, help（可省），causee
+allow,permit, force #
+leave, keep, set #
+是否省略 to
+省略 to
+不可省略（除 help）
+不接动词原形
+可否用于被动
+make,let,have（形式）
+可被动
+常接宾补类型
+V 原形/adj/分词
+to do
+adj. /V-ed /V-ing
+作业：翻译下列句子为英文
+1.我们把这个错误看作是一个宝贵的教训。
+2.他们认为这个计划太冒险，难以实施。
+3.她总是让孩子自己做决定。
+4.老师鼓励我们参加这次比赛。
+5.我发现这个方法非常有效。
+6.他被迫放弃了原来的想法。
+7.压力会使人变得焦虑和不安。
+8.他留我一个人在图书馆等他。
+作业答案：
+1.We viewed this mistake as a valuable lesson.
+2. They considered this project too risky to implement.
+3. She always has her children make their own decisions.
+4. The teacher encouraged us to participate in the competition.
+17
+===== PAGE 18 =====
+公众号：牛南山，整理更新
+5.1 found this approach very effective.
+6.He was made to abandon his original thoughts.
+7.Stress causes modern individuals to be anxious and uneasy.
+8.He left me waiting for him in the library by myself.
+三种常用形式宾语句型结构表
+句型
+makes it + adj.
++ for sb. + to
+do sth.
+find it + adj. +
+to do sth.
+结构
+A makes it +
+possible/impossible/easy/
+difficultt for sb. + to do
+sth.
+Sb. finds it +
+hard/easy/possible/necess
+ary + to do sth.
+Sb. considers it +
+important/necessary/usefu
+l/appropriate + to do sth.
+常见形容词/形容词短语
+possible, impossible,
+easy, difficult,
+convenient, necessary
+hard, easy, possible,
+necessary, helpful,
+rewarding
+important, necessary,
+useful, appropriate,
+urgent, beneficial
+示例句
+The advancement of technology
+makes it possible for modern people
+to have access to better but cheaper
+products.
+If college students slack off during
+their college study, they will find it
+hard to secure high-paying jobs when
+they enter the job market.
+They consider it important to
+address these issues immediately.
+consider it +
+adj. + to do sth.
+小结与提示
+• 三个结构都使用 it作形式宾语，不定式短语作真正宾语。
+• “make it.”强调主语的作用；“find it.”强调人的感受/评价；“consider it.”强调主观判断。
+• 可扩展到被动形式，如：It is considered important to.• It was found-difficult to
+主谓宾的作业练习
+1.30人参加了会议，10人讨论了这个话题，最后得出了结论。
+2.他爸爸问他爱不爱英语，他说爱。
+3.我刚大学毕业，想申请这个职位。
+4.在这个时代，每个人都有机会展示自己的才华。
+5.她听到他们讨论这个计划。
+18
+===== PAGE 19 =====
+公众号：牛南山，整理更新
+6.人类的贪婪会使我们自我毁灭。
+7.祖国的富强使年轻人能自由地追求自己的梦想。
+8.如果不保持学习，会发现很难跟上社会发展的步伐。
+9.我们不能让这么重要的事未完成。
+10.经常健身不仅使我们精力充沛，还能让我们交到很多正能量的朋友。
+作业答案：
+1. Thirty people attended the meeting, ten discussed the topic, and a conclusion was drawn.
+2. His father asked whether he loved English, and he said he did.
+3.1 have just graduated from university and want to apply for this position.
+4.In this era, everyone has the opportunity to showcase their talent.
+5. She heard them discussing the plan.
+6.Human greed may lead to our self-destruction.
+7. The prosperity of our motherland enables young people to freely pursue their dreams.
+8. Without continuing to learn, one will find it hard to keep pace with social development.
+9. We must not leave such an important matter unfinished.
+10. Regular exercise not only keeps us energetic but also helps us make many positive-minded friends.
+被低估的助动词
+1.宿舍和校区远吗？
+Is the dormitory far from the campus?
+be 动词在时态、被动、疑问句中就是助动词，对于非动作的一般疑问句，用be 动词开场！
+注意：避免使用 How far:How far 询问的是具体距离（如多少米），而询问“远不远”是询问状态，应使用
+一般疑问句。
+2.附近有打篮球的地方吗？
+Is there somewhere to play basketball nearby?
+一般疑问句：助动词开场，回答以yes/no开场。
+• 一般疑问句，即是否疑问句 （Yes or No Questions），必须以助动词（Be, Do, Have，情态动词等）开头。
+回答必须以 Yes 或No 开头。例：问：Do you like me？ 答：Yes, I do./No, Idon't.
+•
+特殊疑问句 （WH Questions），以 Wh- 疑问词（What, Where, When, Why, How 等）开头。
+19
+===== PAGE 20 =====
+公众号：牛南山，整理更新
+3.你听到有人哭吗？
+Did you hear someone crying?
+对于具体动作的一般疑问句，用do/did/does 开场！
+4.你推荐什么出行方式？
+What means of transportation do you recommend?
+特殊疑问句：问具体信息，而非是与否。
+Swlh 开头+助动词。
+具体动词的助动词，用 do/did/does
+means of transport意为“交通方式”，其中 means 单复数同形，此处指代具体的方法。
+5.他不仅经验丰富，而且乐于助人。
+Not only is he very experienced, but he is always ready to help others.
+否定的倒装：否定词+助动词，问题是，哪类助动词，要看它助的是什么（动作？非动作？情态？时态？）
+Not only 位于句首时，前半句必须使用部分倒装（将助动词/系动词/情态动词提至主语前）
+6.如果你有任何问题，请跟我联系。
+Should you have any further questions, please feel free to contact me.
+情态动词也是助动词，和上述的区别：本身没有形式变化、后面永远接动词原形
+情态动词不要看字面意思，要看它表示的礼貌、可能性等。
+7.他敢告诉她真相吗？
+Dare he tell her the truth? * Does he dare to tell her the truth?
+半助动词 dare/need，既可以普通动词（+to do），又可以本身做助动词：无变化、后边接原型
+助动词的分类
+1.基本助动词 （Primary Auxiliary Verbs）：
+Be: am, is, are, was, were, being, been
+Have: have, has, had
+20
+===== PAGE 21 =====
+公众号：牛南山，整理更新
+Do: do, does, did
+2.情态动词 （Modal Auxiliary Verbs）：
+基本情态动词：can, could, may, might, must, shall, should, will, would
+半情态动词（Semi-Modal Verbs）： dare, need, used to, ought to
+【南山笔记】
+Used to:used to + do 过去常常（现已改变）
+例：Iused to get up early.（我以前早起）
+Be used to: be used to doing
+例：Iam used to getting up early.（我习惯了早起）
+主谓一致、时态、情态作业：
+1.图中的爸爸，手里拿着烟，自己在看电视。
+2.家庭与社会的压力使得很多人十分压抑。（cause）
+3.经过那个事故，他变了一个人。
+4.能不能告诉我哪里可以找到便利店。（用 Could you tell me.. 或配合 Excuse me...）
+5.你参加过什么志愿者活动嘛？（这是一个 Yes/No 问句，而非WH 问句，因为问的是“有没有经历”，回答
+Yes/No)
+6.你不用担心，他不敢说谎。（need,dare）
+040
+7.坚持不仅让人实现目标，而且人也可以通过坚持变得正面。
+8.他不仅完成了报告，还去健身了。
+9.你不应该忽略健康，因为你过去不吃蔬菜。（ought to, used to）
+10.我若昨天来了，就不会错过这个机会了。
+作业答案：
+1. The father in the picture is holding a cigarette and watching TV.
+2.Family and social pressure causes many people to feel extremely depressed.
+3. After that accident, he became a completely different person.
+4. Could you tell me where I can find a convenience store?
+5.Have you ever taken part in any volunteer activities?
+6. You need not worry; he doesn't dare to lie.
+7.Perseverance not only helps people achieve their goals, but also makes them more positive.
+8. Not only did he finish the report, but he also went to the gym.
+21
+===== PAGE 22 =====
+公众号：牛南山，整理更新
+9. You ought not to neglect your health, because you used to skip vegetables.
+10.If 1 had come yesterday, I wouldn't have missed the opportunity.
+【南山笔记】
+• 有确定过去时间—一般过去时。
+• 无确定时间，强调影响/经历 -用现在完成时。
+语境判断：“尿过裤子”是特定过去的尴尬事件—一般过去时。
+“去过美国”是个人履历/经历 —现在完成时。
+为什么要使用倒装？
+核心目的：强调 与 信息重心前置。
+倒装不是为了“炫技”或单纯展示语法知识，而是为了突出说话人认为最重要的信息。
+英语思维倾向于将重要信息放在句首或句尾，倒装常配合定语从句等后置结构，买现句子平衡。
+例
+1.Not only... but also... 14)
+Not only 引导的部分是已知信息或次要信息，but also 引导的部分是新信息或重点信息。将 Not only 提前，
+起到提醒听众注意后续内容的作用，同时通过倒装增强语气。
+*Д: Not only does persistence enable us to achieve our goals, but we also develop a more positive mindset.
+强调坚持带来的双重积极影响，前半句引出话题，后半句深化主题。
+2.地点状语前置
+强调动作发生的特定地点，而非动作本身或主语。营造画面感，符合文学描写习惯。
+On the river bank stand two elderly people.
+解析：强调“在河岸上”这一场景。若后接定语从句（如 who are smiling），可将长修饰语后置，保持句子头
+轻脚重，符合英语“尾重原则”。
+22
+===== PAGE 23 =====
+公众号：牛南山，整理更新
+旬子之间
+案例：
+Firstly, laying the foundation of words is cardinal importance, So I suggest that you buy a GRE vocabulary book
+and memorize two or more lists of words. Secondly, words only are inadequate if you are intend to acquire more
+translation skills, you should take online courses which provide the professional guidances. Besides, practice makes
+perfects. Doing oral exercises, reading original versions and practising personally are all good ways for you.
+上述案例存在多处语法瑕疵。
+考研作文评分机制：采用“档分制”。阅卷老师首先根据第一印象确定档次（如6-8 分档），然后根据具体
+错误进行微调（加减1-2分）。
+容错率：即使存在上述多处语法瑕疵，只要文章结构清晰、要点齐全、无明显理解障碍，仍可能获得中等
+分数（如 6-7分）。但若错误过多导致理解困难，分数会显著降低。
+字迹对分数的决定性作用：
+丑字：若字迹非常潦草，开篇即被定为低档（3-4分甚至更低），后续内容难以挽回。
+好字：工整的字迹能显著提升阅卷老师的第一印象，有助于获得高档次分数（如8.5分）。
+旱区效应：在英语阅卷严格的地区（早区），卷面分的影响尤为明显，“字好看赢一半”。
+岸
+让下列句子形式“发烂发臭”
+1.Learning English is difficult, you need to work harder.
+2. Learning English is difficult, thus, you need to work harder.
+3.Since learning English is difficult, working hard.
+4. Learning English is difficult; while learning Chinese is harder.
+5.If you, believe it or not, want to learn English well.
+6. There are several ways help you learn English well.
+句子解析：
+1.缺少连接词。
+逗号前后都是句子（都有谓语动词），两句话之间需要有连词
+并列连词三座大山：and but or，并列连词三座小山：for so yet
+23
+—并列连词 or 从属连词。
+===== PAGE 24 =====
+公众号：牛南山，整理更新
+中文连句中很爱省掉英文中的and 和 so！！！
+2.thus 是副词，不是连词，不能单独连接两个句子。
+不要以为有“逻辑词”，就可以连接两个逗号单句。逻辑词是副词时，就不可以单独连接。
+Ef SiE: Learning English is difficult; thus, you need to work harder.
+Learning English is difficult. Thus, you need to work harder.
+Learning English is difficult, and thus you need to work harder.
+3.只有从句，没有主句。
+从句：跟在连接词后面的句子。
+所以逗号连接有连接词带的一句话，就得有没连接词的一句话。
+#SiE: Since learning English is difficult, you ought to work harder at it.
+4.分号后接从句导致主句缺失。
+分号，后面要小写，但是前后句子还是相对独立的。
+所以分号前后的句子，得是完整的句子——不能只有从句。
+# 5Z: Learning English is difficult; learning Chinese is harder.
+Learning English is difficult, while learning Chinese is harder.
+5.被插入语误导，导致主句缺失。
+带了双逗号的插入成分，不要就忘记本身的完整性！
+Ff Sit: If you want to learn English well, believe it or not, you ought to practice every day for a long time.
+Chasing celebrities, to a large extent, adversely affects young people's interpersonal relationships.
+The process of developing persistence, directly or indirectly, helps shape a better personality.
+6.简单句中出现了两个谓语动词，且无连接词。
+简单句不可以有两个动词，特别是一个be 一个 do。（省略to 的不定式做宾补除外）
+正确写法：There are several ways to help you learn English well.
+There are several ways that may help you learn English well.
+用非谓语（根据用法选择）或者+引导词带从句
+24
+===== PAGE 25 =====
+公众号：牛南山，整理更新
+状语从句
+状语从句——最好用、最简单的从句
+最对应中文的从句
+顺：时间、地点、原因、目的、结果、条件、方式
+转：让步、比较
+一篇作文里怎么着也会用三四个
+1.好用的时间状语从句
+> Ifelt thrilled when I received your message, in which you mentioned you succeeded in..（小作文开头写收到
+来信）
+As competition intensifies in contemporary society， （随着竞争加剧，来引出现在社会背景）
+> When young people put too much energy into entertainments, they gradually become less ambitious and
+motivated.（讲一种主题论证假设情况下的合理结果）
+2.地点状语从句比你想象中少
+> Where there is a will, there is a way. 有志者事竟成
+> Wherever we go, we should respect the local customs and adhere to public ethics.（不管我们去哪，我们都
+该。。）
+• Living in a society where people can not live without social media platforms, we. (sia)
+3.原因状语从句是最常见的拓展法
+• I suggest that you take a trip with your parents, because you will meet them much less after you go to college.
+（给建议＋原因拓展）
+College students have become less ambitious because they are surrounded by numerous temptations. （现象＋原
+因解释）
+> The boy on the left decides to give up because of the long journey.（图中行为的解释）
+• You must not miss Yuel Mountain, because from there you can enjoy a panoramic view of the entire city of
+Changsha.（用原因讲优点）
+不一定要用目的状语从句，目目的状语 In order to 就很好用
+25
+===== PAGE 26 =====
+公众号：牛南山，整理更新
+4.好用的目的状语
+很多图的中心句：
+• In order to catch up with the trend of globalization, we ought to be more open-minded.
+> Weought to be more open-minded, so that we will be able to catch up with the trend of globalization.（这是目
+的状语从句）
+> In order to progress faster, you can take some online course.（建议的拓展法：我的建议能达到的好结果）
+5.结果状语从句，是主系表的升级。
+> Persistence is important.
+• Persistence is so important that even when faced with obstacles, those who persevere are more likely to
+succeed.（后面接完整的句子）
+6.学会i，文思泉涌。
+• If you intend to find a high-paying job, you should consider going to bigger cities such as Beijing and
+Shanghai.（建议信引出假设的好事）
+• If you do not have a local bank account, it will be inconvenient for you to make payments in your daily
+life.（建议后，给出不听劝的坏结果）
+> Ifwe continue to ignore this problem, our environment is likely to face devastation.（英一大作文二段结尾。+
+引出三段解决办法）
+7.好用的让步状语从句
+> Although the cartoon seems simple, it conveys a clear message： .•（英一大作文二段中心句）
+• college students ought to select courses with useful and pratical content, even though these courses might be
+more difficult.（应该怎么做，尽管有困难）
+句子之间的作业练习
+1.我校即将举办毕业典礼，我写这封信就是为了邀您参加。
+2.大家赛前都不看好她，然后她最后得了冠军。
+3.有许多原因可以解释图中反映的现象。
+4.当老人被子女忽略的时候，他们的身心健康将被严重影响。
+===== PAGE 27 =====
+公众号：牛南山，整理更新
+5.你暑假应该学英语+原因拓展。
+6.你应该要多练习+目的拓展。
+7.现代社会竞争十分激烈+结果状语从句拓展。
+8.如果不采取错误，这个情况将会迅速恶化。
+9.虽然中国人民变富裕了，但是他们还是在乎性价比。
+作业答案：
+1.Our school is about to hold a graduation ceremony, and I am writing this letter to invite you.
+2. No one thought highly of her before the competition, but she ended up winning the championship.
+3. There are many reasons that can explain the phenomenon reflected in the picture.
+4. When elderly people are neglected by their children, their physical and mental health will be seriously affected.
+5. You should learn English during the summer vacation because it is an essential skill for your future.
+6. You should practise more so that you can improve your performance and achieve your goals.
+7. Competition in modern society is extremely fierce, which has led to increasing pressure on individuals.
+8.If no action is taken, the situation will rapidly worsen.
+9. Although the Chinese people have become wealthier, they are still price-sensitive.
+27

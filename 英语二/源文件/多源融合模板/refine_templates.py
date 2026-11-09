@@ -1,0 +1,149 @@
+from pathlib import Path
+import json
+R=Path(__file__).parent
+items=json.loads((R/'templates.json').read_text())
+T={}
+T['A02']='''For 【对方安排】, I would choose 【推荐对象】. It seems a good match for your interest in 【兴趣领域】.
+
+One attractive feature is 【特点一，名词短语】. This would allow you to 【具体收获，动词原形】 without 【可避免的困难，动名词】. Another reason to consider it is 【特点二，名词短语】, which would be especially useful when you 【具体场景，动词短语】. To get the most out of the experience, I suggest 【准备或使用建议，动名词】. That should leave you enough time to 【进一步安排，动词原形】.
+
+Tell me if you decide to 【采纳推荐的行动，动词原形】; I would be happy to help with the arrangements.'''
+T['A03']='''May I recommend 【姓名】 for 【职位】? We worked together on 【共同项目】, so I have seen how carefully 【he/she】 prepares and communicates.
+
+During that project, 【he/she】 took responsibility for 【具体任务】 and managed to 【可观察成果，动词原形】. What impressed me most was 【表现，名词短语】: when 【具体情境，完整分句】, 【he/she】 【应对行为，过去式动词短语】. This experience showed both 【能力一】 and 【能力二】, which would be useful in the role you are offering.
+
+I believe 【he/she】 could make a reliable addition to your team. I can provide further details about our work if needed.'''
+T['A04']='''Your 【任务】 sounds interesting, and a few simple steps may make the preparation easier.
+
+Start by 【第一步，动名词】. This will help you identify 【需要明确的内容】 before you spend too much time on details. Next, 【第二步，动词原形】 so that you can 【具体效果，动词原形】. You could also ask 【合适的人】 to 【反馈行为，动词原形】 and point out anything unclear. If 【可能困难，完整分句】, try 【应对办法，动名词】. Keep your attention on 【核心目标】, since this is what the task requires.
+
+I would be happy to 【愿意提供的帮助，动词原形】 when you are ready.'''
+T['A05']='''For our survey on 【调查主题】, I suggest starting with 【对象或地点】. This would let us reach people with direct experience of the issue.
+
+We could prepare 【数量】 short questions about 【调查方面一】 and 【调查方面二】. I can 【我的任务，动词原形】, while you 【对方任务，动词原形】. After collecting the answers, we could group the main findings and discuss 【后续分析内容】. 【拟定时间】 would work for me, but we should check when the participants are available. A brief visit beforehand could help us avoid unnecessary delays.
+
+Does this approach sound reasonable to you? Please suggest any changes before we begin contacting people.'''
+T['A06']='''Our 【项目名称】 will begin 【时间介词短语】, and I hope you will 【邀请参与的动作，动词原形】.
+
+The project will explore 【主题】 through 【具体形式】. Each participant will 【具体任务，动词原形】, and we will provide 【主办方支持】 to help with the preparation. The main activity will take place 【地点介词短语】, where everyone can 【交流或实践的动作，动词原形】. No special experience is required; 【最基本条件，名词短语】 is enough. Your contribution would give others a chance to learn about 【相应内容】 from a different perspective.
+
+Please send 【报名信息或作品】 to 【接收方】 by 【期限】. I hope you can join us.'''
+T['A07']='''You asked about 【项目】. I am glad you are considering joining us, and here are the details you need.
+
+The main task is to 【工作内容，动词原形】, with support from 【协助者】. Activities take place 【时间地点介词短语】 and normally last 【时长】. As for 【来信中的第二个问题】, you will need to 【对应答案，动词原形】. Before your first visit, please 【准备事项，动词原形】. This will help us 【准备的作用，动词原形】 and make the arrangements easier for everyone. The coordinator can explain any remaining details when you arrive.
+
+If this arrangement suits you, I can introduce you to the coordinator.'''
+T['A08']='''I watched your 【分享内容】 and especially enjoyed the part where 【具体情节，完整分句】. It made the experience feel 【感受形容词】.
+
+It was interesting to see how 【具体观察，完整分句】. Your 【分享内容】 also made me curious about 【进一步想了解的方面】. How did you 【具体经历，动词原形】, and what did you enjoy most about 【相关活动】? I would also love to know whether 【希望确认的信息，完整分句】. These details would help me understand the experience more fully, especially since I am interested in 【共同兴趣】 myself.
+
+When you have time, please share a few more stories. I would really enjoy hearing them.'''
+T['A09']='''Now that 【受助事项完成，完整分句】, I want to thank you for 【具体帮助，动名词】. Your advice made a real difference to 【改进方面，名词或动名词】.
+
+When I struggled with 【遇到的困难】, you helped me 【帮助一，动词原形】. You also showed me how to 【帮助二，动词原形】, which made the next stage much easier. As a result, I was able to 【具体成果，动词原形】 with greater confidence. More than the result itself, I value the 【长期收获】 that your support helped me develop.
+
+I will use what I learned in future work. Thank you again for your time and patience.'''
+T['A10']='''I owe you an apology for 【过失，动名词】. Unfortunately, 【事件经过，完整分句】, which caused 【对方受到的影响】.
+
+I should have 【本应采取的行动，过去分词短语】, and I take responsibility for the inconvenience. Since you need 【对方实际需要】, I have arranged to 【补救动作，动词原形】 by 【完成期限】. Until then, I can 【临时解决办法，动词原形】 so that you can continue with your plans. If this arrangement causes any difficulty, please tell me and I will find another solution.
+
+I am sorry for the trouble this has caused. I will be more careful about 【需注意的事项】 in future.'''
+T['A11']='''The 【物品】 I bought from your store 【购买时间】 developed a problem 【问题出现时间】. I am contacting you to request 【合理诉求】.
+
+Although I followed the instructions, 【具体故障，完整分句】. This has made it difficult for me to 【正常用途，动词原形】. I have already tried 【排查措施，动名词】, but the problem remains. I can provide the receipt and 【其他证据】 if they would help you assess the situation. I would prefer 【具体处理方案】, provided it can be arranged promptly.
+
+Please explain the return procedure and tell me when I can expect a solution. A reply by 【期限】 would be appreciated.'''
+T['A12']='''I am considering 【项目】 and would like to clarify a few points before applying. My main aim is to 【个人目标，动词原形】.
+
+Could you tell me 【问题一，陈述语序的疑问词从句】? I would also like to know whether 【问题二，完整分句】. As I will be 【相关背景，动名词或状态】, information about 【额外信息】 would be useful. Finally, please explain 【问题三，名词或疑问词从句】 and let me know if any supporting documents are needed. I hope to make the necessary arrangements 【时间介词短语】.
+
+These details would help me plan ahead. Thank you for taking the time to answer my questions.'''
+T['A13']='''Could you spare some time to 【请求事项，动词原形】? I would value your advice before 【相关期限或事件】.
+
+I have already 【已完成工作，过去分词短语】, but I am unsure about 【具体困难】. Your experience in 【专长领域】 would help me 【希望达成的效果，动词原形】. I can send you 【材料】 today, together with a short explanation of 【背景】. Comments on 【请求范围】 would be enough, so there is no need to review the whole project. I would be happy to adjust the timing if necessary.
+
+Please let me know whether this would fit your schedule. Thank you for considering the request.'''
+T['A14']='''Please consider my application for 【项目或志愿岗位】. I would enjoy 【具体服务，动名词】 and contributing to 【服务目标】.
+
+During 【相关经历】, I helped 【具体工作，动词原形】 and learned to 【相关能力，动词原形】. When 【实际困难，完整分句】, I 【应对行为，过去式动词短语】. This experience would be useful when carrying out the duties you described. I can also 【其他能力，动词原形】 and am willing to complete any training required. I will be available 【服务时间介词短语】.
+
+I would welcome a brief interview to discuss how I could contribute. Thank you for reviewing my application.'''
+T['A15']='''Your advertisement for 【岗位】 caught my attention because the role involves 【相关工作，动名词】. I would like to apply for the position.
+
+As 【身份，含冠词】, I have gained experience in 【相关领域】 through 【实际经历】. My responsibilities included 【具体职责，动名词】, which taught me to 【匹配能力，动词原形】. I also 【另一项技能，动词短语】, so I could support the team with 【岗位需要】. I can start 【到岗时间】 and would be willing to discuss a suitable schedule.
+
+My resume provides further details of my experience. I would appreciate an opportunity to discuss the role in an interview.'''
+T['A20']='''【活动名称，含冠词】 will take place 【时间地点介词短语】. All 【目标人群】 interested in 【相关兴趣，动名词】 are welcome.
+
+The session will begin with 【环节一】, followed by 【环节二】. Participants will be able to 【实践机会，动词原形】 with help from 【指导者】. Please bring 【所需用品】 and arrive 【提前量】 before the starting time. 【主办方提供的用品，复数】 will be available at the venue. To keep the activity running smoothly, everyone should 【具体要求，动词原形】.
+
+To reserve a place, register 【报名方式及期限】. Places are limited, so early registration is recommended. Come and try something useful.'''
+T['A21']='''【人数】 student volunteers are needed for 【项目】 【时间介词短语】. The team will work with 【服务对象】 to 【目标，动词原形】.
+
+Volunteers will help 【职责一，动词原形】 and 【职责二，动词原形】. Applicants should be able to 【能力要求，动词原形】 and be available 【时间要求】. Experience in 【相关领域】 would be helpful, but training will be provided. Everyone must 【特别要求，动词原形】 when working with the team. These arrangements will help ensure that 【工作标准，完整分句】.
+
+Please submit 【申请材料】 to 【接收方】 by 【期限】. Include your available times and any relevant experience. Selected applicants will be contacted for a brief meeting.'''
+T['A24']='''【问题现象，完整句】 We invite everyone to help improve the situation through a few manageable changes.
+
+Start by 【行动一，动名词】 whenever you 【具体场景，动词短语】. This can reduce 【直接问题】 without 【不必要的负担，动名词】. You can also 【行动二，动词原形】 and encourage friends to do the same. If you notice 【具体障碍】, share your suggestions with 【合适的组织】 so that practical improvements can be made. Even a small change is useful when it becomes a regular habit.
+
+Let us begin with 【明确起步行动】. By making careful choices in everyday situations, we can help 【共同目标，动词原形】.'''
+T['A25']='''The committee met to finalise arrangements for 【事项】. Members discussed 【议题一】, 【议题二】 and 【议题三】.
+
+After considering 【备选内容】, the group agreed to 【决议，动词原形】 because 【理由，完整分句】. 【负责人一】 will 【任务一，动词原形】, while 【负责人二】 will 【任务二，动词原形】. Both tasks must be completed by 【期限】. Members also agreed that 【另一决议，完整分句】. 【指定人员】 will collect the necessary information and circulate it to the team before work begins.
+
+The chair will review progress 【检查时间】. Any difficulties should be reported in advance so that the arrangements can be adjusted.'''
+T['B01']='''The 【图表类型】 presents how 【调查对象】 are distributed across 【类别】. 【最大项】 has the largest share, at 【数值】, followed by 【第二项及数值】. The figure for 【较小项】 is 【数值】. These differences show a clear preference for 【主要特征】 within the group surveyed.
+
+One possible reason is that 【原因一，完整分句】. For people who 【特定需要，动词短语】, this can make 【选择】 easier or more useful. Another consideration is 【因素二】, since 【作用机制，完整分句】. The smaller categories may still meet needs that the leading option cannot satisfy. Their shares should therefore be understood in relation to 【具体情境】, rather than treated as evidence that they have little value.
+
+【行动主体】 could respond by 【具体措施，动名词】. Giving people access to 【相关资源】 would help them make choices that fit their circumstances. The practical aim is to 【贴题目标，动词原形】.'''
+T['B02']='''The bar chart reports the factors that 【调查对象】 consider when 【行为，动名词】. 【最高项】 is selected most often, at 【数值】, followed by 【第二项及数值】. 【另外的因素及数据，完整句】 Since respondents could give more than one answer, the percentages refer to overlapping choices.
+
+The leading factor may be important because 【原因一，完整分句】. Even when 【某种优势存在，完整分句】, people may hesitate if 【具体阻碍，完整分句】. The second factor adds a different consideration: 【原因二，完整分句】. Together, these concerns suggest that people assess 【决策对象】 through several practical needs. A lower selection rate does not make a factor irrelevant to every respondent.
+
+To respond to these needs, 【主体】 could 【措施一，动词原形】 and 【措施二，动词原形】. Such changes would focus resources on the concerns that appear most often in the survey, while leaving room for individual differences.'''
+T['B03']='''The table compares 【指标】 among 【群体】. 【最高组】 records the highest figure, at 【数值】, while 【最低组】 has the lowest, at 【数值】. A further contrast concerns 【另一指标】: 【关键数据对比，完整句】. This is a comparison between groups, rather than a record of change over time.
+
+Different circumstances may explain part of the gap. People in 【群体一】 may need 【具体需要】, whereas those in 【群体二】 may place more value on 【另一需要】. For example, 【与群体差异相关的情境，完整分句】. These considerations could affect how people assess 【调查事项】. Further feedback would be needed to determine which explanation matters most; group averages do not describe every individual.
+
+A useful response would be to 【具体措施，动词原形】. By asking what each group needs, 【主体】 could improve 【相关服务】 while preserving features that users already value.'''
+T['B04']='''The 【图表类型】 records a clear change in 【指标】 from 【起年】 to 【止年】. The figure 【rose/fell】 from 【起点数据】 to 【终点数据】, with 【关键中点或阶段，名词短语】. Overall, the data indicate 【主要趋势，名词短语】 during the period shown.
+
+One possible explanation is that 【原因一，完整分句】. This could make it easier for 【群体】 to 【行为，动词原形】, particularly when 【具体情境，完整分句】. Another relevant factor may be 【因素二】. By 【作用方式，动名词】, it can influence the choices people make in everyday life. These mechanisms offer a plausible interpretation, although the chart itself does not establish which factor caused the change.
+
+The practical response should be to 【对应措施，动词原形】. If 【必要条件，完整分句】, 【合理预期，完整分句】. Attention to these conditions would be more useful than assuming that the same pattern must continue indefinitely.'''
+T['B05']='''The chart compares 【多个指标】 in 【起年】 and 【止年】. The share of 【A】 fell from 【数值】 to 【数值】, while that of 【B】 rose from 【数值】 to 【数值】. 【C】 remained at 【数值】. The gap between 【A】 and 【B】 therefore 【narrowed/widened】 over the period.
+
+The shift may reflect changes in 【具体需求】. 【B】 can offer 【优势】, which matters to people who 【相关情境，动词短语】. At the same time, 【A】 remains useful because 【原因，完整分句】. Different costs and benefits can lead people towards different options, so a larger share does not necessarily make one choice best for everyone. The figures describe the distribution of choices, rather than the reasons for each decision.
+
+【主体】 should help people compare 【相关选项】 using clear information about 【比较标准】. Advice based on individual circumstances would make these choices more informed and realistic.'''
+T['B06']='''The figure for 【指标】 changed unevenly between 【起年】 and 【止年】. It first 【rose/fell】 from 【数据】 to 【数据】, then 【转折动词短语】, before reaching 【最终值】. Despite the temporary 【rise/decline】, the final level was 【higher/lower】 than the starting point.
+
+Both longer trends and short-term conditions may have shaped this pattern. 【具体因素】 could affect whether people 【行为，动词短语】 in a particular year. Meanwhile, 【另一因素】 may influence demand over a longer period. A single turning point should therefore be interpreted alongside the whole series. It does not by itself show that 【过度推断的判断，完整分句】. Looking at the context would help distinguish a temporary interruption from a more lasting change.
+
+【主体】 could compare the figures with 【相关记录】 and gather feedback before adjusting 【相关安排】. The priority should be to understand the variation and improve 【贴题目标】.'''
+T['B07']='''The two charts examine 【共同主题】 from different angles. The first shows that 【图一关键数据，完整分句】. In the second, 【图二关键数据，完整分句】. Together, they present 【并列概括，名词短语】 within the periods and groups shown.
+
+A possible link is that 【合理机制，完整分句】. When 【具体条件，完整分句】, people may find it easier to 【行为，动词原形】. 【补充因素】 can also shape their experience, so the number of 【相关事物】 is only part of the picture. The charts do not by themselves establish that one pattern caused the other. Differences in 【统计范围或相关条件】 should be considered before drawing a stronger conclusion.
+
+【行动主体】 could use these findings to 【具体行动，动词原形】. Attention to both 【供给或规模方面】 and 【使用或质量方面】 would help turn the observed changes into practical benefits for the people concerned.'''
+T['B08']='''The picture shows 【人物】 【动作，动名词】. Nearby, 【另一人物】 【另一动作，动词短语】. The contrast between their actions highlights 【主题】 and invites us to consider what produces a useful result.
+
+【正向行为，动名词】 matters because it enables people to 【直接作用，动词原形】. For example, when 【具体情境，完整分句】, a person who 【积极做法，动词短语】 can 【可解释的结果，动词原形】. By contrast, relying only on 【反面做法，动名词】 may leave 【未解决的问题】. The difference is not simply one of effort: it also concerns how that effort is directed. A sensible approach connects 【行为】 with 【目标】 and makes improvement possible through practice.
+
+We can apply this idea by 【具体行动，动名词】. Starting with 【小步骤】 and checking the result would turn an abstract lesson into a habit that is useful in everyday study and work.'''
+T['B09']='''The passage presents the view that 【作者核心主张，完整分句】. I accept its emphasis on 【合理点】, but I would limit the argument where 【限制条件，完整分句】.
+
+The proposal has a clear benefit: it can 【好处，动词原形】, especially for people who 【具体需要，动词短语】. However, this benefit does not settle the whole question. 【另一考虑因素】 also matters because 【原因，完整分句】. For example, 【贴题例子，完整分句】. In such a situation, 【自己的判断，完整分句】. The example suggests that we should assess the proposal against its purpose and the circumstances in which it is used.
+
+A reasonable approach would be to 【结合立场的做法，动词原形】 while 【兼顾的事项，动名词】. This preserves the useful part of the author's idea without extending it beyond what the reasoning supports. The final choice should serve 【核心目标】.'''
+T['B10']='''The drawing depicts 【人物】 【动作，动名词】, while the chart provides figures on 【相关主题】. 【核心数据一，完整句】 【核心数据二，完整句】 Read together, the materials bring attention to 【共同问题】.
+
+The scene illustrates how 【具体机制，完整分句】. This can benefit 【相关人群】 by 【作用方式，动名词】. The figures, however, also suggest that 【另一项合理观察，完整分句】. People may face different needs or practical barriers, including 【具体障碍】. The materials help identify the issue, but they do not reveal every person's motivation. Any explanation should therefore remain consistent with what is actually shown.
+
+【行动主体】 should combine 【措施一，名词或动名词】 with 【措施二，名词或动名词】. This would make 【目标】 easier to achieve while preserving 【需要兼顾的价值】. Good arrangements should work for people in different circumstances, including those who require additional support.'''
+for x in items:
+ if x['id'] in T:x['template']=T[x['id']].split('\n\n')
+(R/'templates.json').write_text(json.dumps(items,ensure_ascii=False,indent=2))
+(R/'template_overrides.json').write_text(json.dumps(T,ensure_ascii=False,indent=2))

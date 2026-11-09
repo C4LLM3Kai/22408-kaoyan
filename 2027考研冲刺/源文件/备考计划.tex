@@ -1,0 +1,709 @@
+\documentclass[UTF8,a4paper,11pt]{ctexart}
+\usepackage[margin=22mm,headheight=14pt,footskip=12mm]{geometry}
+\usepackage{amsmath,amssymb,array,longtable,booktabs,tikz,needspace,enumitem,fancyhdr,hyperref}
+\usepackage{microtype}
+\hypersetup{colorlinks=false,pdfborder={0 0 0},pdfauthor={Good Learning},bookmarks=false}
+\IfFontExistsTF{Segoe UI Symbol}{\newfontfamily\circledfont{Segoe UI Symbol}}{%
+\newcommand{\circledfont}{}\xeCJKDeclareCharClass{CJK}{"2460 -> "24FF}}
+\newcolumntype{P}[1]{>{\raggedright\arraybackslash}p{#1}}
+\setlength{\LTleft}{0pt}\setlength{\LTright}{0pt}
+\setlength{\parindent}{0pt}\setlength{\parskip}{.65em}
+\linespread{1.18}
+\raggedbottom
+\setcounter{secnumdepth}{0}
+\setlist{leftmargin=2.2em,itemsep=.4em,topsep=.5em}
+\ctexset{section={format=\Large\bfseries\sffamily,beforeskip=1.35em,afterskip=.65em},
+subsection={format=\large\bfseries\sffamily,beforeskip=1em,afterskip=.45em}}
+\newcommand{\chaptertitle}[1]{\Needspace{8\baselineskip}\noindent{\LARGE\bfseries\sffamily #1}\par\vspace{4mm}\hrule\vspace{6mm}}
+\newcommand{\CompactQuestion}[2]{\par\noindent\textbf{#1.}\ #2\par\vspace{.8em}}
+\newcommand{\PracticeQuestion}[3]{\par\Needspace{4\baselineskip}\noindent\begin{minipage}{\linewidth}\textbf{#1.}\ #2\par\noindent\rule{0pt}{#3mm}\par\end{minipage}\par}
+\newcommand{\CompactQuestionColon}[2]{\par\noindent\textbf{#1：}\ #2\par\vspace{.8em}}
+\newcommand{\PracticeQuestionColon}[3]{\par\Needspace{4\baselineskip}\noindent\begin{minipage}{\linewidth}\textbf{#1：}\ #2\par\noindent\rule{0pt}{#3mm}\par\end{minipage}\par}
+\pagestyle{fancy}\fancyhf{}\fancyfoot[C]{\thepage}\renewcommand{\headrulewidth}{0pt}
+\xeCJKDeclareCharClass{CJK}{"2605}
+\begin{document}
+\thispagestyle{empty}
+\noindent{\sffamily\footnotesize 备考路径}\hfill{\sffamily\footnotesize 学习导图}\par
+\vspace{7mm}
+\noindent{\sffamily\fontsize{25}{30}\selectfont\bfseries 备考计划}\par
+\vspace{4mm}\noindent\rule{\linewidth}{.85pt}\par\vspace{6mm}
+\begin{center}
+\begin{tikzpicture}[x=1cm,y=1cm,>=stealth,every node/.style={font=\sffamily}]
+\path[use as bounding box] (-8.1,-19.3) rectangle (8.1,.4);
+\node[anchor=west,font=\sffamily\Large\bfseries] at (-7.5,-.55) {44 天冲刺路径};
+\node[anchor=east,font=\sffamily\small,text=black!55] at (7.5,-.55) {11/05 → 12/19 · 44 天};
+\draw[black!45,line width=.7pt] (-6.65,-1.75) -- (-6.65,-16.65);
+\node[circle,draw=black,line width=.7pt,minimum size=9mm,fill=white,font=\sffamily\small\bfseries] at (-6.65,-2.25) {01};
+\node[anchor=west,font=\sffamily\large\bfseries] at (-5.75,-1.8) {P1 起跑：真题转模拟卷};
+\node[anchor=east,font=\sffamily\small,text=black!55] at (7.45,-1.8) {11/05–11/11};
+\node[anchor=north west,text width=12.8cm,align=left,font=\sffamily\small] at (-5.75,-2.4) {数学 2022–2026 真题 5 套，随后直接进模拟卷\quad{}·\quad{}408 2013–2015 加前 6 个大题专题\quad{}·\quad{}英语 2014–2016 整套 75 分钟，政治课收尾};
+\draw[black!25,line width=.4pt] (-5.75,-3.6) -- (7.45,-3.6);
+\node[circle,draw=black,line width=.7pt,minimum size=9mm,fill=white,font=\sffamily\small\bfseries] at (-6.65,-5.6) {02};
+\node[anchor=west,font=\sffamily\large\bfseries] at (-5.75,-5.1499999999999995) {P2 专题：十二个大题};
+\node[anchor=east,font=\sffamily\small,text=black!55] at (7.45,-5.1499999999999995) {11/12–11/22};
+\node[anchor=north west,text width=12.8cm,align=left,font=\sffamily\small] at (-5.75,-5.75) {408 12 个专题打完，11/17 起恢复旧卷重写\quad{}·\quad{}数学模拟卷连做，晚上分类 120 分钟\quad{}·\quad{}英语 2017–2021 整套加二刷错篇};
+\draw[black!25,line width=.4pt] (-5.75,-6.949999999999999) -- (7.45,-6.949999999999999);
+\node[circle,draw=black,line width=.7pt,minimum size=9mm,fill=white,font=\sffamily\small\bfseries] at (-6.65,-8.95) {03};
+\node[anchor=west,font=\sffamily\large\bfseries] at (-5.75,-8.5) {P3 一刷收尾};
+\node[anchor=east,font=\sffamily\small,text=black!55] at (7.45,-8.5) {11/23–12/02};
+\node[anchor=north west,text width=12.8cm,align=left,font=\sffamily\small] at (-5.75,-9.1) {408 一刷到 2026，共 14 套\quad{}·\quad{}数学模拟满 21 套\quad{}·\quad{}英语翻译专项加 2022、2023 过渡卷};
+\draw[black!25,line width=.4pt] (-5.75,-10.299999999999999) -- (7.45,-10.299999999999999);
+\node[circle,draw=black,line width=.7pt,minimum size=9mm,fill=white,font=\sffamily\small\bfseries] at (-6.65,-12.3) {04};
+\node[anchor=west,font=\sffamily\large\bfseries] at (-5.75,-11.850000000000001) {P4 滚动：三刷加二刷};
+\node[anchor=east,font=\sffamily\small,text=black!55] at (7.45,-11.850000000000001) {12/03–12/15};
+\node[anchor=north west,text width=12.8cm,align=left,font=\sffamily\small] at (-5.75,-12.450000000000001) {408 三刷 2009 起、二刷 2026 起，当天讲做完\quad{}·\quad{}数学真题二刷 9 套后继续模拟\quad{}·\quad{}英语 2024–2026 三次全真，政治大题};
+\draw[black!25,line width=.4pt] (-5.75,-13.65) -- (7.45,-13.65);
+\node[circle,draw=black,line width=.7pt,minimum size=9mm,fill=white,font=\sffamily\small\bfseries] at (-6.65,-15.65) {05};
+\node[anchor=west,font=\sffamily\large\bfseries] at (-5.75,-15.200000000000001) {P5 收口：考前三天};
+\node[anchor=east,font=\sffamily\small,text=black!55] at (7.45,-15.200000000000001) {12/16–12/18};
+\node[anchor=north west,text width=12.8cm,align=left,font=\sffamily\small] at (-5.75,-15.8) {回归知识点：错题本、公式、课本例题\quad{}·\quad{}作文模板压到一页，四门框架默画};
+\draw[black!25,line width=.4pt] (-5.75,-17.0) -- (7.45,-17.0);
+\draw[black!45,line width=.7pt] (-7.5,-18.35) -- (7.5,-18.35);
+\node[anchor=west,font=\sffamily\bfseries] at (-7.4,-18.8) {反馈回路};
+\node[anchor=east,font=\sffamily\small] at (7.4,-18.8) {日结  →  周复盘  →  指标触发调整};
+\end{tikzpicture}
+\end{center}
+\clearpage
+
+\chaptertitle{2027 考研冲刺备考计划（11/05 — 12/19）}
+一句话：44 天里把四科从「学过」推到「能在规定时间内稳定得分」。数学真题收完就直接上模拟卷，真题分类挂到每天晚上固定时段；408 一刷夹着二刷，十二月转成三刷加二刷滚动并回到课本；英语早读全部给单词和作文；政治靠每天一套模拟卷的选择题堆量。
+
+\section{一、基本面}
+{\small\renewcommand{\arraystretch}{1.38}\setlength{\tabcolsep}{3.5pt}
+\begin{longtable}{P{0.12\linewidth}P{0.82\linewidth}}
+\toprule
+\bfseries 项目 & \bfseries 内容 \\
+\midrule
+\endfirsthead
+\toprule
+\bfseries 项目 & \bfseries 内容 \\
+\midrule
+\endhead
+考试日 & 12/19（周六）8:30–11:30 政治，14:00–17:00 英语二；12/20（周日）8:30–11:30 数学二，14:00–17:00 408。以准考证为准。 \\
+\addlinespace[.35em]
+计划区间 & 11/05 至 12/18，共 44 个学习日，12/19、12/20 为考试日。 \\
+\addlinespace[.35em]
+每日时长 & 约 14.8 小时：数学 5.5、408 5、英语 3、政治 1.3。44 天合计约 650 小时。 \\
+\addlinespace[.35em]
+分值结构 & 数学二 150、408 150、英语二 100、政治 100，总分 500。 \\
+\addlinespace[.35em]
+现有材料 & 数学 2022–2026 真题、真题分类、模拟卷；英语 2014–2021 与 2024–2026 真题；408 真题与解析 2009–2026、王道、强化笔记；政治课程与模拟卷。 \\
+\addlinespace[.35em]
+\bottomrule
+\end{longtable}
+}
+\section{二、每日时间结构}
+{\small\renewcommand{\arraystretch}{1.38}\setlength{\tabcolsep}{3.5pt}
+\begin{longtable}{P{0.17\linewidth}P{0.48\linewidth}P{0.28\linewidth}}
+\toprule
+\bfseries 时段 & \bfseries 内容与要求 & \bfseries 时长 \\
+\midrule
+\endfirsthead
+\toprule
+\bfseries 时段 & \bfseries 内容与要求 & \bfseries 时长 \\
+\midrule
+\endhead
+07:00–07:45 & 英语单词：真题生词本加核心词表滚动，不背新词书 & 45 分钟 \\
+\addlinespace[.35em]
+07:45–08:15 & 英语作文：背、仿、默写，一天不停；12/01 起延到 08:30 & 30 分钟 \\
+\addlinespace[.35em]
+08:15–08:30 & 英语语感：昨天错篇的长难句、翻译句 & 15 分钟 \\
+\addlinespace[.35em]
+08:30–11:30 & 数学限时：模拟卷或真题，整套收卷 & 180 分钟 \\
+\addlinespace[.35em]
+11:30–12:00 & 数学批改：只标错题题号与失分类型，不深挖 & 30 分钟 \\
+\addlinespace[.35em]
+12:00–13:20 & 政治：模拟卷选择 40 分钟加订正 40 分钟；课后改为大题背诵 & 80 分钟 \\
+\addlinespace[.35em]
+13:20–14:00 & 午饭加午休，20 分钟躺平 & 40 分钟 \\
+\addlinespace[.35em]
+14:00–18:00 & 408 主攻：整卷限时，或讲解加大题专题；12 月为三刷加二刷 & 240 分钟 \\
+\addlinespace[.35em]
+18:00–19:00 & 晚饭加散步，每天至少走 20 分钟 & 60 分钟 \\
+\addlinespace[.35em]
+19:00–21:00 & 数学：先订正 45 分钟，再真题分类 75 分钟 & 120 分钟 \\
+\addlinespace[.35em]
+21:00–22:00 & 408：11 月订正与回填，12 月回归课本 & 60 分钟 \\
+\addlinespace[.35em]
+22:00–23:15 & 英语套卷：4 篇阅读加完形加新题型，75 分钟严格卡表 & 75 分钟 \\
+\addlinespace[.35em]
+23:15–23:30 & 英语作文：默写或改稿 & 15 分钟 \\
+\addlinespace[.35em]
+23:30–23:40 & 日结三行：完成情况、最痛的失分点、明天第一件事 & 10 分钟 \\
+\addlinespace[.35em]
+\bottomrule
+\end{longtable}
+}
+五条说明。第一，数学晚上给足 120 分钟：19:00–19:45 订正白天那张卷，19:45–21:00 做真题分类，当天错题直接挂到对应专题重做。第二，政治从晚上撤出，只留中午 80 分钟，晚上的 30 分钟给了 408，所以 408 晚上从 30 分钟变 60 分钟；同时原来的 21:30–22:00 休息也被吃掉，这是一天里最紧的一个小时。第三，英语整体后移到 22:00，一套卷固定 75 分钟：4 篇阅读、完形、新题型一次做完，中间不许停；订正放在第二天早上 08:15–08:30，只标错因和记句子。第四，模考日（12/07、12/13、12/17）的 14:00–17:00 让给英语全真，408 当天只保留 17:00–18:00 的二刷速览与晚上课本。第五，全天从 14.3 小时涨到 14.8 小时，起晚了就用 21:00–22:00 的 408 顶，不要动 22:00 的英语套卷。
+
+\needspace{.34\textheight}\section{三、阶段划分}
+{\small\renewcommand{\arraystretch}{1.38}\setlength{\tabcolsep}{3.5pt}
+\begin{longtable}{P{0.14\linewidth}P{0.17\linewidth}P{0.31\linewidth}P{0.31\linewidth}}
+\toprule
+\bfseries 阶段 & \bfseries 日期 & \bfseries 主目标与四科重点 & \bfseries 切换标准 \\
+\midrule
+\endfirsthead
+\toprule
+\bfseries 阶段 & \bfseries 日期 & \bfseries 主目标与四科重点 & \bfseries 切换标准 \\
+\midrule
+\endhead
+P1 起跑 & 11/05–11/11 & 数学 5 套真题并转入模拟卷；408 一刷 2013–2015 加前 6 个大题专题；英语 2014–2016 整套 75 分钟；政治课收尾转模拟卷 & 数学 5 套真题失分结构清楚；408 选择正确率有基线；英语错题有归类 \\
+\addlinespace[.35em]
+P2 专题 & 11/12–11/22 & 408 12 个专题打完，11/17 起恢复旧卷错位重写；数学模拟卷连做；英语 2017–2021 整套加八套错篇二刷 & 12 个专题各留一页手写模板；408 到 2021；英语八套客观题做完，错篇二刷过半 \\
+\addlinespace[.35em]
+P3 一刷收尾 & 11/23–12/02 & 408 一刷到 2026；数学模拟卷满 21 套；英语翻译专项加 2022、2023 套卷；政治模拟卷满 28 套 & 408 一刷 14 套结束；数学模拟 21 套；政治 28 套选择 \\
+\addlinespace[.35em]
+P4 滚动 & 12/03–12/15 & 数学真题二刷 9 套后继续模拟；408 三刷 2009 起、二刷 2026 起、晚上回归课本；英语 2024–2026 三次全真；政治大题思路加肖四 & 数学二刷 9 套完成、模拟满 31 套；408 三刷到 2019、二刷到 2014；课本过完数据结构与组成 \\
+\addlinespace[.35em]
+P5 收口 & 12/16–12/18 & 考前三天回归知识点：错题本、公式手册、课本例题、作文模板 & 每科能在 1 小时内过完自己的错题清单 \\
+\addlinespace[.35em]
+\bottomrule
+\end{longtable}
+}
+\needspace{.34\textheight}\section{四、逐日计划}
+\needspace{.34\textheight}\subsection{第 1 周 11/05–11/08（起跑）}
+英语一列只写 22:00 的套卷任务；早上 07:45–08:15 的作文是每天固定动作，进度见 5.3 的表。
+
+{\small\renewcommand{\arraystretch}{1.38}\setlength{\tabcolsep}{3.5pt}
+\begin{longtable}{P{0.176\linewidth}P{0.176\linewidth}P{0.176\linewidth}P{0.176\linewidth}P{0.176\linewidth}}
+\toprule
+\bfseries 日期 & \bfseries 数学 & \bfseries 408 & \bfseries 英语 & \bfseries 政治 \\
+\midrule
+\endfirsthead
+\toprule
+\bfseries 日期 & \bfseries 数学 & \bfseries 408 & \bfseries 英语 & \bfseries 政治 \\
+\midrule
+\endhead
+11/05 四 & 2022 真题｜极限 & 2013 真题｜17–18 专题1 & 2014 套卷 & 收尾课{\circledfont ①} 马原史纲 \\
+\addlinespace[.35em]
+11/06 五 & 2023 真题｜极限 & 2013 讲解｜16–18 专题2 Cache & 2015 套卷 & 收尾课{\circledfont ②} 毛中特思修时政 \\
+\addlinespace[.35em]
+11/07 六 & 2024 真题｜极限 & 2014 真题｜17–18 专题3 寻址汇编 & 2016 套卷 & 肖八1 加订正 \\
+\addlinespace[.35em]
+11/08 日 & 2025 真题｜极限 & 2014 讲解｜16–18 专题4 数据通路 & 2017 套卷 & 肖八2，周复盘 \\
+\addlinespace[.35em]
+\bottomrule
+\end{longtable}
+}
+\needspace{.34\textheight}\subsection{第 2 周 11/09–11/15（真题转过模拟卷）}
+{\small\renewcommand{\arraystretch}{1.38}\setlength{\tabcolsep}{3.5pt}
+\begin{longtable}{P{0.176\linewidth}P{0.176\linewidth}P{0.176\linewidth}P{0.176\linewidth}P{0.176\linewidth}}
+\toprule
+\bfseries 日期 & \bfseries 数学 & \bfseries 408 & \bfseries 英语 & \bfseries 政治 \\
+\midrule
+\endfirsthead
+\toprule
+\bfseries 日期 & \bfseries 数学 & \bfseries 408 & \bfseries 英语 & \bfseries 政治 \\
+\midrule
+\endhead
+11/09 一 & 2026 真题｜极限 & 2015 真题｜17–18 专题5 流水线 & 2018 套卷 & 肖八3 \\
+\addlinespace[.35em]
+11/10 二 & 模拟 1｜一元微分 & 2015 讲解｜16–18 专题6 IO & 2019 套卷 & 肖八4 \\
+\addlinespace[.35em]
+11/11 三 & 模拟 2｜一元微分 & 2016 真题｜17–18 专题7 PV 操作 & 2020 套卷 & 肖八5 \\
+\addlinespace[.35em]
+11/12 四 & 模拟 3｜一元微分 & 2016 讲解｜16–18 专题8 基本分页 & 2021 套卷 & 肖八6 \\
+\addlinespace[.35em]
+11/13 五 & 模拟 4｜一元微分 & 2017 真题｜17–18 专题9 请求分页互斥 & 二刷2014 加翻译1 & 肖八7 \\
+\addlinespace[.35em]
+11/14 六 & 模拟 5｜一元微分 & 2017 讲解｜16–18 专题10 计网前三章 & 二刷2015 加翻译1 & 肖八8 \\
+\addlinespace[.35em]
+11/15 日 & 模拟 6｜一元积分 & 2018 真题｜17–18 专题11 计网 IP & 二刷2016 加翻译2 & 腿四1，周复盘 \\
+\addlinespace[.35em]
+\bottomrule
+\end{longtable}
+}
+\needspace{.34\textheight}\subsection{第 3 周 11/16–11/22（专题收尾，恢复旧卷）}
+{\small\renewcommand{\arraystretch}{1.38}\setlength{\tabcolsep}{3.5pt}
+\begin{longtable}{P{0.176\linewidth}P{0.176\linewidth}P{0.176\linewidth}P{0.176\linewidth}P{0.176\linewidth}}
+\toprule
+\bfseries 日期 & \bfseries 数学 & \bfseries 408 & \bfseries 英语 & \bfseries 政治 \\
+\midrule
+\endfirsthead
+\toprule
+\bfseries 日期 & \bfseries 数学 & \bfseries 408 & \bfseries 英语 & \bfseries 政治 \\
+\midrule
+\endhead
+11/16 一 & 模拟 7｜一元积分 & 2018 讲解｜16–18 专题12 计网 5、6 章 & 二刷2017 加翻译2 & 腿四2 \\
+\addlinespace[.35em]
+11/17 二 & 模拟 8｜一元积分 & 2019 真题加 2014 选择 & 二刷2018 加翻译3 & 腿四3 \\
+\addlinespace[.35em]
+11/18 三 & 模拟 9｜一元积分 & 2019 讲解加 2014 大题 & 二刷2019 加翻译4 & 腿四4 \\
+\addlinespace[.35em]
+11/19 四 & 模拟 10｜一元积分 & 2020 真题加 2015 选择 & 二刷2020 加翻译5 & 徐六1 \\
+\addlinespace[.35em]
+11/20 五 & 模拟 11｜一元积分 & 2020 讲解加 2015 大题 & 二刷2021 加翻译6 & 徐六2 \\
+\addlinespace[.35em]
+11/21 六 & 模拟 12｜多元二重 & 2021 真题加 2016 选择 & 2022 套卷 & 徐六3 \\
+\addlinespace[.35em]
+11/22 日 & 模拟 13｜多元二重 & 2021 讲解加 2016 大题 & 2022 订正精读 & 徐六4，周复盘 \\
+\addlinespace[.35em]
+\bottomrule
+\end{longtable}
+}
+\needspace{.34\textheight}\subsection{第 4 周 11/23–11/29（一刷后段）}
+{\small\renewcommand{\arraystretch}{1.38}\setlength{\tabcolsep}{3.5pt}
+\begin{longtable}{P{0.176\linewidth}P{0.176\linewidth}P{0.176\linewidth}P{0.176\linewidth}P{0.176\linewidth}}
+\toprule
+\bfseries 日期 & \bfseries 数学 & \bfseries 408 & \bfseries 英语 & \bfseries 政治 \\
+\midrule
+\endfirsthead
+\toprule
+\bfseries 日期 & \bfseries 数学 & \bfseries 408 & \bfseries 英语 & \bfseries 政治 \\
+\midrule
+\endhead
+11/23 一 & 模拟 14｜多元二重 & 2022 真题加 2017 选择 & 2023 套卷 & 徐六5 \\
+\addlinespace[.35em]
+11/24 二 & 模拟 15｜多元二重 & 2022 讲解加 2017 大题 & 2023 订正精读 & 徐六6 \\
+\addlinespace[.35em]
+11/25 三 & 模拟 16｜微分方程 & 2023 真题加 2018 选择 & 小作文模板1 & 米六1 \\
+\addlinespace[.35em]
+11/26 四 & 模拟 17｜微分方程 & 2023 讲解加 2018 大题 & 小作文模板2 & 米六2 \\
+\addlinespace[.35em]
+11/27 五 & 模拟 18｜微分方程 & 2024 真题加 2019 选择 & 大作文模板1 & 米六3 \\
+\addlinespace[.35em]
+11/28 六 & 模拟 19｜微分方程 & 2024 讲解加 2019 大题 & 大作文模板2 & 米六4 \\
+\addlinespace[.35em]
+11/29 日 & 模拟 20｜行列式矩阵 & 2025 真题加 2020 选择 & 小作文仿写 & 米六5，周复盘 \\
+\addlinespace[.35em]
+\bottomrule
+\end{longtable}
+}
+\needspace{.34\textheight}\subsection{第 5 周 11/30–12/06（一刷结束转滚动）}
+12/03 起的 408 格子都不用跨天：14:00–16:00 三刷当天做完当天对讲解，16:00–18:00 二刷同样当天做完当天对讲解。
+
+{\small\renewcommand{\arraystretch}{1.38}\setlength{\tabcolsep}{3.5pt}
+\begin{longtable}{P{0.176\linewidth}P{0.176\linewidth}P{0.176\linewidth}P{0.176\linewidth}P{0.176\linewidth}}
+\toprule
+\bfseries 日期 & \bfseries 数学 & \bfseries 408 & \bfseries 英语 & \bfseries 政治 \\
+\midrule
+\endfirsthead
+\toprule
+\bfseries 日期 & \bfseries 数学 & \bfseries 408 & \bfseries 英语 & \bfseries 政治 \\
+\midrule
+\endhead
+11/30 一 & 模拟 21｜行列式矩阵 & 2025 讲解加 2020 大题 & 大作文仿写 & 米六6 \\
+\addlinespace[.35em]
+12/01 二 & 二刷 2016 加 2018 & 2026 真题加 2021 选择 & 阅读错题回炉 & 肖四1 \\
+\addlinespace[.35em]
+12/02 三 & 二刷 2020 加 2021 & 2026 讲解加 2021 大题 & 完形新题型错题 & 肖四2 \\
+\addlinespace[.35em]
+12/03 四 & 二刷 2022 加 2023 & 三刷2009｜二刷2026 & 翻译7 & 肖四3 加大题1 \\
+\addlinespace[.35em]
+12/04 五 & 二刷 2024 加 2025 & 三刷2010｜二刷2025 & 小作文成稿 & 肖四4 加大题2 \\
+\addlinespace[.35em]
+12/05 六 & 二刷 2026 单份 & 三刷2011｜二刷2024 & 大作文 A 篇 & 大题3 加肖八错题 \\
+\addlinespace[.35em]
+12/06 日 & 模拟 22｜行列式矩阵 & 三刷2012｜二刷2023 & 阅读整套保温 & 大题4，周复盘 \\
+\addlinespace[.35em]
+\bottomrule
+\end{longtable}
+}
+\needspace{.34\textheight}\subsection{第 6 周 12/07–12/13（三刷加二刷滚动）}
+{\small\renewcommand{\arraystretch}{1.38}\setlength{\tabcolsep}{3.5pt}
+\begin{longtable}{P{0.176\linewidth}P{0.176\linewidth}P{0.176\linewidth}P{0.176\linewidth}P{0.176\linewidth}}
+\toprule
+\bfseries 日期 & \bfseries 数学 & \bfseries 408 & \bfseries 英语 & \bfseries 政治 \\
+\midrule
+\endfirsthead
+\toprule
+\bfseries 日期 & \bfseries 数学 & \bfseries 408 & \bfseries 英语 & \bfseries 政治 \\
+\midrule
+\endhead
+12/07 一 & 模拟 23｜向量方程组 & 全真占 14–17｜二刷 2022 速览 & 全真 2024 & 大题5 \\
+\addlinespace[.35em]
+12/08 二 & 模拟 24｜向量方程组 & 三刷2013｜二刷2021 & 全真复盘 & 肖四背1 \\
+\addlinespace[.35em]
+12/09 三 & 模拟 25｜向量方程组 & 三刷2014｜二刷2020 & 大作文 A 默写 & 肖四背2 \\
+\addlinespace[.35em]
+12/10 四 & 模拟 26｜向量方程组 & 三刷2015｜二刷2019 & 翻译8 & 肖四背3 \\
+\addlinespace[.35em]
+12/11 五 & 模拟 27｜特征值二次型 & 三刷2016｜二刷2018 & 阅读错题重做 & 时政1 \\
+\addlinespace[.35em]
+12/12 六 & 模拟 28｜特征值二次型 & 三刷2017｜二刷2017 & 新题型保温 & 时政2 \\
+\addlinespace[.35em]
+12/13 日 & 模拟 29｜特征值二次型 & 全真占 14–17｜二刷 2016 速览 & 全真 2025 & 肖四选择二刷，周复盘 \\
+\addlinespace[.35em]
+\bottomrule
+\end{longtable}
+}
+\needspace{.34\textheight}\subsection{第 7 周 12/14–12/18（收口）}
+{\small\renewcommand{\arraystretch}{1.38}\setlength{\tabcolsep}{3.5pt}
+\begin{longtable}{P{0.176\linewidth}P{0.176\linewidth}P{0.176\linewidth}P{0.176\linewidth}P{0.176\linewidth}}
+\toprule
+\bfseries 日期 & \bfseries 数学 & \bfseries 408 & \bfseries 英语 & \bfseries 政治 \\
+\midrule
+\endfirsthead
+\toprule
+\bfseries 日期 & \bfseries 数学 & \bfseries 408 & \bfseries 英语 & \bfseries 政治 \\
+\midrule
+\endhead
+12/14 一 & 模拟 30｜特征值二次型 & 三刷2018｜二刷2015 & 全真复盘 & 肖四背4 \\
+\addlinespace[.35em]
+12/15 二 & 模拟 31｜特征值二次型 & 三刷2019｜二刷2014 & 大作文 B 篇 & 肖四背5 \\
+\addlinespace[.35em]
+12/16 三 & 回归：错题本高数 & 三刷2020｜二刷2013 & 阅读完形保温 & 时政3 加错题 \\
+\addlinespace[.35em]
+12/17 四 & 回归：线代加公式 & 全真占 14–17 & 全真 2026 & 框架默写1 \\
+\addlinespace[.35em]
+12/18 五 & 回归：一页纸加例题 & 三刷2021｜四门框架默画 & 模板压缩加单词 & 框架默写2，证件 \\
+\addlinespace[.35em]
+\bottomrule
+\end{longtable}
+}
+\needspace{.34\textheight}\section{五、单科推进路线}
+\subsection{5.1 数学二（150 分）}
+白天只做两件事：限时和批改。真题收完就直接进模拟卷，不再在白天安排分类。
+
+{\small\renewcommand{\arraystretch}{1.38}\setlength{\tabcolsep}{3.5pt}
+\begin{longtable}{P{0.17\linewidth}P{0.48\linewidth}P{0.28\linewidth}}
+\toprule
+\bfseries 日期 & \bfseries 白天任务 & \bfseries 验收 \\
+\midrule
+\endfirsthead
+\toprule
+\bfseries 日期 & \bfseries 白天任务 & \bfseries 验收 \\
+\midrule
+\endhead
+11/05–11/09 & 2022–2026 真题，一天一套，8:30–11:30 限时，11:30–12:00 批改标错 & 每套 3 小时内收卷；选择填空错不超过 2 个 \\
+\addlinespace[.35em]
+11/10–11/30 & 模拟卷一天一套，共 21 套（李林 6 加 4、张宇或永乐、合工大等，手上有多少做多少） & 21 天铺满；卷子不够就用真题分类的整卷模式补，仍不够就改成隔天一套加分类整章 \\
+\addlinespace[.35em]
+12/01–12/05 & 真题二刷 9 套，一天两份：2016 加 2018、2020 加 2021、2022 加 2023、2024 加 2025、2026 单份 & 每份 105 分钟内做完；二刷比首刷提分不少于 15 分 \\
+\addlinespace[.35em]
+12/06–12/15 & 继续模拟题，10 套，一天一套 & 均分不下降；每套错题当天进分类 \\
+\addlinespace[.35em]
+12/16–12/18 & 考前三天回归知识点：错题本、公式手册、课本例题、一页纸 & 高数线代各过一遍，公式能默写 \\
+\addlinespace[.35em]
+\bottomrule
+\end{longtable}
+}
+晚上 19:00–21:00 是固定的数学时段：19:00–19:45 订正白天那张卷，19:45–21:00 做真题分类，44 天铺满整本，顺序按星级从高到低。
+
+{\small\renewcommand{\arraystretch}{1.38}\setlength{\tabcolsep}{3.5pt}
+\begin{longtable}{P{0.12\linewidth}P{0.82\linewidth}}
+\toprule
+\bfseries 日期 & \bfseries 分类专题 \\
+\midrule
+\endfirsthead
+\toprule
+\bfseries 日期 & \bfseries 分类专题 \\
+\midrule
+\endhead
+11/05–11/10 & 极限与连续 \\
+\addlinespace[.35em]
+11/11–11/16 & 一元函数微分学（含中值定理证明） \\
+\addlinespace[.35em]
+11/17–11/22 & 一元函数积分学 \\
+\addlinespace[.35em]
+11/23–11/27 & 多元函数微分学加二重积分 \\
+\addlinespace[.35em]
+11/28–12/01 & 常微分方程 \\
+\addlinespace[.35em]
+12/02–12/06 & 行列式加矩阵 \\
+\addlinespace[.35em]
+12/07–12/11 & 向量组加线性方程组 \\
+\addlinespace[.35em]
+12/12–12/16 & 特征值加二次型 \\
+\addlinespace[.35em]
+12/17–12/18 & 分类错题全书回炉 \\
+\addlinespace[.35em]
+\bottomrule
+\end{longtable}
+}
+两条硬约束。分类时段先做当天卷子的错题，再补该专题剩下的题，顺序不能反，否则分类会变成无目标的刷题；订正的 45 分钟只处理「会做但错」和「完全不会」两类，卡在中间状态的题直接进错题本，周末再看。模拟卷的分数只用来暴露「会做但做不完」和「看错条件」，连续三套低于 90 分就按第六节的触发规则处理，不靠加量解决。
+
+\subsection{5.2 408（150 分）}
+一刷两天一套，11/05 到 12/02 完成 2013 到 2026 共 14 套，分两段：前 12 天不写旧卷，专攻大题；第 13 天起恢复错位重写。
+
+{\small\renewcommand{\arraystretch}{1.38}\setlength{\tabcolsep}{3.5pt}
+\begin{longtable}{P{0.17\linewidth}P{0.48\linewidth}P{0.28\linewidth}}
+\toprule
+\bfseries 时段 & \bfseries 新卷日（第 1 天） & \bfseries 讲解日（第 2 天） \\
+\midrule
+\endfirsthead
+\toprule
+\bfseries 时段 & \bfseries 新卷日（第 1 天） & \bfseries 讲解日（第 2 天） \\
+\midrule
+\endhead
+14:00–17:00 & 整卷限时：选择 40 题加大题 7 题 & 14:00–16:00 看讲解，选择题逐题，大题抓思路与踩分点 \\
+\addlinespace[.35em]
+16:00–18:00 & 17:00 收卷后直接进第 1 个大题专题（11/17 起改为刷错位年选择） & 第 2 个大题专题（11/17 起改为写错位年整卷大题） \\
+\addlinespace[.35em]
+21:00–22:00 & 对答案、订正选择 & 错题回填四门框架 \\
+\addlinespace[.35em]
+\bottomrule
+\end{longtable}
+}
+一刷是唯一跨天的环节：做题一天、讲解一天。12 月起的二刷与三刷都不跨天，当天做完当天对讲解。
+
+11/05–11/16 的 12 个大题专题，一天一个，按「看懂一道完整例题，再合上答案手写一遍」的方式走，每个专题留一页手写模板。
+
+{\small\renewcommand{\arraystretch}{1.38}\setlength{\tabcolsep}{3.5pt}
+\begin{longtable}{P{0.17\linewidth}P{0.48\linewidth}P{0.28\linewidth}}
+\toprule
+\bfseries 日期与时段 & \bfseries 专题 & \bfseries 验收 \\
+\midrule
+\endfirsthead
+\toprule
+\bfseries 日期与时段 & \bfseries 专题 & \bfseries 验收 \\
+\midrule
+\endhead
+11/05 17–18 & 数据结构算法设计（你没列，但它是大题第一题、13 到 15 分，占一个时段，不要可直接砍） & 20 分钟写出伪代码并说清复杂度 \\
+\addlinespace[.35em]
+11/06 16–18 & Cache：三种映射、命中率、平均访问时间、替换算法 & 给地址能画标记与组号，命中率算对 \\
+\addlinespace[.35em]
+11/07 17–18 & 指令寻址与汇编：有效地址计算、寻址方式、简单汇编段 & 寻址方式判断不看笔记 \\
+\addlinespace[.35em]
+11/08 16–18 & CPU 数据通路：单总线结构、微操作序列、控制信号 & 给指令能写完整微操作链 \\
+\addlinespace[.35em]
+11/09 17–18 & 流水线：时空图、加速比、吞吐率、数据与控制冒险 & 时空图不重叠不遗漏 \\
+\addlinespace[.35em]
+11/10 16–18 & IO 方式：程序查询、中断、DMA、通道，对比与计算 & 四种方式的 CPU 参与度与传输单位能默写 \\
+\addlinespace[.35em]
+11/11 17–18 & PV 操作：生产者消费者、读者写者、哲学家 & 三个模型能默写信号量与初值 \\
+\addlinespace[.35em]
+11/12 16–18 & 基本分页：页表、地址变换、多级页表、快表 & 地址变换手算不出错 \\
+\addlinespace[.35em]
+11/13 17–18 & 请求分页与软硬件互斥：缺页处理、置换算法、互斥的软硬件实现 & 缺页次数逐行算对；互斥方法能列全 \\
+\addlinespace[.35em]
+11/14 16–18 & 计网前三章：体系结构、物理层计算、链路层滑动窗口与 CSMA & 奈氏与香农计算不丢分 \\
+\addlinespace[.35em]
+11/15 17–18 & 计网 IP：子网划分、路由聚合、ARP 与 ICMP、NAT & 子网划分 5 分钟出结果 \\
+\addlinespace[.35em]
+11/16 16–18 & 计网 5、6 章：TCP 可靠传输与拥塞控制、DNS、HTTP & 拥塞控制曲线能画出来 \\
+\addlinespace[.35em]
+\bottomrule
+\end{longtable}
+}
+11/17 起恢复错位重写，固定错五年：2019 对 2014、2020 对 2015、2021 对 2016、2022 对 2017、2023 对 2018、2024 对 2019、2025 对 2020、2026 对 2021。新卷日刷旧卷选择，讲解日写旧卷大题。这 8 张旧卷都在本轮 11/07–11/28 之间做过，属于先做完再重做。
+
+12/03 起进入滚动期，一天两份、三条线并行：
+
+{\small\renewcommand{\arraystretch}{1.38}\setlength{\tabcolsep}{3.5pt}
+\begin{longtable}{P{0.12\linewidth}P{0.82\linewidth}}
+\toprule
+\bfseries 时段 & \bfseries 内容 \\
+\midrule
+\endfirsthead
+\toprule
+\bfseries 时段 & \bfseries 内容 \\
+\midrule
+\endhead
+14:00–16:00 & 三刷：2009 起顺序推进，只做当年错题、空白题与该年最难的题，做完立刻对讲解 \\
+\addlinespace[.35em]
+16:00–18:00 & 二刷：2026 起倒序推进，整卷重做，做完立刻对讲解 \\
+\addlinespace[.35em]
+21:00–22:00 & 回归课本：先翻当年错题对应小节，再做该章课后选择题 \\
+\addlinespace[.35em]
+\bottomrule
+\end{longtable}
+}
+三刷 13 套排在 12/03、04、05、06、08、09、10、11、12、14、15、16、18，对应 2009 到 2021。二刷 14 套排在 12/03–12/16，对应 2026 到 2013；模考日（12/07、12/13）只保留 17:00–18:00 的速览。课本 16 个时段按下面第二张表走。
+
+晚上 21:00–22:00 的课本时段有 60 分钟，够做「错题小节回看加课后选择题」两件事，12/03 起一天一章，按这个顺序走：
+
+{\small\renewcommand{\arraystretch}{1.38}\setlength{\tabcolsep}{3.5pt}
+\begin{longtable}{P{0.12\linewidth}P{0.82\linewidth}}
+\toprule
+\bfseries 日期 & \bfseries 课本章节 \\
+\midrule
+\endfirsthead
+\toprule
+\bfseries 日期 & \bfseries 课本章节 \\
+\midrule
+\endhead
+12/03 & 数据结构 线性表 \\
+\addlinespace[.35em]
+12/04 & 数据结构 栈、队列、数组 \\
+\addlinespace[.35em]
+12/05 & 数据结构 树与二叉树 \\
+\addlinespace[.35em]
+12/06 & 数据结构 图 \\
+\addlinespace[.35em]
+12/07 & 数据结构 查找与排序 \\
+\addlinespace[.35em]
+12/08 & 组成 数据的表示与运算 \\
+\addlinespace[.35em]
+12/09 & 组成 存储系统 \\
+\addlinespace[.35em]
+12/10 & 组成 指令系统 \\
+\addlinespace[.35em]
+12/11 & 组成 CPU 与流水线 \\
+\addlinespace[.35em]
+12/12 & 组成 IO 与总线 \\
+\addlinespace[.35em]
+12/13 & OS 进程与线程 \\
+\addlinespace[.35em]
+12/14 & OS 内存管理 \\
+\addlinespace[.35em]
+12/15 & OS 文件与 IO \\
+\addlinespace[.35em]
+12/16 & 网络 前三章 \\
+\addlinespace[.35em]
+12/17 & 网络 IP、传输层、应用层 \\
+\addlinespace[.35em]
+12/18 & 四门框架默画加错题回炉 \\
+\addlinespace[.35em]
+\bottomrule
+\end{longtable}
+}
+408 模拟卷是可选项：12/14 之后如果还有余力，就在课本时段里插一套，没余力直接跳过，不影响主线。
+
+\subsection{5.3 英语二（100 分，阅读 40，写作 25，翻译 15，新题型 10，完形 10）}
+一套卷的定义是 4 篇阅读、1 篇完形、1 篇新题型，22:00 开始，75 分钟内必须收卷。分段卡表：阅读 4 篇 50 分钟（每篇 12 到 13 分钟），完形 10 分钟，新题型 15 分钟，合计 75。超时就停笔，宁可空着也不要拖表——这套节奏是给考场留出翻译和作文的时间。
+
+{\small\renewcommand{\arraystretch}{1.38}\setlength{\tabcolsep}{3.5pt}
+\begin{longtable}{P{0.17\linewidth}P{0.48\linewidth}P{0.28\linewidth}}
+\toprule
+\bfseries 日期 & \bfseries 任务 & \bfseries 验收 \\
+\midrule
+\endfirsthead
+\toprule
+\bfseries 日期 & \bfseries 任务 & \bfseries 验收 \\
+\midrule
+\endhead
+11/05–11/12 & 2014–2021 八套，一天一套，75 分钟收卷 & 每套客观题得分记下来，错题写清定位错、替换错、推断错还是主旨错 \\
+\addlinespace[.35em]
+11/13–11/20 & 八套的错题篇二刷，每天配一篇翻译（2010–2021 真题） & 错篇能在 40 分钟内重做并说出每个错误选项的陷阱；翻译先拆主干 \\
+\addlinespace[.35em]
+11/21–11/30 & 2022、2023 两套当过渡卷，各两天（一天做、一天订正精读）；小作文与作文模板各 2 稿 & 过渡卷 75 分钟收卷；模板能背下来不看稿 \\
+\addlinespace[.35em]
+12/01–12/06 & 错题回炉加作文成稿：小作文成稿、大作文 A 篇、阅读整套保温 & 作文 25 分钟内成文，模板压缩到一页 \\
+\addlinespace[.35em]
+12/07、12/13、12/17 & 14:00–17:00 全真模拟 2024、2025、2026 & 三次分数不降；作文扣分不超过 5 分 \\
+\addlinespace[.35em]
+12/08–12/18 & 每次模拟后对照范文重写，大作文 B 篇成稿，翻译与新题型保温 & 一页纸覆盖图表、图画、书信三类 \\
+\addlinespace[.35em]
+\bottomrule
+\end{longtable}
+}
+作文是唯一不能动的一环：早上 07:45–08:15（12 月起到 08:30）加晚上 23:15–23:30，一天两遍。单词只滚真题生词本，不背第三本词书。订正放在第二天早上 08:15–08:30，只做两件事：标错因、把错句抄进生词本。
+
+\subsection{5.4 政治（100 分，客观题 50，主观题 50）}
+晚上那一格撤掉之后，政治全天只有中午 12:00–13:20 的 80 分钟，所以每一分钟都要落在题上。
+
+{\small\renewcommand{\arraystretch}{1.38}\setlength{\tabcolsep}{3.5pt}
+\begin{longtable}{P{0.17\linewidth}P{0.48\linewidth}P{0.28\linewidth}}
+\toprule
+\bfseries 日期 & \bfseries 任务 & \bfseries 验收 \\
+\midrule
+\endfirsthead
+\toprule
+\bfseries 日期 & \bfseries 任务 & \bfseries 验收 \\
+\midrule
+\endhead
+11/05–11/06 & 两天把剩下的课看完，两倍速，每章立刻做 10 到 15 题 & 五门过完一遍，笔记上有五张章节骨架 \\
+\addlinespace[.35em]
+11/07–12/04 & 模拟卷一天一套：肖八 8 套、腿四 4 套、徐六 6 套、米六 6 套、肖四选择 4 套，共 28 套 & 40 分钟做完选择，40 分钟订正；单选错不超过 2，多选错不超过 4 \\
+\addlinespace[.35em]
+12/05–12/18 & 前 40 分钟二刷错题选择，后 40 分钟学大题思路并动手写 1 题，配时政专题 & 每题能写 3 点框架；材料题 15 分钟内写完一道 \\
+\addlinespace[.35em]
+\bottomrule
+\end{longtable}
+}
+政治没有晚上兜底了，所以「今天先欠着」这个选项不存在：中午做不完的订正，只能压缩到第二天中午的前 20 分钟，不能拖到晚上。
+
+\needspace{.34\textheight}\section{六、验收、复盘与调整}
+\subsection{6.1 日结（23:30，三行）}
+第一行今天完成了什么、没完成什么；第二行今天最痛的失分点，写到具体知识点，不写「数学不太行」；第三行明天开工第一件事。日结写不出来，说明当天是假努力，第二天先补订正再上新课。
+
+\subsection{6.2 周复盘（周日 18:30–19:00，五个指标）}
+周日把晚饭提前到 18:00–18:30，18:30–19:00 做周复盘，当天不再散步。
+
+{\small\renewcommand{\arraystretch}{1.38}\setlength{\tabcolsep}{3.5pt}
+\begin{longtable}{P{0.17\linewidth}P{0.48\linewidth}P{0.28\linewidth}}
+\toprule
+\bfseries 指标 & \bfseries 记录方式 & \bfseries 健康线 \\
+\midrule
+\endfirsthead
+\toprule
+\bfseries 指标 & \bfseries 记录方式 & \bfseries 健康线 \\
+\midrule
+\endhead
+数学套卷分 & 每套记分数与用时 & 均分不低于上周，用时不超过 175 分钟 \\
+\addlinespace[.35em]
+数学错题清零率 & 当天进分类的错题，当天做完的比例 & 不低于 85\% \\
+\addlinespace[.35em]
+408 选择正确率 & 分四门记 & 一刷不低于 70\%，二刷不低于 85\% \\
+\addlinespace[.35em]
+英语阅读错数 & 每套四篇的总错数 & 不超过 4 个，12 月起不超过 3 个 \\
+\addlinespace[.35em]
+政治选择分 & 每套 50 分制的得分 & 11 月不低于 30，12 月不低于 36 \\
+\addlinespace[.35em]
+\bottomrule
+\end{longtable}
+}
+\subsection{6.3 触发规则}
+{\small\renewcommand{\arraystretch}{1.38}\setlength{\tabcolsep}{3.5pt}
+\begin{longtable}{P{0.12\linewidth}P{0.82\linewidth}}
+\toprule
+\bfseries 现象 & \bfseries 动作 \\
+\midrule
+\endfirsthead
+\toprule
+\bfseries 现象 & \bfseries 动作 \\
+\midrule
+\endhead
+连续 3 天有模块完不成 & 按 6.4 次序减量，先压 408 晚上，再动 408 三刷 \\
+\addlinespace[.35em]
+数学模拟连续 3 套低于 90 分 & 停新卷 3 天，回分类加错题重做，第 4 天再上卷 \\
+\addlinespace[.35em]
+408 某章选择正确率低于 60\% & 该章回炉半天，二刷降为只做该章错题 \\
+\addlinespace[.35em]
+408 三刷某年做不动 & 说明该年不是忘而是不会，当天改听该年讲解，二刷当天减半 \\
+\addlinespace[.35em]
+英语单套阅读错 8 个以上 & 当周加 30 分钟精读，砍掉当周完形专项 \\
+\addlinespace[.35em]
+政治多选连续两套错 6 个以上 & 停新卷一天，回五门框架加错题考点 \\
+\addlinespace[.35em]
+连续 2 天睡眠不足 6.5 小时 & 当晚 22:00 的套卷改成只做 2 篇阅读，23:00 前睡，第二天照常 7 点起 \\
+\addlinespace[.35em]
+\bottomrule
+\end{longtable}
+}
+\subsection{6.4 减量次序（从先砍到后砍）}
+第一，21:00–22:00 的 408 压到 30 分钟，省下的 30 分钟给英语订正；第二，408 三刷降为两天一套；第三，23:15 的作文改隔天一次；第四，数学分类只做当天卷子的错题，其余留到考前；最后才动三条底线：数学的限时套卷、22:00 的 75 分钟英语套卷、408 二刷的整卷重做，这三项任何情况下不砍。
+
+\subsection{6.5 三条硬规则}
+套卷批改当日必做，深度订正当日或次日必清，宁可少做一套也不留尾巴。错题本只记一句话错因加正确切入点，不抄整题。任何一科连续两天只听课不做题，第三天立即改为纯做题。
+
+\needspace{.34\textheight}\section{七、风险与备案}
+{\small\renewcommand{\arraystretch}{1.38}\setlength{\tabcolsep}{3.5pt}
+\begin{longtable}{P{0.17\linewidth}P{0.48\linewidth}P{0.28\linewidth}}
+\toprule
+\bfseries 风险 & \bfseries 迹象 & \bfseries 备案 \\
+\midrule
+\endfirsthead
+\toprule
+\bfseries 风险 & \bfseries 迹象 & \bfseries 备案 \\
+\midrule
+\endhead
+模拟卷不够 31 套 & 11/20 手上不到 15 套 & 缺的天数用真题分类的整卷模式补，或把 2013–2021 真题当模拟重做，限时不变 \\
+\addlinespace[.35em]
+三刷与二刷抢时间 & 12/10 三刷还停在 2014 & 三刷只做错题，把 14:00–16:00 缩到 90 分钟，二刷优先 \\
+\addlinespace[.35em]
+课本回归变成从头读书 & 12/08 还在抄课本要点 & 课本只做两件事：翻当年错题对应小节，加课后选择题，不抄笔记 \\
+\addlinespace[.35em]
+政治挤掉大题 & 12/10 还没开始写肖四大题 & 中午前 40 分钟全给大题，错题选择挪到 23:15 后 \\
+\addlinespace[.35em]
+生病或状态崩 & 连续两天效率低于五成 & 只保留半天任务：数学错题加 408 框架，第三天回归 \\
+\addlinespace[.35em]
+\bottomrule
+\end{longtable}
+}
+\needspace{.34\textheight}\section{八、需要你确认的四件事}
+\begin{enumerate}
+\item 408 的 2009–2012 是当年做过、现在当三刷，还是根本没做过？没做过的话三刷要按首刷强度排，一天只能一套。
+\item 数学模拟卷手上有几套、哪几家？目前按 31 套编排，实际不够就按第七节第一条补。
+\item 英语 2022、2023 两套做过没有？做过就换成 2012、2013 的阅读加新题型。
+\item 政治两天课还剩多少小时？超过 10 小时就把两天扩成三天，模拟卷起点顺延到 11/08。
+\end{enumerate}
+\needspace{.34\textheight}\section{九、考前 48 小时与考试日}
+12/16 到 12/18 只做减法，任何「还有一套没做」的冲动都要压住。数学回到错题本、公式与课本例题，408 回到课本与四门框架，英语回到作文模板与单词，政治回到大题框架。
+
+12/19 早上 6:30 起，7:00 早饭，8:00 到考点。8:30–11:30 政治，中午找地方躺 20 到 30 分钟，不核对答案不讨论题目；14:00–17:00 英语。晚上只看数学错题本 30 分钟与 408 四张框架，22:30 睡。12/20 上午 8:30–11:30 数学，下午 14:00–17:00 408。
+
+两天的中午都不要复盘上午的科目，也不要和别人对答案，这是最容易把下午考砸的动作。
+
+\end{document}

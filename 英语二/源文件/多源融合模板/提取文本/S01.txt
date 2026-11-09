@@ -1,0 +1,3747 @@
+===== PAGE 1 =====
+
+===== PAGE 2 =====
+         关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+      目录
+
+1.  前言.......................................................................................................................... 1
+2.  概述.......................................................................................................................... 3
+  2.1  考试大纲.............................................................................................................3
+  2.2  大作文.................................................................................................................3
+  2.3  小作文.................................................................................................................5
+  2.4  高分准则.............................................................................................................5
+3.  作文模板.................................................................................................................. 6
+  3.1 图表作文第一段：总体描述+细节描述+社会现象........................................ 6
+  3.2 通用的第二段：过渡句+原因123..................................................................31
+  3.3 通用的第三段：总结全文+具体措施+畅想未来.......................................... 58
+  3.4 图画作文第一段：图画描述+主题阐述.........................................................69
+  3.5 文字作文第一段：文字改写+表明态度.........................................................82
+  3.6  后续学习安排...................................................................................................86
+
+
+
+
+
+                                                                     I
+===== PAGE 3 =====
+         关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+
+ 前言1.
+
+  同学们大家好，我是UP 主AI 归来，该作文模板自19 考研推出以来，紧跟
+
+大纲变动和命题趋势，历经数次升级和变革，累计帮助了数万名考生在短期内提
+
+高应试水平且好评不断。帮助同学们在考场上用40 分钟时间获得80%以上的分
+数，即英一24 分+，英二20 分+。即便25 考研英一大作文突然考图表（表格）
+26 考研英一大作文突然考双图表，打破了“英一考图画，英二考图表”的传统，
+
+同学们依然能够从容面对，原因就在于本系列讲义的完整性、关联性、系统性和
+
+与时俱进性，而不仅仅是靠赌和押。
+
+  完整性是指无论你考英一英二，大作文中的图表、图画、文字作文，小作文
+
+中的书信、通知、告示、纪要我都会带你学到，甚至会改编真题加强对双图表作
+
+文的学习。关联性是指我会带你在如此之多的作文类型中找出它们的最大公约数，
+
+关联学习相同点，单独学习不同点，减轻负担。系统性是指本作文模板系列讲义
+
+和课程包含大小作文模板、真题带练、主题词汇总及拓展、考前预测等内容。如
+
+果你的时间紧迫，每天留给英语的学习时间不足两个小时，那么对照B 站视频
+
+课程学习本套系列讲义后，自行练习套用即可，无需补充其他老师的讲义或课程。
+
+与时俱进性是指，每年我的系列讲义和课程都会紧跟大纲变动和命题趋势，调整
+
+学习重点并更新例句，27 版本全面升级图表作文（覆盖全面，含双图表）。
+
+  我相信有一部分同学在“背范文”和“套模板”之间纠结，我们从三个角度
+
+对比一下：
+
+方法       适用性      复习时间     考场用时
+
+背范文      基础好的同学   大量       临时创作
+
+套模板      全部同学     少量       直接默写
+
+  背范文可以缓慢提升写作硬实力，套模板可以迅速提升考场分数。背范文适
+
+用于基础好、思维灵活的同学，否则背了20 篇范文也难以灵活运用。套模板无
+
+论基础好坏均适用，为基础好的同学提供思路方法，为基础差的同学保障分数。
+
+使用作文模板，减少复习时间和考场用时，省下来的复习时间给到数学和专业课，
+
+省下来的考场时间给到阅读才是正确选择。
+
+  为什么你背了20 篇范文也难以灵活运用？因为作者水平太高，他们随手一
+
+                                              1
+===== PAGE 4 =====
+         关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+
+写就是形散意不散的散文，短期内难以模仿和改写。而准备模板的目的就是将精
+
+心打磨几个月的作文模板与题目完美结合后默写到答题纸上，省时、高分，省下
+
+的时间给阅读。
+
+  如何判断自己是否适用于该模板呢？如果一提到图画图表描述就是as is
+shown above，一提到原因分析就是there are many reasons to explain my idea，一
+提到建议措施就是it is very important for us to，一提到展望未来就是only in this
+way, can we have a good future，那你一定适用于这个模板。学完以后，考试分数
+
+能够提升一个甚至几个档次。
+
+  本模板和其他模板有何不同呢？从中考到高考再到四、六级考试，我们考前
+
+一直在准备模板，可是到了考场上才发现都是白费功夫，根本不会套或者硬凑硬
+
+套。因为你只是大致记了一下俗套句型，根本没有搞清楚作文应该写几句话，每
+
+句话又是什么，所以遇到新的题目就不会了。当然，也不全是你的问题，有的作
+
+文模板确实不行，一到关键的、需要自己写的地方就是省略号。本模板按照行文
+
+顺序逐句讲解，每一句话都给出可供选择的句型并且以历年真题为例手把手教你
+
+如何套用。大家不必全部背诵，选择出自己喜欢的句子掌握即可。掌握后，不再
+
+做大的变动，可以做小的升级，此后每周练习套用一篇，考前20 天每天练习套
+用一篇。保你考场上用40 分钟时间搞定大小作文，省下的时间给阅读。
+  以下是AI 归来作文模板系列讲义和课程的全套资料目录和更新计划，更新
+后我会在全平台发布通知，请关注我的账号@AI 归来。
+
+      资料      计划          备注
+
+ 1 大作文模板     已发布   英一英二通用
+ 2 小作文模板          10 月15 日  英一英二通用
+ 3 大作文真题带练      10 月30 日  英一英二通用，10 篇代表性真题
+ 4 小作文真题带练      11 月15 日  英一英二通用，10 篇代表性真题
+ 5 主题词汇总及拓展    10 月30 日  英一英二区分
+ 6 考前预测            12 月1 日  英一英二区分
+ 7 大小作文真题汇总  已发布   英一英二通用
+ 8 勘误        视情    没有最好
+
+
+
+                                              2
+===== PAGE 5 =====
+         关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+ 概述2.
+
+2.1 考试大纲
+
+  首先我们来看考研英语大纲写作部分的描述。
+
+       英语一              英语二
+
+该部分由A、B 两节组成，考查考生 该部分由A、B 两节组成，考查考生
+的书面表达能力。共2 小题，共30 分。 的书面表达能力。共2 小题，共25 分。
+ A 节（1 小题）：要求考生根据规定情 A 节（1 小题）：要求考生根据规定情
+ 景写一篇约100 词（标点符号不计算 景写一篇约100 词（标点符号不计算
+
+ 在内）的应用文，类型包括书信、通知、 在内）的应用文，类型包括书信、通知、
+
+告示、纪要等。共10 分。      告示、纪要等。共10 分。
+ B 节（1 小题）：要求考生根据提示信 B 节（1 小题）：要求考生根据提示信
+ 息写一篇160~200 词（标点符号不计 息写一篇约150 词（标点符号不计算
+
+算在内）的短文。提示信息的形式为文 在内）的短文。提示信息的形式为文
+
+字、图画、图表等。共20 分。    字、图画、图表等。共15 分。
+
+  可见，除了分数和字数不同，英一英二大纲写作部分完全相同，大作文均有
+
+可能考到图画、图表和文字作文，小作文均有可能考到书信、通知、告示、纪
+
+要。虽然各种类型的作文都要掌握，但根据命题趋势和大纲样题，英一的重点已
+
+调整至图表作文（尤其是双图表），英二的重点依然是图表作文。
+
+2.2 大作文
+
+  大纲中的表述是“要求考生根据提示信息写一篇短文。提示信息的形式为文
+
+字、图画、图表等”，并且大纲提供了图画、图表、文字作文样题。这意味着我
+
+们不能完全忽视图画作文和文字作文。
+
+   我在讲解24、25、26 考研英语作文模板的时候也强调过这句话，果不其然
+24 英一大作文考图画+图表，25 英一大作文考图表，26 英一大作文考双图表。
+
+早已打破历年来“英一考图画，英二考图表”的传统。
+
+  这似乎表明英一完成了从图画到图表的过渡，实则不然，但我仍坚持英一英
+
+二同学都要掌握所有作文的写法，只是需要花费的精力（或时间）比重不同。如
+
+                                              3
+===== PAGE 6 =====
+         关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+果你有100 分的精力（或时间），建议如下：
+        图表   双图表  图画+图表  图画    文字
+  英一        20          40          20          10          10
+  英二        40          30          10          10          10
+
+  注意，这并不用于预测和押题，而是科学地分配学习时间。有同学要讲了：
+
+“我要是前几年考研就好了，只需要准备图画（或图表）就行了，现在我得准备
+
+五种作文模板”。真的有必要吗？不是的。我们要学会看本质，把图画图表文字
+
+统一起来。图画作文是透过图画看寓意、图表作文是透过图表看现象、文字作文
+
+是阅读文字提主题，这三种题型本质都是议论文，主题阐述句都可以总结为某某
+
+很重要、某某引起人们关注等，只是引入方式不同，也就是第一段不同，第二三
+
+两段是相同。
+
+
+
+
+
+                                              4
+===== PAGE 7 =====
+         关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+
+  注意，图画、图表、文字作文的第一段完全不同！同时学习，内容过多难以
+
+掌握。图画、图表、文字作文的第二、三段几乎相同，合并学习，省时省力。因
+
+此先掌握一个类型的作文，随后加以补充，学习路径如下：
+图表作文第一段➡通用的第二段➡通用的第三段➡图画作文第一段➡文字作文第一段
+  使用该大作文模板，我自己以及历届的学长学姐能够在考场上25 分钟内默
+写完毕，字数在200 左右，占用18~20 行（学完此模板你会发现写200 词就跟玩
+儿一样）。在这25 分钟的时间里，5 分钟用于审题和构建写作框架（在脑海中或
+
+写在题目旁），剩下的时间用于默写作文。我在资料中也给大家提供了标准答题
+
+卡，建议大家打印答题卡练习。
+
+
+
+
+
+           26 考研英语一                      26 考研英语二
+
+2.3 小作文
+
+  小作文是应用文，包括书信、通知、告示、纪要等。英一英二并无区分。建
+
+议大家：先学大作文，后学小作文。因为大作文的思路可供小作文借鉴，内容可
+
+供小作文使用。小作文模板详见下一份资料，预计十月中旬更新。
+
+2.4 高分准则
+
+1.卷面整洁。建议买一本字帖，每天练习10 分钟。
+2.结构清晰。看见题目就应迅速构思文章结构，本模板已帮你做到。
+3.语言丰富。看见题目就应迅速确定写作句型，本模板已帮你做到。
+4.拼写正确。除了掌握本模板中的单词，还要积累“主题词”。
+5.契合主题。审题其实很容易，历年真题均可一眼看出文章主题，文章内容只要
+
+和主题相关、不牵强即可。本系列资料也会针对审题进行特训，让你告别纠结。
+
+                                              5
+===== PAGE 8 =====
+         关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+ 作文模板3.
+
+3.1 图表作文第一段：总体描述+细节描述+社会现象
+
+   图表描述是图表作文的核心内容。所有图表按类型分为表格table、柱状图
+ bar chart、线状图line chart、饼状图pie chart，按数据分为动态图、静态图，按
+
+个数分为单图表、双图表，排列组合下来似乎有多种考法，但万变不离其宗。
+
+接下来我们会一起找到图表描述的最大公约数，统一图表描述的方法。
+
+         如何描述图表：分类、拆分、组合法
+
+  图表描述的思路是：总体描述+细节描述。总体描述通常改编自图表的标
+
+题，简述数据的变化（动）或分布（静）；细节描述需要具体到数据变化或占
+
+比，而数据变化只能是增加、减少、持平、波动，变化快慢只能是迅速或缓慢。
+
+
+
+
+
+  组合双图表
+
+
+
+  因此我们只要掌握几类词汇，图表描述就不在话下。
+
+             必背单词、常用搭配
+
+ 增加：increase / rise / grow / expand / climb / jump / surge / soar
+ 例：The health literacy level of Chinese residents rose from 8.8% in 2012 to 25.4%
+ in 2021. 中国居民健康素养水平从2012 年的8.8%升至2021 年的25.4%。
+
+                                              6
+===== PAGE 9 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+减少：decrease / decline / diminish / shrink / drop / fall
+例：The proportion of graduates entering the workforce fell from 68.1% to 60.7%.
+毕业后直接就业的比例从68.1%降至60.7%。
+持平：remain flat / stay at / stand at / stabilize
+例：The figure stood at roughly 30% throughout the period.
+该数据在整个时期内保持在30%左右。
+波动：vary / rise and fall/ fluctuate
+例：The share fluctuated between 10% and 15%.
+该占比在10%到15%之间波动。
+迅速地：sharply / markedly / notably / remarkably / significantly / dramatically
+例：The number of rural parcels rose dramatically after 2019.
+2019 年后农村快递件数急剧攀升。
+缓慢地：slightly / gradually / steadily / modestly / a modest rise
+例：The proportion pursuing further study rose gradually from 26.3% to 34.0%.
+深造比例从26.3%逐步升至34.0%。
+占：account for / make up / constitute
+例：The expenditure on housing constitutes the largest proportion of the total
+household income, accounting for 30%.
+住房支出占家庭总收入的最大比例，达到30%。
+比例：proportion / percentage / share / ratio
+例：The proportion/percentage of graduates pursuing further study rose to 34.0%.
+继续深造的毕业生比例上升至34.0%。
+Watching TV accounts for the largest share, at 90.8%.
+看电视占比最大，达90.8%。
+The ratio of A to B was roughly 1 to 2.A 与B 的比例约为1 比2。
+注：占比用proportion / percentage/ share，对比用ratio。
+峰值peak at / reach a peak of / hit a record high / reach an all-time high
+谷值bottom out at / hit a trough / fall to a low
+例：The volume peaked at 83 billion parcels in 2019.
+
+                                            7
+===== PAGE 10 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+快递业务量于2019 年达到830 亿件的峰值。
+时间：between A and B / from A to B / during the period from A to B / throughout
+the past XX years
+例：During the period from 2013 to 2018, graduates' choices underwent dramatic
+changes.在2013 至2018 年间，毕业生的选择发生了巨大变化。
+
+注：若静态图无年份可省略时间。
+
+倍数与比较
+
+ A doubled / tripled           翻倍/三倍
+ A is X times as high as B          A 是B 的X 倍
+ A is X times the figure for B        A 是B 的X 倍
+ A outnumbered B by a large margin    A 远超B
+ A increased by XX             A 增加了
+ A increased to XX             A 增加到
+例：The number of rural parcels more than doubled, from 1.2 billion to 3 billion.
+农村快递件数翻了一倍多，从12 亿件增至30 亿件。
+The figure for 2018 was twice as high as that for 2013.
+2018 年的数值是2013 年的两倍。
+Online shoppers in cities far outnumbered those in rural areas.
+
+城市网购用户数量远超农村。
+
+The level increased by 16.6 percentage points, from 8.8% to 25.4%.
+该水平提升了16.6 个百分点，从8.8%升至25.4%。
+排序rank first / top the list / follow closely behind / the largest share / the lion's share
+例：Watching TV tops the list among the leisure activities of the elderly.
+
+看电视在老年人休闲活动中居首位。
+
+约数与修饰approximately / roughly / nearly / just over / just under
+例：The figure stood at just over 60%. 该数值略高于60%。
+
+图表呈现
+
+As is shown / illustrated / depicted / revealed in the chart,
+The chart shows / reflects / presents / exhibits / reveals,
+
+                                            8
+===== PAGE 11 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+对比衔接whereas / while / in contrast / by contrast / meanwhile /on the contrary
+例：The proportion entering the workforce fell to 60.7%, whereas that pursuing
+further study rose to 34.0%.
+进入劳动市场的比例下降至60.7%，而继续深造的比例则上升至34.0%。
+趋势名词短语（主语=时间段）
+The period from…to… witnessed / experienced + a sharp rise / a steady decline / a
+dramatic surge. 从…到…期间经历了急剧上升/稳步下降/显著增长。
+例：The period from 2012 to 2021 witnessed a steady rise in the health literacy level
+of Chinese residents.2012 至2021 年间，中国居民健康素养水平稳步上升。
+
+拆分结束，下面开始组合。
+
+               第1 句：总体描述
+  总体描述就是用一句话概括图表的4 个基本要素标题、图例、数据、时间，
+
+主体内容其实就是图表信息的简单翻译。
+
+  观察历年图表作文真题后，同学们按照四个场景准备：
+
+   动态·单方向｜例2023 英二·居民健康素养（8.8% →25.4%）
+   动态·多方向｜例2019 英二·毕业生选择（就业降、深造升、创业微升）
+   静态图｜例2024 英二·劳动实践课收获（91.3% 等四项）
+   双图表｜例2026 英一·养老机器人（饼图接受度+ 柱状图关注点）
+
+   万能场景
+
+  此处分类仅用于前期快速选定待选句，内化后无需再区分场景。
+
+                动态·单方向
+待选1：Which 从句
+The chart above illustrates the changes in 主题词from 年份to 年份, during
+which it rose steadily.
+
+上表展示了年份至年份间主题词变化，其在这一时期稳步上升。
+
+待选2：趋势作宾语
+主题词saw a steady rise from 年份to 年份, as illustrated in the chart.
+
+如该图表所示，主题词在年份至年份间稳步上升。
+
+注：主题词需要是实体（快递业/城市/国家/品牌），如果主题词是数据（水平
+
+                                            9
+===== PAGE 12 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+/率/比例/数量），需改用时间作主语：The period from 年份to 年份saw a steady
+rise in 主题词。
+待选3：状语式
+According to the data given in the chart, the number of 主题词climbed steadily
+from 年份to 年份.
+
+根据图中数据，主题词的数量在年份至年份间稳步攀升。
+
+注：the number of 主题词视情况替换为the level/rate/proportion of 主题词。
+以2023 年英二为例：
+
+
+
+
+
+The line chart above illustrates the changes in Chinese residents' health literacy
+level from 2012 to 2021, during which it rose steadily.
+上方图表展示了2012 至2021 年间中国居民健康素养水平的变化，其在这一时
+
+期稳步上升。
+
+The period from 2012 to 2021 saw a steady rise in Chinese residents' health literacy
+level, as illustrated in the line chart.
+According to the data given in the line chart, the health literacy level of Chinese
+residents climbed steadily from 2012 to 2021.
+
+
+
+                                            10
+===== PAGE 13 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+                动态·多方向
+待选1：Among which 从句
+The chart above illustrates the changes in 主题词from 年份to 年份, among
+which the rise in 单项was the most striking.
+
+上方图表展示了年份至年份间主题词的变化，其中单项的上升最为显著。
+
+待选2：Divergent + with
+主题词experienced divergent trends from 年份to 年份, with 单项rising most
+sharply.
+
+主题词在年份至年份间经历了分化性的趋势，其中单项上升最为剧烈。
+
+待选3：状语式+ 对比
+As reflected in the chart, 主题词moved in opposite directions from 年份to 年
+份, 单项rising while 另一单项falling.
+
+如图中数据所示，主题词在年份至年份间朝不同方向变化，单项上升而另一单
+
+项下降。
+
+注：若变量有三个，只写对比最鲜明的两个，第三个留给细节句。
+
+以2019 年英二为例：
+
+
+
+
+
+The bar chart above illustrates the changes in graduates' choices from 2013 to 2018,
+among which the rise in the proportion pursuing further study was the most
+striking.
+
+                                             11
+===== PAGE 14 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+上方图表展示了2013 至2018 年间毕业生选择的变化，其中深造比例的上升
+
+最为显著。
+
+Graduates' choices experienced divergent trends from 2013 to 2018, with the
+proportion pursuing further study rising most sharply.
+毕业生的选择在2013 至2018 年间经历了分化性的趋势，其中深造比例上升
+
+最为剧烈。
+
+As reflected in the chart, graduates' choices moved in opposite directions from 2013
+to 2018, the proportion entering the workforce falling while that pursuing
+further study rising. (moved in opposite directions 可换为diverged)
+如图中数据所示，毕业生的选择在2013 至2018 年间朝不同方向变化，就业
+
+比例下降而深造比例上升。
+
+
+
+注：三句均适用于“多个变量走向不一” 的动态图。思考：要是多个变量走
+
+向相同呢？动态·单方向待选句的主题词加and 即可。
+             静态图（占比/格局）
+待选1：Distribution + with
+The bar chart above presents the distribution of 主题词  in 年份, with 单项
+accounting for the largest share.
+
+上方柱状图呈现了年份主题词的分布，其中单项占比最高。
+
+待选2：Dominance + with
+The pie chart above highlights the dominance of 单项  in 主题词, with  it
+overshadowing all other components.
+
+上方图表突出了单项在主题词中的主导地位，其远超其他各项。
+
+注：仅当第一项远高于其他项（断崖式领先）时使用。
+
+待选3：Disparity + with
+The chart above reveals a striking disparity in 主题词, with the proportions ranging
+from 最低值to 最高值.
+
+上方图表揭示了主题词中显著的差距，各项占比从最低值到最高值不等。
+
+注：with + 宾语+ 宾补（现在分词）
+
+                                            12
+===== PAGE 15 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+以2024 年英二为例：
+
+
+
+
+
+The bar chart above presents the distribution of students' gains from a university's
+labor practice course, with acquiring relevant knowledge accounting for the
+largest share.
+
+上方柱状图呈现了某高校劳动实践课学生收获的分布，其中学习相关知识占比
+
+最高。
+
+The chart above highlights the dominance of acquiring relevant knowledge in
+students' gains from the labor practice course, with it overshadowing all other
+components.
+
+上方图表突出了“学习相关知识” 在劳动实践课收获中的主导地位，其远超
+
+其他各项。
+
+The chart above reveals a striking disparity in students' gains from the labor
+practice course, with the proportions ranging from 32.6% to 91.3%.
+上方图表揭示了劳动实践课学生收获中显著的差距，各项占比从32.6% 到
+91.3% 不等。
+注1：静态图无年份趋势，三句均不含from...to...年份而是改为in 年份；
+注2：记住3D——distribution 分布/dominance 主导/disparity 差距。
+
+                                            13
+===== PAGE 16 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+            双图表（静静/动静/动动）
+待选1：While 并列
+The chart on the left illustrates 左图主题, while the chart on the right presents 右
+图主题.
+左侧的图展示了……，而右侧的图呈现了……。
+待选2：As for 另起一句
+The pie chart above presents 左图主题. As for the chart on the right, it shows 右图
+主题.
+上面的饼图呈现了……。至于右侧的图，它展示了……。
+待选3：总分结构
+The two charts present 总主题: the pie chart shows 图1 内容, while the bar chart
+on the right lists 图2 内容.
+两幅图呈现了……：饼图显示了……，而右侧的柱状图列出了……。
+以2026 年英一为例：静静结合
+
+
+
+
+
+The chart on the left shows consumers' attitudes towards elderly-care robots,
+while the chart on the right lists their major concerns about such robots.
+
+左侧的图显示了消费者对养老机器人的态度，而右侧的图列出了他们对这类机
+
+器人的主要担忧。
+
+                                            14
+===== PAGE 17 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+The pie chart above presents consumers' attitudes towards elderly-care robots. As
+for the bar chart on the right, it lists the major concerns consumers hold about such
+robots.
+
+上面的饼图呈现了消费者对养老机器人的态度。至于右侧的柱状图，它列出了
+
+消费者对这类机器人的主要担忧。
+
+The two charts present consumers' perceptions of elderly-care robots: the pie chart
+shows their attitudes, while the bar chart lists their major concerns.
+
+两幅图呈现了消费者对养老机器人的认知：饼图显示了他们的态度，而右侧的
+
+柱状图列出了主要担忧。
+
+
+注：静静/动静/动动结合不换骨架，只换每幅图内的主题用词，能抽象就抽象，
+
+不能抽象就具体。
+
+抽象类           attitudes 态度/ concerns 担忧/ choices 选择/ preferences 偏好
+ 具体类（动态）changes 变化/ trends 趋势/ fluctuations 波动
+ 具体类（静态）3D / share 份额/ proportion 比例
+
+
+改编自2022 年英语二的动静结合
+
+
+
+
+
+The chart on the left illustrates the changes in express delivery volume from 2018
+to 2020, while the chart on the right presents the distribution of packaging disposal
+methods.
+左侧的图展示了2018 至2020 年间快递业务量的变化，而右侧的图呈现了快
+
+递包装处理方式的分布。
+
+
+                                            15
+===== PAGE 18 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+
+               万能场景
+
+有变化，待选123 任选其一。
+待选1：
+Some remarkable/substantial changes in 主题词have taken place in the past few
+years. 在过去的几年中，主题词发生了一些显著/实质性的变化。
+待选2：
+The chart above shows/presents the variation in 主题词from 年份to 年份.
+
+上述图表展示了年份至年份间主题词的变化。
+
+待选3：
+The proportions/shares/numbers of 主题词had visible changes during the period
+from 年份to 年份. 主题词的占比/份额/数量在年份至年份间发生明显变化。
+
+有占比，待选456 任选其一。
+
+待选4：
+The chart shows the distribution of 主题词at a glance, revealing a striking disparity
+among the options.
+
+该图一目了然地展示了主题词的分布，揭示了各项之间的巨大差异。
+
+待选5：
+The chart above presents 主题词, offering a clear picture of the overall situation.
+
+上方图表呈现了主题词，清晰地展示了整体情况。
+
+待选6：
+The chart above provides information about 主题词from 年份to 年份.
+上述图表提供了年份至年份间关于主题词的信息。或situation of。
+注：万能场景用于“没把握/看不懂/时间紧”的情况。
+例2025 年英一：
+
+
+
+
+
+                                            16
+===== PAGE 19 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+The table above provides information about the average ownership of major
+durable consumer goods per 100 households in China from 2014 to 2023.
+上表提供了2014 至2023 年中国每百户居民主要耐用消费品平均拥有量信息。
+               第2 句：细节描述
+
+  细节描述需要具体到数据变化或占比，也就是动态或静态。描述之前，使
+
+用To be specific/Specifically 等过渡。
+
+               动态图
+
+公式1：Sth1. 增长或减少（快速或缓慢地）from 数量to 数量. Meanwhile（或
+However）, Sth2. 增长或减少（快速或缓慢地）from 数量to 数量during the
+same period.
+注：Sth1.和Sth2.是图例，下同；during the same period 视篇幅可用可省。
+例2019 英二：
+
+
+
+
+
+The percentage of graduates who choose to enter the workforce decreased
+remarkably from 68.1% to 60.7%. However, the percentage of graduates who
+pursue further study climbed significantly from 26.3% to 34.0%. Meanwhile, the
+percentage of graduates who start a business rose slightly, from 1.3% to 2.6%.
+选择工作的毕业生比例从68.1%显著下降到60.7%。然而，选择继续深造的毕
+业生比例从26.3%显著攀升至34.0%。与此同时，毕业生创业的比例从1.3%小
+幅升至2.6%。
+注：三个数据用三种动词和副词（decreased remarkably / climbed significantly /
+rose slightly）避免句式单调。
+
+
+                                            17
+===== PAGE 20 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+公式2：The number/proportion of Sth1. was 数量in 年份, compared with 数量
+in 年份, showing an increase of 增量（记得带单位）.
+例2019 英二：
+The percentage of graduates who pursued further study was 34.0% in 2018,
+compared with 26.3% in 2013, showing an increase of 7.7 percentage points.
+2018 年选择继续深造的毕业生比例为34.0%，2013 年为26.3%，增长了7.7 个
+
+百分点。
+
+公式3:The number/proportion of Sth1. in 年份was X times that in 年份.
+注1:2 倍twice，3 倍triple，以上用four times.
+注2：倍数表达三选一twice that in / twice as high as that in / twice the 年份
+figure。
+例2019 英二：
+The percentage of graduates who start a business in 2018 was twice that in 2013.
+或... in 2018 was twice as high as that in 2013.
+或... in 2018 was twice the 2013 figure.
+
+2018 年毕业生创业比例是2013 年的2 倍。
+
+注3：公式3 是表达同一变量在不同年份下的倍数关系，稍作改变后可用于对
+比不同变量在同一年份下的倍数关系：The percentage of graduates who choose
+to work was about 1.8 times that of graduates who pursue further study in 2018.
+2018 年选择工作的毕业生比例约为选择继续深造毕业生比例的1.8 倍。
+
+以上三个公式可以搞定几乎所有表示变化趋势的动态图。
+
+例2023 年英二：
+
+
+
+
+
+                                            18
+===== PAGE 21 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+公式1：The health literacy level of Chinese residents increased gradually from
+8.8% in 2012 to 11.58% in 2016. In the next five years, it climbed remarkably, from
+11.58% to 25.40%.
+健康素养水平从2012 年的8.8%逐渐增长到2016 年的11.58%。在接下来的5
+年中，它显著攀升，从11.58%升至25.40%。
+公式2：The health literacy level of Chinese residents was 8.8% in 2012, compared
+with 25.4% in 2021, showing an increase of 16.6 percentage points.
+我国居民健康素养水平在2012 年为8.8%，而2021 年为25.4%，增长了16.6
+
+个百分点。
+
+公式3：The health literacy level of Chinese residents in 2021 was almost three
+times that in 2012.
+2021 年的我国居民健康素养水平几乎是2012 年的3 倍。
+例2025 年英一：
+
+
+
+
+
+公式1 ：The ownership of air conditioners per 100 households increased
+dramatically from 75.2 units in 2014 to 145.9 units in 2023. Meanwhile, the number
+of refrigerators increased modestly from 85.5 units to 103.4 units during the same
+period.
+每百户空调拥有量从2014 年的75.2 台急剧增长至2023 年的145.9 台。与此同
+时，冰箱的数量从85.5 台小幅增长到103.4 台。
+公式2：The number of washing machines per 100 households was 98.2 units in
+2023, compared with 83.7 units in 2014, showing an increase of 14.5 units.
+2023 年每百户洗衣机拥有量为98.2 台，2014 年为83.7 台，增长了14.5 台。
+公式3：The ownership of air conditioners in 2023 was nearly twice that in 2014.
+2023 年的空调拥有量几乎是2014 年的2 倍。
+                                            19
+===== PAGE 22 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+
+               静态图
+
+公式1：The percentages/proportions of 主题词1, 主题词2, 主题词3, 主题词4
+account for X%, X%, X% and X% respectively. Notably/ In particular, 占比最多的
+主题词tops the list, at X%, followed by 占比次多的主题词at X%.
+注：主语是percentages/proportions，谓语动词用复数account；直接写A, B, C
+and D 并列，谓语动词也用复数account。排名写两项即可，否则篇幅过大、头
+
+重脚轻。
+
+公式2：同动态图的公式3，表达倍数关系。
+静态图倍数=同一年份不同变量的对比。
+
+
+例2024 英二：
+
+
+
+
+
+The percentages of students who acquired relevant knowledge, improved
+practical skills, felt comfortable and enhanced cooperation capacity account for
+91.3%, 84.8%, 54.4% and 32.6%  respectively.  Notably, acquiring  relevant
+knowledge tops the list, at 91.3%, followed by improving practical skills at 84.8%.
+
+
+
+获得相关知识、提高动手能力、感觉心情舒畅和增强合作能力的学生比例分别
+
+为91.3%、84.8%、54.4%和32.6%。值得注意的是，获得相关知识居首位，占
+91.3%；其次是提高动手能力，占84.8%。
+
+
+
+
+
+                                            20
+===== PAGE 23 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+例2025 英二：
+
+
+
+
+
+The participation rates in watching TV, walking, gardening, reading, and
+playing chess among the elderly account for 90.8%, 68.3%, 34.7%, 31.8% and
+18.4% respectively.
+看电视、散步、养花、阅读和下棋在老年人中的参与率分别为90.8%、68.3%、
+34.7%、31.8%和18.4%。
+
+注：字数过多且与总体描述句相近时，后半句可省略；若总体描述句用了其他
+
+公式，后半句写：Notably, watching TV tops the list, at 90.8%, followed by walking
+at 68.3%.
+例2026 英二：
+
+
+
+
+
+The percentages of respondents who believe that outdoor activities could satisfy
+children's curiosity, develop observational skills, strengthen physical fitness and
+enhance parent-child interaction account for 54.6%, 54.5%, 37.2% and 33.2%
+respectively. Notably, satisfying curiosity tops the  list, at 54.6%, followed by
+developing observational skills at 54.5%.
+
+认为户外活动能满足孩子好奇心、促进观察力、强身健体和增强亲子互动的受
+
+                                            21
+===== PAGE 24 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+访者比例分别为54.6%、54.5%、37.2%和33.2%。值得注意的是，满足好奇心
+居首位，占54.6%；其次是促进观察力，占54.5%。
+
+                例外
+
+   有且仅有2012 年不适用于上述公式，因为该表格毫无趋势可言且成分太
+
+多。我们只能选取最具代表性的两个数据进行描述。
+
+
+
+
+
+Half of the employees under 40 and half of those over 50 were uncertain about
+their satisfaction, while 64% of those aged 41–50 were dissatisfied.
+40 岁以下员工中有一半、50 岁以上员工中有一半不清楚自己是否满意；而41
+至50 岁员工中，64% 表示不满意。
+
+  至此，图表作文最重要的部分——图表描述讲解结束。请大家反复练习套
+
+用，从此不再害怕。
+
+  组合矩阵训练：动态四方向（增/减/持/波）×快慢两档（迅/缓）= 8 组合，
+以下图为例连写8 句，词汇、搭配、句子瞬间内化。例：
+
+
+
+
+
+The percentage of residents who participated in volunteer activities increased sharply
+from 46% in 2016 to 62% in 2018.
+参与志愿服务活动的居民比例从2016 年的46% 迅速升至2018 年的62%。
+                                            22
+===== PAGE 25 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+It increased gradually from 40% in 2014 to 46% in 2016.
+该比例从2014 年的40% 缓慢升至2016 年的46%。
+The percentage decreased sharply from 58% in 2020 to 50% in 2021.
+该比例从2020 年的58% 迅速降至2021 年的50%。
+It decreased gradually from 62% in 2019 to 58% in 2020.
+该比例从2019 年的62% 缓慢降至2020 年的58%。
+The figure remained largely stable at 62% between 2018 and 2019.
+该比例在2018 至2019 年间基本持平于62%。
+It stayed relatively flat at 50% in 2021 and 2022.
+该比例在2021 和2022 年保持相对平稳，为50%。
+Overall, the figure fluctuated, climbing to a peak of 62% before falling to 50%.
+总体来看，该比例起伏波动，升至62%的峰值后回落至50%。
+The level fluctuated notably in the latter years, dropping to 50% before recovering to
+55%. 该水平在后几年明显波动，降至50%后回升至55%。
+注：本波形自带原因故事（志愿热潮→疫情回落→回暖），第二段原因论述可
+接“政策推动+公民意识+疫情扰动”。
+               第3 句：社会现象
+
+  图表作文是通过数据看现象，历年图表作文均可总结出社会现象，汉语可用
+
+五个字高度概括：发生某现象。总结一下，发生某现象有三种：某事变化、某事
+
+占比、某事获认同/关注。
+
+           历年图表作文社会现象汇总
+
+10 发展中国家通信业发展迅速        11 国产品牌发展迅速
+12 员工满意度随年龄差异显著        13 兼职在大学生中越来越普遍
+14 城市人口越来越多                15 春节花销送礼比例高
+16 旅游目的是解压和观光的比例高    17 参观博物馆越来越流行
+18 消费者关注特色与服务的比例高    19 升学越来越流行
+20 用手机学习和消磨时间的比例高    21 独自和结伴锻炼比例高
+22 快递业发展迅速                  23 居民健康素养水平稳步提升
+24 目的是学习知识提升能力的比例高   25(1) 家用电器拥有量越来越多
+
+                                            23
+===== PAGE 26 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+25(2) 老人休闲活动多种多样      26(1)公众对养老机器人的关注度高
+26(2) 家长普遍认可户外活动的价值
+
+注：这是汉语的高度概括，是宏观概念，用于帮你明确主题、方便记忆、防止跑
+
+题。进行英文写作时，并非直接翻译这“五个字”。
+
+           引出社会现象句（过渡句）
+
+升级前：The purpose ofthe chart is to remind us that…
+
+  被替换词  替换词
+
+1   be           aims to 旨在/ serves to 起到... 作用/ is designed to 被设计来
+         如果替换，需删除The purpose of，否则语义重复。
+2    us       所有人：the public/ human beings/ children and adults
+    man      整个社会：the whole society
+     people     城市居民：urban residents 乡村居民：rural residents
+             子孙后代：children and kids/ offspring/ descendants
+              年轻人：teenagers and youngsters
+               大学生：undergraduates/ youngsters on campus
+               专家：experts/ professors 消费者：customers
+3    purpose       message 信息/ primary intention 首要意图
+4   remind       convince 使信服highlight the fact 强调某事实（删除us）
+注：此组单词使用前需要考虑语境，越具体越好。例如24 年英一urban residents、
+23 年英二用residents。建议每类各记一个，亦可自行补充和分类。
+
+除了用升级后的句子，再提供以下待选句：
+
+1.These data lead us to the conclusion that 这些数据使我们得出这样的结论
+2.It is apparent from the statistics that 从统计数据可以明显看出
+3.Despite its apparent simplicity, the chart highlights the core information that
+
+尽管它看似简单，这幅图却突出了核心信息
+
+4.The chart clearly communicates its intended meaning:
+
+这幅图清楚地传达了它的意图：
+
+5.The chart appears to convey a message to the younger generation, reminding them that
+
+这幅图似乎向年轻一代传达了一条信息，提醒他们
+
+                                            24
+===== PAGE 27 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+
+注：以上是过渡句，任选其一背诵即可。各种作文书里都有，它们给出类似上
+
+文所示的几个句子，却不告诉你that 和冒号后边的社会现象怎么写。这就是上
+
+了考场无法套用的原因。
+
+               社会现象
+
+方案1：主题词has been developing rapidly in recent years.
+或Recent years have witnessed the rapid development of 主题词.
+注：实体主题词industry / economy / cultural tourism industry，搭配develop。水
+平/率/数量等抽象主题词level / rate / proportion / percentage / number / volume /
+ownership，搭配improve / rise / climb。
+例2023 英二：
+
+
+
+
+
+It is apparent from the statistics that the health literacy level has been improving
+rapidly in recent years.
+
+从统计数据可明显看出，居民健康素养水平近年来迅速提高。
+
+方案2：the majority of people would choose to do X when they...
+或an increasing number of people tend to do X when they...
+注：people 是泛指，根据题目换为具体对象residents / undergraduates / consumers
+等，也可以是机构institution / organization、企业enterprise / company / firm /
+business、品牌brand、国家country / nation。
+例2023 年英二：
+These data lead us to the conclusion that an increasing number of people tend to
+choose a healthy lifestyle when they are able.
+
+这些数据使我们得出结论：越来越多的人在他们有条件的时候倾向于选择健康
+
+的生活方式。
+
+                                            25
+===== PAGE 28 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+例2025 英二：
+
+
+
+
+
+It is apparent from the statistics that the majority of elderly residents would choose
+to engage in accessible and low-intensity leisure activities when they have free
+time. 从统计数据中可以明显看出，大多数老年人在空闲时间会选择容易参与、
+
+强度低的休闲活动。
+
+方案3：主题词is becoming common / popular / prevalent among people nowadays.
+例2019 英二：
+
+
+
+
+
+It is apparent from the statistics that pursuing further education is becoming
+common among undergraduates.
+
+从统计数据可以明显看出，如今大学生选择升学正变得常见。
+
+方案4：主题词has drawn growing attention from the public.
+或People attach importance to 主题词.
+注：适用于态度型图表，通常是对新技术、新观念、新生活方式态度看法。26
+考研英一养老机器人、英二户外活动均考查态度，27 考研可能延续。
+例2026 年英一：
+It  is apparent from the statistics that elderly-care robots have drawn growing
+                                            26
+===== PAGE 29 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+attention from the public, with safety as their top concern. 从统计数据可以明显看
+
+出，养老机器人日益受到公众关注，安全是他们的首要关切。
+
+方案5：不需要补充任何成分的万能方案
+This is a common scene/phenomenon/ situation in modern society.
+在当今社会，这是一个很常见的场景/现象/情况。
+This phenomenon reflects a broader social trend.
+
+这一现象反映了一个更广泛的社会趋势。
+
+至此，图表作文第一段讲解完毕，以三套真题为例，完整的第一段是：
+
+2023 年英二线状图（动态单方向）：
+
+
+
+
+
+The line chart above illustrates the changes in Chinese residents' health literacy
+level from 2012 to 2021, during which it rose steadily. To be specific, the health
+literacy level increased gradually from 8.8% in 2012 to 11.58% in 2016. In the next
+five years, it climbed remarkably, from 11.58% to 25.40%. It is apparent from the
+statistics that the health literacy level has been improving rapidly in recent years.
+上方折线图展示了2012 至2021 年间中国居民健康素养水平的变化，其在这一
+时期稳步上升。具体而言，健康素养水平从2012 年的8.8%逐步升至2016 年
+的11.58%。在接下来的五年里，它显著攀升，从11.58% 升至25.40%。从统
+
+计数据可以明显看出，居民健康素养水平近年来在迅速提高。
+
+套用标注——
+
+总体描述：动态・单方向待选1
+细节描述：动态图公式1
+社会现象：过渡句待选2+社会现象方案1
+
+
+
+
+                                            27
+===== PAGE 30 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+2026 年英一双图表（静静）：
+
+
+
+
+
+The chart on the left shows consumers' attitudes towards elderly-care robots,
+while the chart on the right lists their major concerns about such robots. To be
+specific, the proportions of respondents who fully accept, partially accept and
+reject these robots account for 39.3%, 32.8% and 27.9% respectively. Notably,
+safety tops the list of consumers' major concerns, at 46.3%, followed by price at
+24.9%. It is apparent from the statistics that elderly-care robots have drawn growing
+attention from the public, with safety as their top concern.
+
+
+
+左侧的图显示了消费者对养老机器人的态度，而右侧的图列出了他们对这类机
+
+器人的主要担忧。具体而言，完全接受、部分接受和不接受这类机器人的受访
+
+者比例分别为39.3%、32.8% 和27.9%。值得注意的是，安全在消费者的主要
+担忧中居首位，占46.3%；其次是价格，占24.9%。从统计数据可以明显看出，
+
+养老机器人日益受到公众关注，安全是他们的首要关切。
+
+
+
+套用标注——
+
+总体描述：双图表待选1
+细节描述：静态图公式1 + 排名结构
+社会现象：过渡句待选2 + 社会现象方案4
+
+
+
+
+
+                                            28
+===== PAGE 31 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+2026 英二柱状图（静态）
+
+
+
+
+
+The bar chart above presents the distribution of respondents' views on children's
+outdoor activities, with satisfying curiosity accounting for the largest share. To be
+specific, the percentages of respondents who believe that outdoor activities could
+satisfy children's curiosity, develop observational skills, strengthen physical
+fitness and enhance parent-child interaction account for 54.6%, 54.5%, 37.2% and
+33.2% respectively. Despite its apparent simplicity, the chart highlights the core
+information that parents attach importance to outdoor activities for children's
+development.
+
+上方柱状图呈现了受访者对儿童户外活动看法的分布，其中满足好奇心占比最
+
+高。具体而言，认为户外活动能满足孩子好奇心、促进观察力、强身健体和增
+
+强亲子互动的受访者比例分别为54.6%、54.5%、37.2% 和33.2%。尽管它看
+
+似简单，这幅图却突出了核心信息：家长重视户外活动对儿童发展的价值。
+
+
+
+套用标注——
+
+总体描述：静态图待选1
+细节描述：静态图公式1（篇幅问题及重复问题，删除后半句）
+社会现象：过渡句待选3+ 社会现象方案4
+
+
+
+
+                                            29
+===== PAGE 32 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+注1:2026 英二柱状图（静态）的细节描述使用静态图公式1，但删除了后半句，
+
+原因是与选用的总体描述句的后半句功能重复。
+
+注2：有时候社会现象句需要取消，因为第一段字数已足够多，且现象很直接，
+
+例如——大学生参加社会实践课程大多数获得了相关知识、提高动手能力，这
+
+与图表描述句非常相似，没有必要重复。
+
+注3：先解决有无问题，再解决精准问题。现阶段应先从细节跳脱出来，避免
+
+纠结，先保证能够迅速地写出上述简单的例子，然后在此基础上再扣细节。等
+
+你对公式熟练至能够任意组合时，多样化的精准的数据描述方法、数据背后的
+
+真相才能加入中心思想句即社会现象句当中。
+
+注4：背诵待选、公式、方案可能有些抽象，本资料选取代表性真题例句，因
+
+此建议同学们直接背例句。若在练习时遇到困难，可反馈至我的自媒体平台，
+
+我会选择共同难点补充讲解，请务必关注。
+
+
+
+
+
+                                            30
+===== PAGE 33 =====
+         关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+3.2 通用的第二段：过渡句+原因123
+
+  图画、图表、文字作文的本质都是议论文，因此第二段围绕某事为什么很
+
+重要、某事给我们带来的好处（或坏处）、某现象为什么发生、某现象意味着
+
+什么来写，这就是原因分析。
+
+              第四句：过渡句
+
+ 升级前：There are many reasons to explain my idea.
+
+   被替换词  替换词
+
+ 1   many        innumerable/ countless/ abundant/ adequate/ sufficient/ a host of/
+                  a variety of/ plenty of
+ 2    reason        factor/ cause
+ 3    explain       contribute/ give rise to/ account for
+ 4    idea          standpoint/ perspective/ viewpoint/ opinion
+
+待选句：
+
+ 1. Three key reasons, from my perspective, account for this phenomenon.
+
+在我看来，三个关键原因可以解释这一现象。
+
+ 2. From my perspective, the causes of X can be summarized as three main aspects.
+在我看来，X 的成因可以归结为三个主要方面。
+ 3. Several factors contribute to this phenomenon.
+
+几个因素促成了这一现象。
+
+ 4. A variety of reasons can be cited to account for this phenomenon.
+
+有很多原因可以用来解释这一现象。
+
+ 5. A combination of factors has contributed to the tendency reflected in this chart.
+
+多种因素共同促成了这张图表所反映的趋势。
+
+注1：受限于文章的字数要求，英语一写3 点原因，英语二写2~3 点原因。
+ 注2：上述待选句中的现象phenomenon 和观点opinion 可互换。这种句子任意
+作文书和作文课都会提供很多，同学们任选2 句背下即可。
+
+           第五、六、七句：原因分析
+
+  这三句均为原因句，因此合并讲解，给大家提供多个方案，自行挑选、排
+
+
+                                             31
+===== PAGE 34 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+序，形成三点原因。这样每位同学都独一无二了~
+
+  大家要注意结构清晰，三个原因可保持并列关系，从不同的角度论证自己
+
+的观点；或递进关系，逐层深入地剖析论点。当然，在考场上可能顾不上什么
+
+内在逻辑关系，那么就请使用一组连接词，至少看起来文章结构一下子就变得
+
+清晰明了。
+
+                连接词
+
+1                                    Firstly,... Secondly,...Thirdly
+2            To begin with, ... What's more, ... Last but not least, ...
+3          To begin with, ... More importantly, ... Most importantly, ...
+4                        For one thing, ... For another, ...
+5                 First and foremost, ... Furthermore, ... Last but not least, ...
+
+          方案一：举例论证（个人路线）
+
+  很多作文书和课提供名人的例子供你使用，比如马云、奥巴马、爱迪生等，
+
+但用处不大，因为这些例子局限于一个方面，用上的概率实在是太小，背下来
+
+的性价比不高。建议大家灵活应变举身边的例子，放弃背诵名人事例，专注于
+
+准备2~3 个来自生活、经历、社会的例子。例如一个社区的改变、一位上瘾的
+
+室友。下面直接以真题为例进行讲解。
+
+灵活应变，四步组装，以2024 英一图画+图表为例，一步步讲解：
+
+
+
+
+
+第1 步：引出例子
+除For example/ instance, 还可以：
+This point can be confirmed by the example of my roommate,
+To give a common example,
+
+                                            32
+===== PAGE 35 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+第2 步：使用短语写出简单句描述现状（常用一般时态）
+My hometown, a livable city, places a high priority on infrastructure construction.
+
+我的家乡，一个宜居的地方，高度重视基础设施建设。
+
+               常见短语
+
+       兴趣热爱类         高度重视类
+
+       be interested in   感兴趣  place a high priority on 重视
+       be passionate about 有激情  attach importance to  重视
+       be enthusiastic about 热衷于  place a high value on​  重视
+       be addicted to    沉迷于  value ... highly    重视
+
+       致力投入类         负面倦怠类
+
+       be committed to   致力于  be tired of      厌烦
+       dedicate oneself to  致力于  be bored with     厌烦
+       be occupied with  忙于    be indifferent to    漠不关心
+       be engaged in    从事
+第3 步：加逗号和which 引导一个非限定性定语从句表示结果（带来的好处），
+
+好处可参考方案三中的六大方面
+
+, which enables residents to relax and unwind at nearby parks.
+
+这使居民能够在附近的公园放松身心。
+
+enable 可视情况换为其他搭配，例如：
+provides residents with convenient public services 为居民提供便捷的公共服务
+ensures the safety and well-being of the elderly 保障老年人的安全与安康
+helps the elderly maintain their independence 帮助老年人保持独立
+makes him fail the final exam 使他期末考试不及格
+第4 步：另起一句换个角度，描述主语的心态/他人的看法/导致的结果
+During this period, citizen satisfaction has improved.
+
+在此期间，市民满意度有所提高。
+
+During this period 可替换为Consequently / As a result / Gradually
+
+完整版：
+
+For instance, my hometown, a livable city, places a high priority on infrastructure
+
+                                            33
+===== PAGE 36 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+construction, which enables residents to relax and unwind at nearby parks. During
+this period, citizen satisfaction has improved.
+
+例如，我的家乡是一座宜居城市，高度重视基础设施建设，居民可以在附近的
+
+公园放松身心。在此期间，市民满意度有所提高。
+
+例2015 英一（网络成瘾）：
+
+
+
+
+
+For instance, my roommate, Kevin, was addicted to the Internet, which made him fail
+the final exam. During that period, he regretted everything he had done.
+
+例如，我的室友凯文沉溺于互联网，这让他没能通过期末考试。在那段时间，
+
+他后悔自己所做的一切。
+
+
+例2017 英一（读书）：
+
+
+
+
+
+For instance, my roommate, Kevin, is passionate about reading, which brings him
+exceptional writing skills. During this period, all of us admire his capacity.
+
+举个例子，我的室友凯文热爱读书，这给他带来了非凡的写作技巧。在那段时
+
+间，我们都很羡慕他的能力。
+
+                                            34
+===== PAGE 37 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+例2024 英二柱状图（劳动实践）：
+For instance, my roommate, Kevin, is enthusiastic about attending labor practice
+classes, which helps him cultivate practical  skills and a  spirit of cooperation.
+Consequently, he earns the respect of our entire class.
+
+例如，我的室友凯文热衷于参加劳动实践课，这帮助他培养了实践技能和合作
+
+精神。因此，他赢得了我们全班的尊敬。
+
+例2025 英二柱状图（老人休闲）：
+For example, my grandfather is passionate about watching television and reading
+newspapers, which keeps him well informed about current affairs.
+
+例如，我的爷爷热爱看电视和读报纸，这让他能及时了解时事。
+
+例2026 英一饼状图+柱状图（养老机器人）：
+For instance, a nursing home in my city is committed to improving elderly care by
+introducing robots, which helps reduce the risk of falls and accidents among the
+elderly. During this period, both the residents and their families have felt much more
+at ease.
+
+例如，我所在城市的一家养老院致力于通过引入机器人改善养老服务，这有助
+
+于降低老年人跌倒和意外事故的风险。在此期间，老人及其家人都感到安心许
+
+多。
+
+例2026 英二柱状图（儿童户外活动）：
+For instance, my neighbor's son is passionate about outdoor activities, which helps
+him develop sharp observation skills and a strong body. During this period, his
+parents have noticed his growing curiosity about nature.
+
+例如，我邻居的儿子热爱户外活动，这帮助他培养了敏锐的观察力和强壮的身
+
+体。在此期间，他的父母注意到他对自然的好奇心日益增强。
+
+
+
+注：本方案更适用于个人和社会宏观层面。
+
+
+
+
+
+                                            35
+===== PAGE 38 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+        方案二：宾语从句+定语从句（群众路线）
+
+公式：
+
+The majority of people believe that 主题词will provide them with a broader platform
+to 主题词带来的好处(do Sth.), which may put them in a beneficial position in the
+future.
+注1：believe 可替换为maintain 坚持认为/hold the view 持有观点/ are convinced
+
+深信不疑
+
+注2：provide them with a broader platform 提供一个更广阔的平台可替换为
+present them with a unique chance 提供一个独特的机会/ create more opportunities
+for them 创造更多的机会
+注3：which may put them in a beneficial position in the future 让他们在未来处于
+一个有利的位置可被替换为which is likely to secure a competitive edge in the
+future 这有望在未来获得竞争优势等。（同学们在练习的时候可自行补充）
+例2008 年英一合作：
+
+
+
+
+
+The majority of individuals maintain that team spirit will provide them with a
+broader platform to develop themselves, which may put them in a beneficial position
+in the future.
+
+大多数人认为团队合作精神会给他们提供一个用于发展自己的更加宽广的平
+
+台，这让他们在未来处于一个有利的位置。
+
+或...team spirit will create more opportunities for them to develop themselves,
+which is likely to secure a competitive edge in the future.
+
+团队精神会为他们创造更多发展自己的机会，这可能会在未来获得竞争优势。
+
+
+                                            36
+===== PAGE 39 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+例2019 年英二柱状图（本科毕业生去向统计）：
+The majority of people hold that pursuing a higher degree will provide them with a
+broader platform to develop themselves, which may put them in a beneficial position
+in the future.
+
+大多数人认为升学能够为他们提供一个更宽广的平台去发展自己，这可能会让
+
+他们在未来处于一个更有利的位置。
+
+例2024 年英一图画+图表（基础设施建设）：
+The majority of citizens believe that infrastructure construction will improve the
+comfort and competitiveness of cities, which may put their city in a beneficial
+position in the future.
+
+大部分市民认为基础设施建设将提高城市的舒适性和竞争力，这可能会使他们
+
+的城市在未来处于有利地位。
+
+
+例2025 年英一表格（耐用消耗品）：
+
+
+
+
+
+The majority of residents believe that household appliances will provide them with
+great convenience, which is indispensable in their daily lives.
+
+大部分居民相信家用电器将为他们提供极大的方便，这是他们日常生活中不可
+
+缺少的。
+
+例2025 年英二柱状图（某社区老年人主要日常休闲活动调查）：
+The majority of elderly individuals believe that watching television and reading
+newspapers will create more opportunities for them to follow current affairs, which
+is indispensable in their daily lives.大多数老年人认为看电视和读报会让他们有
+
+更多的机会紧跟时事，这在他们的日常生活中是不可或缺的。
+
+                                            37
+===== PAGE 40 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+例2026 英一饼状图+柱状图（养老机器人）：
+The majority of citizens believe that elderly-care robots will provide the elderly with
+safer and more convenient care, which may put them in a beneficial position in the
+future.which may relieve the pressure of aging on families and society.
+
+大部分市民相信养老机器人将为老年人提供更安全、更便捷的照护，这可能会
+
+减轻老龄化给家庭和社会带来的压力。
+
+变体——
+
+The  majority  of  citizens  believe  that  elderly-care robots  will  create more
+opportunities for the elderly to receive timely care, which is likely to ensure a safer
+and more comfortable life for them in the future.
+
+大部分市民相信养老机器人将为老年人创造更多及时获得照护的机会，这很可
+
+能为他们在未来保障更安全、更舒适的生活。
+
+例2026 英二柱状图（儿童户外活动）：
+The majority of parents believe that outdoor activities will provide children with a
+broader platform to develop observation skills and physical fitness, which may put
+them in a beneficial position in the future.
+
+大多数家长相信户外活动将为孩子提供一个培养观察力和体质的更宽广平台，
+
+这可能会让他们在未来处于有利位置。
+
+变体——
+
+The majority of parents believe that outdoor activities will create more opportunities
+for  children  to  satisfy  their curiosity and  interact with nature, which  is
+indispensable to their healthy growth.
+
+大多数家长相信户外活动将为孩子创造更多满足好奇心、亲近自然的机会，这
+
+对他们的健康成长不可或缺。
+
+注1：以上例子中加粗的部分是主题词和好处，未加粗的部分万年不变。好处
+
+可参考方案三中的六大方面。
+
+注2：which 从句的逻辑必须与主题匹配。例如个人发展用in a beneficial position/
+secure a competitive edge；健康生活用improve quality of life /relieve the burden；
+环境、社会用contribute to。
+
+                                            38
+===== PAGE 41 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+注3：24 年英一考图画+图表组合，25 年英一考表格，26 年英一考双图表，英
+
+一似乎完成了从考图画到考图表的过渡，英二未变。但根据大纲来看，无论英
+
+一英二，大作文依然都有可能考到图画、图表、文字作文！必须全面准备，防
+
+止再次被命题人反押题。那么图画作文和图表作文在主题词上最大的不同是什
+
+么呢？抽象和具体。图画作文主题词抽象，多为精神、品质，不会拼写时很容
+
+易想到近义词；图表作文主题词具体，多为物品、方式、选项，不会拼就是不
+
+会拼。所以这几年很多英一同学折在了空调、冰箱、洗衣机、机器人上，这提
+
+示我们：所有同学基础、日常、生活词汇需要会拼写。
+
+       方案三：主语从句、宾语从句、同位语从句
+
+  主语从句在复合句中充当主语，为防句子头重脚轻，通常把形式主语it 放
+
+在句首，真正主语放在句末；宾语从句在复合句中充当宾语，位于及物动词、
+
+介词或复合谓语之后。同位语从句在复合句中充当同位语，用来对其前面的抽
+
+象名词进行解释说明。看不懂就不用管了，直接背，这就是为了拉长句子用的。
+
+               主语从句
+
+It is widely believed that...人们普遍相信
+It is generally agreed that...人们普遍认同
+It is well / commonly / universally known that... 众所周知
+It has been widely accepted / reported that... 已被广泛接受/报道
+
+               宾语从句
+
+There is no doubt that... / Nobody can deny that...毫无疑问
+An increasing number of people are beginning to realize that...
+
+越来越多的人开始意识到
+
+We must acknowledge the fact that...我们必须承认
+We cannot ignore the fact that...我们不能忽视…… 的事实
+
+              同位语从句
+
+Definitely no one can deny the fact that...当然，没有人能否认这个事实
+A rising number of individuals are coming to the realization that...
+
+越来越多的人开始意识到
+
+
+                                            39
+===== PAGE 42 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+We are faced with the undeniable fact that...我们面临着不可否认的事实
+There is a growing recognition that...人们越来越认识到
+
+以上从句作用是拉长句子，没有必要学习三者的语法，任选三个待选句记住。
+
+本方案的重点和难点并非这半句话，而是省略号后面怎么去写——善用短语。
+
+               常用短语
+
+     主题词play a crucial/ vital/ pivotal/ fundamental/ central role in 某方面
+     主题词lay the foundation of 某方面
+起关键
+     主题词is a driving force behind 某方面
+ 作用
+     主题词is the cornerstone of 某方面
+     主题词act as a catalyst for 某方面
+     主题词have a beneficial/harmful influence on 某方面
+      主题词bring advantages/ disadvantages in 某方面
+       主题词contribute significantly to 某方面
+ 积极  主题词may undermine 某方面
+ 消极  主题词pose a tremendous threat to 某方面
+       主题词constitute a significant menace to 某方面
+     主题词is seriously destructive to 某方面
+     主题词is a double-edged sword for 某方面
+     某方面is strongly dependent on 主题词
+与某方
+     某方面is closely tied to 主题词
+面相关
+     某方面is inextricably linked to 主题词
+以09、15 年英一网络为例：
+
+
+
+
+
+                                            40
+===== PAGE 43 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+Definitely no one can deny the fact that the popularity of the Internet plays a crucial
+role in effective communication and information collection across various areas.
+
+没有人能否认这个事实：互联网的流行在多个领域的有效交流和信息获取中起
+
+着至关重要的作用。
+
+或An  increasing number  of people  are beginning  to  realize  that  effective
+communication and information collection across a range of industries are
+strongly dependent on the popularity of the Internet.
+
+越来越多的人开始意识到，一系列行业中有效的交流和信息获取都高度依赖于
+
+互联网的流行。注意谓语的单复数！
+
+例2024 英一图画+图表（健康生活）：
+A rising number of individuals are coming to the realization that a healthy lifestyle
+is strongly dependent on infrastructure development.
+
+越来越多的人开始认识到，健康的生活方式在很大程度上取决于基础设施的发
+
+展。
+
+例2024 英二柱状图（劳动实践）：
+Definitely no one can deny the fact that participating in labor practice classes plays
+a crucial role in personal growth.
+
+没有人能否认：参加劳动实践课对个人成长起着至关重要的作用。
+
+例2025 英一表格（家电）：
+There is no doubt that the dramatic rise in the ownership of household appliances
+is inextricably linked to the rapid economic growth and rising disposable incomes.
+
+毫无疑问，家用电器拥有量的急剧增长与经济的快速增长和可支配收入的增加
+
+有着密不可分的联系。
+
+或There is no doubt that government subsidies on appliances are a driving force
+behind consumption.
+
+毫无疑问，家用电器政府补贴是消费的推动力。
+
+例2025 英二柱状图（老人休闲）：
+There is no doubt that walking and gardening play a crucial role in the physical
+and mental health of the elderly.
+
+                                            41
+===== PAGE 44 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+
+毫无疑问，散步和养花在老年人身心健康方面扮演了重要角色。
+
+例2026 英一饼图+柱状图（养老机器人）：
+Definitely no one can deny the fact that elderly-care robots play a crucial role in
+improving the quality of life for the elderly.
+
+没有人能否认：养老机器人在提高老年人生活质量方面起着至关重要的作用。
+
+或An increasing number of people are becoming aware that the safety of elderly-
+care robots  is strongly dependent on technological advancement and  strict
+regulation.
+
+越来越多的人开始意识到，养老机器人的安全性在很大程度上取决于技术进步
+
+和严格监管。
+
+例2026 英二柱状图（儿童户外活动）：
+Definitely no one can deny the fact that outdoor activities play a crucial role in
+children's physical and mental development.
+
+没有人能否认：户外活动对儿童的身心发展起着至关重要的作用。
+
+或An increasing number of parents are becoming aware that outdoor activities are
+indispensable   to   satisfying  children's  curiosity  and  developing   their
+observational skills.
+
+越来越多的家长开始意识到，户外活动对于满足孩子的好奇心和培养观察力是
+
+不可或缺的。
+
+注1：加粗部分是主题词和某方面，未加粗部分万年不变。对于图画作文，主
+
+题词很好写，其实就是市面上老师总结的热门话题，我考前也会出预测。对于
+
+图表作文，主题词的难点在于翻译图表信息，非常考验平时对日常生活用词的
+
+积累。最关键的问题在于某方面怎么写。下面提供“六大方面”，一定能用得
+
+上。
+
+
+
+
+
+                                            42
+===== PAGE 45 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+
+               六大方面
+
+               社会方面
+
+               social progress/ development/ stability 社会进步/发展/稳定
+核心是发展  sustained and healthy growth 持续健康发展
+               high-quality development 高质量发展
+               rapid economic growth 快速经济增长
+            economic prosperity 经济繁荣
+              disposable income 可支配收入
+方式是经济   rural revitalization 农村振兴
+            employment promotion 促进就业
+            expand the market 开拓市场
+             promote consumption 促进消费
+               people's livelihood 民生
+              public services 公共服务
+              public health security 公共卫生安全
+                infrastructure development 基础设施建设
+特征是服务
+               social security system 社保体系
+               elderly care services 养老服务（命中26 考研英一）
+               basic medical insurance 基本医疗保险
+              bring convenience to people's daily lives 给人们日常生活带来便利
+               social harmony 社会和谐
+               prosperity of the country 国家富强
+              happiness of the people 人民幸福
+               social cohesion 社会凝聚力
+目标是和谐
+               social justice 社会公正
+          common prosperity 共同富裕
+              education equity 教育公平
+             a sense of public morality 公德心
+
+
+                                           43
+===== PAGE 46 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+
+               自然方面
+
+               sustainable development 可持续发展
+核心是持续  green transformation 绿色转型
+              maintain natural ecological balance 维持自然生态平衡
+               natural resource conservation 自然资源保护
+             environmental awareness 环保意识
+             carbon emissions reduction 碳减排
+              green economy 绿色经济
+方式是保护
+              green transportation 绿色出行
+             waste classification and recycling 垃圾分类与回收
+             improve ecological environment 改善生态环境
+              prevent pollution 预防污染
+               beautiful natural environment 优美的自然环境
+            harmony between humanity and nature 人与自然和谐共生
+              connection with nature 与自然的联结
+目标是和谐
+               liveable environment 宜居环境
+               ecological balance 生态平衡
+             outdoor recreation 户外休闲
+
+               文化方面
+
+                cultural protection 文化保护
+核心是传承   digital preservation 数字化保护
+                inherit and develop traditional culture 继承和发扬传统文化
+                cultural exchange 文化交流
+              people-to-people exchange 人文交流
+               short video platforms 短视频平台
+方式是交流  influencer marketing 网红营销
+              organize cultural exchange exhibitions 组织文化交流展览
+             enjoy and learn from historical sites 享受和学习历史古迹
+               study/ understand/ respect history 学习/了解/尊重历史
+                                           44
+===== PAGE 47 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+               diversity and inclusion 多元化与包容性
+            open and inclusive attitude 开放和包容的态度
+态度是包容  tolerance and mutual appreciation 宽容与相互欣赏
+               respect different customs 尊重不同的风俗
+            embrace cultural diversity 拥抱文化多样性
+             promotion of cultural diversity 促进文化多样性
+                cultural confidence 文化自信
+目标是繁荣   cultural identity 文化认同
+                cultural soft power 文化软实力
+                cultural prosperity 文化繁荣
+
+               个人方面
+
+              personal growth 个人成长（命中26 考研英二）
+             youth development 青年发展
+核心是成长
+               all-round development 全面发展
+             self-improvement 自我提升
+              physical and mental health/ well-being 身体和心理健康
+              healthy lifestyle 健康生活方式
+               quality of life 生活质量（命中26 考研英一）
+              psychological resilience 心理素质
+               self-protection awareness 自我保护意识
+基础是健康
+              work-life balance 工作与生活平衡
+               relieve stress 缓解压力
+                alleviate difficulties 缓解困难
+             keep one's mind sharp 保持思维敏锐
+                foster a positive and dynamic mindset 培养积极有活力的心态
+             knowledge/ skill/ ability 知识/技巧/能力
+               lifelong education and learning 终身教育和学习
+方式是学习
+              observational skills 观察力
+             hands-on ability / practical skills 动手能力
+
+                                           45
+===== PAGE 48 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+               curiosity and exploration 好奇心与探索欲
+            expand our horizons 开拓眼界（命中26 考研英二）
+              enrich our experience 丰富经验
+              acquire knowledge/ skill/ ability 获得知识/技巧/能力
+              boost self-confidence 提升自信
+              give full play to our advantages 发挥自身优势
+            embrace challenges 迎接挑战
+             develop critical thinking 培养批判性思维
+             improve problem-solving ability 提高解决问题能力
+               parent-child interaction / relationship 亲子互动/关系
+              family bonding 家庭纽带
+             emotional companionship 情感陪伴
+              personal goals and values 个人目标与价值
+             moral cultivation 道德修养
+               individual well-being 个人福祉
+目标是实现
+                self-realization/ self-fulfillment 自我实现
+             a sense of well-being / security / fulfillment 幸福感/安全感/获得感
+              enrich spiritual life 丰富精神生活
+             enhance individual well-being 提升个人福祉
+                realize one's potential 实现个人潜能
+               contribute to society 回馈社会
+
+               交流方面
+
+               effective communication 有效沟通
+               the efficiency of communication 交流效率
+核心是沟通
+                 facilitate effective communication 促进有效沟通
+             promote the efficiency of communication 提高交流效率
+              information security 信息安全
+方式是连接  privacy protection 隐私保护
+              bridge communication gaps 弥合沟通鸿沟
+
+                                           46
+===== PAGE 49 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+               strengthen interpersonal ties 加强人际联系
+                establish communication bridges 建立沟通桥梁
+                collect/ gather information 搜集信息
+              narrow/ shorten the distance 缩短距离
+                 facilitate information sharing 促进信息共享
+             enhance mutual understanding 增进相互理解
+               build consensus 建立共识
+目标是和谐  collaborate for win-win outcomes 合作共赢
+             deepen friendship/ kinship 增进友谊/亲情
+               drive social progress 推动社会进步
+              reduce misunderstanding and prejudice 减少误解与偏见
+
+               科技方面
+
+               technological innovation 科技创新
+核心是创新  innovation-driven development 创新驱动发展
+             enhance creativity and innovation 提升创造力与创新能力
+                 digital transformation 数字化转型
+                industrial upgrading 产业升级
+方式是转型  new quality productive forces 新质生产力
+             energy transition 能源转型
+              optimize the industrial structure 优化产业结构
+                  artificial intelligence 人工智能
+                intelligent / smart devices 智能设备
+目标是赋能
+              high-end manufacturing 高端制造
+              smart city construction 智慧城市建设
+注：上述短语有名词性短语和动词性短语，两者可以互相转化（动词+ing）。
+
+  至此，本方案讲解结束。以上六大方面并不是要你全部背诵！很显然，上
+
+边的词组你都认识，但很少在作文中用到。这是意识问题，该如何培养呢？请
+
+重新快速过一遍上方的词组，有没有发现一些万能的词组？
+
+  只要一件事是有利的，那么这件事在大的方面来看，就会促进社会进步、
+
+                                            47
+===== PAGE 50 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+
+发展；在小的方面来看，就会提高生活质量、丰富精神生活、开拓眼界等。因
+
+此我认为：“社会方面”和“个人方面”的词组是一定用得到的。
+
+  由此看来，我们需要培养这样的意识——不要写你想写的，应该写你会写
+
+的，把你的写作方向和写作内容尽量向你的语料库去靠。有同学问：“会不会
+
+很生硬啊？”答：“一般情况下不会，但也有比较难套的，这时候语料库丰富
+
+的同学就占便宜了。但我认为，言之有理即可，只要两者之间有联系，就没问
+
+题。”
+
+  再分享一点点自己的思考，梳理逻辑，方便记忆，快速选择。历年作文主
+
+题无非是人与自我、人与他人、人与社会、人与自然的结合，在写第二段原因
+
+分析的时候可以如此提示自己：
+
+    2026 英一养老机器人：
+ 人与自我：老年人生活质量/安全/独立quality of life/ safety/ independence
+ 人与他人：亲子关系/减轻家庭负担family bonding/ relieve family burden
+ 人与社会：老龄化社会/养老服务/科技创新aging society/ elderly care
+     services/ technological innovation
+    2026 英二儿童户外活动：
+ 人与自我：儿童身心健康/好奇心/观察力/全面发展physical and mental
+     health/ curiosity/ observational skills/ holistic development
+ 人与他人：亲子互动/家庭纽带parent-child interaction/ family bonding
+ 人与社会：教育理念educational philosophy
+ 人与自然：亲近自然connection with nature
+            方案四：not only…but also…的倒装
+公式：Not only does 主题词increase 某方面, but it also enables them to 某方面.
+注1：increase 可替换为improve 改善/ enhance 提高/ promote 促进/ boost 提升/
+cultivate 培养/ facilitate 促进/ indicate 表明/ demonstrate 表明等
+注2：enable 可替换为help 帮助/ allow 使能够/ encourage 鼓励/ deepen 加深/
+promote 促进/ relieve 缓解等
+例2022 英一图画（听讲座）：
+Not only does attending lectures increase undergraduates' academic knowledge,
+
+                                            48
+===== PAGE 51 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+but it also enables them to broaden their horizons.
+
+听讲座不仅能增加大学生的知识，还能开拓他们的眼界。
+
+例2023 英一图画（合作）：
+Not only does attending dragon boat races improve our physical and mental
+health, but it also enables us to inherit and develop traditional culture.
+
+参加龙舟比赛不仅有助于身心健康，还有助于传承和发展传统文化。
+
+例2024 英一图画+图表（公园建设）：
+Not only does constructing parks improve people's living environment, but it also
+encourages them to exercise.
+
+建造公园不仅改善了人们的生活环境，还鼓励人们去锻炼身体。
+
+例2024 英二柱状图（劳动实践）：
+Not only does participating in labor practice classes improve undergraduates'
+physical and mental health, but it also promotes social progress.
+
+参加劳动实践不仅能促进大学生的身心健康，还能促进社会进步。
+
+例2025 英一表格（家电）：
+Not only does the soaring ownership  of household appliances  indicate a
+significant rise in residents' disposable income, but  it also demonstrates that
+people place a high value on a comfortable and convenient life.
+
+家用电器拥有量的飙升不仅表明居民可支配收入显著增加，而且表明人们重视
+
+舒适便利的生活。（与方案三融合）
+
+例2025 英二柱状图（老人休闲）：
+Not only does playing chess cultivate a positive mindset in the elderly, but it also
+strengthens friendship and kinship.
+
+下棋不仅有助于老年人培养积极的心态，还能加深友情和亲情。
+
+例2026 英一饼图+柱状图（养老机器人）：
+Not only does the application of elderly-care robots improve the quality of life for
+the elderly, but it also relieves the burden on their families.
+
+养老机器人的应用不仅提高了老年人的生活质量，也减轻了家人的负担。
+
+例2026 英二柱状图（儿童户外活动）：
+
+                                            49
+===== PAGE 52 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+Not only do outdoor activities improve children's physical and mental health, but
+they also cultivate their curiosity and observational skills.
+
+户外活动不仅改善儿童的身心健康，还培养他们的好奇心和观察力。
+
+注：本句主语outdoor activities 为复数，用do 不用does, but also 后用their。
+
+       方案五：虚拟语气恐吓法（扣帽子、上高度）
+
+第一步：写主将从现句，即主句一般将来时，从句一般现在时。
+
+第二步：fails 变成failed, will 变成would,其他都不变，句子就变成了虚拟语气。
+如果你真的对语法一窍不通，直接背住个人/社会/国家三个层面的例句：
+If we ignored the importance of Sth., we would never become a better version of
+ourselves.
+
+如果我们忽视了某事的重要性，我们就永远不会成为更好的自己。
+
+If everyone failed to do Sth., our society would be confronted with an unpromising
+and fruitless future.
+
+如果我们每个人都没能做某事，我们的社会就没有未来。
+
+If we underestimated the importance of Sth., our nation would permanently lag
+behind in the new era of rapid development.​
+
+如果我们低估了某事的重要性，我们的国家将在快速发展的新时代永远落后。
+
+例2023 英一图画（合作）：
+If we ignored the importance of teamwork and cooperation, our society would be
+confronted with an unpromising and fruitless future.
+
+如果我们忽视团队合作的重要性，我们的社会就没有未来。
+
+例2024 英一图画+图表（公园建设）：
+If the government ignored the importance of infrastructure construction, our cities
+would be confronted with an unpromising and fruitless future.
+
+如果政府忽视基础设施建设的重要性，我们的城市就没有未来。
+
+例2023 英二线状图（健康素养）：
+If we ignored the importance of physical health, we would never become a better
+version of ourselves.
+
+如果我们忽视健康的重要性，我们就永远不会成为更好的自己。
+
+                                            50
+===== PAGE 53 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+例2024 英二柱状图（劳动实践）：
+If we ignored the importance of social practice, we would never discover our true
+potential and strength.
+
+如果我们忽视社会实践的重要性，我们将永远无法发现自己真正的潜力和力
+
+量。（后半句改写）
+
+例2025 英二柱状图（老年人日常休闲活动）：
+If we failed to care for the elderly, our society would become less compassionate and
+inclusive. （后半句改写，原句命中26 考研英一）
+
+如果我们不能关爱老人，我们的社会就会变得缺乏同情心和包容性。
+
+例2026 英一饼图+柱状图（养老机器人）：
+If we ignored the importance of elderly care, our society would be confronted with
+an aging crisis and a less compassionate future.
+
+如果我们忽视养老的重要性，我们的社会将面临老龄化危机和一个缺乏同情心
+
+的未来。
+
+例2026 英二柱状图（儿童户外活动）：
+If children failed to engage in outdoor activities, they would never become a better
+version of themselves.
+
+如果孩子们不参加户外活动，他们将永远无法成为更好的自己。
+
+
+注1:2025 年英一不适合本方案，家电很难扣帽子上高度。
+注2：建议原因三采用本方案，段尾给人警醒，适用性极强。
+注3：拿到题目先判断主题落在哪一层（社会/个人/国家），直接调对应句式，
+
+但别扣太狠。
+
+
+
+
+
+             方案六：对比论证
+
+公式1：Compared with B, A can 小方面, so as to 大方面.
+公式2：In contrast to B, the advantage of A lies in 某方面.
+注：A 是主要内容，B 是次要内容。方面依旧来自方案三中的六大方面。
+
+                                            51
+===== PAGE 54 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+例2018 年英一：
+
+
+
+
+
+Compared with simple lessons, difficult courses can develop students' critical
+thinking skills, so as to expand their horizons.
+so as to 结构也可以被替换为which 引导的定语从句：
+Compared with simple lessons, difficult courses can improve the capacity of
+students, (which is) making it easier for students to expand their horizons.
+
+与简单的课程相比，困难的课程可以培养学生的批判性思维能力，从而扩大他
+
+们的视野。推荐把which is 去掉，语法结构变为分词短语作结果状语
+或In contrast to simple lessons, the advantages of difficult courses are to improve
+personal ability and expand our horizons.
+
+相比于简单的课程，有难度课程的优势在于提升个人能力和开拓眼界。
+
+例2019 英二柱状图（毕业生去向）：
+Compared with employment, pursuing further education can expand their
+horizons, thereby promoting all-round development.
+
+与就业相比，继续深造可以开阔视野，从而促进全面发展。
+
+或In contrast to employment, the advantage of pursuing further education lies in
+expanding our horizons and enhancing academic competence.
+
+与就业相比，继续深造的好处是开阔视野、提高学术能力。
+
+例2024 英一图画+图表（公园建设）：没有对比创造对比！
+Compared with commercial projects, building more parks can significantly
+improve the living environment for residents, thereby promoting their physical
+and mental well-being. 与商业项目相比，建设更多公园能显著改善居民的居住
+
+
+                                            52
+===== PAGE 55 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+
+环境，从而促进他们的身心健康。
+
+例2026 英一饼图+柱状图（养老机器人）：没有对比创造对比！
+Compared with traditional human care, elderly-care robots can provide 24-hour
+assistance, thereby relieving the burden on families and caregivers.
+与传统人工照护相比，养老机器人可以提供24 小时协助，从而减轻家庭和照
+
+护者的负担。
+
+例2026 英二柱状图（儿童户外活动）：没有对比创造对比！
+Compared with indoor activities, outdoor activities can better cultivate children's
+curiosity  and  observational   skills,  thereby  promoting  their  all-round
+development.
+
+与室内活动相比，户外活动能更好地培养儿童的好奇心和观察力，从而促进他
+
+们的全面发展。
+
+             方案七：比喻句
+
+明喻：
+
+主题词is as important as a lighthouse, providing guidance in difficult times.
+
+主题词就像灯塔一样重要，在困难的时候为我们提供指引。
+
+主题词is as essential as a compass, helping us navigate through life's challenges.
+
+主题词像指南针一样不可或缺，帮助我们应对生活中的挑战。
+
+暗喻（更高级）：
+
+主题词is the key that unlocks the door to success.
+
+主题词是开启成功之门的钥匙。
+
+主题词is the engine that propels personal growth and social progress.
+
+主题词是引擎，推动个人成长与社会进步。
+
+主题词is the bridge between goals and accomplishments.
+
+主题词是桥梁，连接目标与成就。
+
+主题词is the foundation upon which we build a sustainable future.
+
+主题词是基石，我们借此构建可持续的未来。
+
+常见的适配主题词：
+
+意志品质类（内在驱动力）适配比喻：engine 引擎
+
+                                            53
+===== PAGE 56 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+persistence 坚持perseverance 毅力tenacity 坚韧self-discipline 自律courage 勇气
+patience 耐心effort 努力ambition 抱负
+心态态度类（心理状态）适配比喻：lighthouse 灯塔
+confidence 自信optimism 乐观a positive mindset 积极心态curiosity 好奇心
+品德修养类（道德层面）适配比喻：foundation 基石
+integrity 诚信moral principles/ethics 道德准则trust 信任
+思维认知类（思考方式）适配比喻：compass 指南针
+critical thinking 批判性思维  introspection/reflection 反思  knowledge 知识
+learning 学习education 教育
+行动实践类（做事方式）适配比喻：engine 引擎/bridge 桥梁
+action 行动practice 实践planning/strategy 计划execution 执行
+人际与社会类（合作+ 创新）适配比喻：bridge 桥梁
+cooperation/collaboration/teamwork 合作communication 沟通guidance 指导
+innovation 创新reform 改革technology 科技entrepreneurship 创业精神
+例2024 英一图画+ 图表（公园建设）：
+Parks and public spaces are the bridge between urban residents and a healthy
+lifestyle. 公园和公共空间是连接城市居民与健康生活的桥梁。
+例2024 英二柱状图（劳动实践）：
+Labor practice is the engine that propels students' personal growth and all-round
+development. 劳动实践是推动学生个人成长和全面发展的引擎。
+例2025 英一表格（家电）：
+Household appliances are the foundation of a convenient and comfortable modern
+life. 家用电器是便利舒适现代生活的基石。
+例2025 英二柱状图（老人休闲）：
+Leisure  activities are the bridge between the elderly and an  active, socially
+connected later life.休闲活动是连接老年人与积极、有社交的晚年生活的桥梁。
+例2026 英一饼图+ 柱状图（养老机器人）：
+Elderly-care robots are the key to unlocking high-quality and efficient elderly care.
+
+养老机器人是开启高质量高效养老的钥匙。
+
+                                            54
+===== PAGE 57 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+例2026 英二柱状图（儿童户外活动）：
+Outdoor activities are the bridge between children and the natural world.
+
+户外活动是连接儿童与自然世界之间的桥梁。
+
+注1：不是每一篇作文都能写出比喻句，写不出来别硬套。建议背诵仿写两句，
+
+形成自己独有的比喻句。
+
+注2：可以加插入语拉长句子，大家要树立使用插入语的意识，插在主谓之间。
+以创新为例：Creativity and innovation, needless to say, are as important as a
+compass, helping us navigate through life's challenges.
+
+创新，毫无疑问，同指南针一样重要，帮助我们度过生活的挑战。
+
+  至此，第二段原因分析的七大方案讲解完毕。这些方案为你打好了坚实的
+
+基础，你会发现从别处学来的任何写法都绕不开“常用短语”和“六大方面”。
+
+同时，你也在不知不觉中完成了至少近三年的真题套用。
+
+  第二段明明只写三点原因，为什么讲七个方案呢？第一，考场上大家七选
+
+三，重复概率几乎为零；第二，面对不同的题目，可以选择自己认为最合适的
+
+方案。因此建议大家，七个方案中至少掌握五个方案，方案一、三、五必须掌
+
+握，剩下两个方案大家任选。
+
+  考虑到第二段原因分析是图画作文图表作文通用的，接下来以2024 年英
+
+一图画图表结合为例，完整的第二段是：
+
+    There are plenty of causes accounting for the phenomenon in various aspects.
+For instance, my hometown, a beautiful  city,  is committed to infrastructure
+construction. Thanks to these efforts, citizen satisfaction has improved. Furthermore,
+a rising number of individuals are coming to the realization that a healthy lifestyle
+is strongly dependent on infrastructure development. In the end, if the government
+ignored  the importance  of infrastructure construction, our  cities would be
+confronted with an unpromising and fruitless future.
+
+  造成这一现象的原因是多方面的。例如，我的家乡，一个美丽的城市，致
+
+力于基础设施建设。得益于这些努力，公民满意度有所提高。此外，越来越多
+
+的人开始认识到健康的生活方式在很大程度上取决于基础设施的发展。最后，
+
+如果政府忽视基础设施建设的重要性，我们的城市将没有未来。
+
+                                            55
+===== PAGE 58 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+
+          补充讲解：争议话题怎么办？
+
+  出现过的争议话题有06 年偶像崇拜、09 年网络的近与远、13 年英一毕业
+生的选择、13 年英二某高校学生兼职情况、15 年英一手机时代的聚会、2019
+年英二某高校本科毕业生去向、20 年某高校学生手机阅读目的调查。
+  上述年份一定需要正反论证吗？并非如此。写作的切入点很多，以15 年
+
+为例，可以正反论证手机优缺点，也可以单方面论证交流重要性或拒绝沉溺手
+
+机的重要性；20 年可以正反论证使用手机阅读的优缺点，也可以单方面论证合
+
+理使用手机的重要性（论证重要性就是论证该现象发生的原因）。大家选择自
+
+己熟练的方案即可。若一定需要正反论证，例如09 年网络的近与远、13 年某
+
+高校学生兼职情况，写法如下。
+
+
+
+
+
+第一步：替换引入原因分析的过渡句
+
+Every situation has its pros and cons, and this issue/phenomenon is not exempt.
+每种情况都有其利弊，这个问题/现象也不例外
+In fact, this issue/ phenomenon remains controversial.
+
+事实上，这个现象仍有争议。
+
+When it comes to..., opinions vary widely.
+涉及某问题/现象时，意见分歧很大。
+
+第二步：套公式
+
+On the one hand, some people hold the view that…On the other hand, the rest insist
+that…Nevertheless, when we are confronted with 主题词, we should be sensible
+enough to discard the dross and select the essence.
+一方面，一些人认为…另一方面，剩下的人认为…然而当我们面对主题词，我
+
+们应该取其精华去其糟粕。
+
+                                            56
+===== PAGE 59 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+或Proponents of this trend argue that....However, critics are quick to point out its
+adverse consequences, such  as...  It  is, therefore, imperative for us to adopt a
+discerning attitude, carefully weighing its merits against its demerits.​
+该趋势的支持者认为...。然而，批评者迅速指出其不利后果，例如...。因此，我
+
+们必须采取一种有辨识力的态度，仔细权衡其利弊。
+
+注：省略号代表的是句子，是上述七个方案的句子或部分句子。
+
+例2009 年第二段完整写法
+    Every situation has its pros and cons, and this issue is not exempt. On the one
+hand, some people hold the view that the popularity of the Internet plays a crucial
+role in communication and information gathering across various areas. On the
+other hand, the rest insist that Internet addiction may undermine the mental and
+physical health of teenagers and youngsters. Nevertheless, when we are confronted
+with the Internet, we should be sensible enough to discard the dross and select the
+essence.
+
+  每种情况都有其利弊，这个问题也不例外。一方面，一些人认为互联网的
+
+普及在各个领域之间的交流和信息收集方面起着至关重要的作用。另一方面，
+
+另一些人坚持认为网瘾可能会对青少年的身心健康造成伤害。然而，当我们面
+
+对互联网时，我们应该明智地去其糟粕，取其精华。
+
+例2013 年英二第二段完整写法
+     In fact, this issue remains controversial. On the one hand, some people hold the
+view that not only does a part-time job improve students’ quality of life, but it also
+enables them to strengthen their minds. On the other hand, the rest insist that the
+part-time  job may  have  negative  influences on  the academic  record  of
+undergraduates. It is, therefore, imperative for us to adopt a discerning attitude,
+carefully weighing its merits against its demerits.
+
+  事实上，这个问题仍然存在争议。一方面，一些人认为兼职不仅能提高学
+
+生的生活质量，而且能增强他们的心智。另一方面，其他人坚持认为兼职可能
+
+会对大学生的学习成绩产生负面影响。因此，我们必须采取一种有辨识力的态
+
+度，仔细权衡其利弊。
+
+                                            57
+===== PAGE 60 =====
+         关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+3.3 通用的第三段：总结全文+具体措施+畅想未来
+
+             第八句：总结全文
+
+   总结全文即重申中心思想，第三句中的方案也可使用。句子开头需加：All
+ in all/ To sum up / In general/ Generally speaking/ On the whole。
+
+        方案一：从句（与第二段中的方案三类似）
+
+ 公式1：It is not difficult to draw the conclusion that enough attention must be paid
+ to 主题词by ourselves and our community.
+ 例2024 英一图画+图表（公园建设）：
+  It is not difficult to draw the conclusion that enough attention has been paid to the
+ infrastructure by the departments concerned.
+
+不难得出结论，有关部门对基础设施给予了足够的重视。（也可以得出居民的
+
+生活环境越来越好的结论）（注意根据情况变换时态）
+
+ 例2024 英二柱状图（劳动实践）：
+  It is not difficult to draw the conclusion that enough attention must be paid to the
+ practical courses by ourselves and our universities.
+
+不难得出结论，我们个人和大学都必须对实践课程给予足够的重视。
+
+
+ 公式2：We should bear in mind that 主题词is of great importance to 某方面.
+ 注：参考六大方面，主要从个人、行业、社会的角度出发考虑，例如：our personal
+ development 我们个人发展、both our daily lives and studies 我们的生活和学习、
+ industry development 行业发展、social progress 社会进步
+ 例2024 英二柱状图（劳动实践）：
+ We should bear in mind that practical courses are of great importance to our
+ personal development.我们应牢记在心的是社会实践对我们个人发展很重要。
+ 例2019 英一图画（坚持）：
+ We should bear in mind that the spirit of perseverance is of great importance to both
+ our daily lives and studies.
+
+我们应牢记在心的是坚持的精神对我们的生活和学习很重要。
+
+
+                                             58
+===== PAGE 61 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+例2026 英二柱状图（儿童户外活动）：
+We should bear in mind that outdoor activities are indispensable to children's
+physical and mental development.
+
+我们应当牢记，户外活动对儿童的身心发展不可或缺。
+
+注：本方案特别适用于意志品质类的作文，例如the spirit of perseverance/never
+giving up/lifelong learning/selfless dedication/cooperation 坚持/永不放弃/终身学
+习/无私奉献/团结协作的精神
+
+
+公式3：The discussion leads us to the realization that 主题词is not an option, but
+a necessity.
+例2021 英一图画（文化传承或坚持）、2023 英一图画（文化传承）：
+The discussion leads us to the realization that cultural inheritance is not an option,
+but a necessity.
+讨论使我们认识到，文化传承不是一种选择，而是一种必要。把inheritance 换
+成exchange 适用于2002（美国小女孩）、2010 英一图画（文化火锅）。
+例2025 英一表格（家电）、2025 英二柱状图（老年人休闲活动）：
+The discussion leads us to the realization that a high-quality lifestyle is not an
+option, but a necessity.
+
+讨论使我们认识到，高质量生活方式不是一种选择，而是一种必要。把主题词
+
+换成healthy 适用2023 英二线状图（居民健康素养水平）。
+例2026 英一饼图+柱状图（养老机器人）：
+The discussion leads us to the realization that elderly care is not a luxury, but a must
+for an aging society.
+
+讨论使我们认识到，养老不是奢侈品，而是老龄化社会的必需品。
+
+
+公式4：We are faced with the undeniable fact that 主题词has become
+                     an integral part of our lives.
+                         increasingly accessible to the general public.
+
+
+
+                                            59
+===== PAGE 62 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+
+例2009 英一图画（网络）、2015 英一图画（手机聚会）、2020 英二饼状图（手机阅读）：
+We are faced with the undeniable fact that the Internet has become an integral part
+of our lives.我们面临着一个不可否认的事实，即互联网已经成为我们生活中不
+
+可或缺的一部分。
+
+例2026 英一饼图+柱状图（养老机器人）：
+We are faced with the undeniable fact that elderly-care robots have become
+increasingly popular with the general public.
+
+我们面临着一个不可否认的事实，养老机器人已经越来越受公众欢迎。
+
+We are faced with the undeniable fact that the majority of consumers accept
+elderly-care robots, with safety as their primary concern.
+
+我们面临着一个不可否认的事实，大多数消费者接受养老机器人，安全是他们
+
+的首要关注点。（大改）
+
+例2026 英二柱状图（儿童户外活动）：
+We are faced with the undeniable fact that outdoor activities have become an integral
+part of children's growth.
+
+我们面临着一个不可否认的事实，户外活动已经成为儿童成长中不可或缺的一
+
+部分。
+
+           方案二：否定词（组）倒装
+
+结构：否定词+助动词+主谓宾。看不懂没关系，记住下方组合公式，考场上只
+
+需要写出与主题相关的动词短语。
+
+公式：
+
+                                               give up our efforts to...
+         Never can we
+                                       underestimate the profound impact of...
+   On no account should we
+               ✖            cease our pursuit of...
+ Under no circumstances can we
+                                           doubt the importance of...
+    By no means should we
+                                                                                                  ...
+例2011 英一图画（环保）：
+By no means should we give up our efforts to protect the environment.
+
+我们决不能放弃在保护环境上的努力。
+
+                                            60
+===== PAGE 63 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+例2025 英一表格（家电）：
+Under no circumstances should we cease our pursuit of a more convenient and
+intelligent lifestyle.
+
+在任何情况下，我们都不应停止对更便捷、更智能生活方式的追求。
+
+例2025 英二柱状图（老人休闲）：
+Never shall we give up our efforts to ensure the well-being of senior citizens.
+
+我们永远不会放弃为确保老年人福祉而努力。
+
+例2026 英一饼图+柱状图（养老机器人）：
+Under no circumstances should we ignore consumers' safety concerns when
+developing elderly-care robots.
+
+在任何情况下，我们在开发养老机器人时都不应忽视消费者的安全关切。
+
+例2026 英二柱状图（儿童户外活动）：
+By no means should we underestimate the profound impact of outdoor activities on
+children's curiosity and observational skills.
+
+我们决不能低估户外活动对儿童好奇心和观察力的深远影响。
+
+           方案三：万能但不够针对
+
+It is evident that the trend/ distribution reflected in the chart deserves our careful
+consideration.
+很明显，图表反映的趋势/分布值得我们认真考虑。
+There is no denying that further attention must be paid to the scene/phenomenon/
+situation/tendency mentioned above.
+不可否认，对上述场景/现象/情况/趋势必须给予进一步的关注。
+Given the above analysis, it is not difficult to understand why this phenomenon has
+aroused widespread concern.
+
+鉴于以上分析，不难理解为什么这一现象引起了广泛关注。
+
+注：万能且无需修改任何内容，应急使用。
+
+            第九、十句：具体措施
+
+         方案一：一句一个角度，两句并列
+
+五个角度：政府作为、公民意识、个人行为、媒体呼吁、家庭教育。任选三个
+
+                                            61
+===== PAGE 64 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+角度掌握，肯定可以命中两个，可单独使用也可用连接词相连，以2011 年“保
+护环境”为例，直接背例句。
+政府作为：It is imperative for the authorities to make strict laws to protect the
+environment.当局必须制定严格的法律来保护环境。
+                               formulate policies   制定政策
+       make strict laws
+           →  allocate more funds   拨付更多资金
+     制定法律
+                              launch public initiatives 发起公共倡议
+公民意识：We should also raise environmental awareness among children and
+adults. 我们还应该增强孩子和大人的环境保护意识。
+It is high time that we raised public consciousness of environmental protection.
+
+是时候增强公众环保意识了。
+
+
+个人行为：We should spare no pains to protect the environment and make the
+"global village" better. 我们应该不遗余力地保护环境，让“地球村”变得更好。
+注1：We should 可替换为It is our duty to / We are obliged to / We ought to
+注2：spare no pains to 可替换为make concerted efforts to /take concrete steps to
+
+
+媒体呼吁：New media platforms, ranging from short video apps to social media,
+should appeal to users to adopt a sustainable lifestyle.
+
+新媒体平台，从短视频应用到社交媒体，应该呼吁用户采取可持续的生活方式。
+
+Social media platforms should play a pivotal role in raising public awareness of
+sustainable living.
+
+社交媒体平台应该在增强公众可持续生活意识方面发挥关键作用。
+
+
+家庭教育：Parents and teachers should set a good example for children in resource
+conservation through their own behavior.
+
+家长和老师应当通过规范自身为孩子们树立节约能源的榜样。
+
+Parents can serve as role models for their children by saving resources in daily lives.
+
+家长可以通过日常生活中节约资源，为孩子树立榜样。
+
+                                            62
+===== PAGE 65 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+例2025 英一表格（家电）：
+For one thing,  it is imperative for the authorities to formulate industry-friendly
+policies to promote the development of the home appliance industry. For another,
+enterprises ought to spare no pains to enhance product quality and reduce
+commodity prices.
+
+一方面，当局必须制定友好政策来促进家电行业的发展。另一方面，企业应该
+
+不遗余力地提高产品质量，降低商品价格。
+
+
+例2025 英二柱状图（老人休闲）：
+For one thing, it is imperative for the authorities to allocate more funds to build more
+elderly activity centers. For another, new media platforms should call on people to
+care for the elderly.一方面，当局必须投入更多资金建设更多老年活动中心。
+
+另一方面，新媒体平台应该呼吁人们关爱老人。
+
+
+例2026 英一饼图+柱状图（养老机器人）：
+For one thing, it is imperative for the authorities to formulate strict regulations to
+ensure the safety of elderly-care robots. For another, enterprises ought to spare no
+pains to improve product quality.
+
+一方面，当局必须制定严格法规确保养老机器人的安全。另一方面，企业应该
+
+不遗余力地提高产品质量。
+
+
+例2026 英二柱状图（儿童户外活动）：
+For one thing,  it is imperative for the authorities to improve public facilities to
+provide a safer and more friendly environment for children's outdoor activities.
+For another, parents and schools should create more opportunities for children to
+participate in outdoor activities.
+
+一方面，当局必须完善公共设施，为儿童户外活动提供更安全、更友好的环境。
+
+另一方面，家长和学校应该为儿童创造更多参与户外活动的机会。
+
+领会思想，灵活运用！
+
+                                            63
+===== PAGE 66 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+
+           方案二：老子说的才是对的
+
+第一句抛出大多数人的做法，转折词相连，第二句给出自己的看法，以彰显自
+
+己的独到见解。
+
+待选1：When it comes to concrete solutions, some people hold that A must take
+responsibility for B. In fact, it is C that plays a crucial role in D.
+
+注释：
+
+A——其他人认为的措施的实施方
+the government department concerned（有关部门）
+B——主题词
+以环境保护为例：the protection of the environment
+C——你认为的措施的实施方
+cultivating citizens’ consciousness（培养公民意识）
+D——主题词，但不要和B 一模一样
+
+以环境保护为例的最终例句：
+
+When  it comes to concrete solutions, some people hold that the government
+department  concerned  must  take  responsibility  for  the  protection  of  the
+environment. In fact, it is cultivating citizens’ consciousness that plays a crucial
+role in protecting the environment.
+
+当涉及具体的解决方案时，一些人认为有关部门必须承担起保护环境的责任。
+
+事实上，培养公民意识在保护环境中起着至关重要的作用。
+
+例2026 英一饼图+柱状图（养老机器人）：
+When it comes to concrete solutions, some people hold that the government must
+take responsibility for regulating the elderly-care robot industry. In fact,  it is
+technological advancement and strict safety standards that play a pivotal role in
+gaining public trust.
+
+谈到具体解决方案，一些人认为政府必须承担监管养老机器人行业的责任。事
+
+实上，技术进步和严格的安全标准在获得公众信任中起到关键作用。
+
+待选2：On the surface, Aseems to be a sound solution, but on careful consideration,
+we find that B is a more reasonable and effective approach.
+
+                                            64
+===== PAGE 67 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+
+注释：
+
+A——解决措施1
+Setting rules based on scenic location（景区制定规则）
+B——解决措施2
+raising public awareness / promoting civic awareness（改善公民意识）
+
+以环境保护为例的最终例句：
+
+On the surface, setting rules based on scenic location seems to be a sound solution,
+but on careful consideration, we find that raising public awareness is a more
+reasonable and effective approach.
+
+表面上，根据景区位置来制定规则似乎是一个合理的解决方案，但经过仔细考
+
+虑，我们会发现增强公众意识才是更合理、更有效的方法。
+
+例2025 英二柱状图（老人休闲）：
+On the surface, building more elderly activity centers seems to be a sound solution,
+but on careful consideration, we find  that family companionship  is a more
+reasonable and effective approach.
+
+表面上，建设更多老年活动中心似乎是一个合理的解决方案，但仔细考虑后，
+
+我们发现家庭陪伴才是更合理、更有效的方法。
+
+注：其实26 考研英一英二都不太适合方案二，原因是写出来字数太多了。方
+
+案二适用于主题词、实施方、解决措施较短的题目。
+
+            第十一句：畅想未来
+
+均为万能句，任选2 句背住。
+待选1：If these proposed measures are implemented, a harmonious balance between
+A and B will be within our reach.（注：A、B 根据主题词来定）
+如果这些提议的措施得以实施，A 和B 之间的平衡触手可及。
+待选2：Only through the joint efforts of all people can we effectively solve the
+problem/ have a better life/ advance social progress. 只有通过所有人的共同努力，
+我们才能有效地解决问题/拥有更好的生活/推动社会进步。
+待选3：In this way, hopefully, we may embrace a brighter and more promising
+future. 这样我们才有希望拥抱一个更光明、更有希望的未来。
+
+                                            65
+===== PAGE 68 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+待选4：There is no better time than now for us to take collective and decisive action
+to address this pressing issue.
+
+现在是我们采取集体和果断行动解决这一紧迫问题的最佳时机。
+
+例2026 英一饼图+柱状图（养老机器人）：
+Only through the joint efforts of the government, enterprises and the public can
+we effectively promote the healthy development of elderly-care robots.
+
+只有通过政府、企业和公众的共同努力，我们才能有效促进养老机器人的健康
+
+发展。
+
+例2026 英二柱状图（儿童户外活动）：
+If these proposed measures are implemented, a harmonious balance between
+children's physical exercise and intellectual development will be within our reach.
+
+如果这些提议的措施得以实施，儿童体育锻炼与智力发展之间的和谐平衡触手
+
+可及。
+
+注1：待选1 和2 需小改以适配题目；待选3 和4 不需要改，但很明显是套话，
+用于不会修改1 和2、时间紧张和字数不够的情况。
+  至此，第三段总结全文+具体措施+畅想未来讲解完毕。同时，你也在不知
+不觉中完成了25 和26 年英一英二真题套用。考虑到第三段是图画作文图表作
+文通用的，接下来以2024 年英一图画图表结合（公园/基础设施建设）为例，
+
+完整的第三段是：
+
+It is not difficult to draw the conclusion that enough attention has been paid to the
+infrastructure by the departments concerned. For one thing, it is imperative for the
+authorities to increase investment continuously. For another, new media platforms,
+ranging from short video apps to social media, should appeal to people to live a
+healthy life. In this way, hopefully, we may embrace a brighter and more promising
+future.
+
+不难得出结论，有关部门已对基础设施给予足够的重视。一方面，当局必须不
+
+断增加投资。另一方面，新媒体平台，从短视频应用到社交媒体，应该呼吁人
+
+们过健康的生活。通过这种方式，希望我们能拥抱一个更光明、更有希望的未
+
+来。
+
+                                            66
+===== PAGE 69 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+
+           图表作文第三段补充写法
+
+图表作文第三段还可以：总结全文+趋势预测，这是最简单的写法。
+待选1：
+Taking into account all the factors discussed above, we may reasonably conclude
+that, with the passage of time and the advancement of society, the number of people
+who choose to do Sth. will continue to increase/decline in the coming years.
+
+综合考虑上述所有因素，我们可以合理地得出结论：随着时代变迁和社会进步，
+
+未来几年选择做某事的人数将持续增加/减少。
+待选2：
+For the reasons given above, we can predict that an increasing number of people will
+focus on 主题词/choose to do Sth, and this trend is likely to continue in the near
+future.
+基于上述原因，我们可以预测，将有越来越多的人关注主题词/选择做某事，这
+
+一趋势在不久的将来很可能会持续下去。
+
+待选3：
+Given the arguments above, the next few years will also witness larger-scale, faster-
+paced, and higher-quality development in 主题词.
+
+鉴于上述论点，未来几年主题词也将迎来更大规模、更快速度和更高水平发展。
+
+待选4：
+In conclusion, the phenomenon reflected in the chart is bound to continue, and it will
+keep exerting a positive influence on our lives.
+
+总之，图表所反映的现象必将持续下去，并将继续对我们的生活带来积极影响。
+
+待选5：
+In a word, as society keeps moving forward, 主题词is likely to gain even greater
+significance in the days to come.
+
+总之，随着社会不断前进，主题词在未来很可能变得更加重要。
+
+例2025 英一表格（家电，动态）
+Taking into account all the factors discussed above, we may reasonably conclude
+that, with the passage of time and the advancement of society, the number of families
+
+                                            67
+===== PAGE 70 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+who own smart home appliances will continue to increase in the coming years.
+
+综合考虑上述所有因素，我们可以合理地得出结论：随着时代变迁和社会进步，
+
+未来几年拥有智能家电的家庭数量将持续增加。
+
+例2025 英二柱状图（老人休闲，静态）
+In conclusion, the phenomenon reflected in the chart is bound to continue, and it will
+keep exerting a positive influence on the well-being of the elderly.
+
+总之，图表所反映的现象必将持续下去，并将继续对老年人的福祉带来积极影
+
+响。
+
+例2026 英一饼图+柱状图（养老机器人，静态）
+In a word, as society keeps moving forward, elderly-care robots are likely to gain
+even greater significance in the days to come.
+
+总之，随着社会不断前进，养老机器人在未来很可能变得更加重要。
+
+例2026 英二柱状图（儿童户外活动，静态）
+In conclusion, the phenomenon reflected in the chart is bound to continue, and it will
+keep exerting a positive influence on children's healthy growth.
+
+总之，图表所反映的现象必将持续下去，并将继续对儿童的健康成长带来积极
+
+影响。（略显生硬）
+
+Given the arguments above, we can predict that outdoor activities will win growing
+recognition among parents  as  they  increasingly  value  children's  all-round
+development.
+
+鉴于上述论点，随着家长愈发重视孩子的全面发展，我们可以预测户外活动将
+
+赢得越来越多家长的认可。（总结成待选6：愈发重视，获得认可）
+
+注：趋势预测的深度不及建议措施，仅应急使用。
+
+
+
+至此，图表作文讲解完毕。
+
+
+
+
+
+                                            68
+===== PAGE 71 =====
+         关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+3.4 图画作文第一段：图画描述+主题阐述
+
+            第一、二句：图画描述
+
+            引入图画描述（过渡句）
+
+ 升级前：As is shown in the picture above, 图画描述.
+
+注：升级前的句子就是你脑海中立刻浮现的句子，我们升级后再使用。
+
+   被替换词  替换词
+
+ 1   shown          illustrated/ depicted/ portrayed/ conveyed/ described/
+                     presented/ indicated/ demonstrated/ reflected
+                加副词:vividly/ symbolically/ subtly/ clearly/ distinctively
+ 2    picture        drawing/ painting/ photograph/ cartoon
+ 升级后：As is symbolically depicted in the cartoon above,
+
+还可用以下待选句（单图）：
+
+ 1.The cartoon above presents us with a thought-provoking scene:
+
+上面的漫画向我们呈现了一个发人深省的场景：
+
+ 2.Portrayed distinctively in the drawing above is a common scene:
+
+画中清晰地描绘出一个常见的场景：
+
+ 3.What is clearly conveyed in the picture is that
+
+图片明确传达出的是
+
+ 4.Depicted in the picture above is a scene that strikes us as both familiar and thought-
+ provoking:
+图中描绘的是一个既熟悉又发人深省的场景:
+ 注1：如果是两幅图，记得用复数。图画描述时中间需用连词，相似用Similarly/
+ Likewise，对比用While / Whereas，同时用Meanwhile/ At the same time, 递进
+ 用Moreover/ Furthermore.
+注2：如果是一图一表，其实就是图画描述和图表总体描述的简单叠加。
+ As is vividly depicted in the cartoon and clearly shown in the chart above, 图画描
+ 述, and 图表总体描述.
+ The cartoon above depicts 图画描述, while the chart below illustrates 图表总体描述.
+
+
+                                             69
+===== PAGE 72 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+
+  一般的作文书、课就到此为止了，没有讲核心内容——如何描述图画？即
+
+便是讲解了，你会发现他们对不同的图画有不同的描述方法，就好像量身定制
+
+一样，很难实现举一反三，这就是为什么你背了很多篇范文却还是没有学会写
+
+作。因此我们应该统一图画描述的方法，即分类、拆分、组合法。
+
+         如何描述图画：分类、拆分、组合法
+
+
+
+
+
+  所有的图画均可分为一幅图和两幅图。一幅图可以分为非对话型和对话
+
+型。一幅图非对话型需要判断主体、环境、动作和细节，然后套用公式进行组
+
+合；一幅图对话型就是在第一种的基础上加上汉译英，中间再加上连词组合；
+
+两幅图就是将第一种方法简化后重复两次，中间加上连词组合。一图一表就是
+
+简化后的图画描述和图表总体描述的简单叠加。
+
+
+                                            70
+===== PAGE 73 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+
+            一幅图（非对话型）
+
+
+
+
+
+公式：环境+基本动作(do)+主体，主要动作(doing)，with 细节。
+例2004 年：
+
+
+
+
+
+                拆分
+
+主体：很好判断，通常为人或物。
+
+环境：若环境清晰明显，就写出具体环境；若环境不清晰，可用万能环境：在
+
+我们面前in front of us、在图画中间in the middle of the picture。
+基本动作：描述主体的存在方式，一般来说就是：站stand、坐sit、躺lie、跑
+run、停留stay。主要动作：作者想要突出的动作，例如：听listen、说talk、读
+read、写write、穿wear、盯stare、想think。
+
+细节：描述主体的表情和心态，如果想不起来，可以不写。
+
+                                            71
+===== PAGE 74 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+常见细节——with a sweet smile on his face 脸上带着甜蜜的微笑。
+
+可细分，更具体。
+
+with a confident smile on his face 脸上带着自信的微笑（2007 自信）
+with determination in his eyes 眼神中带着决心（2019 坚持）
+with an excited expression on her face 脸上带着兴奋的表情（2023 龙舟比赛）
+with curiosity in his eyes 眼神中带着好奇（2018 选课）
+with confusion on her face 脸上带着困惑（2022 听讲座）
+with a worried look on his face 脸上带着担忧的表情（2020 习惯）
+with tears in her eyes 眼里含着泪水（2005 养老足球赛）
+主体：一个年轻人a young man    环境：在操场上on the playground
+基本动作：跑run            主要动作：冲线rush
+细节：笑smile
+
+                组合
+
+As is symbolically depicted in the picture above, on the playground runs a young
+man, rushing to the finishing line, with a sweet smile on his face.
+
+                升级
+
+加入as well as 结构修饰主体：
+As is symbolically depicted in the picture above, on the playground runs a young
+man, active as well as vigorous, rushing to the finishing line, with a sweet smile on
+his face.
+
+                 active as well as vigorous 活跃又有精力的
+        结构：形容词1+as well as +形容词2
+
+
+记住以下两组形容词，以人或“拟人”为主体的图画用的上！
+
+       正面               负面
+
+lovely as well as cute                      cruel as well as vicious
+
+可爱的              残忍又恶毒的
+
+graceful as well as elegant                negative as well as passive
+
+优雅的              消极又被动的
+
+                                            72
+===== PAGE 75 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+amiable as well as friendly                disgraceful as well as dishonorable
+
+友好的              不光彩又可耻的
+
+aspiring as well as ambitious             ugly as well as disgusting
+
+有抱负又有野心的         丑陋又恶心的
+
+passionate as well as aggressive             terrible as well as horrible
+
+激情又有进取心的         可怕的
+
+confident as well as optimistic            unconfident as well as pessimistic
+
+自信的又乐观的          不自信又悲观的
+
+再练一遍，例2001 年：
+
+
+
+
+
+                拆分
+
+主体：小油灯an oil lamp       环境：在我们面前in front of us
+基本动作：待着stay           主要动作：照亮light up
+细节：笑smile
+
+                组合
+
+As is symbolically depicted in the picture above, in front of us stays an oil lamp,
+lovely as well as cute, lighting up the darkness, with a sweet smile on its face.
+
+                升级
+
+   还是短，翻译图画上的文字：Encircling the lamp are the words:" Love is a
+lamp. The darker the place, the brighter it shines."
+
+  有时图画中或下方会出现一句话或标题，大概率是主题词，主题词将会在
+
+下一句“主题阐述”句给出。因此在以往版本的作文模板中，为避免重复我不
+
+                                            73
+===== PAGE 76 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+建议大家写这句话。但当你1.描述图画遇到困难，首段篇幅较短；2.标题并不
+
+直接是主题词时，可以描述，句型如下：
+
+Below the drawing, there is a caption which reads: 翻译.
+The caption beneath the drawing reads: 翻译.
+A profound statement is placed below the picture: 翻译.
+
+             一幅图（对话型）
+
+
+
+
+
+公式：环境+基本动作+主体，主要动作. A 说的话, 关联词+B 说的话.
+例2022 年：
+
+
+
+
+
+                拆分
+
+主体：两位女生two girls       环境：公告栏in front of the board 或者
+                     万能环境in front of us
+基本动作：站着stand         主要动作：谈论talk about/discuss
+
+                                            74
+===== PAGE 77 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+
+                组合
+
+As is symbolically depicted in the picture above, in front of us stand two girls, talking
+about campus lectures.
+
+如上图所示，两位女孩站在我们面前，正在谈论校园讲座。
+
+One argues that campus lectures are irrelevant to her major and a waste of time. By
+contrast, the other maintains  that attending such  lectures  is highly beneficial
+nonetheless.
+
+其中一人认为，校园讲座与她的专业无关，是浪费时间；而另一人则坚持认为，
+
+参加这类讲座仍然大有裨益。（转述）
+
+或The girl on the left says, "The lecture is not related to our major, which is a waste
+of time." By contrast, the girl on the right answers, "It will be beneficial nonetheless."
+左边的女孩说：“这个讲座和我们的专业无关，是浪费时间。”相比之下，右边
+的女孩回答：“但仍然会有所收获。”（直述）
+
+              常用替换词
+
+            believe / contend / assert / claim / declare / state / point out / is convinced
+ 认为
+             that / hold the view that / express the view that
+        对比Meanwhile / On the contrary / Conversely / However
+ 关联词
+        相似Similarly / Likewise
+
+注：推荐转述。人物对话往往十分简洁，直接翻译会显得文章低级。
+
+               两幅图
+
+
+
+
+
+公式：左图主体+主要动作（一般现在时或一般进行时）. 关联词，右图主体+
+主要动作（一般现在时或一般进行时）.
+
+                                            75
+===== PAGE 78 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+例2020 年：
+
+
+
+
+
+                拆分
+
+主体：年轻人the girl/boy           主要动作:think/ say/ do homework/ lie
+
+                组合
+
+The cartoons provide us with a thought-provoking scene: the girl in the left picture is
+fully focused on her homework, thinking that she will feel relieved when she finishes
+her work. However in the right picture, the boy is lying on the sofa, telling himself
+that he will not start until the deadline.
+
+漫画为我们呈现了一个发人深省的场景：左边的女孩全神贯注地做着作业，心
+
+想只要完成任务就会感到轻松。而右边的男孩却躺在沙发上，告诉自己要等到
+
+最后期限才开始。（转述）
+
+...saying, “I will feel relieved when I finish my work”.（直述）
+...saying, "I will not start until the deadline."（直述）
+The girl believes that early completion will bring her relief.（更好的转述）
+
+                升级
+
+升级需要补充基本动作+环境（见前文）。
+The cartoons provide us with a thought-provoking scene: the girl in the left picture,
+sitting in front of the desk, is fully focused on her homework and says that she will
+feel relieved when she finishes her work. However, the boy lying on the sofa in the
+right picture says that he will not start until the last minute.
+
+学至此处有没有觉得很熟悉呢？你会发现两幅图和一幅图写法类似，熟练后不
+
+必再看公式区分，直接增加句子成分、拉长句子、灵活使用就可以了。
+
+                例外
+
+                                            76
+===== PAGE 79 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+例2010 年：该年份不适用于以上方法，而是用there be 句型：
+
+
+
+
+
+The cartoon provides us with a socially symbolic scene: there are many cultural
+elements in the delicious and nutritious hotpot, such as Peking Opera, Kung fu,
+Shakespeare and so on. Below the pot, a caption reads: "Cultural hot pot, nutritious
+and delicious."
+
+这幅漫画为我们提供了一个具有社会象征意义的场景：在美味又营养的火锅中
+
+有许多文化元素，比如京剧、功夫、莎士比亚等。锅下面写着：“文化火锅，
+
+既美味又营养。”
+
+There be 句型稍显平淡，重点不突出，可改为：
+The hotpot integrates diverse cultural symbols, such as...
+Appearing in the hotpot are Peking Opera, Shakespeare...
+This cultural container holds Eastern and Western elements, such as...
+
+  至此，图画作文描述讲解结束，请大家反复练习我上面讲的分类拆分组合
+
+法，让你从此不再害怕。
+
+             第三句：主题阐述
+
+  图画作文是透过图画看寓意，历年图画作文均可总结出中心思想，汉语可用
+
+五个字高度概括：某事很重要。以下为证明。
+
+           历年图画作文中心思想汇总
+
+10 文化交流很重要                   11 保护环境很重要
+12 乐观（良好的心态）很重要        13 选择很重要
+14 孝顺（陪伴）很重要              15 拒绝沉溺手机很重要
+16 树立榜样很重要                  17 行动很重要
+
+                                            77
+===== PAGE 80 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+18 选择很重要                      19 坚持很重要
+20 习惯很重要                      21 兴趣很重要
+22 学习（广泛获取知识）很重要      23 传统文化很重要
+24 公园建设很重要（受到重视）      25 表格26 双图表
+
+注：以上内容是汉语的高度概括，是宏观概念，用于帮你明确主题、方便记忆、
+
+防止跑题。进行英文写作时，并非直接翻译这“五个字”，否则也太简单了吧。
+
+            引出主题阐述（过渡句）
+
+升级前：The purpose of the drawing is to remind us that…
+
+  被替换词  替换词
+
+1     is to          aims to 旨在/ serves to 起到... 作用/ is designed to 被设计来
+         如果替换，需删除The purpose of，否则语义重复。
+2    us       所有人：the public/ human beings/ children and adults
+    we      整个社会：the whole society
+    man      城市居民：urban residents 乡村居民：rural residents
+     people      子孙后代：children and kids/ offspring/ descendants
+              年轻人：teenagers and youngsters
+               大学生：undergraduates/ youngsters on campus
+               专家：experts/ professors 消费者：customers
+3    purpose       message 信息/ implication 寓意
+                  primary intention 首要意图/ symbolic meaning 象征意义
+4   remind       convince 使信服highlight the fact 强调某事实（删除us）
+注：此组单词使用前需要考虑语境，越具体越好。例如24、25 年用residents、
+23 年用rural residents、22 年用undergraduates。
+升级后：The primary intention of the drawing is to remind the whole society that…
+这幅图的首要意图是提醒整个社会…
+待选句：Simple as the drawing is, it conveys a truth that...
+
+图画虽然简单但是蕴含真理，
+
+The drawing, undoubtedly, emphasizes the core idea that...
+这幅图，毫无疑问，突出了这样的核心观点…
+
+                                            78
+===== PAGE 81 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+What the cartoon above mirrors is a thought-provoking phenomenon that...
+上图反映的是一个发人深省的现象...
+
+注：以上待选句，任选其一背诵即可。各种作文书里都有，它们给出类似上文
+
+所示的几个句子，却不告诉你省略号和冒号后边的中心思想怎么写。这就是上
+
+了考场无法套用的原因。下面我们来讲省略号代表的内容，即中心思想。
+
+               中心思想
+
+            方案1：如此重要以至于
+升级前：主题词is so important that the problem deserves the highest level of
+attention and consideration.
+
+注：主题词要具体到事，比如：信心匮乏、环境恶化、文化交流、广泛学习、
+
+行动、榜样、选择等。
+
+  被替换词  替换词
+
+1    important     vital/ critical/ indispensable/ significant/ irreplaceable
+2   problem     phenomenon/ subject/ situation/ issue/ scene/ circumstance/ it
+升级后：主题词is so indispensable that the subject deserves the highest level of
+attention and consideration.
+以传统文化为例，2023 年：
+
+
+
+
+
+The purpose of the drawing is to remind teenagers and youngsters that traditional
+culture is so indispensable that the subject deserves the highest level of attention and
+consideration. 这幅图旨在提醒年轻人传统文化很重要，需要得到最高的关注和
+
+考虑。注：加粗的部分是主题词，不加粗的部分万年不变。
+
+                                            79
+===== PAGE 82 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+            方案2：给予高度重视
+The utmost importance ought to be attached to 主题词by 某人.
+
+注：“某人”一般指政府、机构、个人、民众等。
+
+以保护环境为例，2011 年：
+
+
+
+
+
+Simple as the drawing is, it conveys a truth that the utmost importance ought to be
+attached to environmental protection by our government and the public.
+
+图画虽然简单但是蕴含真理，我们的政府和公民应当给予环境保护高度重视。
+
+还可以换种写法——
+
+某人should give the highest priority to 主题词.
+Simple as the drawing is, it conveys a truth that our government and citizens should
+give the highest priority to environmental protection.
+
+图画虽然简单但是蕴含真理，即我们的政府和公民应该把环境保护放在首位。
+
+            方案3：取得重大成就
+Great accomplishments/ achievements have been made in 主题词by 某人.
+注：“某人”一般指政府、机构、个人、民众等。参考上文us 的替换词。
+以公园建设为例，2024 年：
+
+
+
+
+
+                                            80
+===== PAGE 83 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+Without a doubt,  the drawing and  the  chart emphasize  the  truth  that  great
+accomplishments have been made in the construction of public facilities by the
+government.
+
+毫无疑问，图和表强调了一个事实：政府在公共设施建设方面取得了巨大成就。
+
+             方案4：双重否定
+At no time should we underestimate the significance of 主题词.
+以孝顺为例，2005 年：
+
+
+
+
+
+The drawing conveys a clear message: at no time should the public underestimate the
+significance of filial piety.
+
+这幅图传达了一个明确的信息：我们任何时候都不应低估孝顺的重要性。
+
+还可以使用：
+
+The importance of 主题词should never be underestimated by 某人
+The importance of 主题词cannot be overstated by 某人
+             方案5：强调句型
+It is 主题词that deserves greater attention.
+
+以创新为例（特别注意，好多年没考的热点话题）：
+
+The drawing, undoubtedly, highlights the core idea that it is innovation that deserves
+greater attention.
+
+毫无疑问，图画强调的核心观点是创新必须得到高度重视。
+
+还可以使用：It is 主题词that must be our top priority. 首要任务
+It is 主题词that requires our immediate attention. 立即关注
+
+
+                                            81
+===== PAGE 84 =====
+         关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+ 至此，第一段讲解结束。以2024 年英一为例，完整的第一段是：
+     The drawing on the left side provides us with a lively scene: several urban
+ residents are exercising in a park and a youngster says that the new park is fantastic.
+ Referring to the statistics provided in the right chart, the number of parks in a certain
+ city increased remarkably from 406 in 2020 to 670 in 2022. The drawing and the
+ chart aim  to remind us  that  great accomplishments have been made  in the
+ construction of public facilities by the government.
+注1：现阶段对于第一段的学习，应先从细节跳脱出来，避免纠结，先保证能
+
+够迅速地写出上述简单的例子，然后在此基础上扣细节。
+
+ 注2：24 考研英语一是历年来首次将图画、图表融合，图表描述见后文。我认
+
+为图画、图表融合反倒比纯粹的图画作文或图表作文简单，因为受限于首段篇
+
+幅，考生无需对图画或图表进行特别细致描述。
+
+注3：背诵“公式、方案”可能有些抽象，本资料选取代表性例句，建议大家
+
+直接背例句后。若在练习时遇到困难，可反馈至我的自媒体平台，我会选择共
+
+同难点补充讲解。
+
+3.5 文字作文第一段：文字改写+表明态度
+
+  大多数同学对图画作文、图表作文非常熟悉，却没有见过文字作文，文字
+
+作文进入大纲后还未考过，因此我们只能看大纲样题。
+
+ 52. Directions:
+     Read the following excerpt from an article and write an essay. In your essay,
+ you should explain whether or to what extent you agree with the author. Support your
+ argument with reasons and relevant examples.
+      Write your answer in 160–200 words on the ANSWER SHEET. (20 points)
+
+  阅读下面的节选并写一篇文章。在你的文章中，你应该说明自己是否或在
+
+多大程度上同意作者的观点。用理由和相关的例子来支持你的论点。
+
+   从题干我们可以得知文字作文的要求有两点：1.表明态度；2.论证观点。
+
+这两点并不足以支撑起整篇文章，因此文字作文的三段话我们这样安排：第一
+
+段文字改写+表明态度；第二段原因分析；第三段总结全文+具体措施+畅想未
+
+                                             82
+===== PAGE 85 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+
+来。可以看出，文字作文与图画图表作文只是第一段不同，二三两段相同。此
+
+时，请再次回味前文所说的：图画作文是透过图画看寓意、图表作文是透过图
+
+表看现象、文字作文是阅读文字提主题，他们的本质都是议论文。
+
+   Many of us, whatever our field of work, fear that showing uncertainty can
+damage our image  and we may compensate by expressing overconfidence in an
+attempt to win trust. But in many situations people are willing to trust those who can
+admit they don't have a definitive answer. Recent studies found that communicating
+uncertainty and even admitting our mistakes is not harmful and can even be beneficial
+to trustworthiness. So, failure in "expertise" can be compensated by higher integrity
+and benevolence. When communicating uncertainty in a transparent way, we are
+perceived as less biased and willing to tell the truth.
+
+  我们中的许多人，无论身处什么工作领域，都害怕表现出会损害我们形象
+
+的不确定性——我们可能会通过表现出过度自信去弥补，尝试赢得信任。但在
+
+许多情况下，人们愿意信任那些承认自己没有明确答案的人。最近研究发现，
+
+交流不确定性甚至承认错误是没有危害的，甚至能助于提升可信度。所以，在
+
+“专业”上的失败可以用高度的诚信和仁慈来补偿。当以一种透明的方式交流
+
+不确定性时，我们会被认为不那么有偏见并且愿意说出真相。
+
+             第一句：文字改写
+
+  从大纲样题我们可以看出，这段话可以分为两个部分：描述现象+表达观
+点。两个部分的分界线是研究表明（Recent studies found that），之前是作者描
+
+述的现象，之后是研究表明的观点，也就是作者的观点。因此，我们的文字改
+
+写也要分为两部分：改写现象+改写观点。改写思路有同义词/词组替换、主
+
+动变被动、被动变主动、高度概括、变换修饰语位置等。
+
+改写现象：Nowadays, gaining trust from others is vital in the workplace. Many
+people are afraid of damaging their image by appearing unsure.
+
+如今，在职场中获得他人的信任是至关重要的。许多人害怕表现得不自信会损
+
+害自己的形象。
+
+改写观点：The author believes that we are perceived as less biased and willing to
+tell the truth when we show uncertainty in a transparent way.
+
+                                            83
+===== PAGE 86 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+
+作者认为，当我们以一种透明的方式表达不确定性时，我们会被认为不那么有
+
+偏见，愿意说出真相。
+
+         不会改写怎么办？引出主题+改写观点
+
+建议大家首选改写，如果实在是改写不出来，可以选择如下句子。
+
+引出主题：
+
+待选1：It cannot be denied that 主题词plays a key role in people’s work and life.
+
+不可否认的是，主题词在人们工作和生活中扮演了重要角色。
+
+待选2：It is widely accepted that 主题词, a strong and positive life attitude, is the
+key element for individuals to achieve success.
+
+人们普遍认为主题词，坚强和积极的生活态度，是个人取得成功的关键因素。
+
+待选3：Nowadays, it is well-known that the problem/ phenomenon of 主题词has
+caused wide concern.
+如今，众所周知的是主题词的问题/现象已经引起了广泛关注。
+待选4：With the rapid advancement of society and technology,主题词has become
+a common phenomenon/ problem in our daily lives.
+
+随着社会和技术进步，主题词已经成为我们日常生活中一个普遍的现象/问题。
+
+待选5：Currently, whether to 选择1 or 选择2 has become a hot topic among
+people, especially among the young, and heated discussions are on the way.
+目前，选择1 还是选择2 已经成为人们的热门话题，尤其是在年轻人中，激烈
+
+的讨论即将到来。
+
+改写观点：
+
+待选1：The author believes that+文字中作者的观点
+待选2：Therefore, the author holds that+文字中作者的观点
+待选3：According to the author, +文字中作者的观点
+待选4：In the opinion of the author, +文字中作者的观点
+
+注：题干中要求“说明自己是否或在多大程度上同意作者的观点”，所以必须
+
+表明作者的观点。作者观点虽然有两三句，但它们是“同义句”，大家选择容
+
+易改写的句子改写即可。
+
+             第二句：表明态度
+
+                                            84
+===== PAGE 87 =====
+        关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+
+这句话特别简单，就是“说明自己是否或在多大程度上同意作者的观点”。无
+
+非是以下三种情况：
+
+强烈同意：I fully agree with the author's viewpoint.
+强烈反对：I strongly disagree with the author's opinion.
+部分同意：I share the author's view to a large extent, but I also believe that...
+
+注：这句话虽然短，但必须有，因为题干有明确要求。
+
+至此，文字作文第一段讲解完毕，以样题为例，使用不会改写的写法，完整的
+
+第一段为：It cannot be denied that integrity and benevolence play a key role in
+people’s work and life. The author believes that we are perceived as less biased and
+willing to tell the truth when we show uncertainty in a transparent way. I fully agree
+with the author's viewpoint.
+
+不可否认，诚信和仁慈在人们的工作和生活中起着关键作用。作者认为，当我
+
+们以透明的方式展示不确定性时，我们会被认为偏见更少，更愿意说实话。我
+
+完全同意作者的观点。
+
+以另外一道大纲样题为例：
+
+     Studies in the U.S. and the U.K. consistently show that children have lost the
+right to wander. This is why many of our youth turn to technology. They aren't
+addicted to the computer; they're addicted to interaction, and being around their
+friends. Children, and especially teenagers, don't want to only socialize with parents
+and siblings; they want to play with their peers. That's how they make sense of the
+world. And we've robbed them of that opportunity. We're raising our children in
+captivity and they turn to technology to socialize, learn and relax. Why are we
+blaming the screens?
+
+  美国和英国的研究一致表明，儿童已经失去了漫游的权利。这就是为什么
+
+我们的许多年轻人转向科技。他们不会对电脑上瘾；他们沉迷于互动，和朋友
+
+在一起。孩子们，尤其是青少年，不想只和父母和兄弟姐妹交往；他们想和同
+
+龄人一起玩。这就是他们感知世界的方式。而我们却剥夺了他们的机会。我们
+
+在囚禁中抚养我们的孩子，他们寻求科技来社交、学习和放松。我们为什么要
+
+责怪屏幕呢？
+
+                                            85
+===== PAGE 88 =====
+         关注B 站AI 归来和公众号AI 归来学习全套考研英语作文模板课程
+
+   使用不会改写的写法，完整的第一段为：With the rapid advancement of
+ society and technology, network addiction among children has become a common
+ phenomenon in our daily lives. The author believes that we cannot blame the screens
+ because children have lost the right to make sense of the world. I fully agree with the
+ author's viewpoint.
+
+  随着社会的进步和科技的进步，儿童网络成瘾已经成为我们日常生活中的
+
+一个普遍现象。作者认为，我们不能责怪屏幕，因为孩子们已经失去了理解世
+
+界的权利。我完全同意作者的观点。
+
+注：很明显，上一道样题我们必须同意作者的观点，这道样题我们同意、不同
+
+意、部分同意均可。
+
+  至此，文字作文第一段讲解完毕，第二、三段和图画图表作文相同。样题
+
+ 1 主题：围绕诚实、诚信、坦诚的重要性；样题2：科技的利与弊。
+
+3.6 后续学习安排
+
+  至此，大作文讲解结束。单词和搭配有很多，各位不必全会拼写，因为考场
+
+上我们只会拼写出一个两个就够了！待选句和方案很多，各位不必全都掌握，因
+
+为考场上我们只需要默写10 句左右下来！接下来大家需要做什么？
+1. 用一到两周时间，对照我的视频学习消化其中的例句并仿写。
+2. 对照此资料套用真题作文，3～5 篇即可发现偏好，建议练习顺序：
+    26 考研英二，搞定静态图→23 考研英二，搞定动态图→
+    26 考研英一，搞定双图表→24 考研英一，搞定图画+图表→
+    23 考研英一，搞定单图画→20 考研英一，搞定双图画→文字作文大纲样题；
+3. 将偏好的单词、句型、方案抄写到一张纸上，形成自己独有的大作文模板。
+  不做大的变动，可做小的升级，熟记于心，反复练习历年真题，做到20 分钟
+
+  内套用任意历年真题。
+
+4. 每周练习套用1～2 次，考前20 天，每天套用一次。切忌痴心妄想，认为自
+
+  己考前两周即可掌握。你那不算掌握，顶多算会背。只背模板，却不练习，
+
+  考场上很痛苦。
+
+下一份资料：英一英二通用的小作文模板。请关注我的账号，更新后会及时通知。
+
+                                             86

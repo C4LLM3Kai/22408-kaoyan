@@ -1,0 +1,23 @@
+\documentclass[10pt,a4paper]{ctexart}
+\usepackage{geometry}
+\geometry{left=1.4cm,right=1.4cm,top=1.15cm,bottom=1.0cm}
+\usepackage{xcolor}
+\definecolor{accent}{HTML}{0E4D5C}
+\definecolor{rule}{HTML}{CBDCDD}
+\setlength{\parindent}{0pt}
+\begin{document}
+\noindent\begin{tabularx}{\linewidth}{@{}X@{}}
+a \\ b
+\end{tabularx}
+
+\vspace{4pt}\noindent{\color{accent}\bfseries 五、雷区与得分点}\par\nopagebreak
+{\color{rule}\rule{\linewidth}{0.6pt}}\par\nopagebreak
+\vspace{1pt}
+text after
+
+\vspace{4pt}\noindent{\color{accent}\bfseries 五、雷区与得分点}\par
+\noindent{\color{rule}\rule{\linewidth}{0.6pt}}\par
+\vspace{1pt}
+text after 2
+\begin{itemize}\item x\end{itemize}
+\end{document}

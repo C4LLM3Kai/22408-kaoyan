@@ -1,0 +1,234 @@
+===== PAGE 1 =====
+公众号：牛南山，整理更新
+27 周思成考研英语写作零基础
+一、书写规范
+如何练字：
+1.不写连笔，不写花体，不带尾巴和圈圈；
+2.尽量写正！！不要歪七扭八；
+3.字母之间独立，词之间只有一个字母宽度
+4.大写字母是普通小写的两倍高（0.7倍），有下面部分的字母要下去，如：Hey
+5.特别注意的字母：ailrtv 不可以花！！
+无需大量时间，每天利用碎片时间（如换脑子休息时）练习15分钟，坚持20天即可看到明显效果。
+标点符号：
+1.紧接着前面的词打标点，打完标点要空一格字符！
+2.句首的字母要大写！
+3.英文没有句号只有句点.
+4.英文没有书名号！书名每个词首字母大写即可。
+二、五种基本句型
+五种基本句型其实只有两类：主系表、主谓X
+要重点区分系动词和谓语动词
+【南山笔记】
+实义动词：具有实在意义的动词，表示具体的动作、状态，看得见摸得着。
+判断方法：看中文解释是否有具体动作感。例如ggo在 go to school 中表示“去”的动作。
+系动词：起连接作用，连接主语和表语（描述主语的状态或性质），本身意义虚化。
+典型例子：be 动词 （am/is/are）。例如 I am happy.（am 无实际动作意义，仅连接）。
+半系动词：某些词既可以是实义动词，也可以是系动词，取决于语境；
+1
+===== PAGE 2 =====
+公众号：牛南山，整理更新
+以go为例：实义用法：Go to school.（去学校，有动作感）。
+系动词用法：The girl went crazy.（女孩疯了）/The company went bankrupt. （公司破产）。
+此时 go不表示“去”，而是表示“变得/进入某种状态”，连接主语和形容词/名词。
+主语
+造句练习：
+1.如果努力，就会成功。
+If you work hard, you will succeed.
+中文喜欢省略主语，英文除了祈使句和有省略的句，99%都要有主语！要想：动作是谁做的？
+2.建设和谐的社会需要我们共同努力。
+Building/To build a harmonious society requires us to make joint efforts.
+听上去是动词为主语，要用 ing/to do 形式。ing是常理，to do 是去做，常可以互换。
+它们一定是单数！要主语谓语+s/es
+3.请你给我一个回复。
+Please give me a prompt reply.
+祈使句：主语是 you，要求、命令、指示 you 做某事。尽量少用！
+Could you give me a reply at your earliest convenience?
+多用 Could you/would you..？很礼貌
+注意：除了投诉信，不要使用 as soon as possible
+4.长沙下雨了。
+It is raining in Changsha.
+时间和地点大多是状语，+介词，放在后面！
+5.如果不采取行动，会发生很多不好的结果。
+If we don't take action, many bad consequences will take place.
+If no action is to be taken, a lot of bad outcomes may follow.
+中文句子里不少宾语，是英文句子的主语。
+根据它和动作的关系，决定用主动/被动。特别是：主语不明确、不知道时，多被动。
+当强调人去执行动作时，用 have sb.do。
+2
+===== PAGE 3 =====
+公众号：牛南山，整理更新
+当强调物承受动作，且动作由他人完成时，用 have sth.done。
+注意：助动词是帮一句话变成否定句、疑问句和复杂时态的小词。
+如：Ilike youv
+I not like you. X
+I do not like you
+You like him? * Do you like him? V
+6.我长一脸的痘。
+Pimples have erupted all over my face.
+中文的很多主语，并不能“做出”谓语的动作。
+例如：“那里有很多美食和有意思的小店子。容易误译为 There have delicious food。
+7#2*4: There are delicious foods and interesting shops there.
+因为 There be 是倒装句，真正的主语是后面的名词（foods/shops）。There 本身没有实义，不能支配 have。
+7.我很难听懂你说的话。
+It is difficult for me to follow you.
+难/容易/可能/不可能一般用形式主语
+因为是那个动作难，而不是人难。
+关于主语最重要的事：
+1.要有主语，且主语要能做出这个动作；
+2.动作为主语，要用 ing/to do，句子要有别的动作；
+3.中文中没主语的句子，想想被动/反客为主。
+作业练习：
+1.河岸上站着两个老人。
+2.多练习，更熟练。
+3.暑假有很多时间可以运动。
+4.再偷懒，就不可能成功了。
+5.逃避问题只能让事情更糟糕。
+6.图左边有棵树，树上写着：“XX到此一游”。
+===== PAGE 4 =====
+公众号：牛南山，整理更新
+练习答案：
+1.中文中“站着两个老人”没有明确主语，用的是倒装结构。
+英语必须还原为主语＋动词：Two old men are standing on the riverbank.
+也可以强调地点（倒装，但主语仍然明确）：On the riverbank stand two old men.
+注意：old man虽可用，但在正式写作中显得随意和没礼貌
+2.中文是省略主语+并列句，意思完整但英文不能直接模仿。
+英文表达要补出主语：The more you practice, the more fluent you become.
+结构是 “the 比较级…，the 比较级…”，英文固定搭配。
+3. 〝暑假〞是不能“有时间”的，人可以。
+英文要表达“我们/你有时间”，否则句子缺主语：You have plenty of time to exercise during the summer
+vacation. There is plenty of time for exercise in the summer.
+4.中文主语完全省略，英语不能。
+必须加主语，表达逻辑因果关系：If you keep being lazy, it will be impossible to succeed.
+#Пі: If you keep slacking off, you won't be able to succeed.
+5.“逃避问题”要用动词的 ing形式。
+英语需要主语（动作作为主语）：Avoiding problems will only make things worse.
+结构是〝动名词+will make.”
+，典型的主语行为句型。
+6.中文是图画描述，主语经常省略。
+英语表达应清晰画面：There is a tree on the left side of the picture, and on the tree, it says "XX was here."
+EASt: On the left side of the picture stands a tree, with the words "XX was here" carved into it.
+【南山笔记】
+• Plenty of / A great deal of / An amount of
+Plenty of 通常接不可数名词（如 time, money）。虽然口语中偶见接可数，但标准用法倾向于不可数。
+A great deal of 只接不可数名词。
+An amount of 只接不可数名词（如 an amount of time/money/information）。
+易错点：虽然 amount意为“数量”，看似可数，但在英语习惯中仅修饰不可数名词。
+Exercise 不可数：指“运动、锻炼”。例：do exercise；可数：指“练习题、习题”。例：do many exercises。
+其他绝对不可数名词：information, money
+4
+===== PAGE 5 =====
+公众号：牛南山，整理更新
+> 三个最重要的实义动词：let, make,have
+have 的特殊用法（使役动词）：have somebody/something done 让/使某事被做。
+注意：在考研阅读中常出现，翻译和理解时需快速识别为“让”。
+主系表
+系动词：be 动词、感官动词、
+半系动词（保持、变得、结果）
+表语：系动词后面就是表语
+表语是在讲主语的状况、身份、特点
+除了动词原形的词性，都可以做表语
+中文现象
+无主语
+动作作主语
+省略式状语
+地点倒装
+英语表达要求
+英文必须补出“谁”
+动词要用动名词作主语
+补全时间/地点结构
+恢复为“谁+在哪里”
+类别
+状态类（等于）
+感官类（看起来\感觉像）
+变化类（变得）
+半系
+动词
+保持类（继续是）
+结果类（最后变成）
+代表动词
+be
+look, feel, sound, smell, taste
+become, get, grow, turn, go, fall
+stay, remain, keep
+prove, turn out, come out
+系动词+表语类型表
+表语类型
+形容词
+名词
+代词
+常见程度
+V最常见
+V常见
+V可用
+示例
+smart, tired
+student, teacher
+例句
+mine, yours
+She is smart.
+He is a student.
+That is mine.
+5
+示例
+再偷懒就失败 If you keep being lazy..
+逃避问题
+Avoiding problems
+暑假有时间
+We have time during summer
+河岸上站着两个老人 Two men are standing.
+示例
+She is tired.
+He looks angry. It smells good.
+He became famous./ She got sick.
+He remained silent.
+The plan proved successful
+中文含义
+她很聪明。
+他是一名学生。
+那是我的。
+===== PAGE 6 =====
+公众号：牛南山，整理更新
+介词短语
+动名词
+不定式
+名词性从句
+副词
+V常见
+V 可用
+V可用
+V可用
+！较少见
+in the room
+reading
+to wait
+that he forgot
+here, now
+He is in the room.
+His hobby is reading.
+The best choice is to wait.
+The problem is that he forgot.
+The meeting is now./She is here.
+他在房间里。
+他的爱好是阅读。
+最好的选择是等待。
+问题是他忘了。
+会议是现在。/她在这里。
+造句练习：
+1.拥抱全球化是一个明智的举动。
+Embracing globalization is a wise move.
+正常的中文的“是”，对应的就是be 动词
+但是要记得区分单复数与时态 am/is/are/was/were
+2.妈妈的头发白了。
+My mom's hair has turned grey.
+有很多半系动词表示“变得”；
+become偏正式+famous, popular, successful，也可以+名词作表语~a doctor
+turn ＋颜色 pale（惨白）yellow（树叶变黄）
+go + 不好的事情 crazy/mad/blind
+易错点：white 指“雪白/纯白”，形容老人头发变白不准确。pale 指“苍白/脸色不好”，不用于形容头发。
+3.找到高薪工作的竞争日趋激烈。
+The competition for high-paying jobs has become increasingly intense.
+文章讲某个趋势变化，一般用 has become
+4.我给你写回信来给些我的建议。
+I am writing this email to make some suggestions.
+要分辨出时态里的be动词使用，中文里很多时候是没有体现的。
+5.现代人拥有了更多的财富。
+6

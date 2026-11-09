@@ -1,0 +1,173 @@
+===== PAGE 1 =====
+公众号：牛南山，整理更新
+27 周思成考研英语写作基础课
+小作文精讲
+注：小作文部分英语一、英语二相同
+基本要求
+字数要求：
+底线：不少于 100 词。
+建议：控制在140词左右。
+限制：只要不超出答题纸格子即可，无需刻意追求上限。
+建议时长：20分钟。
+推荐格式：齐头式
+定义：所有段落顶格写（左对齐），每写完一部分（段落之间）空一行。
+依据：2024-2026年英语一小作文卷面题目均使用齐头式。高分学员几乎 100%采用齐头式。
+范文示例：
+Dear Paul,
+I'm delighted that you are interested in the handwritten letters I posted. In fact, I am the coordinator of this
+month's campus cultural festival, and those letters form part of our exhibition.
+They were written during the Mid-Autumn Festival by ancient Chinese people to family members living far away.
+Traditionally, the festival is a cherished moment for family reunion, when the full moon serves as a symbol of
+harmony and completeness. Even for those separated by distance, handwritten letters served as a means of
+connection, carrying their longing and best wishes to their loved ones.
+The festival runs throughout this month. You can see the originals at the Campus Activity Center from 8 a.m. to
+5 p.m. Volunteers will introduce the exhibits, and I believe you will deepen your understanding of Chinese culture.
+Best regards,
+Li Ming
+答题卡空间规划：
+行数限制：英语一/二 PartA 答题纸通常共 24行。
+推荐排版（齐头式）：
+称呼：Dear + Name，（顶格，占1行）。
+===== PAGE 2 =====
+公众号：牛南山，整理更新
+第一段：打招呼＋写作目的（3-4行）。
+第二段：正文核心内容，分点阐述（8-10行）。
+第三段：结尾、期待或补充信息（2-3行）。
+落款：Best regards, / Yours faithfully， +Li Ming（靠右或顶格，视格式而定，通常不占满行）。
+Game changer：你的字迹！
+翻译、大小作文，都是按照总体印象评分
+根据第一印象给出档分，再根据有限时间内看到的细节调整2分左右
+而且很多老师改卷比较草率所以，字迹极其极其极其重要！
+1.不要太大更不要太小
+2.不要写连笔字和花体字
+3.要有“高低等分”意识（大写高度应约为小写的两倍，不要写得胖乎乎，降部字母如 gY,P等要有明显
+的向下延伸）
+4.字母间、词间均匀
+5.某些字母的强化练习（I要直，不要拖泥带水、i要点干净、V 下端不要画圆、a必须封口、t横线要均
+衡、r不要写得像v）
+标点符号规范：
+字母后紧接着打标点，标点后空一格再开始下一个单词。
+每一个空格代表一个字符宽度，不是随意空出一片天地。
+近年小作文高频类型统计
+介绍类（近年来最爱考）：英一：26.25.23.19.16
+英二：26、25.24、20.19、17、15.13
+活动邀请/活动通知类：英一：22、20.18.13
+英二：22、21
+建议信：英一：24、21.17.14、12
+英二：23'、20'.18'.16
+原因/解释类：英一：15.11
+英二：23'、19'.18'.14、12
+2
+===== PAGE 3 =====
+公众号：牛南山，整理更新
+分类不是看表象、题干里的一个所谓核心词，而是看把什么写成主体段
+(16 $ 2) Suppose you won a translation contest and your friend Jack wrote an email to congratulate you, and ask
+advice on translation. Write him a reply to
+1) thank him;
+2) give your advice.
+这属于什么类型？
+分类方式，是看题目要求的哪个点可以拆分成多点。有些时候第一个要求点，可能只是开头段的引出内容；
+哪个要求点能写出2~3个点，就是主体段、决定文章类型。
+“谢谢”只能作为开头的一句话，无法拆分成多个点展开论述，因此不是主体段。
+“给建议”可以拆分为多条具体的建议，能写出2-3个点，因此是主体段。
+结论：该题实质是建议信，而非感谢信。
+24 考研英语一作文
+51. Read the following email from an international student and write a reply.
+Dear Li Ming,
+I've got a class assignment to make an oral report on an ancient scientist, but I'm not surehow to prepare for it. Can
+you give me some advice? Thank you for your help.
+Yours,
+Paul
+这是一篇
+—，而不是一篇人物介绍。
+核心在于 "how to prepare”（如何准备），属于建议信。
+都是通知？
+(20 # -) The student union of your university has assigned you to inform the international students about an
+upcoming singing contest. Write a notice in about 100 words.
+(16 # -) Suppose you are a librarian in your university. Write a notice of about 100words, providing the
+newly-enrolled international students with relevant information about the library.
+歌唱比赛通知：实质更接近邀请函（Invitation）。
+目的不仅是告知，更是邀请对方参与。正文需包含：鼓励参加、交流机会、结交朋友、丰富生活等情绪价
+3
+===== PAGE 4 =====
+公众号：牛南山，整理更新
+值内容。
+图书馆通知：实质是纯介绍类（Introduction）。
+目的仅是提供信息（开放时间、使用规则等），无强烈的情感互动需求。
+审题不能只看标题是“通知”，要看其背后的交际意图和内容实质。
+双主体段：如果题目要求有两个可以拆分成多点
+（23英一）Write a notice to recruit a student for Prof. Smith's research project on campus sports activities. Specify
+the duties and requirements for the job.
+(20 $=) Suppose you are planning a tour of a historical site for a group of international students. Write them an
+email to
+1) tell them about the site, and
+2) give them some tips for the tour.
+23英一：题目要求 Specify the duties（职责）。Specify the requirements（要求）。
+两个复数名词暗示了双主体段结构，每个点都需要展开为2-3个小点。
+20 英二：朋友 David 面临周末选择（艺术展 vs 机器人展），请给建议并说明理由。虽然涉及“建议”，
+但核心落脚点是 “tell him wby”（告诉他为什么）。“建议〞本身是一个单点（去其中一个），无法拆分为
+多个点；而“原因”可以拆分为多个点。
+因此，主体段应围绕"The reasons why I suggest.." 展开，属于原因/解释类。
+===== PAGE 5 =====
+公众号：牛南山，整理更新
+一、通知类、邀请类小作文
+段首：打招呼、介绍自己、点出活动、告知邀请
+主体：泛泛而谈：活动时间、地点、活动主题/亮点
+切题而谈：详细人物、详细细节、详细收获
+段尾：呼吁参加、保证收获
+通知有另一套“格式”？结尾落款学生会？
+通知只是贴在墙上的公开信，载体不同但本质仍是信件，不要因此把正文改成僵硬的公文写法。
+(23 —1) Directions: Write a notice to recruit a student for Prof. Smith's research project on campus sports
+activities. Specify the duties and requirements for the job. Write your answer about 100 words on the ANSWER
+SHEET Do not use your own name in the notice; use "Li Ming" instead. (10 points)
+NOTICE
+Dear fellow students,
+I hope this message finds you well! My name is Li Ming, the president of the Student Union. Professor Smith is
+currently conducting a study of students' participation in campus sports, and we are now seeking a student assistant
+to support the research.
+第一段
+1.格式
+①Notice 第一行正中写，Notice 紧接下一行顶格写称呼语（Dear fellow students/experts，）。
+②Email/ Letter 题号后接着直接写 Dear Professor Smith/ fellow students，
+（Notice 只比Email 多一个标题。不能因此把下面的正文全部改成另一套僵硬的公文写法。通知仍然是在对
+特定读者传递信息。）
+2.称呼对象
+①面向学生群体：Dear fellow students，
+②面向多位专家：Dear experts, / Dear professors and experts，
+③面向特定教授：Dear Professor Smith, / Dear Professor Wang，（教授姓名题目给定则直接使用；未给姓
+名时写 Dear Professor + 自编名）。
+3.礼貌开场
+5
+===== PAGE 6 =====
+公众号：牛南山，整理更新
+①万能开场：I hope this message finds you well！（中文也有“展信佳”）。（I hope this message finds you well！
+也可以用于有明确读者的 Notice。通知可以理解为贴在公共场所给一群读者的公开信，同样应当礼貌。）
+017E: I am delighted to learn that you are interested in our project.
+#HE: I am pleased to inform you that...
+4.介绍身份
+DHAT+Z#1): My name is Li Ming, the president of the Student Union.
+1am Li Ming, the head of the English Association.
+I am the coordinator of the ongoing/upcoming Campus Cultural Festival.
+④活动志愿者+题目设定活动：My name is Li Ming, a volunteer for Professor Smith's research project on
+campus sports activities.
+⑤对方写信给你、认识你：As the coordinator of the Campus Cultural Festival, lam delighted that you are
+interested in the event.（如果双方已经认识，或者题目明确交代了对方给你写信、认识你，不能机械重复 My
+name is Li Ming，直接说我正举行什么，谢谢你感兴趣。ongoing 正在举行的、upcoming 即将到来的）
+5.点出活动背景
+Our university is going to hold an English singing contest. Our university is going to hold
+an anniversary celebration.
+②协会正在筹办活动 Our association is planning to hold a reading campaign for first-year students.
+③对方看到的内容属于某项展览 The handwritten letters you saw are part of our exhibition on traditional
+Chinese culture.
+④教授正在开展研究项目 Professor Smith is conducting a research project on campus sports activities.
+（题目给了具体事物时，不要笼统写 What you saw，直接点明：the letters/photographs/paintings you saw.）
+6.说明目的与发出邀请
+Dixin thia.., and I would like to invite you to join us
+②正式邀请专家参加或担任角色 On behalf of the Student Union, I would like to invite you to attend the
+event. /serve as a judge for the contest.
+③回应对方的兴趣I would like to share more details with you
+0177я,.. so we are currently recruiting a student assistant/some volunteer for the project.
+（join us 是比较宽泛的万能说法。出席活动可以用 attend；参加比赛或项目可以用 take part in /participate in；
+担任评委推荐 serve as ajudge.）
+7.引出下文信息
+6

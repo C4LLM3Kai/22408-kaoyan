@@ -1,0 +1,215 @@
+===== PAGE 7 =====
+公众号：牛南山，整理更新
+5. 通用规则
+①英语无顿号、书名号。并列用逗号，书刊名用斜体/引号。
+②省略号只用⋯（三点）
+③所有标点后空一格（注意书写）
+例：Iread The Old Man and the Sea last week.我上周读了《老人与海》。
+I read "The Old Man and the Sea" last week
+He opened the box and found..nothing.他打开盒子，发现⋯•什么都没有。
+First, we need to analyze the data.首先，我们需要分析数据。
+26
+===== PAGE 8 =====
+公众号：牛南山，整理更新
+第一段（图表）
+【图表作文】首段写作模板
+第1句：图表总体描述—作文书P16-17
+Emerging from the chart above are these statistics： .从上表可以得出这样的数据：•.
+第2-3句：不同类型图表描述（见下文）——作文书P17-21
+【 南山笔记】
+（公众号：牛南|
+模板选择原则
+不需要背诵所有选项，选定一句即可。
+图表类型分类
+根据时间节点和数据特征，分为以下几种情况：
+静态表格：横纵轴没有任何时间节点。
+动态图（三年以上）：出现了3年以上的时间节点。可能是柱状图、折线图，甚至表格（如英语一曾
+考过带时间节点的表格）。
+两年数据：只有两个时间点的数据（近年未考，但需注意）。最可能是柱状图。
+无时间节点饼状图：完全没有时间节点的饼状图。
+文章鼞体篇幅规划
+PI 两句+P2 主旨句+2-3句+P3一句），满打满算约九句话。
+语法现象分布建议
+基础要求：从句：至少出现六处以上。
+特殊语法现象：一处虚拟语气。一处省略。一处倒装。
+非谓语动词：至少出现三处以上。
+高阶亮点：典故。特殊标点（冒号、破折号）。超纲词（一到两个）。修辞手法（比喻、拟人等）。
+长短句搭配：长句比例60% 到 70%，短句比例30% 左右。避免全是大长难句，需长短错落有致。
+27
+===== PAGE 9 =====
+公众号：牛南山，整理更新
+第一段第1句：图表总体描述（作文书P16-17）
+选择1：如果不是看到了上面的图表，这些引人深思的数据就会被忽视了：+［句子］。
+*EA: Without the chart above, these thought-provoking statistics would be ignored: + [# 7].
+Kf: Were it not for the chart above, these thought-provoking statistics would be neglected:+[# 7].
+选择2：柱状图/饼状图/表格/折线图显示了/描绘了/说明了/表明了⋯［在具体时间/某个时间段的情况....］
+The bar chart/pie chart/table/line chart shows/describes/illustrates/indicates the..［（根据图片标题写具体内容）
+in（具体时间）/between..and..（具体时间段）］
+选择3：根据所给统计数据，我们可以得出一个结论⋯
+AE A: Considering the data provided, we can conclude that...
+KA: Based on the statistics provided, we can conclude that...
+选择 4：这些统计数据如上图所示：…
+短句：These statistics are presented in the above chart： . 或者 The chart above illustrates these statistics：..
+选择5：这些数据出现在上面图表中：…
+Emerging from the chart above are these statistics: ...
+选择6：这种趋势可以在图表/饼状图/折线图/柱状图/表格中看到：
+Such a trend is seen in the graph/pie chart/line graph/bar chart/table：
+第一段第2-3句：不同图表类型描述（作文书P17-21）
+1.表格：
+根据所给数据，可以得出，［A 类］人中，［人3］所占比例是最大的，占比40%。同时，［B 类］中［人11和［人3］
+所占比例相等，约为50%。相比之下，IC类］约为64%，在［人2］中，是所有这些类别之间的最大值。
+Among those who [A], the proportion of people [^ 3] is the largest, accounting for 40%. Meanwhile, the
+proportions of [B] are equal for [^ 1] and [^ 3], at roughly 50%. In contrast, [C] is 64% or so, among those [^ 2],
+the maximum value among all these categories.
+28
+===== PAGE 10 =====
+公众号：牛南山，整理更新
+人1
+人2
+人3
+A
+16%
+0%
+40%
+静态表格：没有时间节点。
+写作策略：不求面面俱到，只写每种情况下的最大值
+B
+50%
+36%
+50%
+C
+33%
+64%
+10%
+2.出现三年以及以上年份的图表（可能是柱状图、折线图，甚至是表格）
+从［开始年］到［结束年］，［主题词 1］的数量从［开始值］到［结束值］，明显增加/减少，同时，［主题词2］的数量，
+超出人们预期，从［起始值］到［结束值］显著增加/下降。
+From ［开始年］to［结束年］，①the number of ［主题词 1］ increased/decreased remarkably from only about「起始值］
+t0［结束值］.或者：
+2the number of [# ia 1] saw a remarkable increase/decrease, rising/falling from about [i
+始值］ to ［结束值1. Meanwhile, the amount/number of ［主题词 2］，surpassing expectations/beyond expectations，
+swelled/dipped dramatically from［起始值］to［结束值］.
+例：2017年
+2013—2015年我国博物馆数量和参观人数
+10000
+8000
+6000
+4000
+2000
+7618
+7811
+6378
+4165
+4421
+4679
+2013
+一博物馆数量（家）
+2014
+—参观人数（十万人次）
+2015
+From 2013 to 2015, the number of museums increased remarkably from only about 4165 to 4679. Meanwhile, the
+number of visitors to museums, surpassing expectations/beyond expectations, swelled dramatically from 637.8
+million to 781.1million.
+29
+===== PAGE 11 =====
+公众号：牛南山，整理更新
+number/amount/volume
+the number of...
+number+可数名
+词
+数量
+a number of-many
+许多
+the amount of... #J
+amount+不可数
+名词
+数量/总量
+an amount of 一定
+量的/许多的
+volume +可数/不
+可数名词（强调体
+积、容量、规模或
+流量（物理空间或
+抽象规模的“量”）
+the volume of+可数
+名词
+the volume of+不可
+数名词（如液体、
+气体、数据等）
+谓语单复数
+单数
+复数
+单数
+单数
+通常用单数，
+但如果强调
+个体数量，也
+可用复数（较
+为少见）
+例句
+The number of museums is 4,679.
+博物馆的数量是 4679家。
+A number of students are playing on the ground.
+许多学生正在操场上玩耍。
+The amount of information is overwhelming.
+信息总量大得惊人
+An amount of money was donated to the charity.
+有一笔钱被捐给了慈善机构。
+The company handles a large volume of orders each
+month.
+该公司每月处理大量订单。
+The volume of traffic on this road peaks at rush hour.
+这条道路的交通流量在高峰时段达到峰值
+3.只有两年数据（可能是柱状图、折线图）
+在［开始年］，［有对应年最大值的名词B］，位于三大［主题词］之首，然而在［对比年］，［该名词 B明显下降/增
+加了［差值］，从［开始年数值］降到/升到［结束年数值］。相比之下，同期A有明显的上升/下降，上开/下降了［差
+值］，从［开始年数值］上升/下降到［结束年数值］，C的［对应数值］保持在同一水平。
+In ［开始年］，［有对应年最大值的名词 B］ topped the three［主题词］，while in ［对比年］，a remarkable
+decline/increase of ［差值］occurred, from ［开始年数值］to［结束年数值］. By contrast, there was a noticeable
+jump/decrease of ［差值］from ［开始年数值］to［结束年数值］ during the same period in A, and C stayed at the
+same level of ［对应数值］.
+例：2011年P20
+2008、2009年国内轿车市场部分品牌市场份额示意图
+40%
+30%
+20%
+10%
+0%
+•国产品牌 •日系品牌 口美系品牌
+30
+===== PAGE 12 =====
+公众号：牛南山，整理更新
+In 2008, Japanese-brand cars topped the three brands of car, while in 2009, a remarkable decline/increase of 10%
+occurred, from 35% to 25%. By contrast, there was a noticeable jump/decrease of 8% from 25% to 33% during the
+same period in domestic brands, and American brand cars stayed at the same level of 11%.
+4.没有时间表现的图（可能是饼状图、桂状图如考研英语二2021年）
+所有［种类总数］中，所占比例（表中的最大数值）［A］最大，大约在［对应百分数］，而［B］，IC］，［D］以及其他
+种类的数据分别占［数2］，［数3］，［数4］和［数5］。
+The percentage of ［A］ （max） is the highest among all the［种类总数］ categories, at approximately［对应百分数］，
+whereas [B], [C], [D] and others account for [$ 2], [$ 3], [*t 4], and [$ 5] respectively.
+例：2016年 P21
+菜高校学生旅游目的调查
+共他
+15%
+培养独立能⋯
+欣赏风景
+37%
+广交朋友
+9%
+缓解压力
+33%
+第1句：图表总体描述
+¿j$ 4: Illustrated in the chart above are these statistics:+[al 7].
+第2句：图表细节描述
+选择4：饼状图 The percentage of college students travelling for the purpose of sightseeing is the highest
+among all the five categories, at approximately 37%, whereas relieving pressure, making friends, cultivating
+independence and others account for 33%, 9%, 6%, and 15% respectively.
+图表第一段常见写作错误及注意问题
+1）图表作文一定要注意时态
+图表里只要出现了过去的时间点，常用一般过去时。
+2）表示“数量”的英语单词其实也是有区别的
+一般是强调“总数、总量”用quantity,amount。
+两者区别：quantity 通常用于可数名词或不可数名词，强调具体的数量；例如：垃圾总量 the amount of garbage
+amount 通常用于不可数名词，强调总量。例如：商品数量 the quantity of goods。
+3）百分比的表达方式有以下几种：
+31

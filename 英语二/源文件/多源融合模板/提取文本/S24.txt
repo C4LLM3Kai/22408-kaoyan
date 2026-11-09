@@ -1,0 +1,1606 @@
+===== PAGE 1 =====
+公众号：牛南山，整理更新
+27 周思成考研英语写作基础课
+小作文精讲
+注：小作文部分英语一、英语二相同
+基本要求
+字数要求：
+底线：不少于 100 词。
+建议：控制在140词左右。
+限制：只要不超出答题纸格子即可，无需刻意追求上限。
+建议时长：20分钟。
+推荐格式：齐头式
+定义：所有段落顶格写（左对齐），每写完一部分（段落之间）空一行。
+依据：2024-2026年英语一小作文卷面题目均使用齐头式。高分学员几乎 100%采用齐头式。
+范文示例：
+Dear Paul,
+I'm delighted that you are interested in the handwritten letters I posted. In fact, I am the coordinator of this
+month's campus cultural festival, and those letters form part of our exhibition.
+They were written during the Mid-Autumn Festival by ancient Chinese people to family members living far away.
+Traditionally, the festival is a cherished moment for family reunion, when the full moon serves as a symbol of
+harmony and completeness. Even for those separated by distance, handwritten letters served as a means of
+connection, carrying their longing and best wishes to their loved ones.
+The festival runs throughout this month. You can see the originals at the Campus Activity Center from 8 a.m. to
+5 p.m. Volunteers will introduce the exhibits, and I believe you will deepen your understanding of Chinese culture.
+Best regards,
+Li Ming
+答题卡空间规划：
+行数限制：英语一/二 PartA 答题纸通常共 24行。
+推荐排版（齐头式）：
+称呼：Dear + Name，（顶格，占1行）。
+===== PAGE 2 =====
+公众号：牛南山，整理更新
+第一段：打招呼＋写作目的（3-4行）。
+第二段：正文核心内容，分点阐述（8-10行）。
+第三段：结尾、期待或补充信息（2-3行）。
+落款：Best regards, / Yours faithfully， +Li Ming（靠右或顶格，视格式而定，通常不占满行）。
+Game changer：你的字迹！
+翻译、大小作文，都是按照总体印象评分
+根据第一印象给出档分，再根据有限时间内看到的细节调整2分左右
+而且很多老师改卷比较草率所以，字迹极其极其极其重要！
+1.不要太大更不要太小
+2.不要写连笔字和花体字
+3.要有“高低等分”意识（大写高度应约为小写的两倍，不要写得胖乎乎，降部字母如 gY,P等要有明显
+的向下延伸）
+4.字母间、词间均匀
+5.某些字母的强化练习（I要直，不要拖泥带水、i要点干净、V 下端不要画圆、a必须封口、t横线要均
+衡、r不要写得像v）
+标点符号规范：
+字母后紧接着打标点，标点后空一格再开始下一个单词。
+每一个空格代表一个字符宽度，不是随意空出一片天地。
+近年小作文高频类型统计
+介绍类（近年来最爱考）：英一：26.25.23.19.16
+英二：26、25.24、20.19、17、15.13
+活动邀请/活动通知类：英一：22、20.18.13
+英二：22、21
+建议信：英一：24、21.17.14、12
+英二：23'、20'.18'.16
+原因/解释类：英一：15.11
+英二：23'、19'.18'.14、12
+2
+===== PAGE 3 =====
+公众号：牛南山，整理更新
+分类不是看表象、题干里的一个所谓核心词，而是看把什么写成主体段
+(16 $ 2) Suppose you won a translation contest and your friend Jack wrote an email to congratulate you, and ask
+advice on translation. Write him a reply to
+1) thank him;
+2) give your advice.
+这属于什么类型？
+分类方式，是看题目要求的哪个点可以拆分成多点。有些时候第一个要求点，可能只是开头段的引出内容；
+哪个要求点能写出2~3个点，就是主体段、决定文章类型。
+“谢谢”只能作为开头的一句话，无法拆分成多个点展开论述，因此不是主体段。
+“给建议”可以拆分为多条具体的建议，能写出2-3个点，因此是主体段。
+结论：该题实质是建议信，而非感谢信。
+24 考研英语一作文
+51. Read the following email from an international student and write a reply.
+Dear Li Ming,
+I've got a class assignment to make an oral report on an ancient scientist, but I'm not surehow to prepare for it. Can
+you give me some advice? Thank you for your help.
+Yours,
+Paul
+这是一篇
+—，而不是一篇人物介绍。
+核心在于 "how to prepare”（如何准备），属于建议信。
+都是通知？
+(20 # -) The student union of your university has assigned you to inform the international students about an
+upcoming singing contest. Write a notice in about 100 words.
+(16 # -) Suppose you are a librarian in your university. Write a notice of about 100words, providing the
+newly-enrolled international students with relevant information about the library.
+歌唱比赛通知：实质更接近邀请函（Invitation）。
+目的不仅是告知，更是邀请对方参与。正文需包含：鼓励参加、交流机会、结交朋友、丰富生活等情绪价
+3
+===== PAGE 4 =====
+公众号：牛南山，整理更新
+值内容。
+图书馆通知：实质是纯介绍类（Introduction）。
+目的仅是提供信息（开放时间、使用规则等），无强烈的情感互动需求。
+审题不能只看标题是“通知”，要看其背后的交际意图和内容实质。
+双主体段：如果题目要求有两个可以拆分成多点
+（23英一）Write a notice to recruit a student for Prof. Smith's research project on campus sports activities. Specify
+the duties and requirements for the job.
+(20 $=) Suppose you are planning a tour of a historical site for a group of international students. Write them an
+email to
+1) tell them about the site, and
+2) give them some tips for the tour.
+23英一：题目要求 Specify the duties（职责）。Specify the requirements（要求）。
+两个复数名词暗示了双主体段结构，每个点都需要展开为2-3个小点。
+20 英二：朋友 David 面临周末选择（艺术展 vs 机器人展），请给建议并说明理由。虽然涉及“建议”，
+但核心落脚点是 “tell him wby”（告诉他为什么）。“建议〞本身是一个单点（去其中一个），无法拆分为
+多个点；而“原因”可以拆分为多个点。
+因此，主体段应围绕"The reasons why I suggest.." 展开，属于原因/解释类。
+===== PAGE 5 =====
+公众号：牛南山，整理更新
+一、通知类、邀请类小作文
+段首：打招呼、介绍自己、点出活动、告知邀请
+主体：泛泛而谈：活动时间、地点、活动主题/亮点
+切题而谈：详细人物、详细细节、详细收获
+段尾：呼吁参加、保证收获
+通知有另一套“格式”？结尾落款学生会？
+通知只是贴在墙上的公开信，载体不同但本质仍是信件，不要因此把正文改成僵硬的公文写法。
+(23 —1) Directions: Write a notice to recruit a student for Prof. Smith's research project on campus sports
+activities. Specify the duties and requirements for the job. Write your answer about 100 words on the ANSWER
+SHEET Do not use your own name in the notice; use "Li Ming" instead. (10 points)
+NOTICE
+Dear fellow students,
+I hope this message finds you well! My name is Li Ming, the president of the Student Union. Professor Smith is
+currently conducting a study of students' participation in campus sports, and we are now seeking a student assistant
+to support the research.
+第一段
+1.格式
+①Notice 第一行正中写，Notice 紧接下一行顶格写称呼语（Dear fellow students/experts，）。
+②Email/ Letter 题号后接着直接写 Dear Professor Smith/ fellow students，
+（Notice 只比Email 多一个标题。不能因此把下面的正文全部改成另一套僵硬的公文写法。通知仍然是在对
+特定读者传递信息。）
+2.称呼对象
+①面向学生群体：Dear fellow students，
+②面向多位专家：Dear experts, / Dear professors and experts，
+③面向特定教授：Dear Professor Smith, / Dear Professor Wang，（教授姓名题目给定则直接使用；未给姓
+名时写 Dear Professor + 自编名）。
+3.礼貌开场
+5
+===== PAGE 6 =====
+公众号：牛南山，整理更新
+①万能开场：I hope this message finds you well！（中文也有“展信佳”）。（I hope this message finds you well！
+也可以用于有明确读者的 Notice。通知可以理解为贴在公共场所给一群读者的公开信，同样应当礼貌。）
+017E: I am delighted to learn that you are interested in our project.
+#HE: I am pleased to inform you that...
+4.介绍身份
+DHAT+Z#1): My name is Li Ming, the president of the Student Union.
+1am Li Ming, the head of the English Association.
+I am the coordinator of the ongoing/upcoming Campus Cultural Festival.
+④活动志愿者+题目设定活动：My name is Li Ming, a volunteer for Professor Smith's research project on
+campus sports activities.
+⑤对方写信给你、认识你：As the coordinator of the Campus Cultural Festival, lam delighted that you are
+interested in the event.（如果双方已经认识，或者题目明确交代了对方给你写信、认识你，不能机械重复 My
+name is Li Ming，直接说我正举行什么，谢谢你感兴趣。ongoing 正在举行的、upcoming 即将到来的）
+5.点出活动背景
+Our university is going to hold an English singing contest. Our university is going to hold
+an anniversary celebration.
+②协会正在筹办活动 Our association is planning to hold a reading campaign for first-year students.
+③对方看到的内容属于某项展览 The handwritten letters you saw are part of our exhibition on traditional
+Chinese culture.
+④教授正在开展研究项目 Professor Smith is conducting a research project on campus sports activities.
+（题目给了具体事物时，不要笼统写 What you saw，直接点明：the letters/photographs/paintings you saw.）
+6.说明目的与发出邀请
+Dixin thia.., and I would like to invite you to join us
+②正式邀请专家参加或担任角色 On behalf of the Student Union, I would like to invite you to attend the
+event. /serve as a judge for the contest.
+③回应对方的兴趣I would like to share more details with you
+0177я,.. so we are currently recruiting a student assistant/some volunteer for the project.
+（join us 是比较宽泛的万能说法。出席活动可以用 attend；参加比赛或项目可以用 take part in /participate in；
+担任评委推荐 serve as ajudge.）
+7.引出下文信息
+6
+===== PAGE 7 =====
+公众号：牛南山，整理更新
+(1)Here is the relevant information:
+2 The relevant information is as follows:
+3 Here are some further details:
+第一种最适合这套基础模板，清楚、好记。后面继续写时间、地点、活动内容、职责要求或报名方式。
+（22英一）
+Write an email to a professor at a British university, inviting him/her to organize a team for the international
+innovation contest to be held at your university
+Dear Professor Smith,
+I hope this message finds you well! My name is Li Ming, the president of the Student Union at Beijing University.
+We are going to hold an international innovation contest on artificial intelligence, so I would like to invite you to
+organize a team from your university to take part.
+1.一定要认清审题、不要预设设定：既然对方是一所英国大学教授，你就不能说“我是我校学生会主席—
+要编个笼统名字”；
+2.要改写题中内容，而不是开心照抄：同意替换、或者具体化。你想想，有人跟你说，来参加我们的创新比
+赛，不虚幻？什么方面创新，直接写。
+【南山笔记】
+at 是准确介词，用于表示非常细节的时间和地点。
+地点：at Beijing University（在具体的某所学校）．at the airport（在机场）、at sixty kilometers per hour
+（以60公里每小时的速度）。
+Ht: at three o'clock.
+（22 英二）
+Suppose you are planning a campus food festival. Write an e-mail to the international students in your university to
+1) introduce the food festival, and 2) invite them to participate.
+Dear international students,
+I hope this message finds you well! My name is Li Ming, the president of the Student Union. Our university is
+going to hold a campus food festival, and I would like to invite you to participate. Here is the relevant information:
+小作文不需要“拽词”
+: I feel extremely thrilled to inform you that...please allow me to extend my sincere and
+7
+===== PAGE 8 =====
+公众号：牛南山，整理更新
+heartfelt invitation...
+小作文的思路要：进入角色、联系常识、设定具体、礼貌情商。
+通知/邀请类小作文主题段两大部分：1.基础信息
+时间地点；2. 特定信息—主题、高光、收获
+通知/邀请类小作文主题段可以用“小标题式”
+Dear international students,
+I hope this message finds you well! My name is Li Ming, the president of the Student Union. Our university is
+going to hold a campus food festival, and I would like to invite you to participate. Here is the relevant information:
+Festival Schedule and Venues
+The festival will run from Saturday, May 8, to Sunday, May 9, with activities taking place from 10 a.m. to 8 p.m.
+each day at the main campus square and the student activity center.
+Theme and Highlights
+Themed "A Bite of China," the festival will feature traditional Chinese dishes from different regions. Several chefs
+will also give live cooking demonstrations, allowing you to experience Chinese food culture in an immersive and
+interactive way.
+We look forward to your participation.
+Yours sincerely,
+Li Ming
+主题段排版策略：小标题式vs 齐头式
+小标题式（推荐）：交际效率高，阅卷人能快速定位关键信息（时间、地点、主题）。
+齐头式（安全格式）：如果不使用小标题，需使用连接词进行段落内分隔。
+First， .Second， •最容易掌握，适合基础学生，任何两个信息点都能套
+Regarding A， . / As for B， •更像真实邮件，直接点明每段信息，表达更自然
+8
+===== PAGE 9 =====
+时间与地点详细模板
+第一个小标题
+①单日活动：模
+板1最稳妥、最
+通用
+①单日活动：
+模板2变换句
+首结构
+①单日活动：模
+板3分成两句，
+适合补充时地
+信息
+小标题
+Time and
+Venue
+Time and
+Venue
+Time and
+Venue
+②多日活动：
+模板1起止日
+期＋每天时间
+②多日活动：模
+板2强调“整个
+周末”
+Festival
+Schedule
+and
+Venues
+Festival
+Schedule
+and
+Venues
+③长期重复项
+目：模板1总周
+期+固定频率
+Project
+Schedule
+and
+Location
+公众号：牛南山，整理更新
+完整模板
+The [event] will take place from [8 a.m.] to
+[11 a.m.lon [Wednesday, January 6, 2027],
+at [Wise Hall] on[the fourth floor of the
+university library].
+Scheduled
+for [Wednesday, January 6,
+2027], the [event] will be held from [8
+a.m.] to [11 a.m.] at [the Main Campus
+Hall].
+The [event] is scheduled for [Wednesday,
+January 6, 2027], from [8 a.m.] to [11
+a.m.]. The venue will be[the Grand
+Auditorium], which can accommodate up
+to [800] people.
+[The [arts festival] will run from [Saturday,
+May 8] to [Sunday, May 9], with activities
+taking place from [9a.m.] to [6 p.m.] each
+day at [the Main Campus Hall and the
+university art center].
+Taking place over [the weekend of May 8
+and 9], the [festival] will feature activities
+from [9 a.m.] to [6 p.m.] on both days.
+Events will be held at [several venues
+across the main campus].
+The [support project] will run for [eight
+weeks], from [March 6] to [April 25].
+Volunteers will meet at [the Community
+Service Center] every [Saturday and
+Sunday] from [9 a.m.] to [4 p.m.].
+9
+可替換处
+活动：［event /contest /ecture
+/ceremony］地点位置：on the fourth
+floor of... next to..opposite...
+Scheduled for. 可换成：To be held
+on..; will be held FTts: will take
+place
+I will be held at
+[Wise Hall], located [next to the
+library｝.场地条件可写；has recently
+been renovated is equipped with
+modern facilities
+持续动词：will run from.to.. will
+last for [two days] # # : each
+day/daily
+over the weekend of.. 可换成：
+throughout the weekend
+多场地：at several venues［across
+campus at [Venue A] and [Venue B]
+总周期：for eight weeks for two
+months throughout the summer
+vacation
+/ # every Saturday and Sunday
+every weekend
+on
+alternate
+weekends
+===== PAGE 10 =====
+公众号：牛南山，整理更新
+【南山笔记】
+核心介词规则：in/on/ at 的层级
+at（小介词）：用于非常具体的时间点或精确地点。例如 at three o'clock.at the airport.at sixty kilometers per hour。
+on（中介词）：用于具体的某一天（日子）。因为一天有24小时，不是一个瞬间点，所以用on。例如 on Wednesday.
+on May 8th。
+in（大介词）：用于较长的时间段（月份、年份、季节等）。例如 in 2011、in March。
+from..to.•（范围介词）：用于表示时间段。注意：时间段不能用 at，必须用 from..to.•。
+活动内容与细节拓展：
+1.点明主题与核心内容
+①Themed “［主题］” the ［event］ will feature ［核心内容］.
+②Under the theme of "［主题］”the ［event］ will showcase［核心内容］.
+③Centered on "［主题］，”the ［event］will include ［核心内容］.
+（Themed..最为简洁好用。常见核心动词：feature：重点呈现、showcase：集中展示、include：包含若干内
+1. 15|: Themed "A Bite of China," the festival will feature traditional Chinese dishes from different regions.)
+2.活动高光：嘉宾或互动
+1 Several [chefs / experts / artists] will also be invited to [give demonstrations / deliver speeches / share their
+experience].
+2Participants will have the opportunity to interact with [the guests] through [workshops / discussions /
+question-and-answer sessions].
+（有嘉宾，重点写清楚：什么嘉宾+做什么。有互动，不能只写空泛的 an interactive experience，要点明互
+动形式。例：Several chefs will give live cooking demonstrations. Participants can exchange ideas with the experts
+during a question and answer session. )
+3.邀请对方担任特定角色：评委/发言人等
+1We would be honored if you could [serve as a judge for the contest /deliver a speech on the topic]
+2 Given your expertise in lantil, we sincerely hope you can [evaluate the contestants and offer feedback /
+share your insights with the audience].
+（第一种直接点明希望对方承担的角色；第二种补充邀请理由+具体任务。评委常用：serve as a Judge/ evaluate
+the contestants / offer professional feedback；发言常用：deliver a speech / give a short talk / share your insights）
+10
+===== PAGE 11 =====
+公众号：牛南山，整理更新
+4.说明收获或参与意义
+①普通参与者的收获 The event will offer you a valuable opportunity to［具体收获一］and［具体收获二］
+②嘉宾参与的意义 Your participation will greatly enrich the event and help our students ［具体收获］
+（面向学生时，写“参加后能得到什么"experience Chinese culture / develop practical skills /exchange ideas and
+make new friends；邀请教授或专家时，不必硬写“您会有收获”，更自然的是写：您的参与能为活动和学
+生带来什么。）
+5.志愿者职责与条件
+①职责＋条件直接并列 Volunteers will be responsible for［具体职责］. Applicants should be［条件一］ and
+have ［条件=］.
+②工作内容+优先条件 The main duties include［ 职责一］and ［职责二］. Preference will be given to
+students who［符合条件］
+（常见职责：collect and organize information / interview participants / assist with event preparation / guide
+visitors and answer questions. #Л$17: responsible and patient / good at communication/proficient in English /
+available at weekends。职责与条件必须紧扣题目，不能只写空泛的 hard-working）
+2020年英一
+51. Directions:
+The student union of your university has assigned you to inform the international students about an upcoming
+singing contest. Write a notice in about 100 words.
+Write you answer on the ANSWER SHEET.
+Do not use your own name in the notice. (10 points)
+Dear International Students,
+I hope this message finds you well! My name is Li Ming, a member of the Student Union. Our university is going
+to hold a singing contest, and I am writing to invite you to participate. Here is the relevant information:
+Time and Venue
+Scheduled for Friday, May 15, the contest will run from 2 p.m. to 5 p.m. It will be held at the newly renovated
+Main Campus Hall, which can accommodate up to 800 people.
+Theme and Highlights
+Themed "Voices of Youth," the contest will feature both solo and group performances. Several music teachers will
+serve as judges and offer professional feedback. It will provide you with a valuable opportunity to showcase your
+11
+===== PAGE 12 =====
+公众号：牛南山，整理更新
+talent, improve your stage confidence and make new friends.
+We look forward to your participation.
+Li Ming
+2015年考研英语二作文
+47. Directions:
+Suppose your university is going to host a summer camp for high school students. Write a notice to
+1) briefly introduce the camp activities, and
+2) call for volunteers.
+You should write about 100 words on the ANSWER SHEET.
+Do not use your name or the name of your university.Do not write your address. (10 points)
+NOTICE
+Dear fellow students,
+I hope this message finds you well! My name is Li Ming, a member of the Student Union. Our university is going
+to host a summer camp for high school students, and we are now recruiting student volunteers.Here is the
+relevant information:
+Camp Activities
+Themed "Discover University Life," the camp will feature campus tours, team-building games and hands-on
+workshops. These activities will help participants experience university life and develop practical skills.
+Duties and Requirements
+The main duties include guiding visitors, assisting with group activities and answering questions. Applicants
+should be responsible, patient and equipped with strong communication skills. Preference will be given to
+students who are proficient in English and available throughout the camp.
+We look forward to your application.
+Li Ming
+12
+===== PAGE 13 =====
+公众号：牛南山，整理更新
+二、建议类作文
+单中心还是双中心？单中心，谢谢只是开头。
+2016年考研英语二作文
+47. Directions:
+Suppose you won a translation contest and your friend Jack wrote an email to congratulate you, and ask advice on
+translation. Write him a reply to
+1) thank him;
+2) give your advice.
+You should write neatly on the ANWSER SHEET. Do not sign you own name at the end of the letter, use "Li Ming"
+instead. Do not write the address. (10 point)
+纯建议信：
+英一：2021年小作文
+51.Directions:
+A foreign friend of yours has recently graduated from college and intends to find a job in China. Write him/her an
+email to make some suggestions.
+You should write about 100 words on the ANSWER SHEET.
+Do not use your own name in the email. Use "Li Ming" instead. (10 points)
+建议是中心之一；
+2020年考研英语二作文
+47. Directions:
+Suppose you are planning a tour of historical site for a group of international students,
+1) Say something about the site
+2) give some tips for the tour
+You should write about 100 words on the ANSWER SHEET.
+Do not use your own name at the end of the email. Use "Li Ming" instead.Do not write the address. (10 points)
+13
+===== PAGE 14 =====
+公众号：牛南山，整理更新
+类型
+写作中心
+纯建议信
+全文主要任务就是提出建议
+建议是中
+心之一
+除建议外，还要介绍活动、
+说明安排、给出原因等
+情境
+①得知对方
+有某项打算
+是否介绍自己
+朋友.熟人不需
+要
+②对方询问
+意见或表达
+兴趣
+不需要
+开头段结构
+身份（对方不认识你时）＋建议的触发点+写信目的
+触发点：你请教我、你有打算/兴趣、我组织的活动、我碰巧看到
+建议征集——不能唐突直给
+身份 / 背景＋第一项任务＋提出建议
+或者建议为表象，实际解释原因：我为什么建议它
+开头逻辑
+很高兴得知对方的计
+划一为了帮助对方
+一提出建议
+很高兴得知对方感兴
+趣一回应对方的询问
+⑦提出建议
+③看到公告
+征集意见
+通常需要，尤其 姓名+真实普通身份
+写给校长、某机
+一看到征集意见的公
+构负责人等
+告一提出建议
+④活动介绍
++建议
+正式活动通常
+介绍自己是学
+生会、协会主
+席、组织者，类
+似通知信开头
+交代身份
+告知将要来临活动
+一给出中心句
+英文模板
+I was delighted to hear that you are planning to [do
+sth.]. To help you[achieve a goal / make the most of
+it], I am writing to share a few practical suggestions.
+I was delighted to learn that you are interested in
+[sth.]. In response to your request / Since you also
+asked for my advise on..., l' am writing to share a
+few suggestions (on how to [do sth.].)
+1 am Li Ming, a [second-year student / regular user of
+the university canteen] at our university. I recently
+came across an announcement on the campus
+bulletin board inviting suggestions on how to
+[improve sth.]. I am therefore writing to offer several
+practical recommendations.
+I am Li Ming, the [coordinator / volunteer] for [the
+event]. Our university will organize [the event] on
+[date]. I am writing to briefly introduce the
+arrangements and offer you a few practical
+suggestions for [the event / the tour].
+14
+===== PAGE 15 =====
+公众号：牛南山，整理更新
+（16英二）
+Suppose you won a translation contest and your friend Jack wrote an email to congratulate you, and ask advice on
+translation. Write him a reply to:
+1)thank him;
+2)give your advice.
+Dear Jack,
+I truly appreciate your kindness in congratulating me on winning the translation contest. Since you also asked for
+some advice on translation, I would be glad to share a few suggestions with you.
+要注意改写，不要照抄原文词
+不需要用〝祝好〞开头，因为别人给你写信，恭喜你就直接恭喜，谢谢他直接谢谢他。
+建议信的二段“拉完了”的样子：
+There are several practical measures that can help you effectively achieve your goal. First and foremost, you
+should.... What is more, you can... Last but not the least, you'd better.......
+建议信的二段不要再写一个“建议如下”的中心句了，除非是表面建议，实际原因的文章。
+建议信二段一般写三个建议，每个建议+一个拓展。
+①先把事情做起来：准备/基础/第一要务
+②再把事情做好：具体行动/方法/场景化操作
+③最后把效果做稳：反馈/支持/保障/长期机制
+建议一：做起来—基础/前提/第一步
+核心不是“I suggest..”，而是先找到：什么东西是实现目标的基础—因此具体应该做什么
+模板1：重要性一 建议
+［名词/ Doing sth.］ is critical / foundational for ［群体/你/doing sth］ to［达到某好处、目标］，so I suggest that ［人/机
+构］［do sth.必须是动词原形］.
+1: 3E 1 : First, adequate nutrition is critical for students to maintain good health, so I suggest that the
+university canteens offer more dishes rich in protein.
+E 4Ä# 7: First, a strong vocabulary is foundational for producing accurate translations, so I suggest that
+you build up your vocabulary through extensive reading.
+15
+===== PAGE 16 =====
+公众号：牛南山，整理更新
+模板2：先做前置准备 才能做好后面的事
+Before ［doing sth.核心行动］， it is worth ［doing sth.前置准备］，so that ［sb.］ can ［achieve/avoid /understand sth.后
+续行动可以更顺利/判断可以更准确］.
+来中国工作：First, before starting your job search, it is worth learning about different cities in China, so that
+you can decide where you would like to work.
+怎么学翻译：First, before focusing on more advanced translation skills, it is worth building up your
+vocabulary through extensive reading, so that you can understand and express ideas more accurately.
+建议二：再把事情做好：具体行动/方法/场景化操作
+模板1：想把事情做好— 具体做法— 直接效果
+To ［do sth. better / achieve a goal］， you can ［具体做法］.［The resource / person］ can help you ［直接结果］.
+翻译：Second, to improve your translation skills, you can take an online course or seek professional
+guidance. This way, you can learn useful translation techniques more quickly and avoid common mistakes.
+F* IlF: Second, to adapt to working in China more quickly, you can learn more about Chinese workplace
+culture, especially from foreigners who have worked here. Their experience can help you avoid common
+misunderstandings at work.
+模板2：设想更高目标 建议 —举例具体化
+If you intend to［更进一步的目标］， it is advisable to ［做法］.For example, you can ［具体行动］.
+$# 17: Second, if you intend to make steady progress in translation, it is advisable to practise regularly. For
+example, you can translate a short passage every day and then compare your version with a good translation.
+#* IlF: Second, if you intend to adapt quickly to working in China, it is advisable to learn about Chinese
+workplace culture in advance. For example, you can ask Chinese friends about common interview manners and
+ways of communicating at work.
+建议三：补充提醒/避免问题
+模版1：有条件的话，再补一个实际动作—做了以后会更好
+Finally, try to [do sth.] whenever/if possible. By doing so, you will be able to [direct benefit].
+翻译：Finally, try to find a partner who is learning translation if possible. By doing so, you will be able to stay
+more motivated.
+16
+===== PAGE 17 =====
+公众号：牛南山，整理更新
+找工作：Finally, try to learn some basic Chinese if possible. By doing so, you will be able to make new friends
+quickly in China, which helps you blend in.
+模版2：最后别忘了做一件实际的事一 为什么值得做
+Finally, remember to do sth, as 它的相关性；otherwise， +不好、不方便结果
+At 17: Finally, remember to wear comfortable shoes, as the tour involves a lot of walking. Otherwise, you
+may get tired halfway through the visit.
+#* IlF: Finally, remember to open a local bank account after you arrive, as mobile payments are widely
+used in China. Otherwise, everyday payments may be inconvenient.
+汇总：
+三层建议
+模板逻辑
+建议一：做起来一 模板1：重要性一建议
+一基础/前提/第一
+步
+建议二：再把事情
+做好一一具体行
+动/方法/场景化操
+作
+建议三：补充提醒
+/避免问题
+万能句型
+[Noun / Doing sth.] is critical / foundational for [sb. /
+doing sth.]to [achieve a goal], so I suggest that [sb. / an
+institution] [do sth.].
+模板 2：前置准备 后续行动
+更顺利
+模板1：目标一具体做法一直
+接效果
+模板 2：设想更高目标一建议
+举例具体化
+一额外收益
+模板2：别忘实际细节一说明
+相关性一避免麻烦
+Before [doing sth.], it is worth [doing sth.], so that [sb.]
+can[achieve / avoid / understand sth.].
+To [do sth. better / achieve a goal], you can [F 17 145 Z].
+［This / The resource / person］ can help you ［直接结果］.
+If you intend to ［更进一步的目标］， it is advisable to ［做
+法］.For example, you can ［具体行动］：
+模板1：有条件再补一个动作 Finally, try to ［do sth.］ whenever / if possible. By doing
+so, you will be able to [direct benefit].
+Finally, remember to ［do sth.］， as ［它与当前情境的相关
+性］Otherwise，［不好/不方便的结果］.
+17
+===== PAGE 18 =====
+公众号：牛南山，整理更新
+结尾功能
+①希望建议有帮助
+②表示愿意进一步沟通
+③期待对方回应/反馈
+适用情景
+最万能；朋友、学校、机构都
+模板
+I hope you will find these suggestions useful /
+能用
+helpful.
+对方可能还会继续询问；朋友
+Should you have any further questions, please feel
+类、活动类尤其自然
+free to contact me.
+给校长、机构负责人等提出建
+I look forward to your feedback.
+议后很合适
+【南山笔记】
+虚拟语气倒装：去掉 if，倒主助/主系
+示例：原句：Ifl were a boy..
+If I were you...
+倒装：Were la boy..
+Were I you...
+这种结构常用于书面语或高级表达中，避免口语化的平铺直叙。
+2014年考研英语一作文
+51. Directions:
+Write a letter of about 100 words to the president of your university,suggesting how to improve students' physical
+condition.
+You should include the details you think necessary.
+You should write neatly on the ANSWER SHEET.
+Do not sign your own name at the end of the letter. Use "Li Ming" instead.
+范文展示：
+Dear President,
+I hope this message finds you well! I am Li Ming, a second-year student at our university. I recently came across
+an announcement on the campus bulletin board inviting suggestions on how to improve students' physical
+condition. I am therefore writing to offer several practical recommendations.
+First, adequate nutrition is critical for students to maintain good health, so I suggest that the university canteen offer
+more dishes rich in protein and fresh vegetables. Second, to encourage students to exercise regularly, the
+university can extend the opening hours of sports facilities. This can make exercise more convenient after class.
+18
+===== PAGE 19 =====
+公众号：牛南山，整理更新
+Finally, the university may organize more sports activities if possible. By doing so, students will be able to
+develop healthier exercise habits.
+I hope you will find these suggestions useful.
+Yours sincerely,
+Li Ming
+•【南山笔记】
+情态动词
+一命令建议和要求的词，后面的 should必须省略。
+===== PAGE 20 =====
+公众号：牛南山，整理更新
+英二大作文精讲
+一、作文简介
+（一）大纲要求
+第四部分写作：该部分由A、B两节组成，主要考查考生的书面表达能力。共2题，25分。
+• A节
+考生根据所给情景写出约100词（标点符号不计算在内）的应用性短文，包括私人和公务信函、备忘录、报
+告等。共10分。
+• B节
+要求考生根据所规定的情景或给出的提纲，写出一篇150词左右的英语说明文或议论文。提供情景的形式
+为图画、图表或文字。共15分。
+评分标准概览
+档次
+第一档
+A 节分数
+1-2分
+第二档
+第三档
+3-4分
+5-6分
+第四档
+7-8分
+第五档
+9-10 分
+第四档 A节7-8分；B节10-12分
+• 较好完成任务，包含全部要点，允许漏掉1-2个次要信息
+• 语法词汇较丰富；仅在尝试复杂结构/高级词时出现个别错误，不影响理解
+• 衔接恰当，层次清晰
+• 格式语域较恰当
+第五档 A节9-10分；B节13-15分
+• 很好地完成了试题规定的任务，包含所有内容要点
+• 使用丰富的语法结构和词汇
+• 语言自然流畅，基本上没有语法错误
+• 有效采用多种衔接手法，文字连贯、层次清晰
+B 节分数
+1-3分
+4-6分
+7-9分
+10-12分
+13-15分
+20
+===== PAGE 21 =====
+公众号：牛南山，整理更新
+（二）写作原则
+•
+•
+模 板：（60%-70%），理解并熟记
+非模板：（30%-40%），只构思简单概念，只用简单词汇，只写简单句子，切忌犯错。
+（三）历年真题
+年份
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+图表类型
+柱状图
+柱状图
+表格
+柱状图
+柱状图
+饼状图
+饼状图
+曲线图
+饼状图
+柱状图
+饼状图
+柱状图
+柱状图
+曲线图
+柱状图
+柱状图
+柱状图
+主题
+移动电话用户
+国内轿车市场部分品牌份额示意图
+公司工作满意度调查
+高校学生兼职情况
+中国城镇人口乡村人口变化图
+居民春节假期花销比例
+高校学生旅行目的调查
+博物馆数量和参观人数
+消费者选择餐厅关注因素
+本科毕业生去向
+高校学生手机目的调查
+居民运动方式
+快递业务量变化
+居民健康素养水平
+劳动实践课收获
+社区老人日常休闲活动
+儿童参加户外活动调查
+21
+===== PAGE 22 =====
+公众号：牛南山，整理更新
+（四）图表的分类
+2010 4F
+should
+1) interpret the chart and
+2) give your comments
+You should write at least 150 words.
+Mobile-phone subscriptions
+（2000一2008）
+• Developing countrics
+Developed countries
+In this section, you are asked to write an essay based on the following chart. In your writing, you
+subscription number
+- 4 billion
+3 billion
+2 billion
+2000 2001 2002 2003 2004 2005 2006 2007 2008 (ycar)
+2024年
+should
+1) interpret the chart and
+2) give your comments
+You should write at least 150 words.
+感影心情舒数
+In this section, you are asked to write an essay based on the following chart. In your writing, you
+54.4%
+爆頸了含作技聲
+32.6%
+學习了相关知限
+91.3%
+提為动 力
+84.8%
+0
+20
+40
+某高校实践活动課学生主要收获请查（%）
+60
+80
+100
+22
+===== PAGE 23 =====
+公众号：牛南山，整理更新
+动态图 vs 静态图
+动态图：有时间跨度（如年份），重点描述变化趋势。
+静态图：无时间跨度，重点描述比例、排序、对比。
+2016年
+Write an essay based on the following chart. You should
+1) interpret the chart and
+2) give your comments.
+You should write about 150 words.
+15%
+9%
+6%
+37%
+口 欣赏风景
+口緩解压力
+口交朋友
+口培养独立能力
+口共
+33%
+某高校学生旅行目的调查
+饼图特点：功能单一，仅用于表示排序和比例关系。考研英语二中，饼图不涉及多年对比（雅思可能考多
+图对比）。看到饼图即抓排序，按百分比大小依次描述即可。
+2017年
+Write an essay based on the following chart. You should
+1) interpret the chart, and
+2) give your comments.
+You should write about 150 words.
+2013-2015年我国博物馆数量和参观人数
+10000
+8000
+• 7811|
+7177
+6000
+•6378
+4510
+-• 4697
+4000
+-4165
+2000
+。
+2013年
+2014年|
+•—博物馆数量（豪）
+2015年|
+•—参观人数（十万人次）
+曲线图特点：专门用于展示数据的上升、下降或持平趋势。英语二考题中多为单向变化（一直升或一直降），
+23
+===== PAGE 24 =====
+公众号：牛南山，整理更新
+极少出现剧烈波动（忽高忽低）。
+2012 1F
+Write an essay based on the following table. In your writing you should
+1) describe the table, and
+2) give your comments
+You should write at least 150 words.
+某公司员工工作满意度调查
+满意度
+满意
+不清楚
+不满意
+年龄组
+≤40岁
+41~50岁
+≥50岁
+16.7%
+0.0%
+40.0%
+50.0%
+36.0%
+50.0%
+33.3%
+64.0%
+10.0%
+表格特点：避免全写，表格数据密集，全写会导致字数超标且容易出错（写多错多）。
+该题题目为“工作满意度”，应重点关注满意的数据。“不清楚”属于中立/无效数据，无需详细展开；满
+意度高则满意度低，二者互为补充，无需重复罗列所有细节。
+总结：
+1.柱状图（bar chart）
+2.线状图（curve/ line chart）
+3.饼状图（pie chart）
+4.表格（table）
+1.柱状图可以是饼图和线状图的变形
+2.线状图和饼图功能单一
+3.表格是其他三种图的变形
+4.优先判断是否有时间跨度（静态图还是动态图）
+岸表变化、比例、对比
+表变化、对比
+表比例、对比
+表变化、比例、对比
+24
+===== PAGE 25 =====
+公众号：牛南山，整理更新
+二、图表作文构思
+（一）写作前的准备
+看懂图表：
+第一步：确定图表类型
+区分柱状、线状、饼状或表格。初步判断是动态图还是静态图。
+第二步：认真阅读标题
+注意标题位置（通常在上方或下方）。
+例外情况：2010年考题标题为英文，其余年份均为中文。中文标题需准确翻译核心词。
+第三步：看清每一项目
+单位陷阱：特别注意数值单位（如“十万人次”“billion”），漏看单位会导致数据严重失真。
+选项区分：看清表格中的不同列（如满意、不满意、不清楚），选择核心数据进行描述。
+综合上述信息，在脑海中形成对图表的整体认知。
+选择时态：
+1.有明显时间则按照时间确定时态，最有可能使用一般现在时和一般过去时。
+2.无时间线索时，用一般现在时。
+（二）作文构思
+2010年
+Mobile-phone subscriptions
+（2000-2008）
+Developing countrics
+Developed countries
+subscription number
+4 billion
+3 billion
+2 billion
+1 billion
+2000 2001 2002 2003 2004 2005 2006 2007 2008 (year)
+定性：这是一个柱状图。
+定势：展示了2000年至2008年间发展中国家和发达国家手机用户数量的变化趋势。
+定量：具体描述数据变化（如发展中国家激增，发达国家增长缓慢，形成对比）。
+构思逻辑：通过这三句话，完成图表解读部分的中文逻辑搭建。后续只需将这三层意思转化为英文模板句
+25
+===== PAGE 26 =====
+公众号：牛南山，整理更新
+型即可。
+2017年
+10000
+8000
+6000
+4000
+2000.
+2013-2015年我国博物馆数量和参观人数
+6378
+•-4165
+7177
+4510
+7811
+• 4697
+2013年|
+2014年|
+•—博物馆数量（家）
+2015年
+参观人数（十万人次）
+单位换算：中文的“十万”在英语中没有直接对应概念，转换为相邻的“百万（million）”。10万=0.1 百
+万，如：7811 万人次-781.1 million people。
+若计算困难，可直接写数字后加 "hundred thousand" 或 "100,000s of people"。
+逻辑推导：反推法
+现象：博物馆数量增加。
+直接原因：国家新建了更多博物馆。
+深层原因：经济因素：国家经济实力增强，有资金投入建设。
+文化因素：重视文化传承，提升文化自信。
+保护需求：出土文物增多，需要更多场馆进行保护。
+不要简单罗列“需求增加导致数量增加”，逻辑链条不完整。
+结尾段写作要点
+核心原则：紧扣主题（博物馆数量与参观人数）。
+合理建议/愿望：希望更多人参观博物馆，感受文化魅力，提升文化自信。
+满足人们日益增长的多元化文化需求。
+博物馆开展更多活动，吸引更多观众。
+优化展览内容，提升游客体验。
+不合理建议：“提高人民中华文化自信”《过于宏大，未落脚到博物馆）、“建新颖的博物馆”（未
+说明目的，应落脚于吸引观众）。
+26
+===== PAGE 27 =====
+公众号：牛南山，整理更新
+2012年
+某公司员工工作满意度调查
+满意度
+满意
+不清楚
+不满意
+年龄组
+≤40岁
+41~50岁
+>50岁
+16.7%
+0.0%
+40.0%
+50.0%
+36.0%
+50.0%
+33.3%
+64.0%
+10.0%
+数据描述：
+重点：只关注“满意度”数据，忽略“不清楚”和“不满意”的具体数值，避免罗列过多数据。
+排序：最高：>50岁群体（40.0%），次高：<40岁群体（16.7%），最低：41-50岁群体（0.0%）。
+逻辑推导：>50岁群体满意度高
+核心原因：资深员工的优势。
+具体支撑：薪资待遇：工作时间长，通常享有较高的薪水和福利。
+职位地位：在职场中地位较高，受尊重。
+工作熟练度：业务熟练，工作压力相对较小，游刃有余。
+避坑：不要简单归结为“即将退休所以满意”，逻辑不严谨。
+逻辑推导：41-50岁群体满意度零
+核心原因：中年危机的多重压力。
+具体支撑：职业瓶颈：晋升机会有限，面临激烈的竞争和被取代的风险。
+家庭负担：“上有老下有小”，需要独自承担养家糊口的经济责任。
+精力衰退：随着年龄增长，体力和学习能力下降，竞争力减弱。
+结尾段写作要点
+核心原则：紧扣“工作满意度”主题，提出切实可行的建议。
+合理建议：人文关怀：增加对员工的心理关怀和情感支持。
+完善机制：建立公平合理的奖励和升职机制，激发积极性。
+平衡需求：关注不同年龄段员工的需求，提升归属感。
+听取意见：定期收集并回应员工的合理建议。
+不合理建议：“简单提高所有人待遇”（公司可能倒闭，不现实）、“提供专业心理咨询”（过于具体，
+27
+===== PAGE 28 =====
+公众号：牛南山，整理更新
+可归纳为人文关怀）。
+2019年
+80.00%
+70.00%
+60.00%
+50.00%
+40.00%
+30.00%
+20.00%
+10.00%
+0.00%
+68.1%~
+60.7%~
+34%=
+26.3%~
+m 2013
+2018
+1.3%* 2.6%+
+就业
+升学
+创业
+2013年和2018年本科毕业生毕业去向
+数据处理：同类项合并
+观察变化：下降：就业（68.1% -60.7%）。
+上升：升学（26.3% -34%）、创业（1.3% -2.6%）。
+策略：将“上升”的两项合并描述，与“下降”的一项形成对比。不要逐个柱子描述，而是按趋势分组。
+逻辑推导：自我价值实现
+核心原因：追求自由与自我价值最大化。
+具体支撑：摆脱束缚：不愿受雇于人，渴望更多的自主权和自由。
+价值实现：希望通过创业实现个人理想，创造更大价值。
+政策支持/社会氛围：虽然ASR 未重点展开，但可作为背景补充。
+不要直接说“想赚大钱”或“想当老板”，显得功利。应包装为“实现自我价值”和“追求独立”。
+结尾段写作要点
+核心原则：紧扣“毕业生去向”与“多元化发展”。
+合理建议：理性规划：毕业生应根据自身情况理性规划未来。
+能力提升：学校应加强职业能力培养，提升学生实践技能。
+政策扶持：政府和社会应加大对创业和就业的扶持力度。
+缓解压力：提供更多元化的出路，缓解就业压力。
+不合理建议：“希望升学和创业成为主流”（不符合现实，就业仍是主流），“减少社会竞争压力”（无
+法直接控制，且非根本解决之道）。
+28
+===== PAGE 29 =====
+公众号：牛南山，整理更新
+2021年
+60.00%
+50.00%
+40,00%
+30.00%
+20.00%
+10.00%6
+0.00%
+54.30%
+某市居民体育锻炼方式调查
+47,70%|
+23.9096
+15.80%
+独自锻炼
+和朋友一起
+和眾人一起
+团体活动
+逻辑推导：前两项原因
+独自锻炼（No.1）：灵活性：时间地点安排自由，不受他人约束。
+个人节奏：可按自己的速度和计划进行。
+社交偏好：部分人性格内向，不喜欢社交干扰。
+和朋友一起（No.2）：相互监督：伙伴间互相鼓励，更容易坚持。
+增加乐趣：边锻炼边聊天，减少枯燥感。
+安全保障：遇到突发状况有人协助，尤其在健身房等场景。
+结尾段写作要点
+核心原则：紧扣“体育锻炼”与“健康”。
+合理建议：希望大家找到适合自己的锻炼方式。
+加强体育锻炼，提高身体素质。
+无论何种方式，都应注重运动的安全性与科学性。
+总结
+两大难点：逻辑性：避免逻辑跳跃，确保因果链条完整。准确性：避免语法错误，确保句子结构正确。
+练习建议：利用历年真题（2010-2026）进行中文构思练习。
+使用 AI 工具辅助检查逻辑合理性。
+阅读新闻评论，学习成熟的论证逻辑。
+后续安排：九月侧重构思，十月开始模板与句子写作训练。
+29
+===== PAGE 30 =====
+公众号：牛南山，整理更新
+三、如何写句子
+（一）课程安排
+不讲五大基本句型理论（需自行消化讲义）。
+重点内容：从句写法：定语从句、名词性从句等。
+非谓语动词：分词、不定式的简单用法。
+倒装句：简单的强调型倒装。
+虚拟语气：视时间进度简要介绍。
+（二）标点符号的使用
+1.书名号：英语中没有《》，用大写+斜体/下划线代替
+2.句号：中文。英文.
+3.顿号：英文没有顿号，用逗号代替
+4.省略号：中文六点在中，英文三点在下
+5.逗号错误：逗号不足以连接两个独立的句子，需要加连词；或者使用分号（；）来代替逗号+连词
+如：The economy develops rapidly, the society is stable.（错误）
+修改方法：加连词：The economy develops rapidly, and the society is stable.
+AW: The economy develops rapidly; the society is stable.
+# The economy develops rapidly. The society is stable.
+（三）词汇使用原则
+关键词汇，尤其是图表内词汇不会怎么办？
+1.转换：解释说明、同义替换
+2.省略
+普通词汇不会怎么办？
+1.转换
+2 重新构思
+30
+===== PAGE 31 =====
+公众号：牛南山，整理更新
+例1：
+2013-2015年我国博物馆数量和参观人数
+10000.
+8000.
+7811.
+6000
+06378
+-4510
+4697
+4000
+2000
+o
+2013年.
+2014年|
+一博物馆故量（蒙）
+2015年
+参观人數（十万人次）
+人次：直译 people times 较生硬，可以直接写 “people" 或"visitors”"，并在上下文中体现数量级。
+Number：用于可数名词复数（如 the number of museums, the number of visitors）。
+Amount：用于不可数名词（如 amount of money, amount of time）。
+注意：人数是可数的，必须用 Number，不能用 Amount。
+例2：
+15%
+9%
+6%
+欣賞风景
+口緩馨压力
+口交朋友
+口培养独立能力
+口共官
+33%
+某高校学生旅行目的调查
+高校：College / University（单数指代某一所，复数泛指）。目的：Purpose / Reason / Goal。
+压力：Pressure / Stress。缓解：Reduce / Relieve / Release / Relax（动词）。
+放松：Relaxation（名词）/ Relax（动词）。
+若不会准确动词，可用〝make people feel relaxed"等解释性短语。
+例 3：
+满意度
+年龄组
+≤40岁
+41~50岁
+>50岁
+某公司员工工作满意度调查
+满意
+16.7%
+0.0%
+40.0%
+不清楚
+50.0%
+36.0%
+50.0%
+不满意
+33.3%
+64.0%
+10.0%
+31
+===== PAGE 32 =====
+公众号：牛南山，整理更新
+调查：Investigation：通常指警方或官方对事故/案件的调查，不适用于间卷。
+Survey：适用于民意/间卷调查。
+注意：图表标题中的“调查”二字在正文描述中通常不需要翻译。
+МФЛ: This chart shows the survey of students' travel purposes.
+正确示范：This chart shows the travel purposes of students.（反映的是“目的”，不是“调查”本身）。
+满意度：Satisfaction 最常用；Level 也可用（Job satisfaction level）；避免 Degree（较少用，略显生硬）。
+比较级与范围表达
+大于/超过：Above / More than / Over / Exceed。
+#F: Below / Under / Less than.
+等于：Equal to / As much as（通常直接用数字即可，无需特意强调“等于”）。
+年龄组：Age group / Age category。
+分类：Classification。
+建议：使用简单准确的词汇，避免生僻词导致拼写错误。
+（四）三大从句及其省略形式
+从句类型：
+1.定语从句
+2.名词从句（主从、宾从、表从、同从）
+3.状语从句
+从句基本结构：
+1.引导词（只能使用一个）＋主谓结构
+2.使用陈述句语序，但引导词要前置
+定语从句
+定语从句的结构：名词结构/句子+引导词
+1.引导词：
+• That:that
+32
+===== PAGE 33 =====
+公众号：牛南山，整理更新
+•
+Wh-: which/ who/ whom/ whose/ when/ where/ why
+2.作后置定语
+定语从句的特点：
+1.引导词指代被修饰的名词结构，甚至句子
+2.引导词在定语从句中充当成分，但无意义
+定语从句的简化形式：
+1.条件：引导词作从句的主语
+2.方法：省略引导词，改谓语动词为非谓语动词。
+3.非谓语动词的三种基本形式：doing：表主动、正在进行
+done：被动、已经完成
+to do：表将来、目的
+定语从句的练习：
+1.我找到了导致这场意外的原因。
+解題步骤
+1）提炼主干：找出主谓宾结构。—— 主干：Ihave found the reason。
+2）分析定语：“导致这场意外的”是修饰 reason 的定语。
+3）构建从句：独立句子：The reason led to the accident.
+确定引导词：指代 reason（物），且在从句中作主语，选用that 或 which。
+4) A/47: I have found the reason that led to the accident.
+进阶写法 1：分词简化
+“非谓语简化”，省略 that/which，将 led 改为现在分词 leading
+Rita: I have found the reason leading to the accident.
+进阶写法 2：使用副词引导词
+for which 在从句中作原因状语，可直接用副词 why 替代。
+RiM: I have found the reason why the accident happened.
+33
+===== PAGE 34 =====
+公众号：牛南山，整理更新
+2.这座房子就是他出生的地方。
+解题步骤
+1）提炼主干：This house is the place.
+2） 构建从句：独立句子：He was born in this place.
+确定引导词：指代 place（物），且在从句中作地点状语。
+3）合并句子：方式 A（介词+which）：The house is the place in which he was born.
+HI B (Mil where) : The house is the place where he was born.
+3.所有的家人都团聚了。老人感到十分高兴。
+解题步骤
+1）两句话间寻找重复名词：后句“老人感到高兴”是因为前句“家人团聚”这件事。
+2）构建从句：独立句子：It makes the old man happy. 或 The old man feels happy about it.
+确定引导词：指代前面整句话，只能用 which，且前面必须有逗号。
+3） 合并句子：方式 A（直接 which）：The whole family get together, which makes the old man happy.
+He B (Nil+which) : The whole family get together, about which the old man feels
+happy.
+进阶写法：表达因果关系。强调“因为家人团聚，所以老人高兴”。
+错误示范：使用so（连词，构成并列句）或 because of（单独使用）。
+正确用法：使用介词短语+ which 引导非限制性定语从句，如：because of which、due to which、as
+a result of which
+Wt: The whole family get together, which pleases the old man greatly.
+The whole family are reunited, as a result of which the old man is considerably
+delighted.
+4.虽然他偷了我的钱包，但我不想报警。
+解题步骤
+1）两句间寻找重复名词/逻辑连接点：“不想报警”的对象是“他偷钱包”这件事。
+2) 14/7: I don't want to call the police for this.
+3) A47: #ШН: He stole my wallet, which I had no intention to report to the police.
+34
+===== PAGE 35 =====
+公众号：牛南山，整理更新
+介词+which 结构：He stole my wallet, in spite of which I had no intention to call the police.
+插入语结构：I had no intention to report him, who stole my wallet, to the police.
+名词从句
+名词从句的基本结构：
+1.引导词：
+That: that
+• Wh-: which(ever), who(ever), whom(ever), what(ever),whose(ever), how, when, where, why,
+whether
+• 其他：because/ as it/ as though（表从），迁（宾从）
+2.充当主语、宾语、表语、同位语
+名词从句的特点：
+1.句子结构和语意均完整
+2.that 无意义，不充当成分；wh-有意义、充当成分
+名词从句——主语从句
+• Itis 观点类形容词 for sb to do sth
+It is possible/ impossible/ obvious/ unclear for sb to do sth
+• Itis 观点类形容词 that..
+It is incredible that..
+• Itis 观点类名词 that...
+It is a fact that...
+• Itis 观点动词-ed that..
+It is said/ reported/ predicted/ estimated/ supposed/ believed/ thought/ assumed that..
+It is widely believed that...
+It is universally believed that..
+• It 情态动词 be 观点动词-ed that.
+It may / can/ should/ must be said / admitted that...
+35
+===== PAGE 36 =====
+公众号：牛南山，整理更新
+It can't be denied that..
+练习：
+1.中国贏得2010年世博会举办权靠的是国际社会的支持。
+mK: China won the right to host 2010 World Expo depended on the support of the
+international society. 一主两谓，China 是主语，won 和 depended 都是谓语动词，导致句子结构崩
+塌，属于“零分句”。
+修正思路：前半部分“中国赢得.”是陈述句内容，作主语时必须加引导词 that。
+E it 54: That China successfully bid for 2010 World Expo depended on the international
+society's support.
+如果句子的主语是一个陈述句，开头务必加 that。
+如果主语包含疑问意味（如“如何”、“是否”），则使用对应的 wh- 词（how, whether 等）
+2.中国坚持和平发展是基于中国国情的必然选择。
+结构拆解：
+谓语：是is
+主语：中国坚持和平发展（陈述句，用 That 引导主语从句）That China insists on peaceful development
+表语：基于中国国情的必然选择
+核心词：a necessary choice / an inevitable option
+后置定语：based on China's situation（过去分词短语作定语，修饰 choice/option）
+名词从句：That China insists on peaceful development is a necessary/an unavoidable/ an
+inevitable choice/ option based on China's situation.
+I That China insists on peaceful development is a necessary choice based on China's
+condition.
+"¿ It is an inevitable option based on China's condition that China insists on peaceful
+development.
+3.很多人都认为粉丝文化对青少年有害。
+#willa: It is widely believed that the fan culture can do harm to teenagers.
+36
+===== PAGE 37 =====
+公众号：牛南山，整理更新
+名词从句——宾语从句
+带形式宾语的常见结构：
+• take it for granted that...
+• make it clear that...
+• regard it as..that..
+• owe it to... that...
+• see to it that...
+理所当然地认为…
+澄清/表明⋯
+把⋯视为/看作•
+把…归因于…
+确保/保证.
+练习；
+1.大多数的人都理所当然地认为水是一种取之不尽、用之不竭的自然资源。
+Kill: Most people take it for granted that water is an exhaustless/ an inexhaustible natural
+resource.
+“取之不尽、用之不竭”使用近义词替代，避免生硬直译。
+推荐词汇：endless / limitless / infinite（无限的）、exhaustless / inexhaustible（用不完的）
+避坑：eternal, permanent 表示“永恒存在”，不侧重“资源用不完”；perpetually 是副词，位置不对。
+2.许多大学毕业生找不到工作表明就业形势并不乐观。
+Aha: That many college students fail to find a job makes it clear that the employment
+situation is serious.或 名词短语作主语：Many college students' failure to find a job makes it clear
+that the employment situation is serious.
+名词从句——同位语从句
+同位语的基本形式：
+• h，几
+• n， adjor adj. 例如：All nations, rich or poor，•（所有国家，无论贫富）
+• n, that/ wh-（that 使用频率较高，wh-词使用较少）
+练习：
+1.长沙是湖南省省会，坐落在湘江之滨。
+37
+===== PAGE 38 =====
+公众号：牛南山，整理更新
+TA (SiA) : Changsha is the capital of Hunan Province which is located by the Xiang River.
+HI (AwFul) : Changsha, the capital city of Hunan Province, is located by the Xiang River.
+2.所有人，无论男女老幼，都应该注意保护环境。
+1M SAl: All people, male or female, old or young, should pay attention to environmental
+protection.
+注意 1：不能用名词 men or women 直接作同位语修饰 people（除非是专有名词列举），此处应用形容
+vij male/female.
+注意 2:pay attention to 中的 to 是介词，介词后接名词或动名词 （doing），即 pay attention to
+protecting.（动名词）或 pay attention to environmental protection（名词短语）。
+3.我得出了只有付出才有回报的结论。
+同位语从句的核心特点是中间可以画等号。“只有付出才有回报”的内容完全等同于“结论”的具体内容。
+因此，该从句为同位语从句，而非定语从句。
+错误句式 1:Only efforts can get reward.
+语法结构看似完整，但逻辑错误，“Efforts”（努力/付出）不能执行 “get”（获得）这个
+动作，能够“获得回报”的主体应该是人。
+需要改变谓语动词，使“努力”成为带来回报的手段—Only efforts can bring rewards.
+mim It 2: Only if you make effort will be reward.
+缺少主句主语：wil be reward 前没有主语；从句误作主句，if 引导的是条件状语从句，不
+能单独充当句子主干。即使使用倒装，主句也必须完整。
+4и/: I draw a conclusion that only efforts can bring rewards/ pay off.
+ul I reach a conclusion that only by efforts can one get rewards.
+4.这幅图揭示了一个真理。那就是人类的贪婪是造成环境污染的主要原因。
+4w|Mal: The picture reveals/ shows a truth/ fact that human greed is the main reason that
+contributes to environmental pollution. # The picture reveals/ shows a truth/ fact that human
+greed is the main reason for environmental pollution.
+38
+===== PAGE 39 =====
+公众号：牛南山，整理更新
+状语从句
+状语从句的结构：
+1.引导词：
+• in that, now that, in order that, on condition that, given that, so...that, so that
+• when, where, whether, no matter which(ever), no matter who(ever),no matter whomever),
+no matter what(ever), no matter whose(ever), no matter how(ever), no matter when(ever), no
+matter where(ever), no matter why
+•
+because, if, as, before, after, until, since, although, though, while,whereas, as long as,
+immediately, provided, the moment/ instant...
+2.在句首或句末充当状语
+状语从句的简化形式
+1.条件：主从句主语相同
+2.方法：省略主语及引导词，改谓语动词为非谓语动词（doing/ done/ to do）
+练习：
+1.当我看到这幅图时，心情十分复杂。
+Ain: When I see the picture, my feelings are very complicated.
+简化的状语从句：Seeing the picture, I have very complicated feelings.
+2.为了通过考试，所有的付出都是值得的。
+状语从句：In order that I/we can pass the test, all the efforts are worthwhile.
+或To pass the test, 1/we feel all the efforts are worthwhile.
+3.去年修好后，这房子就一直空着。
+状语从句：Built last year, the house has remained unoccupied/ vacant.
+I The house, since it was built last year, has remained unoccupied/ vacant.
+39
+===== PAGE 40 =====
+公众号：牛南山，整理更新
+4.中国修建了世界上最为庞大的高铁系统，极大地提高了人们出行的便利。
+当后半部分是前半部分自然产生的结果时，可使用现在分词（V-ing）作结果状语，替代 so that 从句。
+Hit M: China has built the largest high-speed railway system in the world, bringing
+considerable convenience to people's travel.
+- China has built the largest high-speed railway system in the world so that people can travel
+more conveniently.
+5.近年来出现了严重的拜金主义倾向，应当引起我们的反思。
+Sovs Such 引导结果状语：So that（分开）：so +adj./adv.+that VS.
+Such that（分开）：such+
+n. + that
+易混淆介词辨析（非状语从句引导词）：
+due to, owing to, as a result, with：均为介词短语，后接名词，不能引导状语从句。
+in order that：表目的，不符语境；when：表时间，不符语境。
+注意：“严重的拜金主义倾向”是主语。
+状语从句：In recent years, there has been such a serious trend of money worship that it deserves
+our reflection.
+we In recent years, there has been a trend of money worship so serious that it deserves
+our reflection.
+状语从句及简化形式—独立主格
+独立主格本质上就是主从句主语不一致时，状语从句的简化形式。
+练习：
+1.如果条件允许，我们应该每天保持一小时左右的锻炼。
+Ет: If conditions permit, we should exercise for about one hour each day.
+从旬主语 conditions，主句主语we，主语不一致，符合独立主格条件。
+简化过程：去掉引导词 If；谓语 permit 改为主动形式的现在分词 permitting。
+Х E**: Conditions permitting, we should exercise for about one hour each day.
+40
+===== PAGE 41 =====
+公众号：牛南山，整理更新
+2.由于大量的时间浪费在了这些兴趣爱好上，很多大学生发现没有足够的时间来应对考试。
+正常状语从句：As much time is wasted on such hobbies, many students find it hard to spare
+enough time to prepare for their exams.
+从句主语 much time，主句主语 many students，主语不一致。
+简化过程：去掉引导词 As，谓语 is wasted（被动）改为过去分词 wasted。
+独立主格结构：Much time wasted on such hobbies, many students find it hard to spare enough
+time to prepare for their exams.
+（五）倒装
+1.部分倒装（基本与状语有关）
+主语和助动词的倒装
+【南山笔记】
+助动词通常是一般疑间句中置于句首的词（如 Do, Does, Did, Are, Is, Was, Have, Has, Should, Will 等）
+1）Only+状语（副词、介词短语、状语从句）
+例：只有采取有效的措施，才能解决这一威胁人类生存的问题
+# * : Only when/ if effective measures are taken can we solve this problem that threatens
+human existence.
+注意：Only 后不能直接接非谓语动词作状语引发倒装（除非视为介词短语的一部分，但缺少介词），应添
+加介词构成介词短语 Only by using this way..、Only through this method.. 或 使用状语从句 Only
+if we use this way...
+2） 否定词+状语（副词、介词短语、状语从句）
+常用否定状语：By no means、In no way、On no account（绝不），Under no circumstances（在任何
+情况下都不）
+例1：我们绝不会允许这种悲剧发生。
+选择否定状语 By no means，主句倒装：will we allow..
+allow 的搭配：allow sth to do sth（允许某事做.）、allow sb to do sth（允许某人做.）。避免使用 let sth
+happen（语法正确但语气较弱，且let 无倒装助动词，需用do辅助，如 Do let.• 极少见，通常直接用
+41
+===== PAGE 42 =====
+公众号：牛南山，整理更新
+allow a permit).
+(fU t: By no means/ On no account/ Under no circumstances will we allow the occurrence of this
+tragedy.
+例2：直到大难临头，人类才会意识到自己的行为是多么愚蠢。
+1|$: Not until the catastrophe falls will human beings realize how stupid their behaviours are.
+注意：Problem“问题”，程度较轻。Catastrophe“灾难，大难”，程度严重，符合“大难临头”语境。
+3） So +状语 +that..
+例：新冠病毒传播得很快，全世界数以亿计的人都感染了。
+前置状语：将强调的状语 so quickly 移至句首。
+部分倒装：由于谓语动词 spread 是实义动词且非助动词，需借助助动词 does（因主语 the coronavirus
+为单数）进行倒装。
+结构：So +副词 +助动词 + 主语+谓语 +that.
+# 4: So quickly does the coronavirus spread that hundreds of millions are infected in the world.
+2.全部倒装
+主谓的倒装
+1）地点状语
+例：图画的正中间站着一位老人，满脸笑容。
+14: Right in the centre of the picture stands an old man, who beams with pleasure.
+2）表方位状语+位置移动动词
+正常语序：Youth flies away. / Youth flows away.
+18 witly: Away flies the youth. / Away flows the youth.
+3.主系表倒装
+42
+===== PAGE 43 =====
+公众号：牛南山，整理更新
+1） So +形容词+that.
+例：新冠病毒传播得很快，全世界数以亿计的人都感染了。
+11|4: So quick is the spread of the coronavirus that hundreds of millions are infected in the
+world.
+2）表语+系动词+长主语
+为了避免“头重脚轻”。当主语较长（如同位语从句、定语从句修饰的名词）时，将表语和系动词提前。
+例：更具讽刺的是那些一边过着奢靡的生活一边喊着环保的人。
+I fil: Those who advocate environmental protection while leading an extravagant life are
+more ironical.
+a * i T: More ironical are those who advocate environmental protection while leading an
+extravagant life.
+4.非谓语动词倒装
+例1：一名年轻人飞速奔跑，想要赶上火车。
+EWW: A young man, who tries to catch the train, is running fast.
+0 Kity: Running fast is a young man, who tries to catch the train.
+例2：这副图生动描绘了两位残疾人，相互协作向前奔跑的场景。
+正常语序：Two disabled men, who cooperate with each other to run forward, are vividly depicted
+in this cartoon.
+倒装语序：Vividly depicted in this cartoon are two disabled men, who cooperate with each other
+to run forward.
+多【南山笔记】
+倒装的两大目的
+强调：强调状语（如 Only in this way can we solve the problem.）或表语。
+平衡句式：避免头重脚轻（如长主语倒装）。
+基础掌握：Only+状语引起的部分倒装、否定词+状语引起的部分倒装、地点状语前置引起的全部倒装
+43
+===== PAGE 44 =====
+公众号：牛南山，整理更新
+进阶掌握：主系表倒装、非谓语动词倒装等。
+识别倒装有助于阅读理解长难句。
+（六）虚拟语气—形式
+基本模式：
+过去
+现在
+将来
+IA（从），
+had done
+did / were
+(should)/ were to do
+B（主）•
+would... have done
+would... do
+would... do
+注意：主句中情态动词需用过去式形式（would, could, might, should），不能用原形（may, can, shall，
+will）。must 无过去式，可视作特殊。
+1.“假设”型
+标志词：if
+特点：全能虚拟，可对过去、现在、将来进行假设。
+2.“愿望”型
+标志词：would rather / wish / if only
+特点：全能虚拟，可用于过去、现在、将来。
+应用场景：小作文结尾祝福（如健康长寿），大作文较少使用（因大作文多讨论现实热点，虚拟语气
+暗示可能性极小）。
+3.“仿佛”型
+标志词：as if / as though
+特点：全能虚拟，可对过去、现在、将来进行“假装”或“仿佛”的描述。
+4.“要不是”型
+标志词：but for（偶尔可用 without）
+特点：通常针对过去发生的事，但也存在混合虚拟（过去条件影响现在结果）。
+5. “是..时候”型
+44
+===== PAGE 45 =====
+公众号：牛南山，整理更新
+4K: It's (high) time that ... did ...
+6. “建议、要求、命令”型
+结构：It is advisable / essential/ impcrative that..（should） do.
+...suggest / insist/ demand/ order that...(should) do
+7.“以免”型
+结构：•. lest / for fear that ..（should） do
+8.“无论”型
+结构：Be+ adj. or adj
+特点：表示“无论是•⋯还是⋯••”，常用于誓言或极端条件。
+例 1：是时候采取有效措施来应对这一问题了。
+AZI: It is high time that effective measures were taken against this issue.
+例2：要采取有效措施来应对这一问题，以免产生更严重的后果。
+虚拟：Effective measures must be taken against this issue for fear that / lest more severe
+consequence (should) arise.
+例3：如果在工业革命之初人类就意识到环境污染的危害，那么人类就不会受这么多折磨。
+正常虚拟语序：If human beings had realized the harm of environmental pollution at the beginning
+of the Industrial Revolution, we would not have suffered so much.
+倒装虚拟语序：Had human beings realized the harm of environmental pollution at the beginning
+of the Industrial Revolution, we would not have suffered so much.
+例4：如果这种情况继续恶化，那么人类将会面临灭顶之灾。
+正常虚拟语序：If the situation should continue to worsen, human beings would be faced with
+complete destruction.
+倒装虚拟语序（去掉I，Should提前）：Should the situation continue to worsen, human beings
+would be faced with Doom's Day.
+45
+===== PAGE 46 =====
+公众号：牛南山，整理更新
+备考建议：
+中文构思转英文：先进行中文构思，再尝试翻译成英文写作，模拟考场限时（大小作文共40-45分钟）。
+利用AI辅助：将写好的文章提交给 AI进行校对，指出错误。严禁让 AI 代写，必须由学生独立完成初稿。

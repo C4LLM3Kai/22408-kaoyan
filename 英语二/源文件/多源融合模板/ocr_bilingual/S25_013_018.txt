@@ -1,0 +1,394 @@
+===== PAGE 13 =====
+公众号：牛南山，整理更新
+若两个成分指代同一对象（如：He made me a hero/ He made me happy），则为“主谓宾+宾补”结构，而
+非双宾。
+EZ/): He gave me the opportunity to deliver the speech.
+7&Z: I was given the opportunity to...... The opportunity was given to me to......
+＞ 主谓宾宾补——对应复杂及物动词
+宾补虽然是在补充宾语的状态、特点，但是是谓语做出的动作的影响的延伸，所以带宾补的时候的及物动
+词，有了新的身份：复杂及物动词。
+“复杂”的含义：在语法中，“复杂”意味着成分大于一（不止一个词或一个简单结构）。它接宾语后，还
+需通过宾补对宾语进行补充说明，结构更丰富，故称“复杂”。例：现在进行时 be doing、完成时 have done，
+包含助动词＋买义动词，故为复杂。
+很多词，特别是常见词，都是斜杠青年。
+He made a cake.（及物动词）
+He made me a cake.（双宾动词）
+He made me eat that cake.（复杂及物动词）
+宾补其实和表语一样（因为表语就是主补）：
+除了动词原形都能做宾补，形容词、名词、现在/过去分词、不定式、介词短语
+1.He made me happy.
+形容词作宾补
+2.He made me a hero.
+名词作宾补
+3.He made me practice more.
+4. The event made her known to everyone.
+5. The campaign made her into a public figure.
+省略 to 的不定式作宾补
+过去分词作宾补
+介词短语作宾补
+【南山笔记】主补：
+1.主系表
+系动词后的表语即为主补。成分同前：形容词、名词、分词等。
+2.部分不及物动词后
+13
+===== PAGE 14 =====
+公众号：牛南山，整理更新
+部分不及物动词后可接名词作主补，说明主语的身份或作用。如：act as、serve as。
+逻辑：后面的名词直接修饰/定义主语的行为角色，构成主补关系。
+3.双宾/宾补结构的被动转化
+当带有宾补的句子变为被动语态时，原宾语变为主语，原宾补随之转化为主补。
+转换示例：主动：He made me a hero.（他使我成为英雄。）被动：Iwas made a hero.（我被塑造成了英雄。）
+此时 a hero 即为1的主补。
+注意：并非所有双宾动词都能这样转换，需确保语义通顺且符合被动语态逻辑。
++省略to的不定式（即看上去是原型动词）的复杂及物动词：
+一感 feel
+I felt him touch my shoulder.
+二听 hear/listen to
+I heard her sing a song.
+三使 make/let/have
+I will have him call you.
+147 see/watch/notice/observe
+My wish is to see you succeed.
+0.5 73 EJ help sb do/to do
+Help children grow up happily.
++省略to的不定式的复杂及物动词，不代表只能+do.
+I will have him call you.
+The news have us worried.
+Let him be free.
+She made herself heard.
+I feel the wind blowing.
+作文中常见的复杂及物动词：使得、觉得、认为、导致：
+动词
+常见结构
+make
+make+ 宾 +adj./v.
+原形/分词
+find
+find + 宾 +adj
+consider
+consider +宾+n./adj
+含义
+使得；让（使役结
+构）
+觉得（不是“找
+到”）
+认为；视为
+示例句
+Technology makes our imagination come true.
+The internet makes it possible for us to talk with anyone.
+I find this idea reasonable.
+Many people find it hard to accept their weaknesses.
+I consider him responsible for the failure.
+14
+===== PAGE 15 =====
+公众号：牛南山，整理更新
+deem
+deem + 宾+n.（不加
+as)
+认为（正式）
+We should consider failures important lessons.
+People deem travel an important part of their lives.
+The event was deemed a success.
+view
+/regard
+/perceive
+动词 +宾 +as+n.
+/ adj.
+把…视为（客观
+看待）
+We regard this issue as a chance.
+People perceive climate change as a threat.
+leave
+enable
+让…保持某状态；
+使.
+enable + 宾 +to do
+cause
+expect
+cause + # + to do
+expect + # + to do
+leave+宾+
+adj. / to do /doing
+使..能够做某事
+导致.做某事
+期待.做某事
+Please leave the door open.
+Leave him to do it himself.
+Optimism enables us to stay positive.
+Stress causes people to lose focus.
+The father expects his son to be brave.
+写作实用建议：
+• make/find/eave等动词后宾补多为形容词或原形动词，用于表达状态或结果。
+• consider/deem/view/regard 等强调“认为/视为”，表达主观看法时常见。
+•
+enable/cause/expect 等动词可用于逻辑因果、观点论证中，常引导to do 结构。
+高频使役动词（常见于口语和写作）：
+动词
+结构（主动）
+含义
+宾补类型
+被动结构
+示例（主动）
+示例（被动）
+make
+make + 0 +
+V原形
+使役
+（强制）
+V原形/
+V-ing /
+V-ed
+be made +
+to do
+His jokes made us laugh.
+The scene made me cry.
+We were made
+to leave.
+be let + to
+do
+let
+let + O + VH
+形
+允许
+V 原形
+She let me drive her car.
+（不常
+用）
+（不用被动，常
+改写：I was
+allowed to drive.)
+have
+have + 0 + V
+原形
+让
+（安排、
+命令）
+V原形/
+V-ing /
+V-ed
+have + 0+
+V-ed（被动
+含义）
+I had him fix my computer.
+I had them working all night.
+I had my hair
+cut. (= someone
+cut it for me)
+15
+===== PAGE 16 =====
+公众号：牛南山，整理更新
+要点整理：
+• make/let/have 是最核心的三大使役动词。
+•
+make/let/have + O+ do： 不带to，是不定式省略to 的形式。
+• 被动结构中，make 要加 to，let 的被动常用别的动词（如 allow），have 用“have+O+V-ed”。
+中频使役动词：
+动词
+结构（主动）
+get
+get + 0 + to
+do
+含义
+设法让
+某人做
+某事
+宾补类型
+被动结构
+示例（主动）
+to do
+help
+et+0+
+to do /get +
+O + V-ed
+不常用被
+动
+I got him to help me.
+leave
+help + 0+
+(to) do
+leave + 0+
+adj. / V-ing/
+V-ed
+帮助
+do / to do
+（均可）
+She helped me (to) finish the
+task.
+让…处
+于某状
+态
+adj. / V-ing
+/V-ed
+be left +
+adj. / V-ed
+He left the door open.
+She left me crying.
+要点整理：
+• get 常用于“说服/设法让人做事”，要加to。
+• help 可加 to 也可省，意思相同。
+•
+leave 更强调状态结果，后可接形容词、V-ing 或 V-ed（被动含义）。
+低频或书面语常见使役动词
+动词
+结构（主动）
+cause + 0+
+cause
+to do
+allow/permit
++ O + to do
+含义
+宾补类型
+导致
+to do
+allow/
+permit
+force /
+compel
+允许
+to do
+force/compe
+1 + 0 + to do
+强迫
+to do
+encourage
+encourage/p
+鼓励/
+to do
+被动结构
+be caused + to
+do
+be allowed /
+permitted to do
+be forced /
+compelled to do
+be encouraged /
+示例（主动）
+Stress caused him to
+quit.
+They allowed me to
+leave early.
+They forced him to
+confess.
+She persuaded him
+16
+示例（被动）
+I got my car
+fixed.
+（通常改写）
+The door was left
+open.
+示例（被动）
+He was caused to
+quit by stress.
+I was allowed to
+leave.
+He was forced to
+confess.
+He was persuaded
+===== PAGE 17 =====
+公众号：牛南山，整理更新
+/ persuade
+ersuade + 0
++ to do
+说服
+persuaded to do
+to stay.
+to stay.
+要点整理：
+• 这些多为书面语或正式语境。
+• 通常加todo，且主动被动转换灵活。
+• 常用于表达因果关系或劝说/允许类行为。
+总结归类：使役动词结构一览表
+类别
+动词
+不带 to
+带to
+状态类
+make / let / have
+get, help（可省），causee
+allow,permit, force #
+leave, keep, set #
+是否省略 to
+省略 to
+不可省略（除 help）
+不接动词原形
+可否用于被动
+make,let,have（形式）
+可被动
+常接宾补类型
+V 原形/adj/分词
+to do
+adj. /V-ed /V-ing
+作业：翻译下列句子为英文
+1.我们把这个错误看作是一个宝贵的教训。
+2.他们认为这个计划太冒险，难以实施。
+3.她总是让孩子自己做决定。
+4.老师鼓励我们参加这次比赛。
+5.我发现这个方法非常有效。
+6.他被迫放弃了原来的想法。
+7.压力会使人变得焦虑和不安。
+8.他留我一个人在图书馆等他。
+作业答案：
+1.We viewed this mistake as a valuable lesson.
+2. They considered this project too risky to implement.
+3. She always has her children make their own decisions.
+4. The teacher encouraged us to participate in the competition.
+17
+===== PAGE 18 =====
+公众号：牛南山，整理更新
+5.1 found this approach very effective.
+6.He was made to abandon his original thoughts.
+7.Stress causes modern individuals to be anxious and uneasy.
+8.He left me waiting for him in the library by myself.
+三种常用形式宾语句型结构表
+句型
+makes it + adj.
++ for sb. + to
+do sth.
+find it + adj. +
+to do sth.
+结构
+A makes it +
+possible/impossible/easy/
+difficultt for sb. + to do
+sth.
+Sb. finds it +
+hard/easy/possible/necess
+ary + to do sth.
+Sb. considers it +
+important/necessary/usefu
+l/appropriate + to do sth.
+常见形容词/形容词短语
+possible, impossible,
+easy, difficult,
+convenient, necessary
+hard, easy, possible,
+necessary, helpful,
+rewarding
+important, necessary,
+useful, appropriate,
+urgent, beneficial
+示例句
+The advancement of technology
+makes it possible for modern people
+to have access to better but cheaper
+products.
+If college students slack off during
+their college study, they will find it
+hard to secure high-paying jobs when
+they enter the job market.
+They consider it important to
+address these issues immediately.
+consider it +
+adj. + to do sth.
+小结与提示
+• 三个结构都使用 it作形式宾语，不定式短语作真正宾语。
+• “make it.”强调主语的作用；“find it.”强调人的感受/评价；“consider it.”强调主观判断。
+• 可扩展到被动形式，如：It is considered important to.• It was found-difficult to
+主谓宾的作业练习
+1.30人参加了会议，10人讨论了这个话题，最后得出了结论。
+2.他爸爸问他爱不爱英语，他说爱。
+3.我刚大学毕业，想申请这个职位。
+4.在这个时代，每个人都有机会展示自己的才华。
+5.她听到他们讨论这个计划。
+18

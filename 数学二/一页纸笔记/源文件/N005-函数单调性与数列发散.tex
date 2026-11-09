@@ -1,0 +1,68 @@
+\documentclass[11pt,a4paper]{ctexart}
+\input{/Users/shaoyikai/Desktop/考研/22408-notes-skill/assets/note-preamble.tex}
+\renewcommand{\NoteFooter}{22408 一页纸笔记 · 数学二}
+\linespread{1.14}
+\begin{document}
+\notetitle{函数单调性与数列发散}{数学二}{高等数学·数列极限（复合数列判敛）}
+\sechead{一、题目与总纲}
+
+原题：$\{a_n\}$（$a_n\ne0$）发散，下列哪个必发散？A. $a_n+\dfrac1{a_n}$　B. $a_n-\dfrac1{a_n}$　C. $e^{a_n}+e^{-a_n}$　D. $e^{a_n}-e^{-a_n}$。\textbf{答案 D}（四项中只有 D 的函数是单射）。
+
+\notebox{设 $f$ 在区间 $I$ 上连续，$\{a_n\}\subset I$。$f$ \textbf{严格单调}时 $\{f(a_n)\}$ 与 $\{a_n\}$ \textbf{同敛散}；$f$ \textbf{不}严格单调时，必能构造 $\{a_n\}$ 发散而 $\{f(a_n)\}$ 收敛。}
+
+一句人话：\textbf{"保发散" $\iff$ 任何水平线与曲线最多交 1 点。}
+
+\sechead{二、方向一：单射 $\Rightarrow$ 保收敛、保发散}
+
+若 $f(a_n)\to A$，因 $f$ 连续且严格单调，反函数 $f^{-1}$ 也连续，故 $a_n=f^{-1}\!\big(f(a_n)\big)\to f^{-1}(A)$；取逆否即"保发散"。关键不在"有没有反函数"，而在\textbf{同一个 $f$ 值只能由一个 $x$ 取到}。
+
+\sechead{三、方向二：水平线两次相交 $\Rightarrow$ 造反例}
+
+连续函数在区间上单射 $\iff$ 严格单调。故 $f$ 一旦\textbf{不}严格单调，就存在 $x_1\ne x_2$ 使 $f(x_1)=f(x_2)$，令 $a_n$ 在两点间交替：
+
+\[
+a_{2k-1}=x_1,\quad a_{2k}=x_2\quad(k=1,2,\dots)
+\]
+
+则 $\{a_n\}$ 奇、偶子列极限不同 $\Rightarrow$ 发散；而 $f(a_n)\equiv f(x_1)$ $\Rightarrow$ 收敛。这正是你手写的 $a,b,a,b,\dots$ 的来历。
+
+\sechead{四、四项逐个查表}
+
+\begin{center}\small
+\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X@{}}
+\toprule
+选项 & $f(x)$ 与等值点 & 交替反例（$f$ 恒等） & 判定 \\
+\midrule
+A & $x+1/x$：$x\leftrightarrow1/x$ & $2,\,1/2,\,2,\dots$；$f\equiv5/2$ & 可不发散 \\
+B & $x-1/x$：$x\leftrightarrow-1/x$ & $2,\,-1/2,\,2,\dots$；$f\equiv3/2$ & 可不发散 \\
+C & $e^x+e^{-x}$：$x\leftrightarrow-x$ & $1,\,-1,\,1,\dots$；$f\equiv e+1/e$ & 可不发散 \\
+D & $e^x-e^{-x}$：严格增，无等值点 & 不存在 & \textbf{必发散} \\
+\bottomrule
+\end{tabularx}
+\end{center}
+
+\sechead{五、D 的严格证明（考场两行）}
+
+\textbf{法 1（反设 + 唯一正根）} 设 $b_n=e^{a_n}-e^{-a_n}\to b$，令 $t=e^{a_n}>0$：
+
+\[
+t-\frac1t=b\iff t^2-bt-1=0\iff t=\frac{b+\sqrt{b^2+4}}{2}
+\]
+
+另一根 $<0$ 舍去，正根唯一 $\Rightarrow e^{a_n}\to t_0\Rightarrow a_n\to\ln t_0$，与 $\{a_n\}$ 发散矛盾。
+
+\textbf{法 2（反函数）} $f'(x)=e^x+e^{-x}>0$ 且值域为 $\mathbb{R}$，故 $f$ 有连续反函数 $x=\operatorname{arsinh}\dfrac y2$，由第二节即得保发散。
+
+\sechead{六、易错点}
+
+\warnline{① "每支都单调"不等于单射。B 中 $y=x-\dfrac1x$ 在 $(-\infty,0)$、$(0,+\infty)$ 上各自严格增，但水平线 $y=3/2$ 交两支于 $2$ 与 $-1/2$，B 仍可造反例。看图要问"整条曲线被水平线穿几次"。}
+
+\warnline{② 配对的两个 $x$ 必须都满足题设（本题 $a_n\ne0$）且在 $f$ 定义域内，$x=0$ 一律不能用。}
+
+\warnline{③ 反例要交代发散的理由：奇偶子列极限不同（$2$ 与 $1/2$）$\Rightarrow$ 无极限。只写 $a,b,a,b$ 不给论证会丢步骤分。}
+
+\warnline{④ 发散有两种形态：无界型（$a_n\to\pm\infty$）与振荡型。判"必发散"须两种都成立，本题三组反例全是振荡型；拿 $a_n=n$ 去试查不出 A、B、C 的毛病。}
+
+\notebox{三十秒速判：画水平线，只交 1 点 $\Rightarrow$ 保发散，选它；交到 $\ge2$ 点 $\Rightarrow$ 能造 $a,b,a,b$ 反例，排除。}
+
+\end{document}

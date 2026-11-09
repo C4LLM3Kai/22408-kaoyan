@@ -1,0 +1,172 @@
+% =====================================================================
+% 408 应试大题手册 · 共享导言区
+% A4 多页、双色（深蓝 + 红）、中文宋体 + 西文 Times
+% =====================================================================
+\setlength{\headheight}{16.5pt}
+\usepackage[top=2.0cm,bottom=1.8cm,left=1.9cm,right=1.9cm,headsep=0.55cm,footskip=0.85cm]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{array,booktabs,tabularx,longtable}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{needspace}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{fancyvrb}
+\usepackage[hidelinks,bookmarksnumbered]{hyperref}
+
+% ---------- 字体 ----------
+\setCJKmainfont{Songti SC}[BoldFont=Heiti SC]
+\setCJKsansfont{Heiti SC}
+\xeCJKsetup{CJKmath=true}
+\setCJKmonofont{Songti SC}
+\setmainfont{Times New Roman}
+
+\xeCJKDeclareCharClass{CJK}{%
+  "2460 -> "24FF, "2605 -> "2606, "2264 -> "2265, "2260, "2248,
+  "2190 -> "2199, "221A, "221E, "222B, "2211, "2208, "2209, "2205, "2200,
+  "2203, "2225, "22A5, "00B1, "00D7, "00F7, "2032, "2033, "2103, "2109,
+  "03B1 -> "03C9, "2308, "2309, "230A, "230B, "2026
+}
+
+% ---------- 配色 ----------
+\definecolor{accent}{HTML}{1F4E79}   % 主色 深蓝
+\definecolor{accent2}{HTML}{2E75B6}  % 次蓝
+\definecolor{warnc}{HTML}{9C2A20}    % 红
+\definecolor{yearc}{HTML}{7B3F00}    % 年份棕
+\definecolor{soft}{HTML}{EEF3F8}     % 结论底色
+\definecolor{softy}{HTML}{FBF4E8}    % 年份底色
+\definecolor{line}{HTML}{C8CDD3}
+\definecolor{rule}{HTML}{8A9099}
+
+% ---------- 版式 ----------
+\linespread{1.30}
+\setlength{\parskip}{3.2pt}
+\setlength{\parindent}{0pt}
+\renewcommand{\arraystretch}{1.26}
+\setlist[itemize]{topsep=3pt,itemsep=1.6pt,parsep=0pt,leftmargin=1.5em}
+\setlist[enumerate]{topsep=3pt,itemsep=1.6pt,parsep=0pt,leftmargin=1.8em}
+\setlength{\columnsep}{0.8cm}
+\setlength{\columnseprule}{0.25pt}
+\def\columnseprulecolor{\color{line}}
+\raggedbottom
+\setlength{\emergencystretch}{4em}
+\tolerance=1800
+\hyphenpenalty=800
+
+% ---------- 页眉页脚 ----------
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{line}\leaders\hrule height \headrulewidth\hfill}}
+\fancyhead[L]{\scriptsize\color{rule}\BookShort}
+\fancyhead[R]{\scriptsize\color{rule}\leftmark}
+\fancyfoot[C]{\scriptsize\color{rule}·\ \thepage\ ·}
+\renewcommand{\sectionmark}[1]{\markboth{#1}{}}
+
+% ---------- 封面 ----------
+\newcommand{\handbookcover}[4]{%
+  \begin{titlepage}
+  \thispagestyle{empty}
+  \centering
+  \vspace*{2.4cm}
+  {\color{accent}\rule{\linewidth}{2.2pt}}\\[0.5cm]
+  {\sffamily\bfseries\fontsize{40}{48}\selectfont 408 应试大题手册}\\[0.45cm]
+  {\sffamily\bfseries\fontsize{16}{22}\selectfont #1}\\[0.32cm]
+  {\color{accent}\rule{\linewidth}{0.8pt}}\\[1.1cm]
+  {\large #2}\\[0.4cm]
+  {\large #3}\\[2.2cm]
+  \begin{minipage}{0.86\linewidth}
+    \centering\small\color{rule}
+    #4
+  \end{minipage}
+  \vfill
+  {\small\color{rule} 依据《408 各科大题知识点强化课》精讲整理 —— 考点全部对齐 2009--2026 年统考真题大题}
+  \vspace{0.6cm}
+  \end{titlepage}}
+
+% ---------- 编（Part）页 ----------
+\newcommand{\partpage}[3]{%
+  \clearpage
+  \addcontentsline{toc}{part}{#1\quad #2}\markboth{#2}{#2}
+  \thispagestyle{empty}
+  \vspace*{4.2cm}
+  \noindent{\color{accent2}\rule{\linewidth}{1.6pt}}\\[0.5cm]
+  \noindent{\sffamily\bfseries\color{accent2}\fontsize{15}{18}\selectfont #1}\\[0.28cm]
+  \noindent{\sffamily\bfseries\fontsize{30}{36}\selectfont #2}\\[0.5cm]
+  \noindent{\color{accent2}\rule{\linewidth}{0.7pt}}
+  \vspace{1.2cm}
+  \noindent{\color{rule}\small #3}
+  \clearpage}
+
+% ---------- 考点小节标题 ----------
+\newcommand{\sechead}[1]{%
+  \par\addvspace{9pt}\needspace{3.2\baselineskip}\noindent
+  {\color{accent}\rule[-0.14em]{3.2pt}{1.02em}}\hspace{0.45em}%
+  {\sffamily\bfseries\color{accent}\large #1}\par\nobreak
+  \vspace{-0.1em}{\color{accent}\hrule height 0.9pt}\nobreak\vspace{4pt}}
+
+% 带目录条目的考点标题（由转换器把 ## 映射到此）
+\newcommand{\secheadx}[1]{\par\addcontentsline{toc}{section}{#1}\sechead{#1}}
+
+% ---------- 段内小标题（### ） ----------
+\newcommand{\subhead}[1]{%
+  \par\addvspace{6pt}\needspace{2.2\baselineskip}\noindent
+  {\color{accent2}\small$\blacktriangleright$}\hspace{0.4em}%
+  {\sffamily\bfseries\color{accent2}#1}\par\addvspace{2pt}}
+
+% ---------- 考频徽标（年份标注，每考点必挂） ----------
+\newcommand{\kaopin}[1]{%
+  \par\addvspace{2pt}\noindent
+  \colorbox{softy}{\parbox{\dimexpr\linewidth-2\fboxsep\relax}{%
+    {\color{yearc}\bfseries\small 真题年份}\ {\color{rule}\textbar}\ {\small #1}}}%
+  \par\addvspace{5pt}}
+
+% ---------- 结论条 ----------
+\newcommand{\notebox}[1]{%
+  \par\addvspace{2pt}\noindent
+  \colorbox{soft}{\parbox{\dimexpr\linewidth-2\fboxsep\relax}{#1}}%
+  \par\addvspace{4pt}}
+
+% ---------- 易错条 ----------
+\newcommand{\warnline}[1]{%
+  \par\addvspace{2pt}\noindent
+  {\color{warnc}\rule[-0.1em]{2.6pt}{0.92em}}\hspace{0.45em}%
+  \begingroup\small\setlength{\parindent}{0pt}\leftskip=1.2em\noindent
+  \ignorespaces #1\par\endgroup\addvspace{3pt}}
+
+% ---------- 表格 ----------
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\setlength{\tabcolsep}{5pt}
+
+% ---------- 代码块 ----------
+\DefineVerbatimEnvironment{codebox}{Verbatim}%
+  {frame=single,framerule=0.3pt,rulecolor=\color{line},%
+   framesep=4.5pt,fontsize=\footnotesize,baselinestretch=0.98,%
+   xleftmargin=3pt,xrightmargin=3pt}
+\newcommand{\codecaption}[1]{%
+  \par\addvspace{2pt}\noindent{\small\sffamily\bfseries\color{accent}#1}\par\vspace{1pt}}
+
+% ---------- 目录样式（不依赖 tocloft，手写 \l@part / \l@section） ----------
+\renewcommand{\contentsname}{目\quad 录}
+\makeatletter
+\renewcommand*\l@part[2]{%
+  \ifnum \c@tocdepth >-2\relax
+    \addpenalty{-\@highpenalty}%
+    \addvspace{1.3em \@plus\p@}%
+    \begingroup
+      \parindent \z@ \rightskip \@pnumwidth
+      \parfillskip -\@pnumwidth
+      {\leavevmode\sffamily\bfseries\color{accent}\large #1}\nobreak
+      \leaders\hbox{$\m@th\mkern \@dotsep mu\hbox{.}\mkern \@dotsep mu$}\hfill
+      \nobreak\hb@xt@\@pnumwidth{\hss #2}\par
+    \endgroup
+  \fi}
+\renewcommand*\l@section{\@dottedtocline{1}{0.6em}{0em}}
+\makeatother
+\setcounter{tocdepth}{1}
+
+% ---------- 由转换器注入 ----------
+\providecommand{\BookShort}{408 应试大题手册}
+\providecommand{\NoteFooter}{}
