@@ -1,0 +1,63 @@
+\documentclass[10pt,a4paper]{ctexart}
+\input{/Users/shaoyikai/Desktop/考研/22408-notes-skill/assets/note-preamble.tex}
+\renewcommand{\NoteFooter}{22408 一页纸笔记 · 数学二}
+\linespread{1.14}
+\begin{document}
+\notetitle{三阶矩阵求逆固定算法}{数学二}{线性代数·逆矩阵、伴随阵与分块求逆}
+\sechead{一、前提与二阶母公式}
+
+求 $A^{-1}$ 前先看 $|A|\ne 0$（上题原矩阵 $A$ 第 $3$ 行全 $0\Rightarrow|A|=0$，故 \textbf{$A$ 本身不可逆}；求逆的是可逆过渡矩阵 $P$）。三阶分块与伴随法的底座都是\textbf{二阶一步口诀}：
+
+\[
+\begin{pmatrix}a&b\\c&d\end{pmatrix}^{-1}=\frac{1}{ad-bc}\begin{pmatrix}d&-b\\-c&a\end{pmatrix}\quad\text{（主对角线对调，副对角线变号，再除以行列式）}
+\]
+
+\sechead{二、三阶矩阵求逆三大固定算法}
+
+\begin{center}\small
+\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X@{}}
+\toprule
+算法 & 固定流程 / 公式 & 最适合情形 & 核心优势 \\
+\midrule
+\textbf{① 初等行变换法} & $(A\mid E)\xrightarrow{\text{只做初等行变换}}(E\mid A^{-1})$ & 稠密数字矩阵（无规律） & 最稳通法，顺手检验是否可逆 \\
+\textbf{② 伴随矩阵法} & $A^{-1}=\frac{1}{\lvert A\rvert}A^*$，$A^*=(A_{ji})$ & 含字母参数、或 $0$ 较多 & 直接套公式，避免分数行变换 \\
+\textbf{③ 分块求逆法} & 拆成 $2\times 2$ 块 $B$ 与 $1\times 1$ 块 $c$ & 某行/某列仅一个非零元 & 套二阶口诀秒出，几乎无计算量 \\
+\bottomrule
+\end{tabularx}
+\end{center}
+
+\sechead{三、初等行变换四步固定流程（以 $P$ 为例）}
+
+从左到右先化上三角，再从下往上回代消零：
+
+\[
+(P\mid E)=\left(\begin{array}{ccc|ccc}3&1&1&1&0&0\\2&1&2&0&1&0\\2&0&0&0&0&1\end{array}\right)\xrightarrow{r_1\leftrightarrow r_3,\ \frac{1}{2}r_1}\left(\begin{array}{ccc|ccc}1&0&0&0&0&\frac{1}{2}\\2&1&2&0&1&0\\3&1&1&1&0&0\end{array}\right)\xrightarrow{\text{消第 }1\text{ 列}}\left(\begin{array}{ccc|ccc}1&0&0&0&0&\frac{1}{2}\\0&1&2&0&1&-1\\0&1&1&1&0&-\frac{3}{2}\end{array}\right)
+\]
+
+继续用 $r_3-r_2$ 把 $(3,2)$ 清零（得 $-r_3$ 后变号），再回代消 $(2,3)$：
+
+\[
+\longrightarrow\left(\begin{array}{ccc|ccc}1&0&0&0&0&\frac{1}{2}\\0&1&2&0&1&-1\\0&0&-1&1&-1&-\frac{1}{2}\end{array}\right)\xrightarrow{-r_3,\ r_2-2r_3}\left(\begin{array}{ccc|ccc}1&0&0&0&0&\frac{1}{2}\\0&1&0&2&-1&-2\\0&0&1&-1&1&\frac{1}{2}\end{array}\right)\ \Longrightarrow\ P^{-1}=\begin{pmatrix}0&0&\frac{1}{2}\\2&-1&-2\\-1&1&\frac{1}{2}\end{pmatrix}
+\]
+
+\sechead{四、伴随法与分块法的固定模板}
+
+\textbf{伴随法固定模板}：按行求代数余子式 $A_{ij}=(-1)^{i+j}M_{ij}$（符号棋盘 $\begin{pmatrix}+&-&+\\-&+&-\\+&-&+\end{pmatrix}$），\textbf{竖着填进 $A^*$ 的列}，再除以 $|A|$。
+
+\textbf{分块固定公式}（设 $B$ 为 $2\times 2$ 可逆矩阵，$c\ne 0$ 为非零数）：
+
+\[
+\begin{pmatrix}B&\alpha\\0&c\end{pmatrix}^{-1}=\begin{pmatrix}B^{-1}&-c^{-1}B^{-1}\alpha\\0&c^{-1}\end{pmatrix},\quad \begin{pmatrix}B&0\\\beta^T&c\end{pmatrix}^{-1}=\begin{pmatrix}B^{-1}&0\\-c^{-1}\beta^T B^{-1}&c^{-1}\end{pmatrix},\quad \begin{pmatrix}\alpha&B\\c&0\end{pmatrix}^{-1}=\begin{pmatrix}0&c^{-1}\\B^{-1}&-c^{-1}B^{-1}\alpha\end{pmatrix}
+\]
+
+\notebox{\textbf{考场 10 秒验算}：拿 $A$ 第 $1$ 行点乘求出的 $A^{-1}$ 第 $1,2,3$ 列，必须精确等于 $1,0,0$；发现不对立刻查正负号或是否漏转置。}
+
+\sechead{五、易错点}
+
+\warnline{① \textbf{伴随矩阵忘记转置}：$A^*$ 第 $i$ 行第 $j$ 列元素是 $A_{ji}$（第 $j$ 行第 $i$ 列的代数余子式），不是 $A_{ij}$！}
+
+\warnline{② \textbf{初等变换混用行和列}：用 $(A\mid E)\to(E\mid A^{-1})$ 时\textbf{全程只能做行变换}，中途哪怕做一次列变换，右半边立刻报废。}
+
+\warnline{③ \textbf{分块副块乘反方向}：上三角分块右上角是 $-c^{-1}B^{-1}\alpha$（\textbf{$B^{-1}$ 在左}），下三角左下角是 $-c^{-1}\beta^T B^{-1}$（\textbf{$B^{-1}$ 在右}），不可交换。}
+
+\end{document}
