@@ -1,0 +1,91 @@
+\documentclass[12pt,a4paper]{ctexart}
+\input{/Users/shaoyikai/Desktop/考研/22408-notes-skill/assets/note-preamble.tex}
+\renewcommand{\NoteFooter}{22408 一页纸笔记 · 数学二}
+\linespread{1.14}
+\begin{document}
+\notetitle{二阶齐次降阶与通解结构}{数学二}{高等数学 · 常微分方程（线性微分方程解的结构）}
+\sechead{一、核心原理与适用条件}
+
+对于二阶变系数齐次线性微分方程 $a_2(x)y''+a_1(x)y'+a_0(x)y=0$，在 $a_2(x)\neq 0$ 的区间 $I$ 上化为标准形：
+
+\[
+y''+P(x)y'+Q(x)y=0
+\]
+
+\textbf{已知一解降阶法}：若已知一个非零特解 $y_1(x)\neq 0$，令 $y=u(x)y_1(x)$ 代入原方程，整理得：
+
+\[
+y_1 u'' + \big(2y_1' + P(x)y_1\big)u' + \big(y_1''+P(x)y_1'+Q(x)y_1\big)u = 0
+\]
+
+因 $y_1$ 是特解，$u$ 的系数恒为 $0$。再令 $p=u'(x)$，方程降为一阶线性方程 $y_1 p'+(2y_1'+Py_1)p=0$。
+
+\notebox{\textbf{刘维尔（Liouville）速算公式}：在 $a_2(x)\neq 0$ 且 $y_1(x)\neq 0$ 的区间上，另一线性无关特解与通解为}
+
+\notebox{$$y_2(x)=y_1(x)\int \frac{e^{-\int P(x)\,\mathrm{d}x}}{y_1^2(x)}\,\mathrm{d}x,\qquad y = C_1 y_1(x)+C_2 y_2(x)\ \left(\frac{y_2}{y_1}\neq \text{常数}\right)$\$}
+
+\sechead{二、标准解题四步（典型例题）}
+
+\textbf{例}：已知 $y_1(x)=e^x,\ y_2(x)=u(x)e^x$ 是 $(2x-1)y''-(2x+1)y'+2y=0$ 的两个解，且 $u(-1)=e,\ u(0)=-1$，求 $u(x)$ 及通解。
+
+\begin{enumerate}
+
+\item \textbf{求导代入消 $u$ 项}：由 $y_2'=(u'+u)e^x,\ y_2''=(u''+2u'+u)e^x$ 代入原方程并消去 $e^x\neq 0$：
+
+\end{enumerate}
+
+\[
+(2x-1)u''+\big[2(2x-1)-(2x+1)\big]u'+\big[(2x-1)-(2x+1)+2\big]u=0 \implies (2x-1)u''+(2x-3)u'=0
+\]
+
+\begin{enumerate}
+
+\item \textbf{降阶分离变量（先避奇点 $x=\frac{1}{2}$）}：令 $p=u'$，拆分假分式 $\frac{2x-3}{2x-1}=1-\frac{2}{2x-1}$：
+
+\end{enumerate}
+
+\[
+\frac{\mathrm{d}p}{p}=\left(-1+\frac{2}{2x-1}\right)\mathrm{d}x \implies \ln|p|=-x+\ln|2x-1|+C_0 \implies u'(x)=C(2x-1)e^{-x}
+\]
+
+\begin{enumerate}
+
+\item \textbf{积分定常数}：分部积分 $\int(2x-1)e^{-x}\,\mathrm{d}x=-(2x+1)e^{-x}+C_0$，记 $k=-C$，得 $u(x)=k(2x+1)e^{-x}+C_2$。代入条件 $u(-1)=e,\ u(0)=-1$：
+
+\end{enumerate}
+
+\[
+\begin{cases}-ke+C_2=e,\\ k+C_2=-1\end{cases}\ \Longrightarrow\ k=-1,\ C_2=0\ \Longrightarrow\ u(x)=-(2x+1)e^{-x}
+\]
+
+\begin{enumerate}
+
+\item \textbf{判无关写通解}：$y_2(x)=u(x)e^x=-(2x+1)$。因 $\frac{y_2(x)}{y_1(x)}=-(2x+1)e^{-x}\neq\text{常数}$，两解线性无关；且 $y_1,y_2$ 在 $(-\infty,+\infty)$ 上均二阶可导并满足原方程，故通解为 \textbf{$y=C_1 e^x + C_2(2x+1)$}（$C_1,C_2$ 为任意常数）。
+
+\end{enumerate}
+
+\sechead{三、二阶齐次线性方程解法对照}
+
+\begin{center}\small
+\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X@{}}
+\toprule
+方程类型 & 特征识别 & 核心思路 / 通解结构 \\
+\midrule
+\textbf{常系数} $y''+py'+qy=0$ & 系数全为常数 & 解特征方程 $\lambda^2+p\lambda+q=0$（按 $\Delta>0,=0,<0$ 写通解） \\
+\textbf{变系数已知一解} $y_1$ & 已知非零解 $y_1$ & 设 $y=u(x)y_1$ 降为一阶，或套刘维尔公式求第二解 \\
+\textbf{可降阶二阶方程} & 显含“缺 $y$”或“缺 $x$” & 缺 $y$ 令 $y'=p(x)$；缺 $x$ 令 $y'=p(y),\ y''=p\frac{\mathrm{d}p}{\mathrm{d}y}$ \\
+\bottomrule
+\end{tabularx}
+\end{center}
+
+\sechead{四、易错点}
+
+\warnline{① \textbf{代入后 $u$ 项未消零}：由于 $y_1$ 本身满足原方程，$u$ 的系数必为 $0$；若未消净，说明求导或合并同类项有误，可直接作验算哨兵。}
+
+\warnline{② \textbf{假分式拆分与绝对值漏写}：$\frac{2x-3}{2x-1}=1-\frac{2}{2x-1}$ 积分得 $\ln|2x-1|$；奇点 $x=\frac{1}{2}$ 处首项系数为零，本题条件 $x=-1,0$ 同在 $(-\infty,\frac{1}{2})$，最终 $y_2=-(2x+1)$ 在 $(-\infty,+\infty)$ 仍满足原方程。}
+
+\warnline{③ \textbf{通解未判无关或常数未吸收}：写出 $y=C_1 y_1+C_2 y_2$ 前须确认 $\frac{y_2}{y_1}\neq\text{常数}$；$-(2x+1)$ 中的负号并入任意常数 $C_2$ 更简洁。}
+
+\warnline{④ \textbf{混用齐次降阶与非齐次常数变易}：已知一解求齐次方程第二解用乘法替换 $y=u(x)y_1$；已知齐次通解求非齐次特解才用双常数变易 $y^*=C_1(x)y_1+C_2(x)y_2$。}
+
+\end{document}
