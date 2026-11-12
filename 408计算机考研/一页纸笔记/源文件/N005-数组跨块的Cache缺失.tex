@@ -1,0 +1,81 @@
+\documentclass[11pt,a4paper]{ctexart}
+\input{/Users/shaoyikai/Desktop/考研/22408-notes-skill/assets/note-preamble.tex}
+\renewcommand{\NoteFooter}{22408 一页纸笔记 · 408 计算机组成原理}
+\linespread{1.14}
+\begin{document}
+\notetitle{数组跨块的Cache缺失}{408}{计算机组成原理·Cache缺失次数与AMAT}
+\sechead{一、题给参数与地址切分}
+
+\begin{center}\small
+\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X@{}}
+\toprule
+项目 & 数值 & 推导 \\
+\midrule
+Cache 数据区 & $32\mathrm{KB}$ & 组数 $=32768/(64\times 8)=\mathbf{64}$ 组 \\
+主存块大小 & $64\mathrm{B}$ & 块内地址 $6$ 位（低 6 位） \\
+组号位数 & $6$ 位 & $64=2^6$，取地址 A11\textasciitilde{}A6 \\
+\texttt{int d[2048]} & $8192\mathrm{B}$ & $2048\times 4\mathrm{B}=2^{13}\mathrm{B}$ \\
+\texttt{d} 起始虚址 & \texttt{0180 0020H} & 块内偏移 $=0020\mathrm{H}=32\mathrm{B}$ \\
+\bottomrule
+\end{tabularx}
+\end{center}
+
+\notebox{地址低 6 位 $=100000\mathrm{B}=20\mathrm{H}$，故 \texttt{d[0]} 在\textbf{主存块内偏移为 \texttt{020H}（32 字节）}；块号对 64 取模为 0，映射到\textbf{第 0 组}。}
+
+\sechead{二、缺失次数 = 129 是怎么来的（核心）}
+
+数组\textbf{起点不是块边界}：\texttt{d[0]} 位于块内第 32 字节，首个 64B 块只装得下\textbf{后半块的 8 个元素}，于是整体跨度多出半块。
+
+\[
+N_{\text{块}}=\left\lceil\frac{32\mathrm{B}+8192\mathrm{B}}{64\mathrm{B}}\right\rceil=\left\lceil\frac{8224}{64}\right\rceil=\lceil 128.5\rceil=\mathbf{129}
+\]
+
+等价算法：首块 8 个元素，剩余 $2040$ 个 $\div\,16$ 元素/块 $=127.5$，向上取整 128 块，共 $1+128=129$ 块。
+
+\begin{center}\small
+\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X@{}}
+\toprule
+块序号 & 覆盖元素 & 个数 & 说明 \\
+\midrule
+第 1 块 & \texttt{d[0]}\textasciitilde{}\texttt{d[7]} & 8 & 只占块内 32B\textasciitilde{}63B \\
+第 2\textasciitilde{}128 块 & \texttt{d[8]}\textasciitilde{}\texttt{d[2039]} & $127\times16$ & 整块占满 \\
+第 129 块 & \texttt{d[2040]}\textasciitilde{}\texttt{d[2047]} & 8 & 只占块内 0B\textasciitilde{}31B \\
+\bottomrule
+\end{tabularx}
+\end{center}
+
+\notebox{\textbf{缺失次数 = 实际访问到的块数 = 129}（全部为强制性缺失）。理由：顺序遍历时每块的元素连续访完才换块；129 块散布在 64 组，每组至多 $\lceil129/64\rceil=3$ 块，远小于 \textbf{8 路}，不会发生替换，故每块只缺失 1 次。}
+
+\sechead{三、缺失率与平均访问时间}
+
+\[
+p=\frac{129}{2048}=6.2988\%\approx\mathbf{6.30\%}
+\]
+
+\[
+T_{\mathrm{avg}}=t_{\text{命中}}+p\times t_{\text{缺失损失}}=2+0.0630\times200=2+12.60=\mathbf{14.60}\ \text{个时钟周期}
+\]
+
+\sechead{四、易错点}
+
+\warnline{直接 $2048/16=128$ 交卷：漏掉起点偏移 32B 造成的跨块。凡起始地址非块对齐，一律用 $\lceil(\text{块内偏移}+\text{数组字节数})/\text{块大小}\rceil$，这个 $+1$ 的来源就是"半个首块 + 半个尾块"。}
+
+\warnline{分母写成 4096（读、写各算一次访问）：408 按"每个元素一次访问"计，缺失率是 $129/2048$；用 4096 会算成 3.15\%。}
+
+\warnline{平均访问时间漏加命中时间：必须 $2+p\times200$，不能只写 $p\times200=12.60$。}
+
+\warnline{未验证替换就断言"块数 = 缺失次数"：先算每组映射块数，$\le$ 相联路数才成立。}
+
+\sechead{五、一页速记}
+
+\begin{itemize}
+
+\item 块内偏移 $=$ 地址 mod 块大小；组号 $=$ 块号 mod 组数。
+
+\item 跨块数 $=\lceil(\text{偏移}+\text{字节数})/\text{块大小}\rceil$；块对齐时恰好整除，非对齐时必然多一块。
+
+\item 无替换 $\Rightarrow$ 缺失次数 $=$ 块数；缺失率 $=$ 缺失次数 $/$ 元素访问次数；$\mathrm{AMAT}=$ 命中时间 $+$ 缺失率 $\times$ 缺失损失。
+
+\end{itemize}
+
+\end{document}

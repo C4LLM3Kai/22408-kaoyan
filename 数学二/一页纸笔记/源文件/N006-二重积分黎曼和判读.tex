@@ -1,0 +1,90 @@
+\documentclass[10pt,a4paper]{ctexart}
+\input{/Users/shaoyikai/Desktop/考研/22408-notes-skill/assets/note-preamble.tex}
+\renewcommand{\NoteFooter}{22408 一页纸笔记 · 数学二}
+\linespread{1.14}
+\begin{document}
+\notetitle{二重积分黎曼和判读}{数学二}{高等数学·二重积分（对称性与黎曼和）}
+\sechead{一、原题与答案}
+
+$f$ 在 $D=\{(x,y)\mid 0\le x\le 1,\ 0\le y\le 1\}$ 连续，$f(x,y)=f(y,x)$，则 $\iint_D f\,\mathrm dx\mathrm dy=$（　）\textbf{答案 D}。
+
+\[
+\frac12\lim_{n\to\infty}\sum_{i=1}^{2n}\sum_{j=1}^{i}f\Big(\frac{i}{2n},\frac{j}{2n}\Big)\frac{1}{n^2}
+\]
+
+$f$ 连续 $\Rightarrow$ 可积 $\Rightarrow$ 分割与取点任选，选项差别只在「区域、权重、系数」三处。
+
+\sechead{二、判读三把尺子}
+
+$m$ 等分网格时\textbf{权重必须等于小格面积 $1/m^2$}；权重写 $1/n^2$ 而网格是 $2n$ 等分，就暗含面积因子 $4$。
+
+\begin{center}\small
+\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X@{}}
+\toprule
+必查 & 含义 & 本题取值 \\
+\midrule
+权重因子 & 权重 ÷ 小格面积 & $n$ 等分记 $1$；$2n$ 等分记 $4$ \\
+覆盖面积 & 求和指标占整体多少 & 三角 $=\tfrac12$，整块 $=1$ \\
+系数 & 求和号前面的数 & $2$ 或 $\tfrac12$ \\
+\bottomrule
+\end{tabularx}
+\end{center}
+
+\notebox{\textbf{必要条件（秒筛）}：取 $f\equiv 1$，每个选项的极限必须等于 $D$ 的面积 $1$，即「系数 $\times$ 面积 $\times$ 权重因子 $=1$」。}
+
+\sechead{三、对称性给出的唯一等式}
+
+\[
+f(x,y)=f(y,x)\ \Longrightarrow\ \iint_D f\,\mathrm dx\mathrm dy=2\iint_{y\ge x}f\,\mathrm dx\mathrm dy
+\]
+
+\warnline{它只保证关于 $y=x$ 的镜像两块相等，对 $x+y=1$ \textbf{一无所知}。把「对角线三角」当成「斜边三角」是最常见的失分点。}
+
+\sechead{四、用 $f\equiv 1$ 筛掉 B、C}
+
+\begin{center}\small
+\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X@{}}
+\toprule
+选项 & 覆盖区域 & 权重因子 & 系数 $\times$ 面积 $\times$ 因子 \\
+\midrule
+A & $x+y\ge 1$ 右上三角 & $1$ & $2\times\tfrac12\times1=1$ 合格 \\
+B & $y\ge x$ 上三角 & $1$ & $\tfrac12\times\tfrac12\times1=\tfrac14$ 错 \\
+C & $x+y\le 1$ 左下三角 & $4$ & $2\times\tfrac12\times4=4$ 错 \\
+D & $y\le x$ 下三角 & $4$ & $\tfrac12\times\tfrac12\times4=1$ 合格 \\
+\bottomrule
+\end{tabularx}
+\end{center}
+
+B 丢了对称性那一倍，C 的权重因子 $4$ 没抵掉还乘 $2$，两者面积都凑不成 $1$。
+
+\sechead{五、A 与 D：只看三角方向}
+
+A 的指标满足 $i+j\ge n+1$，即 $x+y\ge 1$，与对角线无关，故
+
+\[
+2\iint_{x+y\ge1}f\,\mathrm dx\mathrm dy\ne\iint_D f\,\mathrm dx\mathrm dy\quad(\text{一般不等})
+\]
+
+反例（仍满足 $f(x,y)=f(y,x)$）：$f=xy$。$\iint_D xy=\frac14$，而 $2\iint_{x+y\ge1}xy=\frac{5}{12}$。A 排除。
+
+\sechead{六、D 的两步推导}
+
+\textbf{① 对称减半、系数补 $2$：} $\iint_D f=2\iint_{y\le x}f$。
+
+\textbf{② $2n$ 网格求和，再把 $\frac{1}{n^2}=4\cdot\frac{1}{4n^2}$ 换回来：}
+
+\[
+\frac12\lim_{n\to\infty}\sum_{i=1}^{2n}\sum_{j=1}^{i}f\Big(\frac{i}{2n},\frac{j}{2n}\Big)\frac{1}{n^2}=\frac12\cdot 4\iint_{y\le x}f=2\cdot\frac12\iint_D f=\iint_D f
+\]
+
+\notebox{系数 $\tfrac12=2\times\tfrac14$：$2$ 来自对称性减半，$\tfrac14$ 来自小格面积 $\tfrac{1}{4n^2}$ 与权重 $\tfrac{1}{n^2}$ 的换算。}
+
+\sechead{七、易错点}
+
+\warnline{① 等分数一改，权重必须跟着改：$2n$ 等分时 $\frac{1}{n^2}$ 等于 $4$ 个小格面积，漏掉必错。}
+
+\warnline{② 面积凑成 $1$ 只是必要条件：A、D 都满足，必须再用 $y=x$ 定三角方向。}
+
+\warnline{③ 别把项数当面积：项数 $\approx 2n^2$，权重之和才是面积 $\approx 2$。边界上 $O(n)$ 个格子面积 $\to 0$，不影响极限。}
+
+\end{document}

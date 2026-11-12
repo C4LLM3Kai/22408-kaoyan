@@ -54,3 +54,4 @@ dist/
 *.synctex.gz
 *.fls
 *.fdb_latexmk
+.local/agent-work/

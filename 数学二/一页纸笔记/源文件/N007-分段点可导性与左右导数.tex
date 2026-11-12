@@ -1,0 +1,58 @@
+\documentclass[12pt,a4paper]{ctexart}
+\input{/Users/shaoyikai/Desktop/考研/22408-notes-skill/assets/note-preamble.tex}
+\renewcommand{\NoteFooter}{22408 一页纸笔记 · 数学二}
+\linespread{1.14}
+\begin{document}
+\notetitle{分段点可导性与左右导数}{数学二}{高等数学·导数定义与极值判定}
+\sechead{一、问题由来（以本题为例）}
+
+含绝对值定积分去绝对值后，在 $x=1$ 两侧解析式不同：
+
+\[
+f(x)=\begin{cases}\dfrac{4}{3}x^3-x^2+\dfrac{1}{3}, & 0<x\le 1\\[6pt] x^2-\dfrac{1}{3}, & x>1\end{cases}
+\]
+
+在开区间 $(0,1)$ 与 $(1,+\infty)$ 内，两侧均为初等函数，可直接套求导公式得 $4x^2-2x$ 与 $2x$；\textbf{但 $x=1$ 是分段函数的分界点，两侧表达式不同，不能直接套公式求导}，必须考察左导数 $f'_-(1)$ 与右导数 $f'_+(1)$。
+
+\sechead{二、为什么要看 $x=1$ 的左右导数？（三大原因）}
+
+\begin{enumerate}
+
+\item \textbf{判断 $f'(1)$ 是否存在}：可导的充要条件是 $f'_-(1)$ 与 $f'_+(1)$ 均存在（有限值）且相等。本题算得 $f'_-(1)=f'_+(1)=2$，故 $f'(1)=2$，导函数才能合并写出 $0<x\le 1$。
+
+\item \textbf{防止漏掉不可导的极值点}：函数的极值、最值不仅可能出现在\textbf{驻点}（$f'(x)=0$），还可能出现在\textbf{不可导点}。若 $f'_-(1)\ne f'_+(1)$，即使两侧导式都不为 $0$，只要在 $x=1$ 两侧导数异号（如左负右正），$x=1$ 就是极小值点。
+
+\item \textbf{保证全区间单调性与步骤踩分}：只有确认 $f'(1)=2>0$，才能说明 $f(x)$ 在 $(\frac{1}{2},+\infty)$ 整体严格递增（中间没有间断或尖点折返）；且考研大题中左右导数与分段导数各占采分点，不验证直接带等号写 $0<x\le 1$ 会扣步骤分。
+
+\end{enumerate}
+
+\notebox{\textbf{可导充要定理}：$f(x)$ 在 $x_0$ 可导 $\iff f'_-(x_0)$ 与 $f'_+(x_0)$ 都存在（为有限值）且 $f'_-(x_0)=f'_+(x_0)$。}
+
+\sechead{三、分界点求导的两种合法写法对比}
+
+\begin{center}\small
+\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X@{}}
+\toprule
+方法 & 必须满足的前提 & 本题算式 & 考场建议 \\
+\midrule
+\textbf{导数定义} & 无额外前提（有限极限存在即隐含单侧连续） & $\lim_{x\to 1^-}\frac{\frac{4}{3}x^3-x^2+\frac{1}{3}-\frac{2}{3}}{x-1}=2$（右侧同） & \textbf{解答题首选}，最稳妥不丢分 \\
+\textbf{导数极限定理} & ① $f$ 在 $x_0$ \textbf{连续}；② $\lim_{x\to x_0^\pm}f'(x)$ 存在 & 先证 $f(1^-)=f(1^+)=\frac{2}{3}$，再算 $\lim f'=2$ & 漏写“连续”直接扣分 \\
+\bottomrule
+\end{tabularx}
+\end{center}
+
+\sechead{四、为什么不能直接把 $x=1$ 代入两段导函数？}
+
+由\textbf{导数极限定理}：若 $f(x)$ 在 $x_0$ 某去心邻域可导，且在 $x_0$ \textbf{左连续}、$\lim_{x\to x_0^-}f'(x)=A$，则 $f'_-(x_0)=A$（右侧同理）。
+
+注意：导函数的极限 $\lim_{x\to x_0^\pm}f'(x)$ \textbf{不能直接替代}单侧导数 $f'_\pm(x_0)$，因为缺乏连续性前提时两者并不等价。用导数定义 $\lim_{x\to 1^\pm}\frac{f(x)-f(1)}{x-1}$ 求极限，实质上已把“分子趋于 $0$（连续性）”和“商的极限”一步检验完毕。
+
+\sechead{五、易错点}
+
+\warnline{① \textbf{不验连续直接代入导函数}：反例 $f(x)=\begin{cases}x^2,&x\le 1\\ x^2+1,&x>1\end{cases}$，两侧导函数极限均为 $2$，但 $x=1$ 跳跃间断，右导数 $f'_+(1)$ 根本不存在（趋于 $+\infty$）。}
+
+\warnline{② \textbf{求最值只令 $f'(x)=0$}：看到分段函数或带绝对值函数求极值、最值，\textbf{必须把分界点列入可疑点}，检查该点是否可导及两侧导数是否变号。}
+
+\warnline{③ \textbf{未验先写闭区间导数}：在算出 $f'_-(1)=f'_+(1)=2$ 之前，套公式只能写出 $0<x<1$ 与 $x>1$ 两段开区间；确认可导后，才可将 $x=1$ 并入任意一段（或单列 $f'(1)=2$）。}
+
+\end{document}

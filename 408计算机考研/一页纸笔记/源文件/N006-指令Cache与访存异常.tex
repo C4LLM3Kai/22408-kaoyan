@@ -1,0 +1,82 @@
+\documentclass[10pt,a4paper]{ctexart}
+\input{/Users/shaoyikai/Desktop/考研/22408-notes-skill/assets/note-preamble.tex}
+\renewcommand{\NoteFooter}{22408 一页纸笔记 · 408 计算机组成原理}
+\linespread{1.14}
+\begin{document}
+\notetitle{指令Cache与访存异常}{408}{计算机组成原理 · 循环访存、指令Cache命中率与异常机制}
+\sechead{一、通用解题四步法（循环 + 汇编 + Cache + 虚存）}
+
+\begin{enumerate}
+
+\item 读汇编定边界：把循环体还原为 C 语义，确定迭代次数、退出条件及各寄存器的取值范围。
+
+\item 算指令 Cache：数据区容量 = 行数 $\times$ 块大小；用指令总字节 $L$ 与起始偏移检验跨块数 $N_{\text{块}}=\lceil(\text{偏移}+L)/\text{块大小}\rceil$，若全在 1 块且无外部干扰，命中率 $H=(N_{\text{取指}}-1)/N_{\text{取指}}$。
+
+\item 逐条判异常：逐条区分寄存器运算（地址/循环计数是否有界 vs 累加数据是否有符号无界）与访存指令（\texttt{load}/\texttt{store}），再核对主存驻留条件。
+
+\item 数磁盘与 TLB：数组全在同页同扇区，则读盘至少 1 次；缺页属于故障类异常，返回后\textbf{重执被中断指令}，因此首元素多查至少 1 次 TLB。
+
+\end{enumerate}
+
+\sechead{二、真题实战（2014-45）：逐条语义与异常归类}
+
+条件：\texttt{(R1)=(R2)=0}，\texttt{(R6)=1000}，代码已在主存但不在 Cache，数组 \texttt{A} 未入主存且全在同一页、同一磁盘扇区。循环退出条件为 \texttt{(R2)==(R6)}，故结束时 \texttt{(R2)=1000}（\texttt{000003E8H}）。
+
+\begin{center}\small
+\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X@{}}
+\toprule
+编号与指令 & 对应语义 & 范围与驻留条件 & 异常判定 \\
+\midrule
+\texttt{1: sll R4, R2, 2} & \texttt{4*i}（偏移） & \texttt{0\textasciitilde{}3996}，逻辑左移 & 不溢出不缺页 \\
+\texttt{2: add R4, R4, R3} & \texttt{\&A[i] = A+4i} & 地址相加，同页内 & 不溢出不缺页 \\
+\texttt{3: load R5, 0(R4)} & 读 \texttt{A[i]} & 唯一数据访存，\texttt{A} 未入主存 & \textbf{缺页异常} \\
+\texttt{4: add R1, R1, R5} & \texttt{sum += A[i]} & \texttt{A[i]} 值未知，有符号加 & \textbf{溢出异常} \\
+\texttt{5: add R2, R2, 1} & \texttt{i++} & \texttt{0\textasciitilde{}1000}，远小于 $2^{31}-1$ & 不溢出不缺页 \\
+\texttt{6: bne R2, R6, loop} & \texttt{if(i!=N) goto} & PC 相对跳转，代码已入主存 & 不溢出不缺页 \\
+\bottomrule
+\end{tabularx}
+\end{center}
+
+\sechead{三、指令 Cache 容量与命中率推导}
+
+\begin{enumerate}
+
+\item 数据区容量：$\text{行数}\times\text{块大小}=16\times 32\mathrm{B}=\mathbf{512\mathrm{B}}$（仅算数据区，不含 Tag 与有效位）。
+
+\item 地址对齐校验：程序 P 共 $6$ 条定长指令，$L=6\times 4\mathrm{B}=24\mathrm{B}<32\mathrm{B}$。块大小 $32\mathrm{B}=2^5\mathrm{B}$，块内偏移占地址低 $5$ 位；首址 \texttt{08048100H} 低 5 位为 \texttt{00000B}（偏移 $=0$），指令区间 \texttt{08048100H}\textasciitilde{}\texttt{08048117H} 完全落在\textbf{同一个 32B 主存块}（\texttt{08048100H}\textasciitilde{}\texttt{0804811FH}）内，无跨块。
+
+\item 命中率：循环共执行 $1000$ 次，总取指次数 $=1000\times 6=6000$ 次。初始 Cache 为空，第 1 轮取指令 1 时发生 1 次冷缺失并调入整块；仅执行 P 时不会冲突替换，后续 $5999$ 次取指全部命中：
+
+\end{enumerate}
+
+\[
+H=\frac{1000\times 6-1}{1000\times 6}=\frac{5999}{6000}\approx\mathbf{99.98\%}
+\]
+
+\sechead{四、缺页后的读磁盘与 TLB 访问次数}
+
+\begin{enumerate}
+
+\item 读磁盘次数：数组 \texttt{A} 未入主存且所有元素在同一页、同一磁盘扇区。访 \texttt{A[0]} 触发缺页后，OS 通过 \textbf{1 次读盘} 将整页调入主存，后续 $999$ 次访存均不缺页，故至少读磁盘 \textbf{1 次}。
+
+\item 读 TLB 次数（核心在“缺页重执”）：每次数据访存均先查 TLB。\texttt{A[0]} 第 1 次执行 \texttt{load} 时查 TLB（第 1 次）未命中 $\to$ 查页表发现不在主存 $\to$ 缺页中断；OS 调入页面并更新页表与 TLB 后，\textbf{重执 \texttt{load} 指令}再查 TLB（第 2 次）命中读出 \texttt{A[0]}；后 $999$ 个元素各查 1 次 TLB 并命中。
+
+\end{enumerate}
+
+\[
+N_{\text{TLB}}=1+1+999=\mathbf{1001}\ \text{次}
+\]
+
+\notebox{说明：若 OS 仅更新页表、硬件查页表填回 TLB 后再重查一次 TLB 才取数，则为 $1002$ 次；官方评分标准对 \textbf{1001 或 1002 均给满分}。}
+
+\sechead{五、考场易错点}
+
+\warnline{溢出多写了指令 1/2/5：评分标准明确多写其他运算指令只给 1 分（满分 2 分）。答题时务必点明：指令 2 是同页内地址相加，指令 5 上界仅 1000，二者均不溢出，只有指令 4 累加未知大小的数组元素才会溢出。}
+
+\warnline{算命中率漏写块对齐验证：指令总长 24B < 32B 并不自动等价于 1 块（若首址为 \texttt{08048110H} 就会跨 2 块）。大题必须写出“低 5 位偏移为 0，全部落在同一块内”的理由，否则扣 1 分。}
+
+\warnline{TLB 次数错答为 1000 次：忘记缺页属于故障（Fault）类内中断，异常处理返回后必须重新执行当前 \texttt{load} 指令，使 \texttt{A[0]} 额外多查一次 TLB。}
+
+\warnline{混淆数据区容量与 Cache 总容量：数据区容量只算行数 $\times$ 块大小；仅当问总容量时才加有效位、Tag 位与替换位（指令 Cache 只读，无修改位）。}
+
+\end{document}

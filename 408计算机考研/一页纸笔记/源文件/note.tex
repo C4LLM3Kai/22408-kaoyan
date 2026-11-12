@@ -1,78 +1,134 @@
 \documentclass[10pt,a4paper]{ctexart}
 \input{/Users/shaoyikai/Desktop/考研/22408-notes-skill/assets/note-preamble.tex}
-\renewcommand{\NoteFooter}{22408 一页纸笔记 · 408 计算机组成原理}
-\linespread{1.14}
+\renewcommand{\NoteFooter}{22408 考场通杀模板 · 408 数据结构算法题 (BV1aP1RYZEkN)}
+\linespread{1.08}
 \begin{document}
-\notetitle{Cache命中率与虚存缺页}{408}{计算机组成原理 · 存储系统 · Cache组相联与虚存调页}
-\sechead{一、系统参数与地址字段切分}
+\notetitle{快速排序与划分暴力解模板}{408}{数据结构 · 双指针一趟划分、2016真题全排暴力解 vs 快速选择最优解}
+\sechead{一、快排核心零件：一趟双指针划分 Partition（手写笔记第1页）}
 
-\begin{center}\small
-\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X@{}}
-\toprule
-存储层次 & 核心参数 & 字段划分与位数 & 计算依据 \\
-\midrule
-\textbf{虚存系统} & 虚址 32 位，页大小 $4\mathrm{KB}$ & 虚页号 A31\textasciitilde{}A12 ($20$ 位)；页内偏移 A11\textasciitilde{}A0 ($12$ 位) & $4\mathrm{KB}=2^{12}\mathrm{B}$ \\
-\textbf{数据Cache} & 容量 $8\mathrm{KB}$，块长 $32\mathrm{B}$，4路组相联 & 组号 A10\textasciitilde{}A5 ($6$ 位)；块内地址 A4\textasciitilde{}A0 ($5$ 位) & $64\text{组}=2^6$；$32\mathrm{B}=2^5\mathrm{B}$ \\
-\bottomrule
-\end{tabularx}
-\end{center}
+快速排序的划分本质是\textbf{双指针左右夹逼填坑}，三条关键记忆点：
 
-\notebox{\textbf{虚实重合关键律}：页内偏移 $12$ 位，而 Cache 组号 $+$ 块内地址 $=6+5=11$ 位 $\le 12$ 位。这意味着 \textbf{Cache 组号完全落在页内偏移范围内}，虚地址与物理地址的低 $11$ 位恒等，无需地址转换即可直接定位 Cache 组！}
+\begin{enumerate}
 
-\sechead{二、页面划分与缺页异常（第 1、2 问）}
+\item \textbf{双指针}：\texttt{low} 和 \texttt{high} 两个指针向中间靠拢；
+
+\item \textbf{从右往左初始}：枢轴取自 \texttt{a[low]}，此时左侧形成空位，\textbf{必须先从右边 \texttt{high--} 寻找小于枢轴的元素}；
+
+\item \textbf{每次发生互换填坑}：右边找到小数填入左侧空位，左边找到大数填入右侧空位，相遇处填回枢轴。
+
+\end{enumerate}
+
+\begin{codebox}
+/* 通用母板：一趟双指针划分（左右交替填坑），时间 O(n)，空间 O(1) */
+int Partition(int a[], int low, int high) {
+    int pivot = a[low];                 /* 1. 枢轴先取出暂存，low 处为空位 */
+    while (low < high) {
+        while (low < high && a[high] >= pivot) high--;  /* 2. 从右往左找小数 */
+        a[low] = a[high];                               /* 小数填入左侧空位 */
+        while (low < high && a[low] <= pivot) low++;    /* 3. 从左往右找大数 */
+        a[high] = a[low];                               /* 大数填入右侧空位 */
+    }
+    a[low] = pivot;                     /* 4. 相遇处填回枢轴 */
+    return low;                         /* 返回枢轴最终下标 */
+}
+
+/* 完整快速排序递归模板（全排暴力解基础母板） */
+void QuickSort(int a[], int low, int high) {
+    if (low < high) {
+        int pivotpos = Partition(a, low, high);
+        QuickSort(a, low, pivotpos - 1);        /* 递归左半段 */
+        QuickSort(a, pivotpos + 1, high);       /* 递归右半段 */
+    }
+}
+\end{codebox}
+
+\par\addvspace{3pt}\noindent{\color{line}\hrule height 0.4pt}\par\addvspace{3pt}
+
+\sechead{二、2016 统考真题：暴力解法 vs 最优解法}
+
+\textbf{题意要求}：将含 $n$ 个正整数的数组划分为 $A_1$ 和 $A_2$（个数为 $n_1, n_2$，和为 $S_1, S_2$），使 $|n_1 - n_2|$ 最小且 $|S_1 - S_2|$ 最大。编程输出 $|S_1 - S_2|$。
 
 \begin{itemize}
 
-\item \textbf{数组规格}：\texttt{int a[24][64]}，总大小 $=24 \times 64 \times 4\mathrm{B}=6144\mathrm{B}=6\mathrm{KB}$。首地址 \texttt{00422000H}（页对齐，页内偏移 0）。
-
-\item \textbf{页面分布}：第 1 页 (\texttt{00422000H}\textasciitilde{}\texttt{00422FFFH}, $4\mathrm{KB}$) 存放前 16 行（\texttt{a[0][0]}\textasciitilde{}\texttt{a[15][63]}）；第 2 页 (\texttt{00423000H}\textasciitilde{}\texttt{004237FFH}, $2\mathrm{KB}$) 存放后 8 行（\texttt{a[16][0]}\textasciitilde{}\texttt{a[23][63]}）。\textbf{共分布在 2 个页面中}。
-
-\item \textbf{缺页异常}：初始不在内存且不置换，每页首次访问发生 1 次缺页。\textbf{共发生 2 次缺页异常}，页故障地址为 \textbf{\texttt{00422000H}} 与 \textbf{\texttt{00423000H}}（访问 \texttt{a[16][0]} 时触发）。
-
-\item \textbf{时间局部性}：\textbf{不具有}。每个数组元素在执行中\textbf{仅被访问 1 次}（写入 10 后不再读写），无重复访问（但具有良好的空间局部性）。
+\item \textbf{数学本质}：个数尽量均分（$n_1 = \lfloor n/2 \rfloor$），且小的全部放在 $A_1$，大的全部放在 $A_2$。
 
 \end{itemize}
 
-\sechead{三、地址与 Cache 组号计算（第 3 问）}
+\par\addvspace{2pt}\noindent\textbf{1. 考场通杀暴力解（全排后切半，稳拿 11\textasciitilde{}12 分）}\par
 
 \begin{itemize}
 
-\item \textbf{块内地址}：低 5 位（A4\textasciitilde{}A0）；\textbf{Cache 组号}：A10\textasciitilde{}A5（共 6 位）。
+\item \textbf{核心思想}：既然要把最小的 $n/2$ 个数分给 $A_1$、其余分给 $A_2$，\textbf{最直接无脑的办法就是直接调用排序算法将全数组升序排好}！排完后直接将前 $\lfloor n/2 \rfloor$ 个数划入 $A_1$，后半部分划入 $A_2$。
 
-\item \textbf{$a[1][0]$ 虚拟地址}：首行占 $64 \times 4\mathrm{B}=256\mathrm{B}=100\mathrm{H}$，虚拟地址 $=00422000\mathrm{H}+100\mathrm{H}=\mathbf{00422100H}$。
-
-\item \textbf{Cache 组号推导}：\texttt{100H = 0001 0000 0000B}。低 5 位 \texttt{00000B} 为块内地址，紧邻的高 6 位 A10\textasciitilde{}A5 为 \texttt{001000B}，对应十进制 \textbf{8}。故所在主存块映射到 \textbf{Cache 第 8 组}。
+\item \textbf{优点}：思维成本为 0，绝对不会写错单侧边界！三段式答题写满，评卷老师直接给 11\textasciitilde{}12 分（仅扣少量时间复杂度分）。
 
 \end{itemize}
 
-\sechead{四、核心：为什么列优先命中率依然是 87.5\%？（第 4 问）}
+\begin{codebox}
+/* 2016 真题全排暴力解：全排序后直接对半切，时间 O(n log n)，空间 O(log n) */
+int SplitArray_Brute(int a[], int n) {
+    QuickSort(a, 0, n - 1);             /* 第一步：直接对整个数组做完整快排 */
+    int k = n / 2;
+    int s1 = 0, s2 = 0, i;
+    for (i = 0; i < k; i++) s1 += a[i]; /* 前 k 个小数累加进 A1 */
+    for (i = k; i < n; i++) s2 += a[i]; /* 后面大数累加进 A2 */
+    return s2 - s1;                     /* 返回差值 */
+}
+\end{codebox}
 
-\[
-\text{数组总块数} = \frac{6144\mathrm{B}}{32\mathrm{B}} = 192\text{ 块} \qquad \text{每组映射块数} = \frac{192\text{ 块}}{64\text{ 组}} = 3\text{ 块/组}
-\]
+\par\addvspace{2pt}\noindent\textbf{2. 考场进阶最优解（快速选择 QuickSelect，冲刺 15 分满分）}\par
 
-\begin{center}\small
-\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X@{}}
-\toprule
-维度 & 行优先（i 外 j 内） & 列优先（j 外 i 内） \\
-\midrule
-\textbf{访问顺序} & \texttt{a[0][0]}, \texttt{a[0][1]}, ..., \texttt{a[0][63]}, \texttt{a[1][0]}, ... & \texttt{a[0][0]}, \texttt{a[1][0]}, ..., \texttt{a[23][0]}, \texttt{a[0][1]}, ... \\
-\textbf{块内元素} & 每块 8 个元素，顺序连续读写 & 跨行读写，每次跨越 $256\mathrm{B}$（8 个主存块） \\
-\textbf{缺失机制} & 首元素 Cold Miss，同块后 7 元素全部 Hit & $j=0$ 产生 24 次 Cold Miss；$j=1\sim7$ 全部 Hit！ \\
-\textbf{冲突判定} & 顺序写入，无需长期常驻 & \textbf{4 路组相联每组容纳 4 块，而每组仅映射 3 块，零冲突！} \\
-\textbf{命中率} & $(8-1)/8 = \mathbf{87.5\%}$ & $8 \text{轮} \times (24 \times 7 \text{命中}) / 1536 = \mathbf{87.5\%}$ \\
-\bottomrule
-\end{tabularx}
-\end{center}
+\begin{itemize}
 
-\notebox{\textbf{本质破局点}：数组容量 ($6\mathrm{KB}$) $<$ Cache 容量 ($8\mathrm{KB}$)，且\textbf{组相联度 ($4$ 路) $>$ 每组分配块数 ($3$ 块)}。列优先跳步虽大，但调入的 $24$ 个块\textbf{全部留在 Cache 中未被挤出}，后续 7 列访问同一个块时百分百命中！}
+\item \textbf{优化原理}：无需将所有数完全排好序，只需要找到\textbf{第 $k = \lfloor n/2 \rfloor$ 小的元素}即可。利用 \texttt{Partition} 划分，每次只向包含目标分界点的那一侧继续推进，另一侧整块丢弃！
 
-\sechead{五、考场易错避坑指南}
+\item \textbf{时间由 $O(n \log n)$ 降至 $O(n)$，空间由 $O(\log n)$ 优化为 $O(1)$}。
 
-\warnline{\textbf{误区一：死背"列优先命中率必骤降/为零"}。只有在"直接映射"或"Cache 容量装不下活跃行（产生冲突替换）"时列优先才恶化；本题 4 路组相联容量充裕，冲突不命中次数为 0！}
+\end{itemize}
 
-\warnline{\textbf{误区二：页故障地址写成物理地址}。缺页异常由 CPU 访问\textbf{虚拟地址}产生并记录在 CR2 寄存器中，答案必须是虚拟地址。}
+\begin{codebox}
+/* 2016 真题最优解：快速选择单侧迭代推进，平均时间 O(n)，空间 O(1) */
+int SplitArray_Optimal(int a[], int n) {
+    int low = 0, high = n - 1, k = n / 2, p;
+    while (low < high) {
+        p = Partition(a, low, high);
+        if (p == k - 1) break;          /* 枢轴正好就位于分界点，提前收工 */
+        else if (p < k - 1) low = p + 1;/* 目标在右半侧，只在右侧推进 */
+        else high = p - 1;              /* 目标在左半侧，只在左侧推进 */
+    }
+    int s1 = 0, s2 = 0, i;
+    for (i = 0; i < k; i++) s1 += a[i];
+    for (i = k; i < n; i++) s2 += a[i];
+    return s2 - s1;
+}
+\end{codebox}
 
-\warnline{\textbf{误区三：虚址找 Cache 组号时犹豫}。牢记 $5+6=11 \le 12$，页内偏移涵盖了组索引，虚实组号完全统一。}
+\par\addvspace{3pt}\noindent{\color{line}\hrule height 0.4pt}\par\addvspace{3pt}
+
+\sechead{三、2016 真题暴力解答题标准示范（三段式拿 11\textasciitilde{}12 分）}
+
+\par\addvspace{2pt}\noindent\textbf{第一问：算法设计思想}\par
+
+\notebox{本算法采用\textbf{先排序后切分}的暴力求解思想。由题设条件，要使 $|n_1 - n_2|$ 最小且 $|S_1 - S_2|$ 最大，须将数组中较小的 $k = \lfloor n/2 \rfloor$ 个元素分入子集 $A_1$，其余较大的元素分入子集 $A_2$。}
+
+\notebox{算法首先调用快速排序函数对数组 $A$ 进行升序排列；排序完成后，将前 $k$ 个元素累加求和得 $S_1$，后 $n-k$ 个元素累加求和得 $S_2$；最后计算并返回 $S_2 - S_1$。}
+
+\par\addvspace{2pt}\noindent\textbf{第二问：核心代码}\par
+
+\notebox{直接书写 \texttt{Partition} 函数、\texttt{QuickSort} 函数及 \texttt{SplitArray\_Brute} 函数（见上文）。}
+
+\par\addvspace{2pt}\noindent\textbf{第三问：时空复杂度}\par
+
+\notebox{快速排序的平均时间复杂度为 $O(n \log n)$，统计两部分和各遍历一次为 $O(n)$，总时间复杂度为 \textbf{$O(n \log n)$}；递归工作栈平均深度为 $O(\log n)$，故空间复杂度为 \textbf{$O(\log n)$}。}
+
+\par\addvspace{3pt}\noindent{\color{line}\hrule height 0.4pt}\par\addvspace{3pt}
+
+\sechead{四、快排与划分避坑红线}
+
+\warnline{方向写反：枢轴取 \texttt{a[low]}，首步必须是 \texttt{high--}；写反成 \texttt{low++} 会在首轮直接覆盖掉 \texttt{a[high]} 的原值。}
+
+\warnline{内层循环遗漏 \texttt{low < high}：若序列本身已经升序或降序，\texttt{high--} 会直接冲穿到负数下标导致段错误崩溃。}
+
+\warnline{暴力解心态调整：大题 15 分，能写出最优解固然拿 15 分，但若考场紧张想不清快速选择边界，\textbf{果断写全排暴力解}，保底拿 11\textasciitilde{}12 分，省下时间做后面的计组/操作系统大题！}
 
 \end{document}

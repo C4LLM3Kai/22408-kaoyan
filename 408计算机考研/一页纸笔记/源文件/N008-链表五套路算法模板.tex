@@ -1,0 +1,160 @@
+\documentclass[10pt,a4paper]{ctexart}
+\input{/Users/shaoyikai/Desktop/考研/22408-notes-skill/assets/note-preamble.tex}
+\renewcommand{\NoteFooter}{22408 考场通杀模板 · 408 数据结构算法题 (BV1z9xreME3A)}
+\linespread{1.08}
+\begin{document}
+\notetitle{链表暴力解与考场通杀模板}{408}{数据结构 · 链表与数组互转（降维打击）、头插法逆置、链表归并与真题暴力解}
+\sechead{一、链表结构体定义与降维暴力解总纲}
+
+408 链表算法大题（2009/2012/2015/2019）满分 13\textasciitilde{}15 分。答题纸开头必默写结构体定义（占 2\textasciitilde{}3 分）：
+
+\begin{codebox}
+/* 考试直接默写：C 语言结构体内自引用指针必须显式加 struct */
+typedef struct LNode {
+    int data;                    /* 题目是字符改 char */
+    struct LNode *next;          /* 题干叫 link 则改 link */
+} LNode, *LinkList;
+\end{codebox}
+
+\notebox{\textbf{降维打击暴力总纲（考场救命大招）}：}
+
+\notebox{无论题目多复杂（求倒数第 $k$ 个、公共结点、重排、去重），\textbf{只要想不出指针技巧，立刻把整条链表的数据存入动态数组 \texttt{temp[]}}！在数组上做运算极度简单，算完后再写回链表。}
+
+\notebox{\textbf{评卷标准}：设计思想、核心代码均完全正确，仅空间复杂度非最优，\textbf{保底稳拿 10\textasciitilde{}11 分}！}
+
+\par\addvspace{3pt}\noindent{\color{line}\hrule height 0.4pt}\par\addvspace{3pt}
+
+\sechead{二、通用暴力通杀神器：链表 $\longleftrightarrow$ 数组互转模板}
+
+\begin{codebox}
+/* 1. 链表转数组：遍历单链表存入动态数组 temp[1..n]（手写笔记第3页） */
+void ListToArray(LinkList head, int n, int temp[]) {
+    LNode *cur = head->next;            /* 默认带头结点，从 head->next 起步 */
+    for (int i = 1; i <= n; i++) { temp[i] = cur->data; cur = cur->next; }
+}
+/* 2. 数组转链表：由数组 temp[1..n] 尾插法重建单链表（手写笔记第3页） */
+LinkList ArrayToList(int temp[], int n) {
+    LNode *head = (LNode *)malloc(sizeof(LNode)), *cur = head;
+    head->next = NULL;
+    for (int i = 1; i <= n; i++) {
+        LNode *node = (LNode *)malloc(sizeof(LNode));
+        node->data = temp[i]; node->next = NULL;
+        cur->next = node; cur = node;   /* 尾插接上新结点 */
+    }
+    return head;
+}
+\end{codebox}
+
+\par\addvspace{3pt}\noindent{\color{line}\hrule height 0.4pt}\par\addvspace{3pt}
+
+\sechead{三、通用母板：头插法原地反转链表（手写笔记第4页）}
+
+\textbf{考场通杀场景}：链表逆序输出、判断回文链表、2019 题反转后半段。
+
+\begin{codebox}
+/* 通用母板：头插法原地反转带头结点单链表，时间 O(n)，空间 O(1) */
+void ReverseList(LinkList head) {
+    LNode *cur = head->next, *temp;
+    head->next = NULL;                  /* 头结点断开作为空表头 */
+    while (cur != NULL) {
+        temp = cur->next;               /* 1. 暂存原后继 */
+        cur->next = head->next;         /* 2. 头插接在 head 之后 */
+        head->next = cur;
+        cur = temp;                     /* 3. cur 推进 */
+    }
+}
+\end{codebox}
+
+\par\addvspace{3pt}\noindent{\color{line}\hrule height 0.4pt}\par\addvspace{3pt}
+
+\sechead{四、通用母板：两条单链表归并（手写笔记第2页）}
+
+\begin{codebox}
+/* 通用母板：双指针归并合并两个有序单链表（手写笔记第2页） */
+LinkList MergeList(LinkList head1, LinkList head2) {
+    LNode *head = (LNode *)malloc(sizeof(LNode));
+    LNode *p = head1->next, *q = head2->next, *cur = head;
+    while (p != NULL && q != NULL) {
+        if (p->data < q->data) { cur->next = p; p = p->next; }
+        else { cur->next = q; q = q->next; }
+        cur = cur->next;
+    }
+    cur->next = (p != NULL) ? p : q;    /* 收尾挂接：谁没空直接接上谁 */
+    return head;
+}
+\end{codebox}
+
+\par\addvspace{3pt}\noindent{\color{line}\hrule height 0.4pt}\par\addvspace{3pt}
+
+\sechead{五、四大考研真题：暴力解法 vs 最优解法对比}
+
+\par\addvspace{2pt}\noindent\textbf{1. 2009 查找倒数第 $k$ 个结点}\par
+
+\begin{itemize}
+
+\item \textbf{暴力解（转数组直接取）}：数出表长 $n$，开数组 \texttt{temp} 存下全表，直接输出 \texttt{temp[n - k + 1]}。时间 $O(n)$，空间 $O(n)$，考场秒写！
+
+\item \textbf{最优解（快慢双指针）}：\texttt{fast} 先走 $k$ 步（带 \texttt{fast != NULL}），再与 \texttt{slow} 同步走，\texttt{fast} 到 \texttt{NULL} 时 \texttt{slow} 即答案。时间 $O(n)$，空间 $O(1)$。
+
+\end{itemize}
+
+\par\addvspace{2pt}\noindent\textbf{2. 2012 两链表首个公共结点}\par
+
+\begin{itemize}
+
+\item \textbf{暴力解（双重循环匹配指针地址）}：外层 \texttt{p} 扫 \texttt{h1}，内层 \texttt{q} 扫 \texttt{h2}，一旦 \texttt{p == q} 返回该结点。时间 $O(m \times n)$，空间 $O(1)$。
+
+\item \textbf{最优解（双指针抹平长度差）}：两表长差 $d = |len1 - len2|$，长表先走 $d$ 步，再同步对比指针。时间 $O(m + n)$，空间 $O(1)$。
+
+\end{itemize}
+
+\par\addvspace{2pt}\noindent\textbf{3. 2015 绝对值去重（保留首次出现结点）}\par
+
+\begin{itemize}
+
+\item \textbf{暴力解（双重 \texttt{while} 循环删重复）}：外层固定当前结点，内层扫描后续链表删除绝对值相同的结点。时间 $O(n^2)$，空间 $O(1)$。
+
+\item \textbf{最优解（哈希标记桶）}：开 $m+1$ 大小标记数组，\texttt{p} 驻守前驱，出现过则摘除释放。时间 $O(n)$，空间 $O(m)$。
+
+\end{itemize}
+
+\par\addvspace{2pt}\noindent\textbf{4. 2019 原地重排链表 $(a_1, a_n, a_2, a_{n-1}\dots)$}\par
+
+\begin{itemize}
+
+\item \textbf{暴力解（降维转数组交替填入）}：一趟存入数组 \texttt{temp[1..n]}，前后双指针 \texttt{i = 1, j = n} 交替写回链表。时间 $O(n)$，空间 $O(n)$，稳拿 11 分！
+
+\item \textbf{最优解（三步曲）}：① 快慢指针找中点截断 $\to$ ② 头插法反转后半段 $\to$ ③ 双指针交替穿针引线合并。时间 $O(n)$，空间 $O(1)$。
+
+\end{itemize}
+
+\begin{codebox}
+/* 2019 暴力解核心示范：转数组后交替写回，时间 O(n)，空间 O(n) */
+void Reorder_Brute(LinkList head, int n) {
+    int *temp = (int *)malloc(sizeof(int) * (n + 1));
+    LNode *cur = head->next;
+    for (int k = 1; k <= n; k++) { temp[k] = cur->data; cur = cur->next; }
+    cur = head->next;
+    int i = 1, j = n;
+    while (i <= j) {
+        if (i == j) { cur->data = temp[i]; cur = cur->next; break; }
+        cur->data = temp[i++]; cur = cur->next;
+        cur->data = temp[j--]; cur = cur->next;
+    }
+    free(temp);
+}
+\end{codebox}
+
+\par\addvspace{3pt}\noindent{\color{line}\hrule height 0.4pt}\par\addvspace{3pt}
+
+\sechead{六、考场答题注意事项}
+
+\begin{enumerate}
+
+\item \textbf{链表大题默认带头结点}：\texttt{head->next} 是第一个存数据的结点，若写 \texttt{p = head} 则多算头结点垃圾值。
+
+\item \textbf{删除结点必须先存后继}：严禁 \texttt{free(p->next); p->next = p->next->next;}，必须用临时指针 \texttt{del} 备份。
+
+\end{enumerate}
+
+\end{document}
