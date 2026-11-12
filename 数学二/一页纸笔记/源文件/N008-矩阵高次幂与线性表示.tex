@@ -1,0 +1,68 @@
+\documentclass[10pt,a4paper]{ctexart}
+\input{/Users/shaoyikai/Desktop/考研/22408-notes-skill/assets/note-preamble.tex}
+\renewcommand{\NoteFooter}{22408 一页纸笔记 · 数学二}
+\linespread{1.14}
+\begin{document}
+\notetitle{矩阵高次幂与线性表示}{数学二}{线性代数·相似对角化与分块列表示}
+\sechead{一、题型识别与核心思路}
+
+结构特征：\textbf{（I）求 $A^n$；（II）给矩阵关系（如 $B^2=BA$）求 $B^{n+1}$ 的列向量线性表示}。三步拆解：
+
+\begin{enumerate}
+
+\item \textbf{求 $A^n$}：特征值互异（或各特征值几何重数 $=$ 代数重数）$\implies$ \textbf{相似对角化} $A^n=P\Lambda^n P^{-1}$。
+
+\item \textbf{递推 $B^{n+1}$}：用结合律把 $B$ 的高次幂降为 \textbf{$BA^n$}（\textbf{严禁误消 $B$}）。
+
+\item \textbf{列分块读组合}：右乘矩阵等于对左矩阵的列向量作线性组合。
+
+\end{enumerate}
+
+\notebox{\textbf{列分块法则}：$C=AB$，记 $A=(\alpha_1,\alpha_2,\alpha_3)$、$B=(b_{ij})_{3\times 3}$，则 $C$ 第 $j$ 列 $\beta_j=b_{1j}\alpha_1+b_{2j}\alpha_2+b_{3j}\alpha_3$。}
+
+\sechead{二、第（I）问：$A^{99}$ 的标准解法}
+
+由 $|\lambda E-A|=\lambda(\lambda^2+3\lambda+2)=\lambda(\lambda+1)(\lambda+2)=0$，得互异特征值 $\lambda_1=0,\ \lambda_2=-1,\ \lambda_3=-2$，故 $A$ 可相似对角化。解 $(\lambda_i E-A)x=0$ 得特征向量并拼成 $P$：
+
+\[
+\xi_1=\begin{pmatrix}3\\2\\2\end{pmatrix},\ \xi_2=\begin{pmatrix}1\\1\\0\end{pmatrix},\ \xi_3=\begin{pmatrix}1\\2\\0\end{pmatrix}\ \Longrightarrow\ P=\begin{pmatrix}3&1&1\\2&1&2\\2&0&0\end{pmatrix},\quad P^{-1}=\begin{pmatrix}0&0&\frac{1}{2}\\2&-1&-2\\-1&1&\frac{1}{2}\end{pmatrix}
+\]
+
+代入 $\Lambda^{99}=\operatorname{diag}(0,-1,-2^{99})$：
+
+\[
+A^{99}=P\Lambda^{99}P^{-1}=\begin{pmatrix}0&-1&-2^{99}\\0&-1&-2^{100}\\0&0&0\end{pmatrix}\begin{pmatrix}0&0&\frac{1}{2}\\2&-1&-2\\-1&1&\frac{1}{2}\end{pmatrix}=\begin{pmatrix}2^{99}-2&1-2^{99}&2-2^{98}\\2^{100}-2&1-2^{100}&2-2^{99}\\0&0&0\end{pmatrix}
+\]
+
+\sechead{三、第（II）问：$B^2=BA$ 递推与线性表示}
+
+由 $B^2=BA$ 左乘 $B$ 得 $B^3=B\cdot B^2=B(BA)=B^2A=(BA)A=BA^2$；归纳得 $B^n=BA^{n-1}\ (n\ge 2)$，故 \textbf{$B^{100}=BA^{99}$}。将列分块代入 $(\beta_1,\beta_2,\beta_3)=(\alpha_1,\alpha_2,\alpha_3)A^{99}$，按列读取系数即得：
+
+\[
+\begin{cases}\beta_1=(2^{99}-2)\alpha_1+(2^{100}-2)\alpha_2+0\cdot\alpha_3,\\ \beta_2=(1-2^{99})\alpha_1+(1-2^{100})\alpha_2+0\cdot\alpha_3,\\ \beta_3=(2-2^{98})\alpha_1+(2-2^{99})\alpha_2+0\cdot\alpha_3.\end{cases}
+\]
+
+\sechead{四、矩阵高次幂常见模型速查}
+
+\begin{center}\small
+\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X@{}}
+\toprule
+矩阵特征 & 首选方法 & 核心公式 / 套路 \\
+\midrule
+可对角化（本题） & 相似对角化 & $A^n=P\Lambda^n P^{-1}$（注意 $(-1)^n$ 奇偶性） \\
+秩为 $1$（$A=\alpha\beta^T$） & 结合律抽标量 & $A^n=(\beta^T\alpha)^{n-1}A$（$\beta^T\alpha=\operatorname{tr}(A)$） \\
+含幂零块（$A=\lambda E+N$） & 二项式展开 & $N^k=O$ 截断展开（须 $\lambda E$ 与 $N$ 可交换） \\
+分块上三角（$0$ 块多） & 分块乘法归纳 & $A=\begin{pmatrix}A_1&\gamma\\0&0\end{pmatrix}\Rightarrow A^n=\begin{pmatrix}A_1^n&A_1^{n-1}\gamma\\0&0\end{pmatrix}$ \\
+\bottomrule
+\end{tabularx}
+\end{center}
+
+\sechead{五、易错点}
+
+\warnline{① \textbf{由 $B^2=BA$ 直接消去 $B$ 得 $B=A$}：题设未给 $B$ 可逆（如 $B=O$ 也满足），矩阵无消去律，必须用左乘结合律递推 $B^n=BA^{n-1}$。}
+
+\warnline{② \textbf{幂次错位与符号错误}：第（I）问算 $A^{99}$，第（II）问求 $B^{100}=BA^{99}$；算完将 $n=1$（或 $n=3$）代回核对指数与正负号，且核对 $P P^{-1}=E$。}
+
+\warnline{③ \textbf{左右乘混淆组合对象}：$BA^{99}$ 中 $A^{99}$ 在\textbf{右}，表示 $B$ 的\textbf{列}向量组合；若在左（$A^{99}B$），则作用于 $B$ 的\textbf{行}向量。}
+
+\end{document}
